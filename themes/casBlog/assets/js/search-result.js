@@ -116,7 +116,7 @@ const createSerpCard = (value, key) => {
         key: key,
         title: value.item.title,
         author: value.item.author,
-        featured_image: window.BASE_URL + value.item.featured_image,
+        featured_image: window.BASE_URL + value.item.featured_image.slice(1),
         link: value.item.permalink,
         date: value.item.date,
         readingTime: value.item.readingTime,
