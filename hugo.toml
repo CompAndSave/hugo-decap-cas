@@ -1,0 +1,19 @@
+baseURL = 'https://www.compandsave.com/blog/'
+title = 'Compandsave Blog - Everything about Ink and Printer'
+theme = 'casBlog'
+publishDir = 'blog'
+uglyURLs = true
+summaryLength= 25
+paginate = 9
+
+[params]
+    name= 'CompAndSave'
+    description = 'CompAndSave.com: Compare Prices and Save on Ink & Toner!'
+    dateFormat = "Jan 02, 2006"
+
+[taxonomies]
+	authors = "authors"
+	tags = "tags"
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]

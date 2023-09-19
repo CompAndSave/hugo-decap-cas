@@ -1,0 +1,9 @@
+{{ $page := .page }}
+{{ $taxonomy := .taxonomy }}
+
+{{ with $page.GetTerms $taxonomy }}
+  {{ $label := (index . 0).Parent.LinkTitle }}
+  {{ range . }}
+    <span class="author" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a href="{{ .RelPermalink | absURL }}" itemprop="url"><span itemprop="name">{{ .LinkTitle }}</span></a></span>
+  {{ end }}
+{{ end }}

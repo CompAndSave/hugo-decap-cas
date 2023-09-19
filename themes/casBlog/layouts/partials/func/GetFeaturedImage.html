@@ -1,0 +1,30 @@
+{{/* 
+	GetFeaturedImage
+
+	This partial gets the url for featured image for a given page.
+
+	If a featured_image was set in the page's front matter, then that will be used.
+
+	If not set, then it will fall back to the placeholder image.
+
+	@return RelPermalink to featured image.
+
+*/}}
+
+{{/* Declare a new string variable, $linkToCover */}}
+{{ $linkToCover := "/blog/images/cover-image-placeholder.png" | absURL }}
+{{ $matches := "img" }}
+{{/* Use the value from front matter if present */}}
+{{ with .Params.featured_image }}
+  {{/* This is the default case, the image lives in the static directory.
+    In which case we'll use the static dir */}}
+  {{ $linkToCover = trim . "/" | absURL }}
+  {{/* If we find a Page Resource matching the exact value, we use it instead. */}}
+  {{ with $.Resources.GetMatch . }}
+    {{ $linkToCover = .RelPermalink }}
+  {{ end }}
+{{ end }}
+
+{{/* return either a permalink, or an empty string. Note that partials can only have a single
+return statement, so this needs to be at the end of the partial (and not in the if block) */}}
+{{ return $linkToCover }}

@@ -1,0 +1,100 @@
+# For using local decap server
+# At terminal, run command: npx decap-server
+# https://decapcms.org/docs/beta-features/#working-with-a-local-git-repository
+#
+local_backend: true
+
+backend:
+  name: github
+  repo: CompAndSave/hugo-decap-cas
+  branch: master # Branch to update (optional; defaults to master)
+  site_domain: www.compandsave.com
+  base_url: https://alpha.compandsave.com
+  auth_endpoint: lambda/sveltia-cms-auth/auth
+
+site_url: https://www.compandsave.com/blog/
+publish_mode: editorial_workflow
+media_folder: static/images
+public_folder: /images
+show_preview_links: true
+logo_url: https://www.compandsave.com/static/frontend/Compandsave/cas/en_US/images/logo.svg
+
+collections:
+  - name: 'posts'
+    label: 'Posts'
+    folder: 'content/posts'
+    create: true
+    slug: '{{slug}}'
+    preview_path: posts/{{slug}}.html
+    summary: "{{title}} - {{authors}}"
+    editor:
+      preview: true
+    view_filters:
+    - label: Drafts
+      field: draft
+      pattern: true
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
+      - label: Author
+        field: authors
+    sortable_fields: ['title', 'date']
+    identifier_field: title
+    fields:
+      - { label: 'Title', name: 'title', widget: 'stringWithCounter', tagname: 'h1', charLimit: 60, default: 'New Article' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', date_format: 'ddd, MMM DD, YYYY', time_format: 'hh:mm a' }
+      - { label: 'Author', name: 'authors', widget: relation, collection: authors_list, file: 'authors', search_fields: [ "authors.*.name" ], value_field: "authors.*.name" }
+      - { label: "Permalink", name: "slug", widget: "stringWithCounter", charLimit: 75, required: false }
+      - { label: "Cover Image", name: "featured_image", widget: "image", required: false, choose_url: false, media_folder: '/blog/images' }
+      - { label: 'Description', name: 'description', widget: 'textWithCounter', charLimit: 160, rows: 4, cols: 5 }
+      - { label: "Tags", name: "tags", widget: "list", collapsed: false, add_to_top: true, allow_add: true, required: false, field: { label: 'Tag', name: 'tag', widget: 'string' }}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'drafts'
+    label: 'Drafts'
+    folder: 'content/posts'
+    create: false
+    slug: '{{slug}}'
+    preview_path: posts/{{slug}}.html
+    filter: {field: 'draft', value: true}
+    summary: "{{title}} - {{authors}}"
+    editor:
+      preview: true
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
+      - label: Author
+        field: authors
+    sortable_fields: ['title', 'date']
+    identifier_field: title
+    fields:
+      - { label: 'Title', name: 'title', widget: 'stringWithCounter', tagname: 'h1', charLimit: 60, default: 'New Article' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', date_format: 'ddd, MMM DD, YYYY', time_format: 'hh:mm a' }
+      - { label: 'Author', name: 'authors', widget: relation, collection: authors_list, file: 'authors', search_fields: [ "authors.*.name" ], value_field: "authors.*.name"}
+      - { label: "Permalink", name: "slug", widget: "stringWithCounter", charLimit: 75, required: false }
+      - { label: "Cover Image", name: "featured_image", widget: "image", required: false, choose_url: false, media_folder: '/blog/images' }
+      - { label: 'Description', name: 'description', widget: 'textWithCounter', charLimit: 160, rows: 4, cols: 5 }
+      - { label: "Tags", name: "tags", widget: "list", collapsed: false, add_to_top: true, allow_add: true, required: false, field: { label: 'Tag', name: 'tag', widget: 'string' } }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'authors_list'
+    label: 'Authors List'
+    editor:
+      preview: false
+      delete: false
+    files:
+      - label: "Authors"
+        name: "authors"
+        file: 'static/data/authors.json'
+        fields:
+          - name: authors
+            label: Authors
+            label_singular: 'Author'
+            widget: list
+            allow_add: true
+            add_to_top: true
+            summary: "{{name}}  -  {{status}}"
+            fields:
+              - { label: 'Name', name: 'name', widget: 'string', hint: 'First and Last' }
+              - { label: 'Email', name: 'email', widget: 'string' }
+              - { label: 'Status', name: 'status', widget: 'select', options: ["active", "locked"], default: "active" }

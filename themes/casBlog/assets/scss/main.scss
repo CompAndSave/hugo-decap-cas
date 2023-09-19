@@ -1,0 +1,10 @@
+@import 'settings';
+@import 'reset';
+@import 'base';
+@import 'base/block';
+@import 'base/components';
+
+.post-card-image{
+    max-width: rem-calc(300);
+
+}

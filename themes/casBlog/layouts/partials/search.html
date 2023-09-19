@@ -1,0 +1,10 @@
+<div class="search-form">
+    <form action="{{ "search.html" | absURL }}" method="GET" id="searchForm">
+        <div class="search-box">
+            <label for="searchInput" class="show-for-sr">Search for articles</label>
+            <input id="searchInput" name="q" autocomplete="off" spellcheck="false" value="" class="search-input" placeholder="Search articles...">
+            <input type="submit" id="submitSearch" class="search-btn" value="Search">
+        </div>
+        <small id="searchError" class="err-msg">Please input your keyword.</small>
+    </form>
+</div>

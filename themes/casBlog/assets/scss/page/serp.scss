@@ -1,0 +1,43 @@
+@import '../settings';
+
+@import '../base/block/card';
+
+@import '../base/components/tags';
+
+.page-title {
+   margin-bottom: 2rem;
+}
+
+.search-loading {
+    img {
+        margin-right: rem-calc(10);
+    }
+    * {
+        vertical-align: middle;
+    }
+}
+
+.serp-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.serp-card {
+    margin: 1rem;
+    transition: all 200ms ease-in-out;
+    .wrapper {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+.action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+mark {
+    background-color: rgba(get-color('light-yellow'), 0.5);
+    padding: rem-calc(0 2);
+}

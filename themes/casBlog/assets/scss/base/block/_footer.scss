@@ -1,0 +1,131 @@
+.footer-wrapper {
+    .top-wrapper {
+        background: get-color('midnight');
+        color: $white;
+    }
+}
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 2rem 1rem;
+}
+
+.copyright {
+    text-align: center;
+    padding: 0.5rem;
+}
+
+.ft-title {
+    display: inline-block;
+    font-family: $sec-font-family;
+    font-size: rem-calc(21);
+    margin-bottom: 0.5rem;
+}
+
+.footer-nav {
+    flex: 0 0 100%;
+    margin-bottom: 2rem;
+    ul {
+        margin-left: -0.5rem;
+    }
+    li {
+        cursor: pointer;
+        font-weight: 600;
+        a {
+            padding: 0.25rem 0.5rem;
+            color: $white;
+            border: 0;
+            &:hover {
+                background: get-color('cyan');
+                color: $white;
+                border-radius: $global-radius;
+            }
+        }
+    }
+}
+
+.social-wrapper, .info-wrapper {
+    flex: 0 0 100%;
+}
+
+.social-media {
+    ul {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        margin-left: -0.5rem;
+        margin-right: -0.5rem;
+        li {
+            margin: 1rem 0.5rem;
+            padding: 0.25rem;
+            line-height: 1;
+            &:hover {
+                background: get-color('cyan');
+                border-radius: $global-radius;
+                img {
+                    filter:brightness(0) invert(1);
+                }
+            }
+            a {
+                display: inline-block;
+                line-height: 1;
+            }
+            img {
+                max-height: rem-calc(25);
+            }
+        }
+    }
+}
+
+
+.v-card {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    margin-bottom: 1rem;
+    .icon-wrapper {
+        margin-right: 0.75rem;
+    }
+}
+
+.info {
+    a {
+        color: $white;
+    }
+}
+
+@media screen and #{breakpoint(medium)} {
+    .footer {
+        justify-content: space-between;
+    }
+    .footer-nav, .social-wrapper {
+        flex: 1 1 0;
+    }
+}
+
+@media screen and #{breakpoint(large)} {
+    .footer {
+        padding: 2rem 1rem;
+    }
+    .footer-nav {
+        margin-bottom: 0;
+        flex: 0 0 auto;
+        padding-right: 5rem;
+        border-right: 2px solid $medium-gray;
+    }
+    .social-wrapper {
+        flex: 0 0 40%;
+        max-width: 40%;
+    }
+    .info-wrapper {
+        flex: 0 0 auto;
+    }
+}
+
+@media screen and #{breakpoint(xlarge)} {
+    .footer {
+        padding: 2rem 0;
+    }
+}

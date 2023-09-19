@@ -1,0 +1,14 @@
+{{ $paginator := slice }}
+{{ if .IsHome }}
+  {{ $paginator = .Paginate (where .Site.RegularPages "Section" "blog") }}
+{{ else }}
+  {{ $paginator = .Paginate .Pages }}
+{{ end }}
+
+{{ $href := .Permalink }}
+{{ with $paginator }}
+  {{ if gt .PageNumber 1 }}
+    {{ $href = printf "%s%s/%d.html" site.BaseURL "posts/page" .PageNumber }}
+  {{ end }}
+{{ end }}
+<link rel="canonical" href="{{ $href }}">

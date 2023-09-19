@@ -1,0 +1,36 @@
+.card-post.top {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 100%;
+    overflow: hidden;
+    align-items: center;
+    margin: 2rem 0 0;
+    .img-wrapper {
+        flex: 0 0 100%;
+        max-width: 100%;
+        max-height: inherit;
+    }
+    .detail-wrapper {
+        flex: 0 0 100%;
+        max-width: 100%;
+        padding: 2rem;
+    }
+}
+
+@media screen and #{breakpoint(large)} {
+    .card-post.top {
+        justify-items: center;
+        max-height: rem-calc(350);
+        .img-wrapper {
+            flex: 0 0 60%;
+            max-width: 60%;
+            max-height: inherit;
+        }
+        .detail-wrapper {
+            flex: 0 0 40%;
+            max-width: 40%;
+            padding: 2rem;
+        }
+    }
+}

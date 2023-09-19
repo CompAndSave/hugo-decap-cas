@@ -1,0 +1,15 @@
+<header class="header-wrapper">
+    <div class="container header">
+        <div class="logo-wrapper">
+            <a href="{{ site.BaseURL }}">
+                <img src="{{ site.BaseURL }}images/assets/logo.svg" alt="{{ site.Params.name }} Blog" width="100">
+            </a>
+        </div>
+        <div class="search-wrapper">
+            {{ partial "search.html" . }}
+        </div>
+        <div class="nav-wrapper">
+            {{ partialCached "block/header-nav" . }}
+        </div>
+    </div>
+</header>

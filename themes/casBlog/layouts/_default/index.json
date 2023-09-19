@@ -1,0 +1,7 @@
+{{- $.Scratch.Add "index" slice -}}
+{{- range .Site.RegularPages -}}
+    {{- if not (in .Params.draft true) -}}
+        {{- $.Scratch.Add "index" (dict "title" .Title "author" .Params.authors "date" (.Date.Format .Site.Params.dateFormat) "featured_image" .Params.featured_image "contents" .Plain "permalink" .Permalink "readingTime" .ReadingTime) -}}
+    {{- end -}}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}

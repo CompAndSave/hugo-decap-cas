@@ -1,0 +1,32 @@
+<footer class="footer-wrapper">
+    <div class="top-wrapper">
+        <div class="container footer">
+            {{ partialCached "block/footer-nav" . }}
+            <div class="social-wrapper">
+                <div class="about">
+                    <span class="ft-title"><strong>About {{ site.Data.MetaData.Site.name }}</strong></span>
+                    <p>{{ site.Data.MetaData.Site.about }}</p>
+                </div>
+                {{ partialCached "block/social" . }}
+            </div>
+            <div class="info-wrapper">
+                <div class="v-card">
+                    <div class="icon-wrapper">
+                        <img src="{{ site.BaseURL }}images/assets/logo-icon.svg" alt="{{ site.Data.MetaData.Site.name }}" width="30">
+                    </div>
+                    <address>
+                        {{ $address := site.Data.MetaData.Site.address }}
+                        <span>{{ $address.street }}</span><br>
+                        <span>{{ $address.city }}</span>, {{ $address.state }} {{ $address.zipCode }}
+                    </address>
+                </div>
+                <div class="info">
+                    <span>Toll Free No. <a href="tel:+1{{ site.Data.MetaData.Site.tollNo }}">{{ site.Data.MetaData.Site.tollNo }}</a></span><br>
+                    <span>{{ site.Data.MetaData.Site.hours }}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="copyright"><small>Copyright &copy; {{ now.Year }}
+        {{ site.Data.MetaData.Site.name }}.Com Inc., All Rights Reserved</small></div>
+</footer>

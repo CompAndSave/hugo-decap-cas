@@ -1,0 +1,16 @@
+{{ define "main" }}
+  {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+  <article class="content" itemscope itemtype="https://schema.org/NewsArticle">
+        <section class="post-full-content">
+            <h1 class="content-title" itemprop="headline">{{ .Title | safeHTML }}</h1>
+            {{ if $featured_image }}
+              <meta itemprop="image" content="{{ $featured_image }}" />
+            {{ end }}
+            {{ partial "author-with-link.html" (dict "taxonomy" "authors" "page" .) }}&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<span class="date" itemprop="datePublished">{{ .Date.Format .Site.Params.dateFormat }}</span>
+            {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+            <section class="content-body">
+                {{ .Content | safeHTML }}
+            </section>
+        </section>
+    </article>
+{{ end }}

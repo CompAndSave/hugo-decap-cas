@@ -1,0 +1,28 @@
+.tags {
+    display: flex;
+    align-items: center;
+    margin-top: 0.5rem;
+    .tags-list {
+        margin-left: 1rem;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .tag {
+        background: darken($color: $light-gray, $amount: 5%);
+        display: inline-block;
+        text-transform: uppercase;
+        font-size: rem-calc(13);
+        line-height: 1;
+        padding: rem-calc(5 10);
+        border: 0;
+        color: $dark-gray;
+        border-radius: 5000px;
+        cursor: pointer;
+        transition: all 0.25s ease-out;
+        margin: 0.5rem 0.35rem;
+        &:hover {
+            background: get-color('cyan');
+            color: $white;
+        }
+    }
+}

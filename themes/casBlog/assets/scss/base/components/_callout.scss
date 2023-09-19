@@ -1,0 +1,24 @@
+.callout {
+    padding: .5rem 1rem .5rem 3.5rem;
+    background-color: #f2faff;
+    border: 1px solid get-color('cyan');
+    color: $dark-gray;
+    border-radius: $global-radius;
+    &.alert {
+        background-color: #fef5f4;
+        border-color: #e12b1d;
+        position: relative;
+        &:before {
+            content: url('/blog/images/assets/error.svg');
+            display: inline-block;
+            filter: opacity(.85);
+            height: 20px;
+            left: 1rem;
+            margin-top: -0.5882352941rem;
+            position: absolute;
+            top: 50%;
+            width: 20px;
+            z-index: 3;
+        }
+    }
+}

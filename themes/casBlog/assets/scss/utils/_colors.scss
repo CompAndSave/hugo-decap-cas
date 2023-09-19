@@ -1,0 +1,7 @@
+@function get-color($value) {
+    @if map-has-key($color-palettes, $value) {
+        @return map-get($color-palettes, $value);
+    } @else {
+        @error 'given $key is not available in color palette';
+    }
+}

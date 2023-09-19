@@ -1,0 +1,42 @@
+@import '../settings';
+@import '../base/block/card';
+
+
+.pagination {
+    margin: 2rem auto 4rem;
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+    .page-item {
+        flex: 0 0 10%;
+        max-width: rem-calc(50);
+        .page-link {
+            cursor: pointer;
+            display: inline-block;
+            padding: rem-calc(2 8);
+            font-weight: 600;
+            color: $dark-gray;
+        }
+        &.disabled {
+            .page-link {
+                cursor: not-allowed;
+                color: $ui-gray;
+                &:hover {
+                    border: 0;
+                }
+            }
+        }
+        &.active {
+            .page-link {
+                background-color: get-color('cyan');
+                color: $white;
+                border-radius: $global-radius;
+                font-weight: 800;
+                &:hover {
+                    border-color: transparent;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{{ with resources.Get "js/main.js"  }}
+  {{ if eq hugo.Environment "development" }}
+      <script src="{{ .RelPermalink | absURL }}"></script>
+  {{ else }}
+      {{ with . | minify | fingerprint }}
+        <script src="{{ .RelPermalink | absURL }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+      {{ end }}
+  {{ end }}
+{{ end }}

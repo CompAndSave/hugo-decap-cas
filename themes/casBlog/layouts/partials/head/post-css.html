@@ -1,0 +1,10 @@
+{{ $homeOptions := dict
+    "transpiler" "dartsass"
+    "targetPath" "css/page/article.css"
+    "enableSourceMap" (not hugo.IsProduction) 
+}}
+{{ with resources.Get "scss/page/article.scss" | toCSS $homeOptions }}
+    {{ with . | minify }}
+        <link rel="stylesheet" href="{{ .RelPermalink | absURL }}">
+    {{ end }}
+{{ end }}

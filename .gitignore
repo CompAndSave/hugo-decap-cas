@@ -1,0 +1,9 @@
+/blog/
+/public/
+/node_modules/
+.env
+.frontmatter/
+frontmatter.json
+static/admin/local-config.yml
+.vscode/*
+*.sh

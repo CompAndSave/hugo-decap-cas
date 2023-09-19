@@ -1,0 +1,17 @@
+{{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+
+{{ if $featured_image }}
+  <div class="img-wrapper">
+    <img src="{{ $featured_image }}" class="img" alt="image from {{ .Title }}">
+  </div>
+{{ end }}
+<div class="detail-wrapper">
+  <h2 class="post-title"><a href="{{.RelPermalink}}">{{ .Title | safeHTML }}</a></h2>
+  {{ partial "author.html" (dict "taxonomy" "authors" "page" .) }}
+  <p class="excerpt">{{ .Summary | safeHTML }}</p>
+  <a href="{{.RelPermalink}}" class="read-more">Read More</a>
+  <div class="post-detail">
+      <span class="date">{{ .Date.Format .Site.Params.dateFormat }}</span> &bull; <span class="read-time">{{ .ReadingTime }} min read</span>
+  </div>
+</div>
+   

@@ -1,0 +1,8 @@
+@function get-breakpoint($value) {
+    @return map-get($breakpoints, $value);
+}
+
+@function breakpoint($value){
+    $breakpoint: get-breakpoint($value);
+    @return '(min-width: #{$breakpoint})';
+}

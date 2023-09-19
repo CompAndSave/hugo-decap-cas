@@ -1,0 +1,23 @@
+{{ define "main" }}
+  {{ $paginator := slice }}
+  {{ $paginator = .Paginator .Pages }}
+  
+  {{ $pageTitle := .Title }}
+  {{ $pageType := .Type }}
+
+  {{ if eq $pageType "posts" }}
+    {{ $pageTitle = printf "All Posts - Page %v of %v" $paginator.PageNumber $paginator.TotalPages }}
+  {{ else }}
+    {{ $pageTitle = printf "%v: %v" (strings.FirstUpper $pageType) (strings.FirstUpper $pageTitle) }}
+  {{ end }}  
+
+    <h1 class="page-title">{{ $pageTitle }}</h1>
+    <section class="post-feed">       
+      {{ range .Paginator.Pages }}
+        <div class="card-post">
+          {{ .Render "summary-with-image" }}
+        </div>
+      {{ end }}
+    </section>
+  {{ template "_internal/pagination.html" . }}
+{{ end }}

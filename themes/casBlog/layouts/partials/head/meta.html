@@ -1,0 +1,9 @@
+<meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+{{ if eq hugo.Environment "development" }}
+    <meta name="robots" content="noindex,nofollow">
+{{ else }}
+    <meta name="robots" content="index,follow">
+{{ end }}
+<meta name="description" content="{{ if .IsHome }}{{ $.Site.Params.description }}{{ else }}{{ .Description }}{{ end }}">
+<link rel="shortcut icon" type="image/png" href="{{ site.BaseURL }}images/assets/favicon.png" />
+{{ partial "head/canonical.html" . }}

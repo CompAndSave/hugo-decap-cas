@@ -1,0 +1,111 @@
+.search-form {
+    display: flex;
+    flex-wrap: wrap;
+    flex: 0 0 100%;
+    min-width: rem-calc(300);
+    form {
+        width: 100%;
+    }
+    .search-box {
+        position: relative;
+        &:before {
+            position: absolute;
+            content: url('../images/assets/search.svg');
+            width: rem-calc(20);
+            z-index: 10;
+            top: 50%;
+            margin-top: rem-calc(-10);
+            left: rem-calc(17);
+        }
+    }
+    .search-input {
+        position: relative;
+        width: 100%;
+        background: $white;
+        padding: rem-calc(7 0 7 50);
+        height: rem-calc(45);
+        border: $input-border;
+        box-shadow: $input-shadow;
+        border-radius: 5000px;
+        &:focus {
+            border: $input-border-focus;
+            box-shadow: $input-shadow-focus;
+        }
+        &::placeholder {
+            color: darken($ui-gray, 10%);
+        }
+    }
+
+    .clear-btn {
+        cursor: pointer;
+        display: none;
+        top: 50%;
+        margin-top: rem-calc(-9);
+        position: absolute;
+        font-weight: 700;
+        color: $ui-gray;
+        font-size: rem-calc(19);
+        line-height: 1;
+        right: 1.5rem;
+        z-index: 10;
+        &:hover {
+            color: $dark-gray;
+        }
+    }
+
+    .search-btn {
+        display: none;
+    }
+    .result {
+        display: none;
+        position: absolute;
+        left: rem-calc(20);
+        top: 100%;
+        width: calc(100% - 70px);
+        height: rem-calc(380);
+        background: $white;
+        border: $global-border;
+        padding: 1rem 0.5rem;
+        .res {
+            line-height: 1;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            border-bottom: 1px solid lighten($light-gray, 5%);
+            cursor: pointer;
+            &.all {
+                font-weight: 600;
+                font-style: italic;
+                border-top: 2px dotted $light-gray;
+                a {
+                    color: get-color('blue');
+                    &:hover {
+                        background: get-color('blue');
+                        color: $white;
+                    }
+                }
+            }
+            a {
+                display: block;
+                color: $dark-gray;
+                font-weight: 600;
+                border: 0;
+                width: 100%;
+                padding: 0.75rem 0.5rem;
+                &:hover {
+                    background: lighten($light-gray, 2%);
+                }
+            }
+            &:nth-last-of-type(-n+2) {
+                border-bottom: 0;
+            }
+        }
+    }
+    .err-msg {
+        display: none;
+        color: get-color('red');
+        margin-left: 3rem;
+        margin-top: rem-calc(5);
+    }
+    
+}

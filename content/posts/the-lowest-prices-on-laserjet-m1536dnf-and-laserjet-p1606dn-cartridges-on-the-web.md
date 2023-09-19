@@ -1,0 +1,22 @@
+---
+title: "The lowest prices on LaserJet M1536DNF and LaserJet P1606DN cartridges on the web"
+date: 2011-10-12T02:03:00.000Z
+slug: the-lowest-prices-on-laserjet-m1536dnf-and-laserjet-p1606dn-cartridges-on-the-web
+description: "The lowest prices on LaserJet M1536DNF and LaserJet P1606DN cartridges on the web"
+featured_image: /images/archive/2011/10/LASERJET_M1536DN.jpg
+authors: Andrew Yeung
+tags: [laser toner cartridges]
+---
+
+[![](/blog/images/LASERJET-M1536DN.jpg)](/blog/images/LASERJET-M1536DN.jpg)
+
+With the recent economic downturn, more and more people are trying to save money on everything they need to keep their businesses running at their utmost. One excellent way that even the smallest business can save an extensive amount of money is to buy refurbished printer ink and laser cartridges. You can save an extensive amount of money on your LaserJet cartridges, simply by buying them online at a discount printer supply store. For many, however, there is no guarantee that the refurbished cartridges will be of the highest quality. This is not the case at CompAndSave, as we offer free returns within 10 days if you are not 100% satisfied with your purchase. 
+
+What makes these laser jet and ink cartridges so inexpensive, is that they are purchased through a factory that holds a current ISO-9001 certificate. This means that every one of these ink cartridges and laser toners are made to the highest standards of quality and performance. They are excellent replacements for any printer, such as Canon, Brother, HP, Epson, Lexmark and many more. The reason that you are able to procure these ink and laser cartridges at such a low price is that they are purchased in massive quantities directly from the manufacturer. This ensures that a discount price is locked in, which in turn is passed on to you. This inventory is sold exclusively on the web, which keeps this business overhead to a minimum, making them even less expensive for you to purchase. In addition to all of this, with every order there is never any sales tax except in CA. Therefore, no matter what your printing needs may be, you are sure to get a superior quality product, an extremely low price and outstanding customer service. 
+
+This allows for the best online shopping experience for printer ink and laser jet cartridges on the web today. All of these ink and laser toners are shipped via ground, through either US Priority Mail or FedEx. Most orders are shipped out to you on the same day that you order them, and in many cases, the shipping is free as well. Even more savings for you and your business! Just as an example of your potential savings, if you are in need of an OEM replacement laser jet toner for your HP printer and you need a [laserjet m1536dnf](https://www.compandsave.com/hp/laserjet/pro-m1536dnf-toner-cartridges) laser toner cartridge. For a package of 10 OEM cartridges, you would likely pay over $650 for them. With a remanufactured set of 10, that meets all OEM standards, you would pay only $200\. That is an incredible savings of over $450\. Imagine what you can do for your business with an extra $450 in your pocket. The savings are similar for [laserjet p1606dn toner](https://www.compandsave.com/hp/laserjet/pro-p1606dn-toner-cartridges) So, if you are looking for the best in any type of ink or laser jet cartridges, and you do not want to pay retail for them, you do not have to anymore. There is even the option of saving even more by purchasing in larger volumes, you can do so. There is a reseller program available as well, that will save even more. With the difficulty that saving money can sometimes create, why not save your hard-earned money and by refurbished ink cartridges at a fraction of retail.
+
+  
+**About the authors:** Andrew Yeung is president of [CompAndSave](https://www.compandsave.com/), a leading online provider of premium printer ink cartridges, including [remanufactured](https://www.compandsave.com/help) and [compatible printer ink cartridges](https://www.compandsave.com/help). With deals every month and a [100% customer satisfaction](https://www.compandsave.com/help), CompandSave provides an easy way for people and businesses to purchase printer ink and accessories.
+
+Learn about CompandSave's deals and news from the world of printing by following us on [Facebook](https://www.facebook.com/compandsave.ink), [Twitter](https://twitter.com/compandsave), [LinkedIn](https://www.linkedin.com) !

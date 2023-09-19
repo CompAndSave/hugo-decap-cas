@@ -1,0 +1,41 @@
+.content {
+  background: #ffffff;
+  border: 1px solid #dfe3e4;
+  padding: 2rem;
+}
+
+.content-body {
+  margin-top: 1.5rem;
+}
+.content-body h1 {
+  margin-top: 1rem;
+}
+.content-body h2 {
+  margin-top: 2rem;
+}
+.content-body img {
+  margin: 0 auto 2rem;
+}
+.content-body li p {
+  margin-bottom: 0;
+}
+.content-body ul li {
+  list-style-type: disc;
+}
+.content-body ol, .content-body ul {
+  margin-left: 1rem;
+}
+.content-body ol li, .content-body ul li {
+  margin: 0.4705882353rem 0;
+}
+.content-body ol li {
+  list-style-type: decimal;
+}
+
+@media screen and (min-width: 1024px) {
+  .content {
+    padding: 2rem 3rem;
+  }
+}
+
+/*# sourceMappingURL=article.css.map */

@@ -1,0 +1,26 @@
+@function rem-calc($values) {
+    $rem-values: ();
+    $count: length($values);
+
+    @if $count == 1 {
+        @return to-rem($values);
+    }
+
+    @for $i from 1 through $count {
+        $rem-values: append($rem-values, to-rem(nth($values, $i)));
+    }
+
+    @return $rem-values;
+}
+
+
+@function to-rem($value){
+    $base: calc($global-font-size / 100%) * 16;
+    $value: calc($value / $base) * 1rem;
+
+    @if $value == 0rem {
+        $value: 0;
+    }
+    
+    @return $value;
+}
