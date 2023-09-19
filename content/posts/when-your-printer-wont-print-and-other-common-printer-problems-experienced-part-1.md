@@ -3,7 +3,7 @@ title: "When Your Printer Won't Print (And Other Common Printer Problems Experie
 date: 2020-09-11T17:03:00.000Z
 slug: when-your-printer-wont-print-and-other-common-printer-problems-experienced-part-1
 description: "When Your Printer Won't Print (And Other Common Printer Problems Experienced) Part 1"
-featured_image: /images/archive/2020/09/pexels-fernando-arcos-193057.jpg
+featured_image: /blog/images/archive/2020/09/pexels-fernando-arcos-193057.jpg
 authors: Andrew Yeung
 tags: []
 ---

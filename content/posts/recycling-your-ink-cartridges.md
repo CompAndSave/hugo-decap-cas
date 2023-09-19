@@ -3,7 +3,7 @@ title: "Recycling your Ink Cartridges"
 date: 2012-01-30T08:06:00.000Z
 slug: recycling-your-ink-cartridges
 description: "Recycling your Ink Cartridges"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [recycling cartridges]
 ---

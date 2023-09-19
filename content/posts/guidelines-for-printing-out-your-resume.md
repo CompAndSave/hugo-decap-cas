@@ -3,7 +3,7 @@ title: "Guidelines For Printing Out Your Resume"
 date: 2013-10-19T03:53:00.000Z
 slug: guidelines-for-printing-out-your-resume
 description: "Guidelines For Printing Out Your Resume"
-featured_image: /images/archive/2013/10/670px-Create-Your-Acting-Resume-Step-3.jpg
+featured_image: /blog/images/archive/2013/10/670px-Create-Your-Acting-Resume-Step-3.jpg
 authors: Andrew Yeung
 tags: [Paper weight,Resume Paper,Resume Printing,Resume printing paper,Printing paper,Printing your Resume,Resume]
 ---

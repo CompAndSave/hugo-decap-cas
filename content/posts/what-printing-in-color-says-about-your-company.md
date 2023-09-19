@@ -3,7 +3,7 @@ title: "What Printing In Color Says About Your Company"
 date: 2013-06-18T06:28:00.000Z
 slug: what-printing-in-color-says-about-your-company
 description: "What Printing In Color Says About Your Company"
-featured_image: /images/archive/2013/06/Xerox-color-printing-business-behavior-and-effects-infographic.jpg
+featured_image: /blog/images/archive/2013/06/Xerox-color-printing-business-behavior-and-effects-infographic.jpg
 authors: Andrew Yeung
 tags: [inkjet printer,Print,Printed Marketing Materials,Printing in color,marketing material,Color printing,Color]
 ---

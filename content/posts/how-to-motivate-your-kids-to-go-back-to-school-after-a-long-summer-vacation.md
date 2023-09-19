@@ -3,7 +3,7 @@ title: "How to Motivate Your Kids to Go Back to School after a Long Summer Vacat
 date: 2014-08-20T01:44:00.000Z
 slug: how-to-motivate-your-kids-to-go-back-to-school-after-a-long-summer-vacation
 description: "How to Motivate Your Kids to Go Back to School after a Long Summer Vacation"
-featured_image: /images/archive/2014/08/bts2014.jpg
+featured_image: /blog/images/archive/2014/08/bts2014.jpg
 authors: Andrew Yeung
 tags: [Ink &amp; Toner,Summer Vacation,CompAndSave.com,Summer,back to school]
 ---

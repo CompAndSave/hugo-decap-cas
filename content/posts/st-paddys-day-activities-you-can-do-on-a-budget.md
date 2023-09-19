@@ -3,7 +3,7 @@ title: "St. Paddy's Day Activities You Can Do on a Budget"
 date: 2017-02-28T21:00:00.000Z
 slug: st-paddys-day-activities-you-can-do-on-a-budget
 description: "St. Paddy's Day Activities You Can Do on a Budget"
-featured_image: /images/archive/2017/02/clover.jpg
+featured_image: /blog/images/archive/2017/02/clover.jpg
 authors: Katy S
 tags: [Children,how to save money,Paper Craft,Printables,Printer crafts,St. Patrick's Day Bingo Cards,holidays,DIY,food]
 ---

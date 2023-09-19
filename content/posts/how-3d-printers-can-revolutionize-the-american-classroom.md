@@ -3,7 +3,7 @@ title: "How 3D Printers Can Revolutionize the American Classroom"
 date: 2015-04-13T20:00:00.000Z
 slug: how-3d-printers-can-revolutionize-the-american-classroom
 description: "How 3D Printers Can Revolutionize the American Classroom"
-featured_image: /images/archive/2015/04/cas-3dPrinter1-300x250-1.jpg
+featured_image: /blog/images/archive/2015/04/cas-3dPrinter1-300x250-1.jpg
 authors: Denise Resendez
 tags: [3D Printer,Education]
 ---

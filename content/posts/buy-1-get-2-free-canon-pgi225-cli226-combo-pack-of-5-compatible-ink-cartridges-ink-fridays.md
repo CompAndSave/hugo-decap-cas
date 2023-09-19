@@ -3,7 +3,7 @@ title: "Buy 1, Get 2 FREE Canon PGI225 & CLI226 (combo pack of 5) Compatible Ink
 date: 2015-06-19T22:19:00.000Z
 slug: buy-1-get-2-free-canon-pgi225-cli226-combo-pack-of-5-compatible-ink-cartridges-ink-fridays
 description: "Buy 1, Get 2 FREE Canon PGI225 & CLI226 (combo pack of 5) Compatible Ink Cartridges - Ink Fridays ™"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Denise Resendez
 tags: [Canon CLI226,Discount Offers,Ink Fridays™,Canon Pixma Printer,canon printer cartridges,Canon PGI225]
 ---

@@ -3,7 +3,7 @@ title: "Easy Steps to Clean Your Inkjet or Laser Printer"
 date: 2016-10-25T19:00:00.000Z
 slug: easy-steps-to-clean-your-inkjet-or-laser-printer
 description: "Easy Steps to Clean Your Inkjet or Laser Printer"
-featured_image: /images/archive/2016/10/printerink.jpg
+featured_image: /blog/images/archive/2016/10/printerink.jpg
 authors: Katy S
 tags: [Ink Cartridge,inkjet printer,toner cartridge,printer cleaning,laser printer]
 ---

@@ -3,7 +3,7 @@ title: "How To Determine The Best Places Online To Get Ink And Laser Cartridges!
 date: 2012-08-20T10:08:00.000Z
 slug: how-to-determine-the-best-places-online-to-get-ink-and-laser-cartridges
 description: "How To Determine The Best Places Online To Get Ink And Laser Cartridges!"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: []
 ---

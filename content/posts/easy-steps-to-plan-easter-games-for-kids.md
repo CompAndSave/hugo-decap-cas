@@ -3,7 +3,7 @@ title: "Easy Steps to Plan Easter Games for Kids"
 date: 2015-04-01T22:58:00.000Z
 slug: easy-steps-to-plan-easter-games-for-kids
 description: "Easy Steps to Plan Easter Games for Kids"
-featured_image: /images/archive/2015/04/cas_04-01-15-easter-300x250-1.jpg
+featured_image: /blog/images/archive/2015/04/cas_04-01-15-easter-300x250-1.jpg
 authors: Denise Resendez
 tags: []
 ---

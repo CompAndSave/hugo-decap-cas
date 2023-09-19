@@ -3,7 +3,7 @@ title: "Strategies for Networking During the Holidays"
 date: 2010-11-05T02:24:00.000Z
 slug: strategies-for-networking-during-the-holidays
 description: "Strategies for Networking During the Holidays"
-featured_image: /images/archive/2010/11/business-networking.jpg
+featured_image: /blog/images/archive/2010/11/business-networking.jpg
 authors: Andrew Yeung
 tags: [holiday business,holiday networking,networking during the holidays,networking tops]
 ---

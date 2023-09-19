@@ -3,7 +3,7 @@ title: "Inkjet Refill Kit – A Viable Option"
 date: 2011-07-18T06:51:00.000Z
 slug: inkjet-refill-kit-a-viable-option
 description: "Inkjet Refill Kit – A Viable Option"
-featured_image: /images/archive/2011/07/92802.jpg
+featured_image: /blog/images/archive/2011/07/92802.jpg
 authors: Andrew Yeung
 tags: [inkjet refill,inkjet refill kit,refill kit]
 ---

@@ -3,7 +3,7 @@ title: "Increase Productivity With These 5 Apps"
 date: 2016-06-08T04:33:00.000Z
 slug: increase-productivity-with-these-5-apps
 description: "Increase Productivity With These 5 Apps"
-featured_image: /images/archive/2016/06/clock.jpg
+featured_image: /blog/images/archive/2016/06/clock.jpg
 authors: Andrew Yeung
 tags: [Free Apps,Productivity,tips]
 ---

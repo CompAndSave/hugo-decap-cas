@@ -3,7 +3,7 @@ title: "Printer Ink Glossary: Printer Ink Terminology for the Small Business Own
 date: 2010-09-25T01:47:00.000Z
 slug: printer-ink-glossary-printer-ink-terminology-for-the-small-business-owner
 description: "Printer Ink Glossary: Printer Ink Terminology for the Small Business Owner"
-featured_image: /images/archive/2010/09/printer-ink-glossary.jpg
+featured_image: /blog/images/archive/2010/09/printer-ink-glossary.jpg
 authors: Andrew Yeung
 tags: [printer glossary,printing glossary]
 ---

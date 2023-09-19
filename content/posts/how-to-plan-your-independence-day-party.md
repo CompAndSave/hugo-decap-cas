@@ -3,7 +3,7 @@ title: "How to Plan Your Independence Day Party"
 date: 2017-06-29T19:00:00.000Z
 slug: how-to-plan-your-independence-day-party
 description: "How to Plan Your Independence Day Party"
-featured_image: /images/archive/2017/06/sparklers.jpg
+featured_image: /blog/images/archive/2017/06/sparklers.jpg
 authors: Katy S
 tags: [food,recipes,Summer,Fourth of July,home decor,Independence Day]
 ---

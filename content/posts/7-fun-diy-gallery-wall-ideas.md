@@ -3,7 +3,7 @@ title: "7 Fun DIY Gallery Wall Ideas"
 date: 2015-09-10T02:15:00.000Z
 slug: 7-fun-diy-gallery-wall-ideas
 description: "7 Fun DIY Gallery Wall Ideas"
-featured_image: /images/archive/2015/09/fun-gallery-wall-ideas.jpg
+featured_image: /blog/images/archive/2015/09/fun-gallery-wall-ideas.jpg
 authors: Denise Resendez
 tags: [diy gallery wall,gallery wall ideas,home decor,Printables]
 ---

@@ -3,7 +3,7 @@ title: "Create and Print Your Own Business Cards At Home"
 date: 2013-03-29T06:39:00.000Z
 slug: create-and-print-your-own-business-cards-at-home
 description: "Create and Print Your Own Business Cards At Home"
-featured_image: /images/archive/2013/03/business-cards-trash.jpg
+featured_image: /blog/images/archive/2013/03/business-cards-trash.jpg
 authors: Andrew Yeung
 tags: [create business cards,DIY,home projects,marketing material,office supplies,print business cards,save money,best small business resources,Business cards,design business cards]
 ---

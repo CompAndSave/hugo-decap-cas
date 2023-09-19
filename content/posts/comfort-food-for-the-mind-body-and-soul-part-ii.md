@@ -3,7 +3,7 @@ title: "Comfort Food for the Mind, Body, and Soul: Part II"
 date: 2016-12-19T21:00:00.000Z
 slug: comfort-food-for-the-mind-body-and-soul-part-ii
 description: "Comfort Food for the Mind, Body, and Soul: Part II"
-featured_image: /images/archive/2016/12/butternut-squash.jpg
+featured_image: /blog/images/archive/2016/12/butternut-squash.jpg
 authors: Katy S
 tags: [food,recipes,holidays]
 ---

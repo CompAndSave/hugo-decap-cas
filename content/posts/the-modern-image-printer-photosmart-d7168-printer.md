@@ -3,7 +3,7 @@ title: "The Modern image Printer – PhotoSmart D7168 Printer"
 date: 2012-06-12T01:36:00.000Z
 slug: the-modern-image-printer-photosmart-d7168-printer
 description: "The Modern image Printer – PhotoSmart D7168 Printer"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

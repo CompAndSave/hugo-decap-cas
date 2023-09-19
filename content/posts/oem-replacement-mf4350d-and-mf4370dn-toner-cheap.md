@@ -3,7 +3,7 @@ title: "OEM replacement MF4350D and MF4370DN toner, cheap!"
 date: 2011-10-12T01:57:00.000Z
 slug: oem-replacement-mf4350d-and-mf4370dn-toner-cheap
 description: "OEM replacement MF4350D and MF4370DN toner, cheap!"
-featured_image: /images/archive/2011/10/canon.imageclassmf4350d.jpg
+featured_image: /blog/images/archive/2011/10/canon.imageclassmf4350d.jpg
 authors: Andrew Yeung
 tags: [laser toner cartridges]
 ---

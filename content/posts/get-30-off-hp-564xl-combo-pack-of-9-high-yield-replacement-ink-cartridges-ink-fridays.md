@@ -3,7 +3,7 @@ title: "Get $30 off HP 564XL (combo pack of 9) High Yield Replacement Ink Cartri
 date: 2015-06-26T22:17:00.000Z
 slug: get-30-off-hp-564xl-combo-pack-of-9-high-yield-replacement-ink-cartridges-ink-fridays
 description: "Get $30 off HP 564XL (combo pack of 9) High Yield Replacement Ink Cartridges - Ink Fridays™"
-featured_image: /images/archive/2015/06/fb-banner2B252812529.png
+featured_image: /blog/images/archive/2015/06/fb-banner2B252812529.png
 authors: Denise Resendez
 tags: [HP 564XL Ink Cartridges,Ink Fridays™]
 ---

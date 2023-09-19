@@ -3,7 +3,7 @@ title: "Save 86% Off Canon PGI-250XL (Pack of 5) Compatible High Yield Ink Cartr
 date: 2015-02-20T23:31:00.000Z
 slug: save-86-off-canon-pgi-250xl-pack-of-5-compatible-high-yield-ink-cartridges-ink-fridays
 description: "Save 86% Off Canon PGI-250XL (Pack of 5) Compatible High Yield Ink Cartridges - Ink Fridays™"
-featured_image: /images/archive/2015/02/1-3.png
+featured_image: /blog/images/archive/2015/02/1-3.png
 authors: Denise Resendez
 tags: [Canon PGI-250XL,canon printer,compatible ink cartridges,Ink Fridays™]
 ---

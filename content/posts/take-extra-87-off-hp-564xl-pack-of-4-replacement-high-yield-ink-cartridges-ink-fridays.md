@@ -3,7 +3,7 @@ title: "Take Extra 87% Off HP 564XL (Pack of 4) Replacement High Yield Ink Cartr
 date: 2015-05-15T23:26:00.000Z
 slug: take-extra-87-off-hp-564xl-pack-of-4-replacement-high-yield-ink-cartridges-ink-fridays
 description: "Take Extra 87% Off HP 564XL (Pack of 4) Replacement High Yield Ink Cartridges - Ink Fridays™"
-featured_image: /images/archive/2015/05/601.png
+featured_image: /blog/images/archive/2015/05/601.png
 authors: Denise Resendez
 tags: [HP 564XL Ink Cartridges,Ink Fridays™]
 ---

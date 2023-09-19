@@ -4,7 +4,7 @@ date: 2020-07-28T12:30:17.000Z
 draft: true
 slug: temp-slug-325
 description: "Top 5 All-in-One Printers of 2018"
-featured_image: /images/archive/2019/07/7095.jpg
+featured_image: /blog/images/archive/2019/07/7095.jpg
 authors: Andrew Yeung
 tags: [Printer Ink]
 ---

@@ -3,7 +3,7 @@ title: "A Small Business New Year's Resolution: Redesign Your Office!"
 date: 2013-01-07T18:00:00.000Z
 slug: a-small-business-new-years-resolution-redesign-your-office
 description: "A Small Business New Year's Resolution: Redesign Your Office!"
-featured_image: /images/archive/2013/01/good-office-design.jpg
+featured_image: /blog/images/archive/2013/01/good-office-design.jpg
 authors: Andrew Yeung
 tags: [office efficiency,small business improvements,New Year,small business,companies,small business resolutions]
 ---

@@ -3,7 +3,7 @@ title: "Easy Easter DIY Projects You and Your Kids Will Love"
 date: 2017-04-04T19:00:00.000Z
 slug: easy-easter-diy-projects-you-and-your-kids-will-love
 description: "Easy Easter DIY Projects You and Your Kids Will Love"
-featured_image: /images/archive/2017/04/basket-with-colored-easter-eggs.jpg
+featured_image: /blog/images/archive/2017/04/basket-with-colored-easter-eggs.jpg
 authors: Katy S
 tags: [DIY,Paper Craft,games,holidays,Printables,Printer crafts]
 ---

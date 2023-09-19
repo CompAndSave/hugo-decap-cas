@@ -3,7 +3,7 @@ title: "Get New Ink Technologies at a Fraction of the Price"
 date: 2012-08-03T09:13:00.000Z
 slug: get-new-ink-technologies-at-a-fraction-of-the-price
 description: "Get New Ink Technologies at a Fraction of the Price"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: []
 ---

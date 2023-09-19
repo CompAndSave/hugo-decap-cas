@@ -3,7 +3,7 @@ title: "Join CompAndSave.com in supporting the Fight against Heart Disease"
 date: 2014-02-08T02:34:00.000Z
 slug: join-compandsave-com-in-supporting-the-fight-against-heart-disease
 description: "Join CompAndSave.com in supporting the Fight against Heart Disease"
-featured_image: /images/archive/2014/02/AHA.jpg
+featured_image: /blog/images/archive/2014/02/AHA.jpg
 authors: Andrew Yeung
 tags: [Heart Disease,Support the Fight Against Heart Disease,American Heart Association]
 ---

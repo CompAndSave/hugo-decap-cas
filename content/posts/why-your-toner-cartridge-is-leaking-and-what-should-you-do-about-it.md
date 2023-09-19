@@ -3,7 +3,7 @@ title: "Why Your Toner Cartridge Is Leaking and What Should You Do About It"
 date: 2018-05-14T23:00:00.000Z
 slug: why-your-toner-cartridge-is-leaking-and-what-should-you-do-about-it
 description: "Why Your Toner Cartridge Is Leaking and What Should You Do About It"
-featured_image: /images/archive/2018/05/leaking-toner-cartridge.jpg
+featured_image: /blog/images/archive/2018/05/leaking-toner-cartridge.jpg
 authors: Andrew Yeung
 tags: [How-to,toner cartridges,leaking toner,Ink &amp; Toner]
 ---

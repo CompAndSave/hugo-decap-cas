@@ -3,7 +3,7 @@ title: "Save 94% On Brother LC-51 (10-Pack) Compatible High Capacity Inkjet Cart
 date: 2015-01-31T00:37:00.000Z
 slug: save-94-on-brother-lc-51-10-pack-compatible-high-capacity-inkjet-cartridges-ink-fridays
 description: "Save 94% On Brother LC-51 (10-Pack) Compatible High Capacity Inkjet Cartridges - Ink Fridays™"
-featured_image: /images/archive/2015/01/1-2.png
+featured_image: /blog/images/archive/2015/01/1-2.png
 authors: Denise Resendez
 tags: [CompAndSave.com,Save on Ink &amp; Toner,Ink Fridays™,Discount Offers]
 ---

@@ -3,7 +3,7 @@ title: "BUY 1, GET 2 FREE: HP 564XL Replacement (Pack of 4) High Yield Ink Cartr
 date: 2015-03-13T21:37:00.000Z
 slug: buy-1-get-2-free-hp-564xl-replacement-pack-of-4-high-yield-ink-cartridges-ink-fridays
 description: "BUY 1, GET 2 FREE: HP 564XL Replacement (Pack of 4) High Yield Ink Cartridges - Ink Fridays™"
-featured_image: /images/archive/2015/03/1-1.png
+featured_image: /blog/images/archive/2015/03/1-1.png
 authors: Denise Resendez
 tags: []
 ---

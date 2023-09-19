@@ -3,7 +3,7 @@ title: "The Best Ink Jet Printer Recommendations"
 date: 2012-05-24T00:53:00.000Z
 slug: the-best-ink-jet-printer-recommendations
 description: "The Best Ink Jet Printer Recommendations"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

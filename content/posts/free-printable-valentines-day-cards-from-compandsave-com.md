@@ -3,7 +3,7 @@ title: "Free Printable Valentine's Day Cards from CompAndSave.com"
 date: 2014-02-04T07:01:00.000Z
 slug: free-printable-valentines-day-cards-from-compandsave-com
 description: "Free Printable Valentine's Day Cards from CompAndSave.com"
-featured_image: /images/archive/2014/02/valentine-s-day-card.png
+featured_image: /blog/images/archive/2014/02/valentine-s-day-card.png
 authors: Andrew Yeung
 tags: [Customized Cards,Valentine's Day Card,Printable Valentine's Day Card,Printable Cards]
 ---

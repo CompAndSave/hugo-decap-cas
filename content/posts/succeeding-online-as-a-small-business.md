@@ -3,7 +3,7 @@ title: "Succeeding Online As A Small Business"
 date: 2013-01-21T18:30:00.000Z
 slug: succeeding-online-as-a-small-business
 description: "Succeeding Online As A Small Business"
-featured_image: /images/archive/2013/01/manusingcomputer.preview_COLOURBOX2263148.jpeg
+featured_image: /blog/images/archive/2013/01/manusingcomputer.preview_COLOURBOX2263148.jpeg
 authors: Andrew Yeung
 tags: [small business resources,social media,target audience,best small business resources,Internet,free small business resources]
 ---

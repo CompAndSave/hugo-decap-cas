@@ -3,7 +3,7 @@ title: "How To Start Selling Online?"
 date: 2011-07-21T04:51:00.000Z
 slug: how-to-start-selling-online
 description: "How To Start Selling Online?"
-featured_image: /images/archive/2011/07/Online-Business.jpg
+featured_image: /blog/images/archive/2011/07/Online-Business.jpg
 authors: Andrew Yeung
 tags: [business,online marketing,ecommerce,small business resources]
 ---

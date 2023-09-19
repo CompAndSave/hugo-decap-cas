@@ -3,7 +3,7 @@ title: "Comfort Food for the Mind, Body, and Soul: Part I"
 date: 2016-12-07T00:03:00.000Z
 slug: comfort-food-for-the-mind-body-and-soul-part-i
 description: "Comfort Food for the Mind, Body, and Soul: Part I"
-featured_image: /images/archive/2016/12/soup.jpg
+featured_image: /blog/images/archive/2016/12/soup.jpg
 authors: Katy S
 tags: [food,recipes,holidays]
 ---

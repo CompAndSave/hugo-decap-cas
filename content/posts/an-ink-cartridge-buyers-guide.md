@@ -3,7 +3,7 @@ title: "An Ink Cartridge Buyers Guide"
 date: 2012-02-22T15:54:00.000Z
 slug: an-ink-cartridge-buyers-guide
 description: "An Ink Cartridge Buyers Guide"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [ink cartridges]
 ---

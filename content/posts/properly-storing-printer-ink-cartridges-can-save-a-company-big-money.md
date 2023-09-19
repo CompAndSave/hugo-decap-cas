@@ -3,7 +3,7 @@ title: "Properly Storing Printer Ink Cartridges Can Save a Company Big Money"
 date: 2012-11-02T23:00:00.000Z
 slug: properly-storing-printer-ink-cartridges-can-save-a-company-big-money
 description: "Properly Storing Printer Ink Cartridges Can Save a Company Big Money"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [remanufactured printer cartridges,ink cartridges,technology,equipment care]
 ---

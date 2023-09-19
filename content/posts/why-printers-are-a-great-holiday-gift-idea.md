@@ -3,7 +3,7 @@ title: "Why Printers Are A Great Holiday Gift Idea"
 date: 2012-11-27T00:52:00.000Z
 slug: why-printers-are-a-great-holiday-gift-idea
 description: "Why Printers Are A Great Holiday Gift Idea"
-featured_image: /images/archive/2012/11/Christmasgift_COLOURBOX3067406.jpeg
+featured_image: /blog/images/archive/2012/11/Christmasgift_COLOURBOX3067406.jpeg
 authors: Andrew Yeung
 tags: [holiday business,printers,holidays]
 ---

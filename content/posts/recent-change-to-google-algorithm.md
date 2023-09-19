@@ -3,7 +3,7 @@ title: "Recent Change to Google Algorithm"
 date: 2011-08-30T00:58:00.000Z
 slug: recent-change-to-google-algorithm
 description: "Recent Change to Google Algorithm"
-featured_image: /images/archive/2011/08/google_panda_algorithm_index.png
+featured_image: /blog/images/archive/2011/08/google_panda_algorithm_index.png
 authors: Andrew Yeung
 tags: [business,online marketing,seo]
 ---

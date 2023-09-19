@@ -3,7 +3,7 @@ title: "Why Inkjet Printers Clog — And How to Fix Them!"
 date: 2012-12-03T19:00:00.000Z
 slug: why-inkjet-printers-clog-and-how-to-fix-them
 description: "Why Inkjet Printers Clog — And How to Fix Them!"
-featured_image: /images/archive/2012/12/frustratedwomanwithprinter.COLOURBOX3384421.jpeg
+featured_image: /blog/images/archive/2012/12/frustratedwomanwithprinter.COLOURBOX3384421.jpeg
 authors: Andrew Yeung
 tags: [print head clogging,printer troubleshooting,equipment care]
 ---

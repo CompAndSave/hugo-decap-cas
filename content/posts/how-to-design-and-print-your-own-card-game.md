@@ -3,7 +3,7 @@ title: "How to Design and Print Your Own Card Game"
 date: 2013-09-09T10:29:00.000Z
 slug: how-to-design-and-print-your-own-card-game
 description: "How to Design and Print Your Own Card Game"
-featured_image: /images/archive/2013/09/cardgamepic.jpg
+featured_image: /blog/images/archive/2013/09/cardgamepic.jpg
 authors: Andrew Yeung
 tags: [Card Stock,games,inkjet printer,playing cards,inkjet,create your own card game,design your own card game]
 ---

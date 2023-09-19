@@ -3,7 +3,7 @@ title: "Use Your Printer For PaperCraft"
 date: 2013-11-08T11:28:00.000Z
 slug: use-your-printer-for-papercraft
 description: "Use Your Printer For PaperCraft"
-featured_image: /images/archive/2013/11/images.jpg
+featured_image: /blog/images/archive/2013/11/images.jpg
 authors: Andrew Yeung
 tags: [DIY,Papercraft,Printer projects,DIY printing,Paper Craft,Card Stock]
 ---

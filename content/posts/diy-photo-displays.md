@@ -3,7 +3,7 @@ title: "DIY Photo Displays"
 date: 2013-09-21T08:36:00.000Z
 slug: diy-photo-displays
 description: "DIY Photo Displays"
-featured_image: /images/archive/2013/09/6a00d8358081ff69e2019aff6ea017970b-800wi-1.jpg
+featured_image: /blog/images/archive/2013/09/6a00d8358081ff69e2019aff6ea017970b-800wi-1.jpg
 authors: Andrew Yeung
 tags: [Photo display,print your own photos,photo paper,photography,Photo frames]
 ---

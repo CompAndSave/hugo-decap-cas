@@ -3,7 +3,7 @@ title: "3D Printing — What Is It, And What Can We Do With It?"
 date: 2012-11-12T16:30:00.000Z
 slug: 3d-printing-what-is-it-and-what-can-we-do-with-it
 description: "3D Printing — What Is It, And What Can We Do With It?"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [3D printing,printing,technology,printing trend]
 ---

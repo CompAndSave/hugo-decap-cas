@@ -3,7 +3,7 @@ title: "CompAndSave.com Supports The National Breast Cancer Foundation, Inc (R)"
 date: 2014-10-02T00:03:00.000Z
 slug: compandsave-com-supports-the-national-breast-cancer-foundation-inc-r
 description: "CompAndSave.com Supports The National Breast Cancer Foundation, Inc (R)"
-featured_image: /images/archive/2014/10/300x300-1.jpg
+featured_image: /blog/images/archive/2014/10/300x300-1.jpg
 authors: Andrew Yeung
 tags: [Breast Cancer Awareness Month,Pink Survives,National Breast Cancer Foundation,CompAndSave.com]
 ---

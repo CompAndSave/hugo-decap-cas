@@ -3,7 +3,7 @@ title: "Epson EcoTank Printer vs HP Instant Ink: What Brands Don't Want You To K
 date: 2019-11-09T13:17:00.000Z
 slug: epson-ecotank-printer-vs-hp-instant-ink-what-brands-dont-want-you-to-know
 description: "Epson EcoTank Printer vs HP Instant Ink: What Brands Don't Want You To Know"
-featured_image: /images/archive/2019/11/laptop-2561221_640.jpg
+featured_image: /blog/images/archive/2019/11/laptop-2561221_640.jpg
 authors: Amanda M
 tags: [epson ecotank,hp instant ink]
 ---

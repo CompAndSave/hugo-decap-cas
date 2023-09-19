@@ -3,7 +3,7 @@ title: "Why We Want Your Empty Printer Cartridges"
 date: 2015-05-13T22:30:00.000Z
 slug: why-we-want-your-empty-printer-cartridges
 description: "Why We Want Your Empty Printer Cartridges"
-featured_image: /images/archive/2015/05/thumbnail2B1.jpg
+featured_image: /blog/images/archive/2015/05/thumbnail2B1.jpg
 authors: Denise Resendez
 tags: [Food For the Poor,Printer Cartridge Recycling Program]
 ---

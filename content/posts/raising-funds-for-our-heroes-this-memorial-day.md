@@ -3,7 +3,7 @@ title: "Raising Funds for Our Heroes this Memorial Day"
 date: 2014-05-21T01:35:00.000Z
 slug: raising-funds-for-our-heroes-this-memorial-day
 description: "Raising Funds for Our Heroes this Memorial Day"
-featured_image: /images/archive/2014/05/ti-facebook-military.jpg
+featured_image: /blog/images/archive/2014/05/ti-facebook-military.jpg
 authors: Andrew Yeung
 tags: [CompAndSave.com,Donating to Fisher House Foundation,Fisher House Foundation,Memorial Day]
 ---

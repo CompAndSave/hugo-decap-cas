@@ -3,7 +3,7 @@ title: "Brand Name Cartridges Vs Compatible Printer Cartridges: How to choose?"
 date: 2014-03-21T06:56:00.000Z
 slug: brand-name-cartridges-vs-compatible-printer-cartridges-how-to-choose
 description: "Brand Name Cartridges Vs Compatible Printer Cartridges: How to choose?"
-featured_image: /images/archive/2014/03/compatiblevsbrand.png
+featured_image: /blog/images/archive/2014/03/compatiblevsbrand.png
 authors: Andrew Yeung
 tags: [inexpensive ink cartridges,printer ink cartridges,compatible toner cartridges,toner cartidges,inexpensive toner,compatible ink cartridges]
 ---

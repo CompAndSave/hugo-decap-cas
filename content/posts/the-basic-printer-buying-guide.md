@@ -3,7 +3,7 @@ title: "The Basic Printer Buying Guide"
 date: 2012-05-09T01:00:00.000Z
 slug: the-basic-printer-buying-guide
 description: "The Basic Printer Buying Guide"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

@@ -3,7 +3,7 @@ title: "New Year's Resolutions for the Small Business Owner"
 date: 2011-01-11T02:29:00.000Z
 slug: new-years-resolutions-for-the-small-business-owner
 description: "New Year's Resolutions for the Small Business Owner"
-featured_image: /images/archive/2011/01/business-resolutions.jpg
+featured_image: /blog/images/archive/2011/01/business-resolutions.jpg
 authors: Andrew Yeung
 tags: [small business resolutions,small business improvements,small business resources]
 ---

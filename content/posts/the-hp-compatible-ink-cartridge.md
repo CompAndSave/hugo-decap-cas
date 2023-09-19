@@ -3,7 +3,7 @@ title: "The HP Compatible Ink Cartridge"
 date: 2012-03-17T04:29:00.000Z
 slug: the-hp-compatible-ink-cartridge
 description: "The HP Compatible Ink Cartridge"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

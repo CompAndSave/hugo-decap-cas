@@ -3,7 +3,7 @@ title: "Easy DIY with Free, Fun, and Useful Sticker Paper Printables"
 date: 2018-01-30T21:00:00.000Z
 slug: easy-diy-with-free-fun-and-useful-sticker-paper-printables
 description: "Easy DIY with Free, Fun, and Useful Sticker Paper Printables"
-featured_image: /images/archive/2018/01/TeacherStickers.jpg
+featured_image: /blog/images/archive/2018/01/TeacherStickers.jpg
 authors: Katy S
 tags: [free,Printables,stickers,sticker paper,DIY,Organize]
 ---

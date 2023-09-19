@@ -3,7 +3,7 @@ title: "Enjoy 99 Cent Compatible Canon PGI225 & CLI226 (5 Pack) Extra High Yield
 date: 2015-04-17T21:57:00.000Z
 slug: enjoy-99-cent-compatible-canon-pgi225-cli226-5-pack-extra-high-yield-black-ink-cartridges-ink-fridays
 description: "Enjoy 99 Cent Compatible Canon PGI225 & CLI226 (5 Pack) Extra High Yield Black Ink Cartridges - Ink Fridays™"
-featured_image: /images/archive/2015/04/60inkfridays.png
+featured_image: /blog/images/archive/2015/04/60inkfridays.png
 authors: Denise Resendez
 tags: []
 ---

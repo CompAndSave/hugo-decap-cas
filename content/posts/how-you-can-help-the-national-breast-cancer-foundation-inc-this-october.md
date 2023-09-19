@@ -3,7 +3,7 @@ title: "How You Can Help the National Breast Cancer Foundation, Inc.® This Octo
 date: 2015-10-01T04:19:00.000Z
 slug: how-you-can-help-the-national-breast-cancer-foundation-inc-this-october
 description: "How You Can Help the National Breast Cancer Foundation, Inc.® This October"
-featured_image: /images/archive/2015/09/compandsave-ink-the-world-pink.jpg
+featured_image: /blog/images/archive/2015/09/compandsave-ink-the-world-pink.jpg
 authors: Denise Resendez
 tags: []
 ---

@@ -3,7 +3,7 @@ title: "Print Your Pictures from Any Phone or Tablet"
 date: 2015-05-04T21:19:00.000Z
 slug: print-your-pictures-from-any-phone-or-tablet
 description: "Print Your Pictures from Any Phone or Tablet"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Denise Resendez
 tags: [printing]
 ---

@@ -3,7 +3,7 @@ title: "Our New Warehouse and How We Are Growing"
 date: 2013-09-14T06:03:00.000Z
 slug: our-new-warehouse-and-how-we-are-growing
 description: "Our New Warehouse and How We Are Growing"
-featured_image: /images/archive/2013/09/about-us.jpg
+featured_image: /blog/images/archive/2013/09/about-us.jpg
 authors: Andrew Yeung
 tags: [business,printer supplies,remanufactured printer cartridges,San Francisco,compatible ink cartridges,Portland,business information]
 ---

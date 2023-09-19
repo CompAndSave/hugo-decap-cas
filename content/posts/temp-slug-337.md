@@ -4,7 +4,7 @@ date: 1970-01-01T00:00:00.000Z
 draft: true
 slug: temp-slug-337
 description: "3 Common Toner Cartridge Problems and How to Fix Them"
-featured_image: /images/archive/2021/01/leaking-toner-cartridge.jpg
+featured_image: /blog/images/archive/2021/01/leaking-toner-cartridge.jpg
 authors: Andrew Yeung
 tags: []
 ---

@@ -3,7 +3,7 @@ title: "CompAndSave.com Joins the Battle against Heart Disease"
 date: 2014-02-18T07:48:00.000Z
 slug: compandsave-com-joins-the-battle-against-heart-disease
 description: "CompAndSave.com Joins the Battle against Heart Disease"
-featured_image: /images/archive/2014/02/gI_71251_aha400x400.jpg
+featured_image: /blog/images/archive/2014/02/gI_71251_aha400x400.jpg
 authors: Andrew Yeung
 tags: [Heart Health,CompAndSave.com donate to the American Heart Association,Support the Fight Against Heart Disease]
 ---

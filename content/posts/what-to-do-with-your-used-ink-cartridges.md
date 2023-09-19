@@ -3,7 +3,7 @@ title: "What To Do With Your Used Ink Cartridges"
 date: 2013-06-26T03:14:00.000Z
 slug: what-to-do-with-your-used-ink-cartridges
 description: "What To Do With Your Used Ink Cartridges"
-featured_image: /images/archive/2013/06/16664631562_63e93ae7aa_z.jpg
+featured_image: /blog/images/archive/2013/06/16664631562_63e93ae7aa_z.jpg
 authors: Andrew Yeung
 tags: [ink cartridges,recycle,recycling cartridges,inkjet refill,inkjet refill kit,printing]
 ---

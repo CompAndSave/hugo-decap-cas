@@ -3,7 +3,7 @@ title: "Best Ways to Recycle the Ink and Toner Cartridges"
 date: 2018-05-21T23:00:00.000Z
 slug: best-ways-to-recycle-the-ink-and-toner-cartridges
 description: "Best Ways to Recycle the Ink and Toner Cartridges"
-featured_image: /images/archive/2018/05/environmental-friendly-ink.jpg
+featured_image: /blog/images/archive/2018/05/environmental-friendly-ink.jpg
 authors: Andrew Yeung
 tags: [Ink Cartridge,recycling cartridges,How-to,Toner Cartrdige]
 ---

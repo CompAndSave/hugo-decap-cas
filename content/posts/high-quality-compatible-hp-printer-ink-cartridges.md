@@ -3,7 +3,7 @@ title: "High Quality Compatible HP Printer Ink Cartridges"
 date: 2012-05-20T07:51:00.000Z
 slug: high-quality-compatible-hp-printer-ink-cartridges
 description: "High Quality Compatible HP Printer Ink Cartridges"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

@@ -3,7 +3,7 @@ title: "Laser vs Inkjet: Which Type Of Printer Is Right For You?"
 date: 2016-03-09T08:30:00.000Z
 slug: laser-vs-inkjet-which-type-of-printer-is-right-for-you
 description: "Laser vs Inkjet: Which Type Of Printer Is Right For You?"
-featured_image: /images/archive/2016/03/IMG_0870.jpg
+featured_image: /blog/images/archive/2016/03/IMG_0870.jpg
 authors: Andrew Yeung
 tags: [Inkjet printers,laser printers vs inkjet printers,inkjet photo paper,laser toner cartridges]
 ---

@@ -3,7 +3,7 @@ title: "Links and how link building and link exchange improves your search engin
 date: 2011-08-22T02:12:00.000Z
 slug: links-and-how-link-building-and-link-exchange-improves-your-search-engine-rating
 description: "Links and how link building and link exchange improves your search engine rating."
-featured_image: /images/archive/2011/08/ecommerce-link-building-tips.jpg
+featured_image: /blog/images/archive/2011/08/ecommerce-link-building-tips.jpg
 authors: Andrew Yeung
 tags: [link exchange,business,online marketing,seo]
 ---

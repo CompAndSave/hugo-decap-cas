@@ -3,7 +3,7 @@ title: "BOGO Special: HP 950XL and HP 951XL (4 Pack) Ink Cartridges - Ink Friday
 date: 2015-09-04T05:24:00.000Z
 slug: bogo-special-hp-950xl-and-hp-951xl-4-pack-ink-cartridges-ink-fridays
 description: "BOGO Special: HP 950XL and HP 951XL (4 Pack) Ink Cartridges - Ink Fridays™"
-featured_image: /images/archive/2015/09/bogo-hp-deal.png
+featured_image: /blog/images/archive/2015/09/bogo-hp-deal.png
 authors: Denise Resendez
 tags: [Compatible HP Cartridges,Ink Fridays™,HP 951XL,HP 950XL]
 ---

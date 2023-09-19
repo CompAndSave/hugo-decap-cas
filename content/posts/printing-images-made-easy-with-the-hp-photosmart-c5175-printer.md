@@ -3,7 +3,7 @@ title: "Printing images made easy with the HP PhotoSmart C5175 Printer"
 date: 2012-04-23T06:42:00.000Z
 slug: printing-images-made-easy-with-the-hp-photosmart-c5175-printer
 description: "Printing images made easy with the HP PhotoSmart C5175 Printer"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

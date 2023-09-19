@@ -3,7 +3,7 @@ title: "The Benefits of Purchasing Inks, The Ecommerce way"
 date: 2012-02-05T09:28:00.000Z
 slug: the-benefits-of-purchasing-inks-the-ecommerce-way
 description: "The Benefits of Purchasing Inks, The Ecommerce way"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [ink cartridges]
 ---

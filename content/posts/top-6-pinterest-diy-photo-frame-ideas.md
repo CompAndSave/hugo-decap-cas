@@ -3,7 +3,7 @@ title: "Top 6 Pinterest DIY Photo Frame Ideas"
 date: 2015-02-11T01:49:00.000Z
 slug: top-6-pinterest-diy-photo-frame-ideas
 description: "Top 6 Pinterest DIY Photo Frame Ideas"
-featured_image: /images/archive/2015/02/62BDIY.png
+featured_image: /blog/images/archive/2015/02/62BDIY.png
 authors: Denise Resendez
 tags: [DIY,Pinterest,picture frames,photo frame,valentine]
 ---

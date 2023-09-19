@@ -3,7 +3,7 @@ title: "Create Free Halloween Items Using Your Printer"
 date: 2016-10-18T19:00:00.000Z
 slug: create-free-halloween-items-using-your-printer
 description: "Create Free Halloween Items Using Your Printer"
-featured_image: /images/archive/2016/10/pumpkinCAS.jpg
+featured_image: /blog/images/archive/2016/10/pumpkinCAS.jpg
 authors: Katy S
 tags: [DIY,Halloween,holidays,home decor,ink cartridges,inkjet printer,Printable Bingo Cards,DIY printing,do it yourself,games,Printables]
 ---

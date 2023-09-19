@@ -3,7 +3,7 @@ title: "Save an extra 50% on HP 950XL / 951XL Replacement (4-Pack) High Yield In
 date: 2015-05-29T22:14:00.000Z
 slug: save-an-extra-50-on-hp-950xl-951xl-replacement-4-pack-high-yield-ink-cartridges-ink-fridays
 description: "Save an extra 50% on HP 950XL / 951XL Replacement (4-Pack) High Yield Ink Cartridges - Ink Fridays™"
-featured_image: /images/archive/2015/05/thumbnail2B252832529.png
+featured_image: /blog/images/archive/2015/05/thumbnail2B252832529.png
 authors: Denise Resendez
 tags: [Ink &amp; Toner,HP Ink Cartridges,Ink Fridays™,Discount Offers]
 ---

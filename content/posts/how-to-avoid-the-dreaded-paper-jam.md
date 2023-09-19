@@ -3,7 +3,7 @@ title: "How To Avoid The Dreaded Paper Jam"
 date: 2013-11-18T05:24:00.000Z
 slug: how-to-avoid-the-dreaded-paper-jam
 description: "How To Avoid The Dreaded Paper Jam"
-featured_image: /images/archive/2013/11/images-2.jpg
+featured_image: /blog/images/archive/2013/11/images-2.jpg
 authors: Andrew Yeung
 tags: [avoid paper jams,Printer maintenance,Printer paper,inkjet printer,how to avoid paper jams,Paper Jam]
 ---

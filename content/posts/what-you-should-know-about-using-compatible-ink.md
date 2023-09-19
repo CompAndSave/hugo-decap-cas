@@ -3,7 +3,7 @@ title: "What you should know about using Compatible Ink?"
 date: 2012-06-01T02:26:00.000Z
 slug: what-you-should-know-about-using-compatible-ink
 description: "What you should know about using Compatible Ink?"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

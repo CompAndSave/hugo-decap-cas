@@ -3,7 +3,7 @@ title: "The HP 3210 All in one Printer"
 date: 2012-03-26T11:25:00.000Z
 slug: the-hp-3210-all-in-one-printer
 description: "The HP 3210 All in one Printer"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

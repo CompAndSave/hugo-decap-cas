@@ -3,7 +3,7 @@ title: "Our Amazing Back To School Offer"
 date: 2013-08-24T02:28:00.000Z
 slug: our-amazing-back-to-school-offer
 description: "Our Amazing Back To School Offer"
-featured_image: /images/archive/2013/08/Best-Printers-for-Students-1.jpg
+featured_image: /blog/images/archive/2013/08/Best-Printers-for-Students-1.jpg
 authors: Andrew Yeung
 tags: [back to school,Sale,Students,Ink sale,discount,ink cartridges]
 ---

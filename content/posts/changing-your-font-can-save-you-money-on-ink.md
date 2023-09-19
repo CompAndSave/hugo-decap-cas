@@ -3,7 +3,7 @@ title: "Changing Your Font Can Save You Money On Ink"
 date: 2013-04-13T07:21:00.000Z
 slug: changing-your-font-can-save-you-money-on-ink
 description: "Changing Your Font Can Save You Money On Ink"
-featured_image: /images/archive/2013/04/CenturyGothicButton.jpg
+featured_image: /blog/images/archive/2013/04/CenturyGothicButton.jpg
 authors: Andrew Yeung
 tags: [Century Gothic,ink cartridges,save money,saving on office supplies,small business,font,reducing office printing costs,cheap printing]
 ---

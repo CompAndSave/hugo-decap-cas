@@ -3,7 +3,7 @@ title: "The Typical Toner Cartridge Myths"
 date: 2012-03-06T06:17:00.000Z
 slug: the-typical-toner-cartridge-myths
 description: "The Typical Toner Cartridge Myths"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [laser toner cartridges]
 ---

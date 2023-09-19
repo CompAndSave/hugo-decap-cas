@@ -3,7 +3,7 @@ title: "A review of the HP PhotoSmart C8180 Printer"
 date: 2012-06-08T02:20:00.000Z
 slug: a-review-of-the-hp-photosmart-c8180-printer
 description: "A review of the HP PhotoSmart C8180 Printer"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

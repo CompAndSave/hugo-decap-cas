@@ -4,7 +4,7 @@ date: 2020-07-28T12:30:17.000Z
 draft: true
 slug: temp-slug-321
 description: "I need a place to keep downloadable printables"
-featured_image: /images/archive/2019/12/Birthday-2BCup-2BStickers-2Band-2BUtensil-2BStickers.png
+featured_image: /blog/images/archive/2019/12/Birthday-2BCup-2BStickers-2Band-2BUtensil-2BStickers.png
 authors: Amanda M
 tags: []
 ---

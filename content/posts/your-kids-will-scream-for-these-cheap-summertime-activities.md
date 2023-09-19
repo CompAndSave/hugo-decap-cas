@@ -3,7 +3,7 @@ title: "Your Kids Will Scream for These Cheap Summertime Activities"
 date: 2017-06-20T19:00:00.000Z
 slug: your-kids-will-scream-for-these-cheap-summertime-activities
 description: "Your Kids Will Scream for These Cheap Summertime Activities"
-featured_image: /images/archive/2017/06/boyatbeach.jpg
+featured_image: /blog/images/archive/2017/06/boyatbeach.jpg
 authors: Katy S
 tags: [Children,DIY,Printables,Summer,games,Summer Vacation]
 ---

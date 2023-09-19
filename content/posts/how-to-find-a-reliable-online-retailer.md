@@ -3,7 +3,7 @@ title: "How to Find a Reliable Online Retailer"
 date: 2013-02-18T18:00:00.000Z
 slug: how-to-find-a-reliable-online-retailer
 description: "How to Find a Reliable Online Retailer"
-featured_image: /images/archive/2013/02/womanshoppingonline.jpeg
+featured_image: /blog/images/archive/2013/02/womanshoppingonline.jpeg
 authors: Andrew Yeung
 tags: [business information,websites,ecommerce,business,online marketing]
 ---

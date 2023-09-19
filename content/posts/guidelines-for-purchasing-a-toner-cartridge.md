@@ -3,7 +3,7 @@ title: "Guidelines for purchasing a Toner Cartridge"
 date: 2012-03-06T06:15:00.000Z
 slug: guidelines-for-purchasing-a-toner-cartridge
 description: "Guidelines for purchasing a Toner Cartridge"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [laser toner cartridges]
 ---

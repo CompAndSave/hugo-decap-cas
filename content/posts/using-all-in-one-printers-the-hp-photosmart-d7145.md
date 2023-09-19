@@ -3,7 +3,7 @@ title: "Using All in One Printers – The HP PhotoSmart D7145"
 date: 2012-06-10T08:09:00.000Z
 slug: using-all-in-one-printers-the-hp-photosmart-d7145
 description: "Using All in One Printers – The HP PhotoSmart D7145"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

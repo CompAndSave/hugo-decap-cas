@@ -3,7 +3,7 @@ title: "The Best Online Availability And Prices On All Your OEM Printer Cartridg
 date: 2011-10-15T05:07:00.000Z
 slug: the-best-online-availability-and-prices-on-all-your-oem-printer-cartridge-needs
 description: "The Best Online Availability And Prices On All Your OEM Printer Cartridge Needs"
-featured_image: /images/archive/2011/10/9320cw.jpg
+featured_image: /blog/images/archive/2011/10/9320cw.jpg
 authors: Andrew Yeung
 tags: [3070cw toner,9320cw toner]
 ---

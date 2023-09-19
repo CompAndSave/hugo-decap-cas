@@ -3,7 +3,7 @@ title: "We Moved To California!"
 date: 2013-07-19T05:41:00.000Z
 slug: we-moved-to-california
 description: "We Moved To California!"
-featured_image: /images/archive/2013/07/IMG_9029.jpg
+featured_image: /blog/images/archive/2013/07/IMG_9029.jpg
 authors: Andrew Yeung
 tags: [California,inkjet printer,laser printer,Oregon,Portland,San Francisco,companies,Comp and Save,ink cartridges]
 ---

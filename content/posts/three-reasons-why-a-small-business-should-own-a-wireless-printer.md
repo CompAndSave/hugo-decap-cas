@@ -3,7 +3,7 @@ title: "Three Reasons Why A Small Business Should Own A Wireless Printer"
 date: 2012-11-06T01:52:00.000Z
 slug: three-reasons-why-a-small-business-should-own-a-wireless-printer
 description: "Three Reasons Why A Small Business Should Own A Wireless Printer"
-featured_image: /images/archive/2012/11/computerwireless.preview_COLOURBOX2834022.jpeg
+featured_image: /blog/images/archive/2012/11/computerwireless.preview_COLOURBOX2834022.jpeg
 authors: Andrew Yeung
 tags: [printers,small business resolutions,small business resources,wireless printers,small business improvements,free small business resources,printing]
 ---

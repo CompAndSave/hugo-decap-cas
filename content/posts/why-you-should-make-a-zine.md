@@ -3,7 +3,7 @@ title: "Why You Should Make a Zine!"
 date: 2015-10-10T00:26:00.000Z
 slug: why-you-should-make-a-zine
 description: "Why You Should Make a Zine!"
-featured_image: /images/archive/2015/10/20130421_zinefest_0860.jpg
+featured_image: /blog/images/archive/2015/10/20130421_zinefest_0860.jpg
 authors: Denise Resendez
 tags: []
 ---

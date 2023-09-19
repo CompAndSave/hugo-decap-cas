@@ -3,7 +3,7 @@ title: "Shop $0.95 HP 564XL Replacement Black High Yield Ink Cartridges with Ink
 date: 2015-06-05T21:40:00.000Z
 slug: shop-0-95-hp-564xl-replacement-black-high-yield-ink-cartridges-with-ink-level-indicator-ink-fridays
 description: "Shop $0.95 HP 564XL Replacement Black High Yield Ink Cartridges with Ink Level Indicator - Ink Fridays™"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Denise Resendez
 tags: [HP 564XL Ink Cartridge,Ink Fridays™]
 ---

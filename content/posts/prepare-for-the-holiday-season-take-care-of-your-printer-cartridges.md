@@ -3,7 +3,7 @@ title: "Prepare For the Holiday Season — Take Care of Your Printer Cartridges!
 date: 2012-12-18T03:03:00.000Z
 slug: prepare-for-the-holiday-season-take-care-of-your-printer-cartridges
 description: "Prepare For the Holiday Season — Take Care of Your Printer Cartridges!"
-featured_image: /images/archive/2012/12/blueorangeprinterinkcartridge.preview_COLOURBOX1609448.jpeg
+featured_image: /blog/images/archive/2012/12/blueorangeprinterinkcartridge.preview_COLOURBOX1609448.jpeg
 authors: Andrew Yeung
 tags: [compatible ink cartridges,printer troubleshooting,printers,holiday business,holidays,ink cartridges]
 ---

@@ -3,7 +3,7 @@ title: "Introducing the HP PhotoSmart C5140 Printer"
 date: 2012-04-19T07:03:00.000Z
 slug: introducing-the-hp-photosmart-c5140-printer
 description: "Introducing the HP PhotoSmart C5140 Printer"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

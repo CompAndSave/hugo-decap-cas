@@ -3,7 +3,7 @@ title: "Welcome to Ink Fridays at CompAndSave.com"
 date: 2014-07-26T03:03:00.000Z
 slug: welcome-to-ink-fridays-at-compandsave-com
 description: "Welcome to Ink Fridays at CompAndSave.com"
-featured_image: /images/archive/2014/07/inkfridays.png
+featured_image: /blog/images/archive/2014/07/inkfridays.png
 authors: Andrew Yeung
 tags: [CompAndSave.com,Ink &amp; Toner,Discount Offers,Ink Fridays™,Printer Cartridges]
 ---

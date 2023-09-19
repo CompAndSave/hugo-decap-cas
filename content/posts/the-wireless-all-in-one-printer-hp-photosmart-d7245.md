@@ -3,7 +3,7 @@ title: "The Wireless All in One Printer – HP PhotoSmart D7245"
 date: 2012-06-18T09:26:00.000Z
 slug: the-wireless-all-in-one-printer-hp-photosmart-d7245
 description: "The Wireless All in One Printer – HP PhotoSmart D7245"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

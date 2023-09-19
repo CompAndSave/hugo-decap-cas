@@ -3,7 +3,7 @@ title: "Tips That Increase the Life of Your Ink Cartridges"
 date: 2013-05-01T04:14:00.000Z
 slug: tips-that-increase-the-life-of-your-ink-cartridges
 description: "Tips That Increase the Life of Your Ink Cartridges"
-featured_image: /images/archive/2013/04/how-to-calculate-cost-per-page-and-save-money-printing_medium.jpg
+featured_image: /blog/images/archive/2013/04/how-to-calculate-cost-per-page-and-save-money-printing_medium.jpg
 authors: Andrew Yeung
 tags: [laser printer,laser toner cartridges,printer ink cartridges,recycling,saving on office supplies,ink cartridges,inkjet printer,d]
 ---

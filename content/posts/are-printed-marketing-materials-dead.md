@@ -3,7 +3,7 @@ title: "Are Printed Marketing Materials Dead?"
 date: 2013-06-15T05:23:00.000Z
 slug: are-printed-marketing-materials-dead
 description: "Are Printed Marketing Materials Dead?"
-featured_image: /images/archive/2013/06/marketing-materials-flexible.jpg
+featured_image: /blog/images/archive/2013/06/marketing-materials-flexible.jpg
 authors: Andrew Yeung
 tags: [marketing material,Printed Material,social media,web marketing,Mailings,Printed Marketing Materials,online marketing]
 ---

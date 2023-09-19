@@ -3,7 +3,7 @@ title: "How to use your HP PhotoSmart C5185 Printer"
 date: 2012-04-24T00:16:00.000Z
 slug: how-to-use-your-hp-photosmart-c5185-printer
 description: "How to use your HP PhotoSmart C5185 Printer"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

@@ -3,7 +3,7 @@ title: "Breast Cancer Awareness & How to prevent Breast Cancer"
 date: 2014-10-11T02:50:00.000Z
 slug: breast-cancer-awareness-how-to-prevent-breast-cancer
 description: "Breast Cancer Awareness & How to prevent Breast Cancer"
-featured_image: /images/archive/2014/10/300x300-2.jpg
+featured_image: /blog/images/archive/2014/10/300x300-2.jpg
 authors: Andrew Yeung
 tags: [Breast Cancer Awareness Month,Pink Survives,Ink &amp; Toner,Self Exam,CompAndSave.com]
 ---

@@ -3,7 +3,7 @@ title: "The Use of Compatible Ink cartridges for the HP PhotoSmart C5188 Printer
 date: 2012-04-28T00:15:00.000Z
 slug: the-use-of-compatible-ink-cartridges-for-the-hp-photosmart-c5188-printer
 description: "The Use of Compatible Ink cartridges for the HP PhotoSmart C5188 Printer"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

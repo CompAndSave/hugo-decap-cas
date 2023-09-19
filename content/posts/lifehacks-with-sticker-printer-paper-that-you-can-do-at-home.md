@@ -3,7 +3,7 @@ title: "LifeHacks with Sticker Printer Paper that You Can Do at Home"
 date: 2019-11-04T08:06:00.000Z
 slug: lifehacks-with-sticker-printer-paper-that-you-can-do-at-home
 description: "LifeHacks with Sticker Printer Paper that You Can Do at Home"
-featured_image: /images/archive/2019/11/228920406_4336ff4ba4_c.jpg
+featured_image: /blog/images/archive/2019/11/228920406_4336ff4ba4_c.jpg
 authors: Amanda M
 tags: [paper,sticker paper,Papercraft]
 ---

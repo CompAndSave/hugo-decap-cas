@@ -3,7 +3,7 @@ title: "Easy Thanksgiving Dessert Recipes & Saying Thanks"
 date: 2018-11-21T07:24:00.000Z
 slug: easy-thanksgiving-dessert-recipes-saying-thanks
 description: "Easy Thanksgiving Dessert Recipes & Saying Thanks"
-featured_image: /images/archive/2018/11/andy-chilton-56332-unsplash.jpg
+featured_image: /blog/images/archive/2018/11/andy-chilton-56332-unsplash.jpg
 authors: Denise Resendez
 tags: [Cheesecake Recipe,Thanksgiving Treats,Cornflake Cookie Recipe,Easy Thanksgiving Dessert Recipes,Cookie Recipe]
 ---

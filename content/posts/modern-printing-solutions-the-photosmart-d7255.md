@@ -3,7 +3,7 @@ title: "Modern Printing Solutions – The PhotoSmart D7255"
 date: 2012-06-18T09:27:00.000Z
 slug: modern-printing-solutions-the-photosmart-d7255
 description: "Modern Printing Solutions – The PhotoSmart D7255"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

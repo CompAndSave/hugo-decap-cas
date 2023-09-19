@@ -3,7 +3,7 @@ title: "12 Days of Christmas Sweepstake- 7 gifts remaining"
 date: 2013-12-21T04:14:00.000Z
 slug: 12-days-of-christmas-sweepstake-7-gifts-remaining
 description: "12 Days of Christmas Sweepstake- 7 gifts remaining"
-featured_image: /images/archive/2013/12/3rd-article-banner2.jpg
+featured_image: /blog/images/archive/2013/12/3rd-article-banner2.jpg
 authors: Andrew Yeung
 tags: [12 Days of Christmas Sweepstakes,12 Gift Sweepstakes,12 Days of Christmas Giveaway]
 ---

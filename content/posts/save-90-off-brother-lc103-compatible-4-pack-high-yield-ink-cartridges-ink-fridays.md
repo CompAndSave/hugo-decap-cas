@@ -3,7 +3,7 @@ title: "Save 90% Off Brother LC103 Compatible (4 Pack) High Yield Ink Cartridges
 date: 2015-03-06T23:29:00.000Z
 slug: save-90-off-brother-lc103-compatible-4-pack-high-yield-ink-cartridges-ink-fridays
 description: "Save 90% Off Brother LC103 Compatible (4 Pack) High Yield Ink Cartridges - Ink Fridays™"
-featured_image: /images/archive/2015/03/1.png
+featured_image: /blog/images/archive/2015/03/1.png
 authors: Denise Resendez
 tags: [Brother LC103 Ink Cartridges,Ink Fridays™,brother printers]
 ---

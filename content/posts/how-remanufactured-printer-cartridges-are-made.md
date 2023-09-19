@@ -3,7 +3,7 @@ title: "How Remanufactured Printer Cartridges Are Made"
 date: 2016-08-08T20:00:00.000Z
 slug: how-remanufactured-printer-cartridges-are-made
 description: "How Remanufactured Printer Cartridges Are Made"
-featured_image: /images/archive/2016/08/printer-ink.jpg
+featured_image: /blog/images/archive/2016/08/printer-ink.jpg
 authors: Katy S
 tags: [Ink Cartridge,inkjet printer,remanufactured printer cartridges,laser printer,ink costs,ink cartridge refill]
 ---

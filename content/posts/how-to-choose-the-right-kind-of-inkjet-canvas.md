@@ -3,7 +3,7 @@ title: "How To Choose The Right Kind Of Inkjet Canvas"
 date: 2011-08-03T04:04:00.000Z
 slug: how-to-choose-the-right-kind-of-inkjet-canvas
 description: "How To Choose The Right Kind Of Inkjet Canvas"
-featured_image: /images/archive/2011/08/inkjet_canvas_linen_canvas_canvas_fabric_cotton.jpg
+featured_image: /blog/images/archive/2011/08/inkjet_canvas_linen_canvas_canvas_fabric_cotton.jpg
 authors: Andrew Yeung
 tags: [inkjet canvas,photo paper]
 ---

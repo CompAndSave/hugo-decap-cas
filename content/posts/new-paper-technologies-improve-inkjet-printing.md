@@ -3,7 +3,7 @@ title: "New Paper Technologies Improve Inkjet Printing"
 date: 2012-08-13T10:03:00.000Z
 slug: new-paper-technologies-improve-inkjet-printing
 description: "New Paper Technologies Improve Inkjet Printing"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: []
 ---

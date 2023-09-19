@@ -3,7 +3,7 @@ title: "Recycling Your Old Printer"
 date: 2013-10-01T03:20:00.000Z
 slug: recycling-your-old-printer
 description: "Recycling Your Old Printer"
-featured_image: /images/archive/2013/09/Slider-Cartridge-Recycling1-680x320-1.png
+featured_image: /blog/images/archive/2013/09/Slider-Cartridge-Recycling1-680x320-1.png
 authors: Andrew Yeung
 tags: [Hewlett-Packard,recycle,Recycle Printers,recycling,inkjet printer,printers,printing]
 ---

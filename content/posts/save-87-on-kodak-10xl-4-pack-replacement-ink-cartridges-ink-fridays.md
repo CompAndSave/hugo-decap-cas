@@ -3,7 +3,7 @@ title: "Save 87% on Kodak 10XL (4 pack) Replacement Ink Cartridges - Ink Fridays
 date: 2015-02-06T23:25:00.000Z
 slug: save-87-on-kodak-10xl-4-pack-replacement-ink-cartridges-ink-fridays
 description: "Save 87% on Kodak 10XL (4 pack) Replacement Ink Cartridges - Ink Fridays™"
-featured_image: /images/archive/2015/02/1.png
+featured_image: /blog/images/archive/2015/02/1.png
 authors: Denise Resendez
 tags: [CompAndSave.com,Kodak 10XL,Kodak printer,Save on Ink &amp; Toner,Discount Offers,Kodak ink,Ink Fridays™]
 ---

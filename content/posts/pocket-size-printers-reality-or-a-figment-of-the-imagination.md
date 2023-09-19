@@ -3,7 +3,7 @@ title: "Pocket Size Printers – Reality, Or a Figment of the Imagination?"
 date: 2014-06-13T02:05:00.000Z
 slug: pocket-size-printers-reality-or-a-figment-of-the-imagination
 description: "Pocket Size Printers – Reality, Or a Figment of the Imagination?"
-featured_image: /images/archive/2014/06/LGPocketPhoto06.jpg
+featured_image: /blog/images/archive/2014/06/LGPocketPhoto06.jpg
 authors: Andrew Yeung
 tags: [Ink Cartridge,Printer Ink,the Mini Mobile Robotic Printer,Pocket Size Printers,Portable Printers,LG PoPo Portable mobile Photo Printer]
 ---

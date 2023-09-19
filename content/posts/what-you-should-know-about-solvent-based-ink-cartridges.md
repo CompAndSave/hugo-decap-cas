@@ -3,7 +3,7 @@ title: "What You Should Know About Solvent Based Ink Cartridges"
 date: 2012-10-22T23:00:00.000Z
 slug: what-you-should-know-about-solvent-based-ink-cartridges
 description: "What You Should Know About Solvent Based Ink Cartridges"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: []
 ---

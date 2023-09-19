@@ -3,7 +3,7 @@ title: "Sneaky ways to save money on printing"
 date: 2013-02-11T19:30:00.000Z
 slug: sneaky-ways-to-save-money-on-printing
 description: "Sneaky ways to save money on printing"
-featured_image: /images/archive/2013/02/save_money_on_printing.jpg
+featured_image: /blog/images/archive/2013/02/save_money_on_printing.jpg
 authors: Andrew Yeung
 tags: [cheap printing,reducing office printing costs,save money on printing,frugal,save money,printing]
 ---

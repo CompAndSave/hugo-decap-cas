@@ -3,7 +3,7 @@ title: "New Inks Promise Exciting Changes"
 date: 2012-08-06T09:43:00.000Z
 slug: new-inks-promise-exciting-changes
 description: "New Inks Promise Exciting Changes"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: []
 ---

@@ -3,7 +3,7 @@ title: "How to get the most out of your Ink Cartridge?"
 date: 2012-03-10T03:35:00.000Z
 slug: how-to-get-the-most-out-of-your-ink-cartridge
 description: "How to get the most out of your Ink Cartridge?"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [ink cartridges]
 ---

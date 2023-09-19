@@ -3,7 +3,7 @@ title: "The New HP PhotoSmart 8230 Printer"
 date: 2012-03-21T02:26:00.000Z
 slug: the-new-hp-photosmart-8230-printer
 description: "The New HP PhotoSmart 8230 Printer"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

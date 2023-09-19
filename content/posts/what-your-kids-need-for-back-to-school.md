@@ -3,7 +3,7 @@ title: "What Your Kids Need for Back to School"
 date: 2016-08-16T20:00:00.000Z
 slug: what-your-kids-need-for-back-to-school
 description: "What Your Kids Need for Back to School"
-featured_image: /images/archive/2016/08/bts2016.jpg
+featured_image: /blog/images/archive/2016/08/bts2016.jpg
 authors: Katy S
 tags: [back to school,ink cartridges,printing]
 ---

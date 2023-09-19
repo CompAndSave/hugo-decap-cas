@@ -3,7 +3,7 @@ title: "HP Printer Troubleshooting - Why Isn't My Printer Working?"
 date: 2012-05-19T04:11:00.000Z
 slug: hp-printer-troubleshooting-why-isnt-my-printer-working
 description: "HP Printer Troubleshooting - Why Isn't My Printer Working?"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

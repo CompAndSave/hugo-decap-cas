@@ -3,7 +3,7 @@ title: "Successful SEO Campaign Can Boost Online Marketing"
 date: 2011-08-10T03:14:00.000Z
 slug: successful-seo-campaign-can-boost-online-marketing
 description: "Successful SEO Campaign Can Boost Online Marketing"
-featured_image: /images/archive/2011/08/seo-hosting.jpg
+featured_image: /blog/images/archive/2011/08/seo-hosting.jpg
 authors: Andrew Yeung
 tags: [business,online marketing,seo]
 ---

@@ -3,7 +3,7 @@ title: "Epson Plans To Printing Improvements For Various Kinds Of Businesses"
 date: 2012-10-16T23:00:00.000Z
 slug: epson-plans-to-printing-improvements-for-various-kinds-of-businesses
 description: "Epson Plans To Printing Improvements For Various Kinds Of Businesses"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: []
 ---

@@ -3,7 +3,7 @@ title: "The HP Compatible Printer Toner"
 date: 2012-01-30T08:09:00.000Z
 slug: the-hp-compatible-printer-toner
 description: "The HP Compatible Printer Toner"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [ink cartridges]
 ---

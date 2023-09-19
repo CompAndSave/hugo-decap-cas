@@ -3,7 +3,7 @@ title: "Work At Home — While Going Green!"
 date: 2013-02-25T17:30:00.000Z
 slug: work-at-home-while-going-green
 description: "Work At Home — While Going Green!"
-featured_image: /images/archive/2013/02/eco_friendly_office_ideas.jpg
+featured_image: /blog/images/archive/2013/02/eco_friendly_office_ideas.jpg
 authors: Andrew Yeung
 tags: [green home office,home office ideas,recycling,technology,eco-friendly home office,green,best home office]
 ---

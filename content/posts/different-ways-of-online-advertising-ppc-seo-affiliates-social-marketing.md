@@ -3,7 +3,7 @@ title: "Different Ways Of Online Advertising - PPC, SEO, Affiliates, Social Mark
 date: 2011-07-26T04:02:00.000Z
 slug: different-ways-of-online-advertising-ppc-seo-affiliates-social-marketing
 description: "Different Ways Of Online Advertising - PPC, SEO, Affiliates, Social Marketing"
-featured_image: /images/archive/2011/07/2757849221_df10ca0c78.jpg
+featured_image: /blog/images/archive/2011/07/2757849221_df10ca0c78.jpg
 authors: Andrew Yeung
 tags: [ppc,social marketing,affiliates marketing,online marketing,seo]
 ---

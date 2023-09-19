@@ -3,7 +3,7 @@ title: "Can A 3D Printer Be A Vital Part Of Our Lives?"
 date: 2015-03-23T04:09:00.000Z
 slug: can-a-3d-printer-be-a-vital-part-of-our-lives
 description: "Can A 3D Printer Be A Vital Part Of Our Lives?"
-featured_image: /images/archive/2015/03/thumbnail-1.jpg
+featured_image: /blog/images/archive/2015/03/thumbnail-1.jpg
 authors: Denise Resendez
 tags: [3D Printer,food 3D printing,3D printing,prosthetic,clothing]
 ---

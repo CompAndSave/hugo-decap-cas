@@ -3,7 +3,7 @@ title: "What are the differences between the Ink Jet and the Laser Jet Printer?"
 date: 2012-05-14T06:12:00.000Z
 slug: what-are-the-differences-between-the-ink-jet-and-the-laser-jet-printer
 description: "What are the differences between the Ink Jet and the Laser Jet Printer?"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

@@ -3,7 +3,7 @@ title: "Fun Facts about 3D Printing"
 date: 2014-09-10T03:06:00.000Z
 slug: fun-facts-about-3d-printing
 description: "Fun Facts about 3D Printing"
-featured_image: /images/archive/2014/09/09-20-2012form-1-on-desk00-1348689824.jpg
+featured_image: /blog/images/archive/2014/09/09-20-2012form-1-on-desk00-1348689824.jpg
 authors: Andrew Yeung
 tags: [3D printing,Ink &amp; Toner,CompAndSave.com]
 ---

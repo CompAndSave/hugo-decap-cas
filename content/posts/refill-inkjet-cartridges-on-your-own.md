@@ -3,7 +3,7 @@ title: "Refill Inkjet Cartridges On Your Own"
 date: 2013-08-17T06:58:00.000Z
 slug: refill-inkjet-cartridges-on-your-own
 description: "Refill Inkjet Cartridges On Your Own"
-featured_image: /images/archive/2013/08/refills_1_and_2_606-5170643.jpg
+featured_image: /blog/images/archive/2013/08/refills_1_and_2_606-5170643.jpg
 authors: Andrew Yeung
 tags: [inkjet refill,inkjet refill kit,ink cartridges]
 ---

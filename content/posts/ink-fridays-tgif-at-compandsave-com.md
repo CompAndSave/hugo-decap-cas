@@ -3,7 +3,7 @@ title: "Ink Fridays™ – TGIF at CompAndSave.com"
 date: 2014-08-01T07:01:00.000Z
 slug: ink-fridays-tgif-at-compandsave-com
 description: "Ink Fridays™ – TGIF at CompAndSave.com"
-featured_image: /images/archive/2014/08/inkf.png
+featured_image: /blog/images/archive/2014/08/inkf.png
 authors: Andrew Yeung
 tags: [CompAndSave.com,Discount Offers,Ink Fridays™,Save on Ink &amp; Toner]
 ---

@@ -3,7 +3,7 @@ title: "Ink Jet Printer Review – The HP PhotoSmart D6160"
 date: 2012-06-08T02:22:00.000Z
 slug: ink-jet-printer-review-the-hp-photosmart-d6160
 description: "Ink Jet Printer Review – The HP PhotoSmart D6160"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

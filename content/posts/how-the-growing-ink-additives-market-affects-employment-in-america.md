@@ -3,7 +3,7 @@ title: "How the Growing Ink Additives Market Affects Employment in America"
 date: 2015-03-02T22:48:00.000Z
 slug: how-the-growing-ink-additives-market-affects-employment-in-america
 description: "How the Growing Ink Additives Market Affects Employment in America"
-featured_image: /images/archive/2015/03/1.jpg
+featured_image: /blog/images/archive/2015/03/1.jpg
 authors: Denise Resendez
 tags: [employment,ink additives,outsourcing,printing industry]
 ---

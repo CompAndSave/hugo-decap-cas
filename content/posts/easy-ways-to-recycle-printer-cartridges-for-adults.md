@@ -3,7 +3,7 @@ title: "Easy Ways to Recycle Printer Cartridges for Adults"
 date: 2015-09-18T23:54:00.000Z
 slug: easy-ways-to-recycle-printer-cartridges-for-adults
 description: "Easy Ways to Recycle Printer Cartridges for Adults"
-featured_image: /images/archive/2015/09/cas-2ndround.jpg
+featured_image: /blog/images/archive/2015/09/cas-2ndround.jpg
 authors: Denise Resendez
 tags: [Food For the Poor,recycling,Printer Cartridge Recycling Program]
 ---

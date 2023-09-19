@@ -3,7 +3,7 @@ title: "Plan the Best 4th of July Get-Together Using Your Printer"
 date: 2015-06-30T01:16:00.000Z
 slug: plan-the-best-4th-of-july-get-together-using-your-printer
 description: "Plan the Best 4th of July Get-Together Using Your Printer"
-featured_image: /images/archive/2015/06/thumbnail2B252822529.jpg
+featured_image: /blog/images/archive/2015/06/thumbnail2B252822529.jpg
 authors: Denise Resendez
 tags: [Discount Offers,Fourth of July,Independence Day,Printables,Ink &amp; Toner,DIY]
 ---

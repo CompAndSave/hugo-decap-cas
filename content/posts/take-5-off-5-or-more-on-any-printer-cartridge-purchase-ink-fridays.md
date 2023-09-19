@@ -3,7 +3,7 @@ title: "Take $5 off $5 or More On Any Printer Cartridge Purchase - Ink Fridays�
 date: 2015-03-21T05:52:00.000Z
 slug: take-5-off-5-or-more-on-any-printer-cartridge-purchase-ink-fridays
 description: "Take $5 off $5 or More On Any Printer Cartridge Purchase - Ink Fridays™"
-featured_image: /images/archive/2015/03/fb-banner2B1.png
+featured_image: /blog/images/archive/2015/03/fb-banner2B1.png
 authors: Denise Resendez
 tags: [Discount Offers,Ink Fridays™]
 ---

@@ -3,7 +3,7 @@ title: "HP 564XL Ink Cartridges – Cost-effective ink shopping at CompAndSave.c
 date: 2014-05-03T04:53:00.000Z
 slug: hp-564xl-ink-cartridges-cost-effective-ink-shopping-at-compandsave-com
 description: "HP 564XL Ink Cartridges – Cost-effective ink shopping at CompAndSave.com"
-featured_image: /images/archive/2014/05/564XLcopy.jpg
+featured_image: /blog/images/archive/2014/05/564XLcopy.jpg
 authors: Andrew Yeung
 tags: [Compatible HP Cartridges,HP 564XL Ink Cartridge]
 ---

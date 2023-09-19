@@ -3,7 +3,7 @@ title: "Easy Tips To Buy Brother TN315 Cartridges Cheaply"
 date: 2012-07-17T11:13:00.000Z
 slug: easy-tips-to-buy-brother-tn315-cartridges-cheaply
 description: "Easy Tips To Buy Brother TN315 Cartridges Cheaply"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: []
 ---

@@ -3,7 +3,7 @@ title: "How To Run A Successful Affiliates Campaign?"
 date: 2011-08-08T07:59:00.000Z
 slug: how-to-run-a-successful-affiliates-campaign
 description: "How To Run A Successful Affiliates Campaign?"
-featured_image: /images/archive/2011/08/affiliatemarketing.jpg
+featured_image: /blog/images/archive/2011/08/affiliatemarketing.jpg
 authors: Andrew Yeung
 tags: [business,affiliates marketing,online marketing]
 ---

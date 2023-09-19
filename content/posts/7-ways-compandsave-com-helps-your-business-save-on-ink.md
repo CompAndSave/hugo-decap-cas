@@ -3,7 +3,7 @@ title: "7 Ways CompAndSave.com Helps Your Business Save on Ink"
 date: 2014-04-15T06:30:00.000Z
 slug: 7-ways-compandsave-com-helps-your-business-save-on-ink
 description: "7 Ways CompAndSave.com Helps Your Business Save on Ink"
-featured_image: /images/archive/2014/04/Snap1.jpg
+featured_image: /blog/images/archive/2014/04/Snap1.jpg
 authors: Andrew Yeung
 tags: [Save on Ink &amp; Toner]
 ---

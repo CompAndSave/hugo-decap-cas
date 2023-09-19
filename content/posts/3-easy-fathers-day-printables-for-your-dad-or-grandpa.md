@@ -3,7 +3,7 @@ title: "3 Easy Father's Day Printables For Your Dad or Grandpa"
 date: 2015-06-15T20:00:00.000Z
 slug: 3-easy-fathers-day-printables-for-your-dad-or-grandpa
 description: "3 Easy Father's Day Printables For Your Dad or Grandpa"
-featured_image: /images/archive/2015/06/111june.jpg
+featured_image: /blog/images/archive/2015/06/111june.jpg
 authors: Denise Resendez
 tags: [Discount Offers,Ink &amp; Toner,Father's Day]
 ---

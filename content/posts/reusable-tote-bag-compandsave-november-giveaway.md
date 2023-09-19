@@ -3,7 +3,7 @@ title: "Reusable Tote Bag - CompAndSave November Giveaway"
 date: 2013-10-29T23:00:00.000Z
 slug: reusable-tote-bag-compandsave-november-giveaway
 description: "Reusable Tote Bag - CompAndSave November Giveaway"
-featured_image: /images/archive/2013/10/2013-winter-bag-art-FOR-FACTORY.jpg
+featured_image: /blog/images/archive/2013/10/2013-winter-bag-art-FOR-FACTORY.jpg
 authors: Andrew Yeung
 tags: [Re-manufactured ink,Re-usable Grocery Bag]
 ---

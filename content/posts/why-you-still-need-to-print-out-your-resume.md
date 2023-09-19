@@ -3,7 +3,7 @@ title: "Why You Still Need To Print Out Your Resume"
 date: 2013-10-07T14:23:00.000Z
 slug: why-you-still-need-to-print-out-your-resume
 description: "Why You Still Need To Print Out Your Resume"
-featured_image: /images/archive/2013/10/ku-bigpic.jpg
+featured_image: /blog/images/archive/2013/10/ku-bigpic.jpg
 authors: Andrew Yeung
 tags: [Job application,Printing your Resume,Resume,Resume Printing,inkjet printer,printing,Jobs]
 ---

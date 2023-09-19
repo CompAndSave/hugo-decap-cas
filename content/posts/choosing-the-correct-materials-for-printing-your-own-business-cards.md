@@ -3,7 +3,7 @@ title: "Choosing the Correct Materials For Printing Your Own Business Cards"
 date: 2013-04-10T07:36:00.000Z
 slug: choosing-the-correct-materials-for-printing-your-own-business-cards
 description: "Choosing the Correct Materials For Printing Your Own Business Cards"
-featured_image: /images/archive/2013/04/ecobusinesscardconstruction_2b.jpg
+featured_image: /blog/images/archive/2013/04/ecobusinesscardconstruction_2b.jpg
 authors: Andrew Yeung
 tags: [best home office,create business cards,DIY,home projects,print business cards,Card Stock,Business cards,business information]
 ---

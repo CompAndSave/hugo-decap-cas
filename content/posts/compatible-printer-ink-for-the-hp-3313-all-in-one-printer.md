@@ -3,7 +3,7 @@ title: "Compatible Printer Ink for the HP 3313 All in One Printer"
 date: 2012-03-30T08:07:00.000Z
 slug: compatible-printer-ink-for-the-hp-3313-all-in-one-printer
 description: "Compatible Printer Ink for the HP 3313 All in One Printer"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

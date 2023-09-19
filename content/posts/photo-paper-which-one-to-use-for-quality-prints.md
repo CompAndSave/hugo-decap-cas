@@ -3,7 +3,7 @@ title: "Photo Paper – Which One To Use For Quality Prints"
 date: 2011-08-11T05:53:00.000Z
 slug: photo-paper-which-one-to-use-for-quality-prints
 description: "Photo Paper – Which One To Use For Quality Prints"
-featured_image: /images/archive/2011/08/banana.jpg
+featured_image: /blog/images/archive/2011/08/banana.jpg
 authors: Andrew Yeung
 tags: [photo paper]
 ---

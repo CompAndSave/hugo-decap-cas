@@ -3,7 +3,7 @@ title: "How to choose the right printer for you?"
 date: 2012-05-14T06:15:00.000Z
 slug: how-to-choose-the-right-printer-for-you
 description: "How to choose the right printer for you?"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

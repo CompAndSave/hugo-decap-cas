@@ -3,7 +3,7 @@ title: "Cost of Printer Ink More Than the Cost of Gold?"
 date: 2012-10-06T11:41:00.000Z
 slug: cost-of-printer-ink-more-than-the-cost-of-gold
 description: "Cost of Printer Ink More Than the Cost of Gold?"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: []
 ---

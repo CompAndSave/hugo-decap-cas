@@ -3,7 +3,7 @@ title: "American Heart Month: February means Heart Disease Awareness!"
 date: 2014-02-22T09:33:00.000Z
 slug: american-heart-month-february-means-heart-disease-awareness
 description: "American Heart Month: February means Heart Disease Awareness!"
-featured_image: /images/archive/2014/02/aha394x150.jpg
+featured_image: /blog/images/archive/2014/02/aha394x150.jpg
 authors: Andrew Yeung
 tags: [American Heart Association,CompAndSave.com donates to the American Heart Association,Heart Health,Support the Fight Against Heart Disease]
 ---

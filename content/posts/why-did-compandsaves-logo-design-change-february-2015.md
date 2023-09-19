@@ -3,7 +3,7 @@ title: "Why Did CompAndSave's Logo Design Change – February 2015?"
 date: 2015-02-03T02:18:00.000Z
 slug: why-did-compandsaves-logo-design-change-february-2015
 description: "Why Did CompAndSave's Logo Design Change – February 2015?"
-featured_image: /images/archive/2015/02/ZADIE2BSMITH2B3.png
+featured_image: /blog/images/archive/2015/02/ZADIE2BSMITH2B3.png
 authors: Denise Resendez
 tags: [American Heart Association,company logo,Heart Disease,logo design,CompAndSave.com,company logo design,American Heart Month]
 ---

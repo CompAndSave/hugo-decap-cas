@@ -3,7 +3,7 @@ title: "The Difference between Compatible and Genuine Ink Cartridges"
 date: 2012-02-11T03:01:00.000Z
 slug: the-difference-between-compatible-and-genuine-ink-cartridges
 description: "The Difference between Compatible and Genuine Ink Cartridges"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [ink cartridges]
 ---

@@ -3,7 +3,7 @@ title: "Take Good Pictures With DSLR Camera And Print With Compatible Ink Cartri
 date: 2011-07-26T23:28:00.000Z
 slug: take-good-pictures-with-dslr-camera-and-print-with-compatible-ink-cartridges
 description: "Take Good Pictures With DSLR Camera And Print With Compatible Ink Cartridges"
-featured_image: /images/archive/2011/07/camera_action1.gif
+featured_image: /blog/images/archive/2011/07/camera_action1.gif
 authors: Andrew Yeung
 tags: [dslr,photography]
 ---

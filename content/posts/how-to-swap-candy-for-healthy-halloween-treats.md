@@ -3,7 +3,7 @@ title: "How to Swap Candy for Healthy Halloween Treats"
 date: 2017-09-12T19:00:00.000Z
 slug: how-to-swap-candy-for-healthy-halloween-treats
 description: "How to Swap Candy for Healthy Halloween Treats"
-featured_image: /images/archive/2017/09/halloweencandy.jpg
+featured_image: /blog/images/archive/2017/09/halloweencandy.jpg
 authors: Katy S
 tags: [food,Halloween,heart healthy,holidays]
 ---

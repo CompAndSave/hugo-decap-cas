@@ -3,7 +3,7 @@ title: "Ideas for Your Inner Ghoul This Halloween – Printable Masks"
 date: 2013-10-17T00:42:00.000Z
 slug: ideas-for-your-inner-ghoul-this-halloween-printable-masks
 description: "Ideas for Your Inner Ghoul This Halloween – Printable Masks"
-featured_image: /images/archive/2013/10/kids1.png
+featured_image: /blog/images/archive/2013/10/kids1.png
 authors: Andrew Yeung
 tags: [compatible ink and toner cartidges]
 ---

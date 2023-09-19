@@ -3,7 +3,7 @@ title: "3 sets of Dell Series 21 Black & Color Printer Cartridges at only $14.98
 date: 2015-03-27T20:00:00.000Z
 slug: 3-sets-of-dell-series-21-black-color-printer-cartridges-at-only-14-98-ink-fridays
 description: "3 sets of Dell Series 21 Black & Color Printer Cartridges at only $14.98 - Ink Fridays™"
-featured_image: /images/archive/2015/03/thumbnail.png
+featured_image: /blog/images/archive/2015/03/thumbnail.png
 authors: Denise Resendez
 tags: [Dell,Dell printer cartridges,Dell Series 21,Ink Fridays™]
 ---

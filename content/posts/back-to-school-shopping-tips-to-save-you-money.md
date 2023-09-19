@@ -3,7 +3,7 @@ title: "Back to School Shopping Tips to Save You Money"
 date: 2014-08-05T07:36:00.000Z
 slug: back-to-school-shopping-tips-to-save-you-money
 description: "Back to School Shopping Tips to Save You Money"
-featured_image: /images/archive/2014/08/how-to-save-money-on-back-to-school-supplies.jpg
+featured_image: /blog/images/archive/2014/08/how-to-save-money-on-back-to-school-supplies.jpg
 authors: Andrew Yeung
 tags: [CompAndSave.com,Ink &amp; Toner,back to school]
 ---

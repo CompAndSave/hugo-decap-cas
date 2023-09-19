@@ -3,7 +3,7 @@ title: "Three Tips To Buy HP 61XL Combo Pack"
 date: 2012-07-24T11:20:00.000Z
 slug: three-tips-to-buy-hp-61xl-combo-pack
 description: "Three Tips To Buy HP 61XL Combo Pack"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: []
 ---

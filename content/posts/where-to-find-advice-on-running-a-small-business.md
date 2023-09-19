@@ -3,7 +3,7 @@ title: "Where To Find Advice On Running A Small Business"
 date: 2012-11-20T00:00:00.000Z
 slug: where-to-find-advice-on-running-a-small-business
 description: "Where To Find Advice On Running A Small Business"
-featured_image: /images/archive/2012/11/Youngbusinesspeopleinpark.jpeg
+featured_image: /blog/images/archive/2012/11/Youngbusinesspeopleinpark.jpeg
 authors: Andrew Yeung
 tags: [best practice,podcasts,websites,business information,best small business resources,small business]
 ---

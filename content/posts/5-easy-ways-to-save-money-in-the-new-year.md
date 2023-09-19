@@ -3,7 +3,7 @@ title: "5 Easy Ways to Save Money in the New Year"
 date: 2018-01-02T21:00:00.000Z
 slug: 5-easy-ways-to-save-money-in-the-new-year
 description: "5 Easy Ways to Save Money in the New Year"
-featured_image: /images/archive/2018/01/2018goals.jpg
+featured_image: /blog/images/archive/2018/01/2018goals.jpg
 authors: Katy S
 tags: [coupons,New Year,save money,Save on Ink &amp; Toner,tips,inexpensive ink cartridges,Discount Offers,how to save money]
 ---

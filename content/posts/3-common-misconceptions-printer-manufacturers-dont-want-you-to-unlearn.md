@@ -3,7 +3,7 @@ title: "3 Common Misconceptions Printer Manufacturers Don't Want You to Unlearn"
 date: 2021-02-16T14:35:00.000Z
 slug: 3-common-misconceptions-printer-manufacturers-dont-want-you-to-unlearn
 description: "3 Common Misconceptions Printer Manufacturers Don't Want You to Unlearn"
-featured_image: /images/archive/2021/02/kristina-flour-BcjdbyKWquw-unsplash.jpg
+featured_image: /blog/images/archive/2021/02/kristina-flour-BcjdbyKWquw-unsplash.jpg
 authors: Andrew Yeung
 tags: []
 ---

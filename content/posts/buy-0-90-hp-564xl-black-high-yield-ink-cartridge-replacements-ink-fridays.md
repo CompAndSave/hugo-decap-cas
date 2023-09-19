@@ -3,7 +3,7 @@ title: "Buy $0.90 HP 564XL Black High Yield Ink Cartridge Replacements - Ink Fri
 date: 2015-02-27T23:52:00.000Z
 slug: buy-0-90-hp-564xl-black-high-yield-ink-cartridge-replacements-ink-fridays
 description: "Buy $0.90 HP 564XL Black High Yield Ink Cartridge Replacements - Ink Fridays™"
-featured_image: /images/archive/2015/02/fb-banner.png
+featured_image: /blog/images/archive/2015/02/fb-banner.png
 authors: Denise Resendez
 tags: [Compatible HP Cartridges,HP 564XL Ink Cartridge,Ink Fridays™]
 ---

@@ -3,7 +3,7 @@ title: "Where Should I Recycle My Old Cartridges?"
 date: 2011-07-22T03:19:00.000Z
 slug: where-should-i-recycle-my-old-cartridges
 description: "Where Should I Recycle My Old Cartridges?"
-featured_image: /images/archive/2011/07/recycling-ink-cartridges.jpg
+featured_image: /blog/images/archive/2011/07/recycling-ink-cartridges.jpg
 authors: Andrew Yeung
 tags: [recycling cartridges]
 ---

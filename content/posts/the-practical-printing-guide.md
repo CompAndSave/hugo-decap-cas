@@ -3,7 +3,7 @@ title: "The Practical Printing Guide"
 date: 2012-06-24T12:33:00.000Z
 slug: the-practical-printing-guide
 description: "The Practical Printing Guide"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

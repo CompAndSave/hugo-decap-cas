@@ -3,7 +3,7 @@ title: "The HP PhotoSmart D7100 – The latest in Printer Technology"
 date: 2012-06-10T08:07:00.000Z
 slug: the-hp-photosmart-d7100-the-latest-in-printer-technology
 description: "The HP PhotoSmart D7100 – The latest in Printer Technology"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

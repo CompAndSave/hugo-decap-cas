@@ -3,7 +3,7 @@ title: "Save Money On All Your Printing And Copying Needs"
 date: 2011-10-15T04:09:00.000Z
 slug: save-money-on-all-your-printing-and-copying-needs
 description: "Save Money On All Your Printing And Copying Needs"
-featured_image: /images/archive/2011/10/3040CN.jpg
+featured_image: /blog/images/archive/2011/10/3040CN.jpg
 authors: Andrew Yeung
 tags: [3040CN toner,9120cn toner]
 ---

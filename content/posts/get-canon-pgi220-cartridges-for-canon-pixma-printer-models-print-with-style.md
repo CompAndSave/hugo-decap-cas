@@ -3,7 +3,7 @@ title: "Get Canon PGI220 Cartridges For Canon PIXMA Printer Models – Print Wit
 date: 2012-07-05T14:00:00.000Z
 slug: get-canon-pgi220-cartridges-for-canon-pixma-printer-models-print-with-style
 description: "Get Canon PGI220 Cartridges For Canon PIXMA Printer Models – Print With Style!"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: []
 ---

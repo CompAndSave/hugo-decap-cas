@@ -3,7 +3,7 @@ title: "Things to consider when buying low ink cost printers"
 date: 2014-07-09T04:23:00.000Z
 slug: things-to-consider-when-buying-low-ink-cost-printers
 description: "Things to consider when buying low ink cost printers"
-featured_image: /images/archive/2014/07/hp_2600_toner.jpg
+featured_image: /blog/images/archive/2014/07/hp_2600_toner.jpg
 authors: Andrew Yeung
 tags: [CompAndSave.com,Toner Cartrdige,Ink Cartridge,inkjet printer,LaserJet Printer]
 ---

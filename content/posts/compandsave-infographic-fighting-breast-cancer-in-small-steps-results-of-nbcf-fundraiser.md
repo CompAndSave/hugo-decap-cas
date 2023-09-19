@@ -3,7 +3,7 @@ title: "CompAndSave Infographic: Fighting Breast Cancer in Small Steps (Results 
 date: 2015-02-12T08:19:00.000Z
 slug: compandsave-infographic-fighting-breast-cancer-in-small-steps-results-of-nbcf-fundraiser
 description: "CompAndSave Infographic: Fighting Breast Cancer in Small Steps (Results of NBCF Fundraiser)"
-featured_image: /images/archive/2015/02/1-1.png
+featured_image: /blog/images/archive/2015/02/1-1.png
 authors: Denise Resendez
 tags: [breast cancer facts,National Breast Cancer Foundation,breast cancer,infographic,Breast Cancer Awareness Month]
 ---

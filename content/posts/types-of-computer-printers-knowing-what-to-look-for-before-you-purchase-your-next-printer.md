@@ -3,7 +3,7 @@ title: "Types of Computer Printers - Knowing What to Look For Before You Purchas
 date: 2012-05-18T05:58:00.000Z
 slug: types-of-computer-printers-knowing-what-to-look-for-before-you-purchase-your-next-printer
 description: "Types of Computer Printers - Knowing What to Look For Before You Purchase Your Next Printer"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

@@ -3,7 +3,7 @@ title: "12 Days of Christmas Giveaway by CompAndSave.com"
 date: 2013-12-10T08:59:00.000Z
 slug: 12-days-of-christmas-giveaway-by-compandsave-com
 description: "12 Days of Christmas Giveaway by CompAndSave.com"
-featured_image: /images/archive/2013/12/1st-article-banner2.jpg
+featured_image: /blog/images/archive/2013/12/1st-article-banner2.jpg
 authors: Andrew Yeung
 tags: [12 Days of Christmas Giveaway]
 ---

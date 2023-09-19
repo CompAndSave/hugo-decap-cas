@@ -3,7 +3,7 @@ title: "5 Technology Trends to Watch in 2016"
 date: 2016-01-13T06:11:00.000Z
 slug: 5-technology-trends-to-watch-in-2016
 description: "5 Technology Trends to Watch in 2016"
-featured_image: /images/archive/2016/01/mobile-payment.jpg
+featured_image: /blog/images/archive/2016/01/mobile-payment.jpg
 authors: Andrew Yeung
 tags: [2016,technology,New Year,future technology]
 ---

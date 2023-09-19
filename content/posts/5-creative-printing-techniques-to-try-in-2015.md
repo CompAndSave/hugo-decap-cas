@@ -3,7 +3,7 @@ title: "5 Creative Printing Techniques To Try in 2015"
 date: 2015-02-19T01:00:00.000Z
 slug: 5-creative-printing-techniques-to-try-in-2015
 description: "5 Creative Printing Techniques To Try in 2015"
-featured_image: /images/archive/2015/02/1.jpg
+featured_image: /blog/images/archive/2015/02/1.jpg
 authors: Denise Resendez
 tags: [embossing,heat embossing,foil stamping,thermography,printing,engraving,Inkjet printers]
 ---

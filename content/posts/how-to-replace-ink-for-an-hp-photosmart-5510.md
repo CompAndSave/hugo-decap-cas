@@ -3,7 +3,7 @@ title: "How to Replace Ink for an HP Photosmart 5510"
 date: 2018-07-04T04:26:00.000Z
 slug: how-to-replace-ink-for-an-hp-photosmart-5510
 description: "How to Replace Ink for an HP Photosmart 5510"
-featured_image: /images/archive/2018/07/0.jpg
+featured_image: /blog/images/archive/2018/07/0.jpg
 authors: Andrew Yeung
 tags: [HP Photosmart 5510,ink]
 ---

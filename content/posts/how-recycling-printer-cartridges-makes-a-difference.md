@@ -3,7 +3,7 @@ title: "How Recycling Printer Cartridges Makes a Difference"
 date: 2015-07-08T23:01:00.000Z
 slug: how-recycling-printer-cartridges-makes-a-difference
 description: "How Recycling Printer Cartridges Makes a Difference"
-featured_image: /images/archive/2015/07/foodforthepoor.png
+featured_image: /blog/images/archive/2015/07/foodforthepoor.png
 authors: Denise Resendez
 tags: [donate empty cartridges,Food For the Poor]
 ---

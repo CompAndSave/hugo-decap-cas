@@ -3,7 +3,7 @@ title: "Benefits Of Selling Printer Ink Cartridges Online"
 date: 2011-07-21T00:12:00.000Z
 slug: benefits-of-selling-printer-ink-cartridges-online
 description: "Benefits Of Selling Printer Ink Cartridges Online"
-featured_image: /images/archive/2011/07/online-marketing.png
+featured_image: /blog/images/archive/2011/07/online-marketing.png
 authors: Andrew Yeung
 tags: [business,small business resources,online marketing]
 ---

@@ -3,7 +3,7 @@ title: "CompAndSave's New Extended Customer Service Hours: Call Us 7 Days a Week
 date: 2015-01-13T02:05:00.000Z
 slug: compandsaves-new-extended-customer-service-hours-call-us-7-days-a-week
 description: "CompAndSave's New Extended Customer Service Hours: Call Us 7 Days a Week!"
-featured_image: /images/archive/2015/01/1.png
+featured_image: /blog/images/archive/2015/01/1.png
 authors: Denise Resendez
 tags: [open weekends,support services,CompAndSave.com]
 ---

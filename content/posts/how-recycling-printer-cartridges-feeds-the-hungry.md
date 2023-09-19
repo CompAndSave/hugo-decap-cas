@@ -3,7 +3,7 @@ title: "How Recycling Printer Cartridges Feeds the Hungry"
 date: 2015-06-23T00:00:00.000Z
 slug: how-recycling-printer-cartridges-feeds-the-hungry
 description: "How Recycling Printer Cartridges Feeds the Hungry"
-featured_image: /images/archive/2015/06/thumbnail.jpg
+featured_image: /blog/images/archive/2015/06/thumbnail.jpg
 authors: Denise Resendez
 tags: [Biodegradable,Food For the Poor,Plastic,Printer Cartridge Recycling Program]
 ---

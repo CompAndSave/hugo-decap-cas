@@ -3,7 +3,7 @@ title: "The Best Online Shopping Sites to Save This Back to School Season"
 date: 2015-08-07T23:55:00.000Z
 slug: the-best-online-shopping-sites-to-save-this-back-to-school-season
 description: "The Best Online Shopping Sites to Save This Back to School Season"
-featured_image: /images/archive/2015/08/08-05-2015-300x600-1.png
+featured_image: /blog/images/archive/2015/08/08-05-2015-300x600-1.png
 authors: Denise Resendez
 tags: []
 ---

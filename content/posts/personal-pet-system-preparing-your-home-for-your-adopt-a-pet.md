@@ -3,7 +3,7 @@ title: "Personal Pet System: Preparing Your Home For Your Adopt-A-Pet"
 date: 2019-11-29T09:33:00.000Z
 slug: personal-pet-system-preparing-your-home-for-your-adopt-a-pet
 description: "Personal Pet System: Preparing Your Home For Your Adopt-A-Pet"
-featured_image: /images/archive/2019/11/37176903135_a221f04efe_w.jpg
+featured_image: /blog/images/archive/2019/11/37176903135_a221f04efe_w.jpg
 authors: Amanda M
 tags: []
 ---

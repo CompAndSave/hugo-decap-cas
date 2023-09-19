@@ -3,7 +3,7 @@ title: "Save yourself a fortune with Compatible ink Cartridges"
 date: 2012-05-29T02:53:00.000Z
 slug: save-yourself-a-fortune-with-compatible-ink-cartridges
 description: "Save yourself a fortune with Compatible ink Cartridges"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

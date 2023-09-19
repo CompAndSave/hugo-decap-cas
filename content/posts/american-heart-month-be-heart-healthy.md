@@ -3,7 +3,7 @@ title: "American Heart Month: Be Heart Healthy!"
 date: 2015-02-04T04:09:00.000Z
 slug: american-heart-month-be-heart-healthy
 description: "American Heart Month: Be Heart Healthy!"
-featured_image: /images/archive/2015/02/62BDIY2B28129.png
+featured_image: /blog/images/archive/2015/02/62BDIY2B28129.png
 authors: Denise Resendez
 tags: [Heart Disease,heart attack,heart healthy,hearth month]
 ---

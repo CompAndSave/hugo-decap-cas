@@ -3,7 +3,7 @@ title: "Print And Design Stickers To Help Create An Identity For Your Company"
 date: 2013-07-26T04:20:00.000Z
 slug: print-and-design-stickers-to-help-create-an-identity-for-your-company
 description: "Print And Design Stickers To Help Create An Identity For Your Company"
-featured_image: /images/archive/2013/07/10-8-12-New-body2.jpg
+featured_image: /blog/images/archive/2013/07/10-8-12-New-body2.jpg
 authors: Andrew Yeung
 tags: [advertising,Print and design,Print and Design Stickers,stickers,Company branding,inkjet printer,branding]
 ---

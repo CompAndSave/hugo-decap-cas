@@ -3,7 +3,7 @@ title: "Turn Hobby into Profit: Setting Up Your Own Sticker Shop"
 date: 2019-11-23T18:27:00.000Z
 slug: turn-hobby-into-profit-setting-up-your-own-sticker-shop
 description: "Turn Hobby into Profit: Setting Up Your Own Sticker Shop"
-featured_image: /images/archive/2019/11/LtkNGAV4A7WQdtUgn8bnd8OsmYcbJqdUuwM46XFhpKbfmUH6gkrMAd7PQvg-5M3KtB8zElAw9xp1iFy-p3UOFkGvhMd7dG-bzAoqSXmNbp1XUkv7XI4GasMSHcdp8y-Zolh3Z15M.jpg
+featured_image: /blog/images/archive/2019/11/LtkNGAV4A7WQdtUgn8bnd8OsmYcbJqdUuwM46XFhpKbfmUH6gkrMAd7PQvg-5M3KtB8zElAw9xp1iFy-p3UOFkGvhMd7dG-bzAoqSXmNbp1XUkv7XI4GasMSHcdp8y-Zolh3Z15M.jpg
 authors: Amanda M
 tags: []
 ---

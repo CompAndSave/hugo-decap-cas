@@ -3,7 +3,7 @@ title: "Chinese New Year Greeting Cards by CompAndSave.com"
 date: 2014-01-23T02:26:00.000Z
 slug: chinese-new-year-greeting-cards-by-compandsave-com
 description: "Chinese New Year Greeting Cards by CompAndSave.com"
-featured_image: /images/archive/2014/01/card.jpg
+featured_image: /blog/images/archive/2014/01/card.jpg
 authors: Andrew Yeung
 tags: [Chinese New Year Greeting Card,Year of the Horse]
 ---

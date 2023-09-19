@@ -3,7 +3,7 @@ title: "Stepwise Guide To Refill Brother LC61BK Cartridge On Your Own"
 date: 2012-07-13T11:09:00.000Z
 slug: stepwise-guide-to-refill-brother-lc61bk-cartridge-on-your-own
 description: "Stepwise Guide To Refill Brother LC61BK Cartridge On Your Own"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: []
 ---

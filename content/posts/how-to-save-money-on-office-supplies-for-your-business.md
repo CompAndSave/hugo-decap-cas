@@ -3,7 +3,7 @@ title: "How to Save Money on Office Supplies for your Business"
 date: 2013-01-14T17:00:00.000Z
 slug: how-to-save-money-on-office-supplies-for-your-business
 description: "How to Save Money on Office Supplies for your Business"
-featured_image: /images/archive/2013/01/officesupplies.preview_COLOURBOX2051446.jpeg
+featured_image: /blog/images/archive/2013/01/officesupplies.preview_COLOURBOX2051446.jpeg
 authors: Andrew Yeung
 tags: [office efficiency,small business improvements,office supplies,small business resources,saving on office supplies]
 ---

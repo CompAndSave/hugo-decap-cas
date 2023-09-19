@@ -3,7 +3,7 @@ title: "Love Recycling? Then You'll Adore Remanufactured Printer Ink Cartridges!
 date: 2013-01-28T17:30:00.000Z
 slug: love-recycling-then-youll-adore-remanufactured-printer-ink-cartridges
 description: "Love Recycling? Then You'll Adore Remanufactured Printer Ink Cartridges!"
-featured_image: /images/archive/2013/01/recyclingprinterinkcartridgepreview_COLOURBOX2363100.jpeg
+featured_image: /blog/images/archive/2013/01/recyclingprinterinkcartridgepreview_COLOURBOX2363100.jpeg
 authors: Andrew Yeung
 tags: [OEM cartridges,remanufactured printer cartridges,saving on office supplies,recycling,original equipment manufactured cartridges,recycling cartridges]
 ---

@@ -3,7 +3,7 @@ title: "How to Print on Fabric Using An Inkjet Printer"
 date: 2014-07-19T07:09:00.000Z
 slug: how-to-print-on-fabric-using-an-inkjet-printer
 description: "How to Print on Fabric Using An Inkjet Printer"
-featured_image: /images/archive/2014/07/fabric_printing_end.jpg
+featured_image: /blog/images/archive/2014/07/fabric_printing_end.jpg
 authors: Andrew Yeung
 tags: [CompAndSave.com,inkjet printer,Ink Cartridge,Printing on Fabric,DIY]
 ---

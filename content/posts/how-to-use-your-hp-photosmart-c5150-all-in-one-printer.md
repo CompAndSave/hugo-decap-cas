@@ -3,7 +3,7 @@ title: "How to use your HP PhotoSmart C5150 All in One Printer"
 date: 2012-04-19T07:04:00.000Z
 slug: how-to-use-your-hp-photosmart-c5150-all-in-one-printer
 description: "How to use your HP PhotoSmart C5150 All in One Printer"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

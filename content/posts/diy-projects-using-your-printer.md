@@ -3,7 +3,7 @@ title: "DIY Projects Using Your Printer"
 date: 2015-01-26T14:10:00.000Z
 slug: diy-projects-using-your-printer
 description: "DIY Projects Using Your Printer"
-featured_image: /images/archive/2015/01/DIY2BPROJECTS.png
+featured_image: /blog/images/archive/2015/01/DIY2BPROJECTS.png
 authors: Denise Resendez
 tags: [DIY,ink cartridges,do it yourself]
 ---

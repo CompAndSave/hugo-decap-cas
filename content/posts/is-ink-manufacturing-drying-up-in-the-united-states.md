@@ -3,7 +3,7 @@ title: "Is Ink Manufacturing Drying Up in the United States?"
 date: 2012-10-09T23:00:00.000Z
 slug: is-ink-manufacturing-drying-up-in-the-united-states
 description: "Is Ink Manufacturing Drying Up in the United States?"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: []
 ---

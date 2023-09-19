@@ -3,7 +3,7 @@ title: "Spring Recipes: Light and Easy Meals for Anyone On the Go"
 date: 2017-03-28T19:00:00.000Z
 slug: spring-recipes-light-and-easy-meals-for-anyone-on-the-go
 description: "Spring Recipes: Light and Easy Meals for Anyone On the Go"
-featured_image: /images/archive/2017/03/pastasalad.jpg
+featured_image: /blog/images/archive/2017/03/pastasalad.jpg
 authors: Katy S
 tags: [recipes,heart healthy,food,Spring]
 ---

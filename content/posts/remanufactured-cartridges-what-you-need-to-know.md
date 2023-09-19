@@ -3,7 +3,7 @@ title: "Remanufactured Cartridges: What You Need To Know"
 date: 2016-04-06T02:00:00.000Z
 slug: remanufactured-cartridges-what-you-need-to-know
 description: "Remanufactured Cartridges: What You Need To Know"
-featured_image: /images/archive/2016/04/ink-group_456x305.jpg
+featured_image: /blog/images/archive/2016/04/ink-group_456x305.jpg
 authors: Andrew Yeung
 tags: [compatible ink and toner cartidges,CompandSave,remanufactured printer cartridges]
 ---

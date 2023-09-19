@@ -3,7 +3,7 @@ title: "Help Us Support Breast Cancer Research"
 date: 2016-10-04T19:00:00.000Z
 slug: help-us-support-breast-cancer-research
 description: "Help Us Support Breast Cancer Research"
-featured_image: /images/archive/2016/10/NBCF_logo.jpg
+featured_image: /blog/images/archive/2016/10/NBCF_logo.jpg
 authors: Katy S
 tags: [Breast Cancer Awareness Month,National Breast Cancer Foundation,Research]
 ---

@@ -3,7 +3,7 @@ title: "13 Easy Ways to Remove Printer Ink Stains from Anywhere"
 date: 2015-06-04T02:13:00.000Z
 slug: 13-easy-ways-to-remove-printer-ink-stains-from-anywhere
 description: "13 Easy Ways to Remove Printer Ink Stains from Anywhere"
-featured_image: /images/archive/2015/06/06-03-2015-300x250-1.jpg
+featured_image: /blog/images/archive/2015/06/06-03-2015-300x250-1.jpg
 authors: Denise Resendez
 tags: [DIY,Printer Ink Stains,How-to]
 ---

@@ -3,7 +3,7 @@ title: "(Updated) Best Home Office Printers for 2021"
 date: 2021-01-08T21:20:00.000Z
 slug: updated-best-home-office-printers-for-2021
 description: "(Updated) Best Home Office Printers for 2021"
-featured_image: /images/archive/2021/01/hand-man-working-table-person-technology-1382747-pxhere2.png
+featured_image: /blog/images/archive/2021/01/hand-man-working-table-person-technology-1382747-pxhere2.png
 authors: Andrew Yeung
 tags: []
 ---

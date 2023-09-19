@@ -3,7 +3,7 @@ title: "DIY Projects for Kids"
 date: 2016-08-30T20:00:00.000Z
 slug: diy-projects-for-kids
 description: "DIY Projects for Kids"
-featured_image: /images/archive/2016/08/diykids.jpg
+featured_image: /blog/images/archive/2016/08/diykids.jpg
 authors: Katy S
 tags: [back to school,home projects,Children,stickers,DIY]
 ---

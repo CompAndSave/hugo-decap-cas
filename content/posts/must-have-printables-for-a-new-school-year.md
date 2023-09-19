@@ -3,7 +3,7 @@ title: "Must Have Printables for a New School Year"
 date: 2015-08-27T13:14:00.000Z
 slug: must-have-printables-for-a-new-school-year
 description: "Must Have Printables for a New School Year"
-featured_image: /images/archive/2015/08/back-to-school-printables.jpeg
+featured_image: /blog/images/archive/2015/08/back-to-school-printables.jpeg
 authors: Denise Resendez
 tags: [Printables,Students,back to school,teachers]
 ---

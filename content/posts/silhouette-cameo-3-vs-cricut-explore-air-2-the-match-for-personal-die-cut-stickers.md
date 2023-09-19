@@ -3,7 +3,7 @@ title: "Silhouette Cameo 3 vs Cricut Explore Air 2: The Match for Personal Die C
 date: 2019-11-15T16:17:00.000Z
 slug: silhouette-cameo-3-vs-cricut-explore-air-2-the-match-for-personal-die-cut-stickers
 description: "Silhouette Cameo 3 vs Cricut Explore Air 2: The Match for Personal Die Cut Stickers"
-featured_image: /images/archive/2019/11/RiPt6NXiGbeB-2Wgt8nRu3mYw2RyD7EcC1en8fTFdFYN-INU5etWvvC-CPJrv63nfGRAIEVy9u5rv2IVvVdGSH2vOw74dVQMBpvt7SIUxHgpzxuWBJmTCwFkMJWK8jslHybrDcj0.png
+featured_image: /blog/images/archive/2019/11/RiPt6NXiGbeB-2Wgt8nRu3mYw2RyD7EcC1en8fTFdFYN-INU5etWvvC-CPJrv63nfGRAIEVy9u5rv2IVvVdGSH2vOw74dVQMBpvt7SIUxHgpzxuWBJmTCwFkMJWK8jslHybrDcj0.png
 authors: Amanda M
 tags: [Print and Design Stickers,sticker cutter]
 ---

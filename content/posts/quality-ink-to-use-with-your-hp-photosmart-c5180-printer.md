@@ -3,7 +3,7 @@ title: "Quality Ink to use with your HP PhotoSmart C5180 Printer"
 date: 2012-04-23T06:44:00.000Z
 slug: quality-ink-to-use-with-your-hp-photosmart-c5180-printer
 description: "Quality Ink to use with your HP PhotoSmart C5180 Printer"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

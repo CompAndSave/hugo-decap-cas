@@ -3,7 +3,7 @@ title: "Rapid Movement Printing Technology – Revolutionary Technology That Can
 date: 2011-08-09T14:08:00.000Z
 slug: rapid-movement-printing-technology-revolutionary-technology-that-can-print-on-any-flat-surface
 description: "Rapid Movement Printing Technology – Revolutionary Technology That Can Print On Any Flat Surface"
-featured_image: /images/archive/2011/08/iA2.gif
+featured_image: /blog/images/archive/2011/08/iA2.gif
 authors: Andrew Yeung
 tags: [printing trend,rapid movement printing technology]
 ---

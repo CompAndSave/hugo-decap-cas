@@ -3,7 +3,7 @@ title: "How To Store Your Unopened Ink Cartridges"
 date: 2013-10-31T07:05:00.000Z
 slug: how-to-store-your-unopened-ink-cartridges
 description: "How To Store Your Unopened Ink Cartridges"
-featured_image: /images/archive/2013/10/Screenshot2013-10-30at4.47.39PM.png
+featured_image: /blog/images/archive/2013/10/Screenshot2013-10-30at4.47.39PM.png
 authors: Andrew Yeung
 tags: [cartridges,printers,Inkjet printers,leaking ink,ink cartridges]
 ---

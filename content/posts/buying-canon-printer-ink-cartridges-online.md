@@ -3,7 +3,7 @@ title: "Buying Canon Printer Ink Cartridges Online"
 date: 2011-10-13T23:31:00.000Z
 slug: buying-canon-printer-ink-cartridges-online
 description: "Buying Canon Printer Ink Cartridges Online"
-featured_image: /images/archive/2011/10/canon-pixma-mx870-ink.jpg
+featured_image: /blog/images/archive/2011/10/canon-pixma-mx870-ink.jpg
 authors: Andrew Yeung
 tags: [ink cartridges]
 ---

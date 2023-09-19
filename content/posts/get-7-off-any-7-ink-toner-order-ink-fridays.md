@@ -3,7 +3,7 @@ title: "Get $7 off any $7 Ink & Toner Order! - Ink Fridays™"
 date: 2015-07-25T00:00:00.000Z
 slug: get-7-off-any-7-ink-toner-order-ink-fridays
 description: "Get $7 off any $7 Ink & Toner Order! - Ink Fridays™"
-featured_image: /images/archive/2015/07/inkfridays.png
+featured_image: /blog/images/archive/2015/07/inkfridays.png
 authors: Denise Resendez
 tags: [Ink Fridays™]
 ---

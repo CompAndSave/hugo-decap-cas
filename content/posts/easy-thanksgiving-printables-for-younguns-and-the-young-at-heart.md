@@ -3,7 +3,7 @@ title: "Easy Thanksgiving Printables for Young'uns (and the Young at Heart)"
 date: 2017-11-15T21:00:00.000Z
 slug: easy-thanksgiving-printables-for-younguns-and-the-young-at-heart
 description: "Easy Thanksgiving Printables for Young'uns (and the Young at Heart)"
-featured_image: /images/archive/2017/11/thanksgivingCAS.jpg
+featured_image: /blog/images/archive/2017/11/thanksgivingCAS.jpg
 authors: Katy S
 tags: [Color printing,Fun Thanksgiving Activities,Thanksgiving Dinner Placemats,holidays,Printables,Printing in color]
 ---

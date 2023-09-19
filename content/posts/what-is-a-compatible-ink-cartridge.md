@@ -3,7 +3,7 @@ title: "What is a Compatible Ink Cartridge?"
 date: 2012-03-10T03:34:00.000Z
 slug: what-is-a-compatible-ink-cartridge
 description: "What is a Compatible Ink Cartridge?"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [compatible ink cartridges]
 ---

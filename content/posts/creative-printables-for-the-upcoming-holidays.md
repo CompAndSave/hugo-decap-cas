@@ -3,7 +3,7 @@ title: "Creative Printables for the Upcoming Holidays"
 date: 2015-10-16T00:40:00.000Z
 slug: creative-printables-for-the-upcoming-holidays
 description: "Creative Printables for the Upcoming Holidays"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: []
 ---

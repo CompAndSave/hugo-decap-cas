@@ -3,7 +3,7 @@ title: "What You Need to Consider When Buying Ink Online"
 date: 2013-06-01T05:56:00.000Z
 slug: what-you-need-to-consider-when-buying-ink-online
 description: "What You Need to Consider When Buying Ink Online"
-featured_image: /images/archive/2013/05/inkJet.jpg
+featured_image: /blog/images/archive/2013/05/inkJet.jpg
 authors: Andrew Yeung
 tags: [inkjet refill,Online Purchases,laser toner cartridges,OEM cartridges,Research]
 ---

@@ -3,7 +3,7 @@ title: "The PhotoSmart C6150 Printer"
 date: 2012-04-30T08:47:00.000Z
 slug: the-photosmart-c6150-printer
 description: "The PhotoSmart C6150 Printer"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

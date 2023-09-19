@@ -3,7 +3,7 @@ title: "5 Places To Recycle Your Ink & Toner Cartridges"
 date: 2019-04-19T03:13:00.000Z
 slug: 5-places-to-recycle-your-ink-toner-cartridges
 description: "5 Places To Recycle Your Ink & Toner Cartridges"
-featured_image: /images/archive/2019/04/ci-ink.png
+featured_image: /blog/images/archive/2019/04/ci-ink.png
 authors: Denise Resendez
 tags: [Recycle Ink Cartridges,Earth Day,Recycle Toner Cartridges]
 ---

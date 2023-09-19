@@ -3,7 +3,7 @@ title: "Epson ReadyPrint Vs HP Instant Ink: Which One is For You?"
 date: 2021-03-23T16:01:00.000Z
 slug: epson-readyrint-vs-hp-instant-ink-which-one-is-for-you
 description: "Epson ReadyPrint Vs HP Instant Ink: Which One is For You?"
-featured_image: /images/archive/2021/03/Holiday-Coffee-Shop-Website-Header.jpg
+featured_image: /blog/images/archive/2021/03/Holiday-Coffee-Shop-Website-Header.jpg
 authors: Andrew Yeung
 tags: []
 ---

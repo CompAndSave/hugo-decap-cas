@@ -3,7 +3,7 @@ title: "Printable crafts to do with your children"
 date: 2013-07-03T23:00:00.000Z
 slug: printable-crafts-to-do-with-your-children
 description: "Printable crafts to do with your children"
-featured_image: /images/archive/2013/07/animalmasks-mainpic2.jpg
+featured_image: /blog/images/archive/2013/07/animalmasks-mainpic2.jpg
 authors: Andrew Yeung
 tags: [cheap printing,Printer crafts,Children,DIY,inkjet printer]
 ---

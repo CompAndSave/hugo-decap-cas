@@ -3,7 +3,7 @@ title: "Why You Need a 3D Printer for Your Home"
 date: 2016-07-25T20:00:00.000Z
 slug: why-you-need-a-3d-printer-for-your-home
 description: "Why You Need a 3D Printer for Your Home"
-featured_image: /images/archive/2016/07/makerbot3dprinter.jpg
+featured_image: /blog/images/archive/2016/07/makerbot3dprinter.jpg
 authors: Katy S
 tags: [3D designs,technology trends,3d printers,3D printing,home office ideas]
 ---

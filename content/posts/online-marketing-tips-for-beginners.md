@@ -3,7 +3,7 @@ title: "Online Marketing Tips for Beginners"
 date: 2011-12-17T07:39:00.000Z
 slug: online-marketing-tips-for-beginners
 description: "Online Marketing Tips for Beginners"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [Facebook,internet marketing,online marketing,holiday networking,web marketing]
 ---

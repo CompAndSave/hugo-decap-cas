@@ -3,7 +3,7 @@ title: "Why You Should Care About 3-D Printing"
 date: 2015-01-06T01:27:00.000Z
 slug: why-you-should-care-about-3-d-printing
 description: "Why You Should Care About 3-D Printing"
-featured_image: /images/archive/2015/01/8080029032_2a80a856be_b.jpg
+featured_image: /blog/images/archive/2015/01/8080029032_2a80a856be_b.jpg
 authors: Denise Resendez
 tags: [3D printing,3d printers,future technology,food 3D printing]
 ---

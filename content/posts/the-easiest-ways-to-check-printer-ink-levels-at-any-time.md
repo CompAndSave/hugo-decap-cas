@@ -3,7 +3,7 @@ title: "The Easiest Ways to Check Printer Ink Levels At ANY Time"
 date: 2012-10-26T23:00:00.000Z
 slug: the-easiest-ways-to-check-printer-ink-levels-at-any-time
 description: "The Easiest Ways to Check Printer Ink Levels At ANY Time"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: []
 ---

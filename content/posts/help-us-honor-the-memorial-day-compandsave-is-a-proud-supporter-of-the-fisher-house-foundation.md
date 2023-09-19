@@ -3,7 +3,7 @@ title: "Help Us Honor the Memorial Day - CompAndSave is a Proud Supporter of the
 date: 2014-05-13T05:46:00.000Z
 slug: help-us-honor-the-memorial-day-compandsave-is-a-proud-supporter-of-the-fisher-house-foundation
 description: "Help Us Honor the Memorial Day - CompAndSave is a Proud Supporter of the Fisher House Foundation"
-featured_image: /images/archive/2014/05/600x600.jpg
+featured_image: /blog/images/archive/2014/05/600x600.jpg
 authors: Andrew Yeung
 tags: [CompAndSave.com,Memorial Day,Fisher House Foundation]
 ---

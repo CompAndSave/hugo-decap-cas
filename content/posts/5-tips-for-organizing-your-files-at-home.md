@@ -3,7 +3,7 @@ title: "5 Tips for Organizing Your Files at Home"
 date: 2015-04-20T21:00:00.000Z
 slug: 5-tips-for-organizing-your-files-at-home
 description: "5 Tips for Organizing Your Files at Home"
-featured_image: /images/archive/2015/04/cas-filing-042015-300x250-1.jpg
+featured_image: /blog/images/archive/2015/04/cas-filing-042015-300x250-1.jpg
 authors: Denise Resendez
 tags: [files,tips,Organize]
 ---

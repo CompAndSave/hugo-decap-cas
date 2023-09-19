@@ -3,7 +3,7 @@ title: "Choosing the Right Printer"
 date: 2018-07-31T01:48:00.000Z
 slug: choosing-the-right-printer
 description: "Choosing the Right Printer"
-featured_image: /images/archive/2018/07/toner-2Band-2Bink-2B2.png
+featured_image: /blog/images/archive/2018/07/toner-2Band-2Bink-2B2.png
 authors: Andrew Yeung
 tags: [inkjet printer,laser printer]
 ---

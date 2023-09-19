@@ -3,7 +3,7 @@ title: "Save 87% Off Premium 4&quot;x6&quot; Glossy Photo Paper (100 Sheets) - I
 date: 2015-04-10T20:30:00.000Z
 slug: save-87-off-premium-4x6-glossy-photo-paper-100-sheets-ink-fridays
 description: "Save 87% Off Premium 4&quot;x6&quot; Glossy Photo Paper (100 Sheets) - Ink Fridays™"
-featured_image: /images/archive/2015/04/fb-banner.png
+featured_image: /blog/images/archive/2015/04/fb-banner.png
 authors: Denise Resendez
 tags: [glossy photo paper,Ink Fridays™]
 ---

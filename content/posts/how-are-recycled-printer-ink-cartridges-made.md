@@ -3,7 +3,7 @@ title: "How Are Recycled Printer Ink Cartridges Made?"
 date: 2012-10-19T23:00:00.000Z
 slug: how-are-recycled-printer-ink-cartridges-made
 description: "How Are Recycled Printer Ink Cartridges Made?"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: []
 ---

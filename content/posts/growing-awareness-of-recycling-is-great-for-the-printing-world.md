@@ -3,7 +3,7 @@ title: "Growing Awareness of Recycling Is Great For the Printing World"
 date: 2012-08-10T09:46:00.000Z
 slug: growing-awareness-of-recycling-is-great-for-the-printing-world
 description: "Growing Awareness of Recycling Is Great For the Printing World"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: []
 ---

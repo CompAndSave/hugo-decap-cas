@@ -3,7 +3,7 @@ title: "Buy 1, Get 2 Free: 4&quot;x6&quot; Premium Glossy Inkjet Photo Paper (20
 date: 2015-02-12T23:56:00.000Z
 slug: buy-1-get-2-free-4x6-premium-glossy-inkjet-photo-paper-20-sheets-ink-fridays
 description: "Buy 1, Get 2 Free: 4&quot;x6&quot; Premium Glossy Inkjet Photo Paper (20 sheets) - Ink Fridays™"
-featured_image: /images/archive/2015/02/1-2.png
+featured_image: /blog/images/archive/2015/02/1-2.png
 authors: Denise Resendez
 tags: [4.7 photo paper,inkjet photo paper,glossy photo paper,photo paper,digital photo printing]
 ---

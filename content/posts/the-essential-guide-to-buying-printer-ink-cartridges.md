@@ -3,7 +3,7 @@ title: "The Essential Guide To Buying Printer Ink Cartridges"
 date: 2012-12-10T18:00:00.000Z
 slug: the-essential-guide-to-buying-printer-ink-cartridges
 description: "The Essential Guide To Buying Printer Ink Cartridges"
-featured_image: /images/archive/2012/12/realcartridges.preview_COLOURBOX1591833.jpeg
+featured_image: /blog/images/archive/2012/12/realcartridges.preview_COLOURBOX1591833.jpeg
 authors: Andrew Yeung
 tags: [ce285a,laser toner cartridges,ink cartridges,laserjet M1212nf,hp 85a]
 ---

@@ -3,7 +3,7 @@ title: "Printable Thanksgiving Dinner Placemats and Origami Turkey"
 date: 2013-11-15T05:19:00.000Z
 slug: printable-thanksgiving-dinner-placemats-and-origami-turkey
 description: "Printable Thanksgiving Dinner Placemats and Origami Turkey"
-featured_image: /images/archive/2013/11/turkey-3.jpg
+featured_image: /blog/images/archive/2013/11/turkey-3.jpg
 authors: Andrew Yeung
 tags: [Fun Thanksgiving Activities,Turkey Origami,Thanksgiving Dinner Placemats,Printer paper]
 ---

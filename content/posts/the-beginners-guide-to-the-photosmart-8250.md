@@ -3,7 +3,7 @@ title: "The beginners guide to the PhotoSmart 8250"
 date: 2012-03-21T02:27:00.000Z
 slug: the-beginners-guide-to-the-photosmart-8250
 description: "The beginners guide to the PhotoSmart 8250"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

@@ -3,7 +3,7 @@ title: "5 Ways to Stretch Your Printer Ink Supply"
 date: 2016-08-01T20:00:00.000Z
 slug: 5-ways-to-stretch-your-printer-ink-supply
 description: "5 Ways to Stretch Your Printer Ink Supply"
-featured_image: /images/archive/2016/08/6332078_orig.jpg
+featured_image: /blog/images/archive/2016/08/6332078_orig.jpg
 authors: Andrew Yeung
 tags: [Ink &amp; Toner,printers,save money on printing,technology,ink cartridge refill,Ink Cartridge,Printer maintenance]
 ---

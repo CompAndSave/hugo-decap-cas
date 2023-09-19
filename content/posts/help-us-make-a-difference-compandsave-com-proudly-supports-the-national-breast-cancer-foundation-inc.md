@@ -3,7 +3,7 @@ title: "Help us make a Difference- CompAndSave.com proudly supports the National
 date: 2014-10-23T22:33:00.000Z
 slug: help-us-make-a-difference-compandsave-com-proudly-supports-the-national-breast-cancer-foundation-inc
 description: "Help us make a Difference- CompAndSave.com proudly supports the National Breast Cancer Foundation, Inc®"
-featured_image: /images/archive/2014/10/300x300-3.jpg
+featured_image: /blog/images/archive/2014/10/300x300-3.jpg
 authors: Andrew Yeung
 tags: []
 ---

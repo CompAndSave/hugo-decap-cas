@@ -3,7 +3,7 @@ title: "Help Us Honor Those Who've Served This Memorial Day"
 date: 2015-05-20T21:00:00.000Z
 slug: help-us-honor-those-whove-served-this-memorial-day
 description: "Help Us Honor Those Who've Served This Memorial Day"
-featured_image: /images/archive/2015/05/cas-05202015-300x250-1.jpg
+featured_image: /blog/images/archive/2015/05/cas-05202015-300x250-1.jpg
 authors: Denise Resendez
 tags: [Memorial Day,Veterans Day]
 ---

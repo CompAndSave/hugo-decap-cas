@@ -3,7 +3,7 @@ title: "How to Get Cheap Lexmark 150 XL High Yield Inks"
 date: 2013-10-23T22:56:00.000Z
 slug: how-to-get-cheap-lexmark-150-xl-high-yield-inks
 description: "How to Get Cheap Lexmark 150 XL High Yield Inks"
-featured_image: /images/archive/2013/10/lex150.png
+featured_image: /blog/images/archive/2013/10/lex150.png
 authors: Andrew Yeung
 tags: [Lexmark 150,Re-manufactured ink]
 ---

@@ -4,7 +4,7 @@ date: 2020-07-28T12:30:17.000Z
 draft: true
 slug: temp-slug-324
 description: "Top 3 Home Photo Printers for 2018"
-featured_image: /images/archive/2018/09/4477.jpg
+featured_image: /blog/images/archive/2018/09/4477.jpg
 authors: Andrew Yeung
 tags: [printer,Printer Ink]
 ---

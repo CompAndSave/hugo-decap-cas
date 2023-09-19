@@ -3,7 +3,7 @@ title: "The lowest prices on LaserJet M1536DNF and LaserJet P1606DN cartridges o
 date: 2011-10-12T02:03:00.000Z
 slug: the-lowest-prices-on-laserjet-m1536dnf-and-laserjet-p1606dn-cartridges-on-the-web
 description: "The lowest prices on LaserJet M1536DNF and LaserJet P1606DN cartridges on the web"
-featured_image: /images/archive/2011/10/LASERJET_M1536DN.jpg
+featured_image: /blog/images/archive/2011/10/LASERJET_M1536DN.jpg
 authors: Andrew Yeung
 tags: [laser toner cartridges]
 ---

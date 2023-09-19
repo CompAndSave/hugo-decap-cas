@@ -3,7 +3,7 @@ title: "Looking For Kodak 30XL Cartridges? Read This First"
 date: 2012-07-27T11:24:00.000Z
 slug: looking-for-kodak-30xl-cartridges-read-this-first
 description: "Looking For Kodak 30XL Cartridges? Read This First"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: []
 ---

@@ -3,7 +3,7 @@ title: "Improve Your Know-How of Printer Toner Cartridges"
 date: 2017-05-23T19:00:00.000Z
 slug: improve-your-know-how-of-printer-toner-cartridges
 description: "Improve Your Know-How of Printer Toner Cartridges"
-featured_image: /images/archive/2017/05/TONER-Brother-TN450-Combo4.jpg
+featured_image: /blog/images/archive/2017/05/TONER-Brother-TN450-Combo4.jpg
 authors: Katy S
 tags: [toner vs ink,what is toner,laser toner cartridges,toner cartridge,laser printer]
 ---

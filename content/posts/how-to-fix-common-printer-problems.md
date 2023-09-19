@@ -3,7 +3,7 @@ title: "How To Fix Common Printer Problems"
 date: 2016-05-10T23:49:00.000Z
 slug: how-to-fix-common-printer-problems
 description: "How To Fix Common Printer Problems"
-featured_image: /images/archive/2016/05/IMG_3289.jpg
+featured_image: /blog/images/archive/2016/05/IMG_3289.jpg
 authors: Andrew Yeung
 tags: [Printer maintenance,printer troubleshooting,Re-manufactured Ink Cartridge,tips]
 ---

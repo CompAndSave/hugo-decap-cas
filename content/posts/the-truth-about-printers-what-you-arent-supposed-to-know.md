@@ -3,7 +3,7 @@ title: "The Truth about Printers: What You Aren't Supposed to Know"
 date: 2016-09-13T20:00:00.000Z
 slug: the-truth-about-printers-what-you-arent-supposed-to-know
 description: "The Truth about Printers: What You Aren't Supposed to Know"
-featured_image: /images/archive/2016/09/inkcartridges.jpeg
+featured_image: /blog/images/archive/2016/09/inkcartridges.jpeg
 authors: Katy S
 tags: [compatible ink and toner cartridges,printers,remanufactured printer cartridges,original equipment manufactured cartridges,HP Ink Cartridges,inkjet printers vs laser printers]
 ---

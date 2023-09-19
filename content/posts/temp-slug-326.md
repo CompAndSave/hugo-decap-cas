@@ -4,7 +4,7 @@ date: 2020-07-28T12:30:17.000Z
 draft: true
 slug: temp-slug-326
 description: "The Differences Between Ink and Toner"
-featured_image: /images/archive/2018/08/Blog-2Bimage.png
+featured_image: /blog/images/archive/2018/08/Blog-2Bimage.png
 authors: Andrew Yeung
 tags: [Ink &amp; Toner,laser toner cartridges,Printer Ink]
 ---

@@ -3,7 +3,7 @@ title: "How to Make a DIY Wedding Photo Canvas"
 date: 2015-07-15T23:45:00.000Z
 slug: how-to-make-a-diy-wedding-photo-canvas
 description: "How to Make a DIY Wedding Photo Canvas"
-featured_image: /images/archive/2015/07/1-cas-2.jpg
+featured_image: /blog/images/archive/2015/07/1-cas-2.jpg
 authors: Denise Resendez
 tags: [Affiliates,DIY Canvas Photo,Wedding]
 ---

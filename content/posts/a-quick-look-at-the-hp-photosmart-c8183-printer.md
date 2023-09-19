@@ -3,7 +3,7 @@ title: "A quick look at the HP PhotoSmart C8183 Printer"
 date: 2012-06-08T02:20:00.000Z
 slug: a-quick-look-at-the-hp-photosmart-c8183-printer
 description: "A quick look at the HP PhotoSmart C8183 Printer"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

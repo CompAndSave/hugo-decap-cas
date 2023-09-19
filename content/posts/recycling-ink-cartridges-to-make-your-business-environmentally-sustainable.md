@@ -3,7 +3,7 @@ title: "Recycling Ink Cartridges to Make Your Business Environmentally Sustainab
 date: 2014-04-02T04:25:00.000Z
 slug: recycling-ink-cartridges-to-make-your-business-environmentally-sustainable
 description: "Recycling Ink Cartridges to Make Your Business Environmentally Sustainable"
-featured_image: /images/archive/2014/04/recycle-ink-cartridge.jpg
+featured_image: /blog/images/archive/2014/04/recycle-ink-cartridge.jpg
 authors: Andrew Yeung
 tags: [Recycle Ink Cartridges,Recycle Toner Cartridges]
 ---

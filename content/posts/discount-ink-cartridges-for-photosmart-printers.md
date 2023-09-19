@@ -3,7 +3,7 @@ title: "Discount Ink Cartridges for PhotoSmart Printers"
 date: 2012-03-17T04:27:00.000Z
 slug: discount-ink-cartridges-for-photosmart-printers
 description: "Discount Ink Cartridges for PhotoSmart Printers"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

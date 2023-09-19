@@ -3,7 +3,7 @@ title: "How To Save Money on Ink Cartridges"
 date: 2014-12-16T01:38:00.000Z
 slug: how-to-save-money-on-ink-cartridges-2
 description: "How To Save Money on Ink Cartridges"
-featured_image: /images/archive/2014/12/inkcartridges2.jpg
+featured_image: /blog/images/archive/2014/12/inkcartridges2.jpg
 authors: Denise Resendez
 tags: [CompAndSave.com,how to save money,ink cartridges]
 ---

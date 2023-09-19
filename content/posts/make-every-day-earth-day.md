@@ -3,7 +3,7 @@ title: "Make Every Day Earth Day"
 date: 2017-04-18T19:00:00.000Z
 slug: make-every-day-earth-day
 description: "Make Every Day Earth Day"
-featured_image: /images/archive/2017/04/2015-10-07-barnimages.jpg
+featured_image: /blog/images/archive/2017/04/2015-10-07-barnimages.jpg
 authors: Katy S
 tags: [Earth Day,recycling]
 ---

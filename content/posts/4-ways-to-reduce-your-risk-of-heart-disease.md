@@ -3,7 +3,7 @@ title: "4 Ways to Reduce Your Risk of Heart Disease"
 date: 2016-02-24T06:57:00.000Z
 slug: 4-ways-to-reduce-your-risk-of-heart-disease
 description: "4 Ways to Reduce Your Risk of Heart Disease"
-featured_image: /images/archive/2016/02/running-treadmills.jpg
+featured_image: /blog/images/archive/2016/02/running-treadmills.jpg
 authors: Andrew Yeung
 tags: [American Heart Month,Heart Disease,Support the Fight Against Heart Disease,CompandSave]
 ---

@@ -3,7 +3,7 @@ title: "How to choose the best printer paper for your photos"
 date: 2013-02-04T18:30:00.000Z
 slug: how-to-choose-the-best-printer-paper-for-your-photos
 description: "How to choose the best printer paper for your photos"
-featured_image: /images/archive/2013/02/pictureprinter.preview_COLOURBOX1932646.jpeg
+featured_image: /blog/images/archive/2013/02/pictureprinter.preview_COLOURBOX1932646.jpeg
 authors: Andrew Yeung
 tags: [photo paper,photography,printing]
 ---

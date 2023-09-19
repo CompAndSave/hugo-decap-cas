@@ -3,7 +3,7 @@ title: "3 Steps in Choosing Your Home Office Printer"
 date: 2020-08-31T12:30:00.000Z
 slug: 3-steps-in-choosing-your-home-office-printer
 description: "3 Steps in Choosing Your Home Office Printer"
-featured_image: /images/archive/2020/08/pexels-cottonbro-41237643.jpg
+featured_image: /blog/images/archive/2020/08/pexels-cottonbro-41237643.jpg
 authors: Andrew Yeung
 tags: []
 ---

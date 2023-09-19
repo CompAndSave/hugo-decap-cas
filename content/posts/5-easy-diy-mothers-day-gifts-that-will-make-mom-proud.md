@@ -3,7 +3,7 @@ title: "5 Easy DIY Mother's Day Gifts That Will Make Mom Proud"
 date: 2017-05-02T19:00:00.000Z
 slug: 5-easy-diy-mothers-day-gifts-that-will-make-mom-proud
 description: "5 Easy DIY Mother's Day Gifts That Will Make Mom Proud"
-featured_image: /images/archive/2017/05/momflower.jpg
+featured_image: /blog/images/archive/2017/05/momflower.jpg
 authors: Katy S
 tags: [DIY,inkjet photo paper,Paper Craft,holidays,ink cartridges,glossy photo paper,photo paper]
 ---

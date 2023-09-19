@@ -3,7 +3,7 @@ title: "How to Refill your Genuine HP Ink Cartridge?"
 date: 2012-01-23T12:57:00.000Z
 slug: how-to-refill-your-genuine-hp-ink-cartridge
 description: "How to Refill your Genuine HP Ink Cartridge?"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [inkjet refill]
 ---

@@ -3,7 +3,7 @@ title: "Best Inkjet All-in-One Printers for 2014 Holidays"
 date: 2014-12-16T12:38:00.000Z
 slug: best-inkjet-all-in-one-printers-for-2014-holidays
 description: "Best Inkjet All-in-One Printers for 2014 Holidays"
-featured_image: /images/archive/2014/12/bestinkjetprinters2014holidays.jpg
+featured_image: /blog/images/archive/2014/12/bestinkjetprinters2014holidays.jpg
 authors: Denise Resendez
 tags: [all in one printer,Inkjet printers,printer,wireless printer,2014 holidays,holidays,brother printers]
 ---

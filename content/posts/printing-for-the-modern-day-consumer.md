@@ -3,7 +3,7 @@ title: "Printing For the Modern Day Consumer"
 date: 2012-03-03T03:41:00.000Z
 slug: printing-for-the-modern-day-consumer
 description: "Printing For the Modern Day Consumer"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [printing trend]
 ---

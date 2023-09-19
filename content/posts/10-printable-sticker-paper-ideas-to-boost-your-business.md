@@ -3,7 +3,7 @@ title: "10 Printable Sticker Paper Ideas to Boost Your Business"
 date: 2019-10-30T14:25:00.000Z
 slug: 10-printable-sticker-paper-ideas-to-boost-your-business
 description: "10 Printable Sticker Paper Ideas to Boost Your Business"
-featured_image: /images/archive/2019/10/tWpDeQJawzjrcDAxWvnRSHh0QXW-OjaYG2gy8g34rHPQewI3cSvG44LwJcqQw65NGnvv0a-l2-g5-SZeqU7jZgTzR9NGiGi5WiNXtu5k3Tre3FArX-DU4gd42uoF3AMU7CdNUvyG.jpg
+featured_image: /blog/images/archive/2019/10/tWpDeQJawzjrcDAxWvnRSHh0QXW-OjaYG2gy8g34rHPQewI3cSvG44LwJcqQw65NGnvv0a-l2-g5-SZeqU7jZgTzR9NGiGi5WiNXtu5k3Tre3FArX-DU4gd42uoF3AMU7CdNUvyG.jpg
 authors: Amanda M
 tags: [Paper Craft,sticker paper]
 ---

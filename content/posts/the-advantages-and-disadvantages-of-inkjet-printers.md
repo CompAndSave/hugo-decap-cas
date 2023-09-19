@@ -3,7 +3,7 @@ title: "The Advantages and Disadvantages of Inkjet Printers"
 date: 2012-01-23T12:54:00.000Z
 slug: the-advantages-and-disadvantages-of-inkjet-printers
 description: "The Advantages and Disadvantages of Inkjet Printers"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [ink cartridges]
 ---

@@ -3,7 +3,7 @@ title: "3 Steps in Choosing Professional Ink & Toner Cartridges: Remanufactured 
 date: 2020-09-04T16:55:00.000Z
 slug: 3-steps-in-choosing-professional-ink-toner-cartridges-remanufactured-vs-refillable-vs-compatible
 description: "3 Steps in Choosing Professional Ink & Toner Cartridges: Remanufactured vs Refillable vs Compatible"
-featured_image: /images/archive/2020/09/CompandsaveImageA.png
+featured_image: /blog/images/archive/2020/09/CompandsaveImageA.png
 authors: Andrew Yeung
 tags: []
 ---

@@ -3,7 +3,7 @@ title: "7-step process of Re-manufactured ink and toner cartridges"
 date: 2014-06-24T01:50:00.000Z
 slug: 7-step-process-of-re-manufactured-ink-and-toner-cartridges
 description: "7-step process of Re-manufactured ink and toner cartridges"
-featured_image: /images/archive/2014/06/AutomaticSortingMachineBelt.jpg
+featured_image: /blog/images/archive/2014/06/AutomaticSortingMachineBelt.jpg
 authors: Andrew Yeung
 tags: [Ink &amp; Toner,Re-manufactured Tone Cartridge,Re-manufacturing Process,LaserJet Cartridges,Re-manufactured Ink Cartridge,Inkjet Cartridges]
 ---

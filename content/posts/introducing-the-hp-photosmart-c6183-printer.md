@@ -3,7 +3,7 @@ title: "Introducing the HP PhotoSmart C6183 Printer"
 date: 2012-05-02T06:45:00.000Z
 slug: introducing-the-hp-photosmart-c6183-printer
 description: "Introducing the HP PhotoSmart C6183 Printer"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

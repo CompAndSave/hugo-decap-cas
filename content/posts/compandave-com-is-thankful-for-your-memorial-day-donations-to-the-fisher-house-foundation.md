@@ -3,7 +3,7 @@ title: "CompAndave.com is thankful for your Memorial Day donations to the Fisher
 date: 2014-06-25T05:57:00.000Z
 slug: compandave-com-is-thankful-for-your-memorial-day-donations-to-the-fisher-house-foundation
 description: "CompAndave.com is thankful for your Memorial Day donations to the Fisher House Foundation"
-featured_image: /images/archive/2014/06/Snap66.jpg
+featured_image: /blog/images/archive/2014/06/Snap66.jpg
 authors: Andrew Yeung
 tags: [CompAndSave.com,Memorial Day,Fisher House Foundation]
 ---

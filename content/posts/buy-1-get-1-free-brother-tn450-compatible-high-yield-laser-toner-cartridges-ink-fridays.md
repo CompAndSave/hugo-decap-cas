@@ -3,7 +3,7 @@ title: "Buy 1, Get 1 Free: Brother TN450 Compatible High Yield Laser Toner Cartr
 date: 2015-04-24T20:00:00.000Z
 slug: buy-1-get-1-free-brother-tn450-compatible-high-yield-laser-toner-cartridges-ink-fridays
 description: "Buy 1, Get 1 Free: Brother TN450 Compatible High Yield Laser Toner Cartridges - Ink Fridays™!"
-featured_image: /images/archive/2015/04/large.png
+featured_image: /blog/images/archive/2015/04/large.png
 authors: Denise Resendez
 tags: [brother printers,Brother TN450 toner,Ink Fridays™,laser toner cartridges]
 ---

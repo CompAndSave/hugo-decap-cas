@@ -3,7 +3,7 @@ title: "Save Big Money On Refurbished Ink And Toner Cartridges"
 date: 2011-10-18T04:31:00.000Z
 slug: save-big-money-on-refurbished-ink-and-toner-cartridges
 description: "Save Big Money On Refurbished Ink And Toner Cartridges"
-featured_image: /images/archive/2011/10/4150CDN.jpg
+featured_image: /blog/images/archive/2011/10/4150CDN.jpg
 authors: Andrew Yeung
 tags: [4150cdn toner,9970cdw toner]
 ---

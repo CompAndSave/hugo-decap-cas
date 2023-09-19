@@ -3,7 +3,7 @@ title: "How to Install Brother Toner Cartridges and Why a New Toner Cartridge Is
 date: 2018-05-11T08:13:00.000Z
 slug: how-to-install-brother-toner-cartridges-and-why-a-new-toner-cartridge-is-smaller-than-the-original
 description: "How to Install Brother Toner Cartridges and Why a New Toner Cartridge Is Smaller Than the Original?"
-featured_image: /images/archive/2018/05/Replacing-toner-cartridge.jpeg
+featured_image: /blog/images/archive/2018/05/Replacing-toner-cartridge.jpeg
 authors: Andrew Yeung
 tags: [brother printers,How-to,Ink &amp; Toner,laser toner cartridges]
 ---

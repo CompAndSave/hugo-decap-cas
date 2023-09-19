@@ -3,7 +3,7 @@ title: "How to use your PhotoSmart D7155 Printer"
 date: 2012-06-12T01:33:00.000Z
 slug: how-to-use-your-photosmart-d7155-printer
 description: "How to use your PhotoSmart D7155 Printer"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

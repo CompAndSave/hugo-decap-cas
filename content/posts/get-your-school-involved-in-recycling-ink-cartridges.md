@@ -3,7 +3,7 @@ title: "Get Your School Involved In Recycling Ink Cartridges"
 date: 2015-08-12T10:49:00.000Z
 slug: get-your-school-involved-in-recycling-ink-cartridges
 description: "Get Your School Involved In Recycling Ink Cartridges"
-featured_image: /images/archive/2015/08/08-11-2015-300x600-1.jpg
+featured_image: /blog/images/archive/2015/08/08-11-2015-300x600-1.jpg
 authors: Denise Resendez
 tags: [back to school,recycling cartridges,Food For the Poor]
 ---

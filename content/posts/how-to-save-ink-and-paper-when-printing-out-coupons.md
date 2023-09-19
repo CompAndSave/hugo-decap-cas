@@ -3,7 +3,7 @@ title: "How To Save Ink and Paper When Printing Out Coupons"
 date: 2013-06-08T04:41:00.000Z
 slug: how-to-save-ink-and-paper-when-printing-out-coupons
 description: "How To Save Ink and Paper When Printing Out Coupons"
-featured_image: /images/archive/2013/06/free-printable-coupons-560x373-1.jpg
+featured_image: /blog/images/archive/2013/06/free-printable-coupons-560x373-1.jpg
 authors: Andrew Yeung
 tags: [coupons,save money,save money on printing,Printing coupons,ink cartridges,Print]
 ---

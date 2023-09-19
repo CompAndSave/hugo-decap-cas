@@ -3,7 +3,7 @@ title: "Good Quality Printer Ink Cartridges At Genuine Prices"
 date: 2011-07-07T06:06:00.000Z
 slug: good-quality-printer-ink-cartridges-at-genuine-prices
 description: "Good Quality Printer Ink Cartridges At Genuine Prices"
-featured_image: /images/archive/2011/07/toner2Bcartridge252812529.jpg
+featured_image: /blog/images/archive/2011/07/toner2Bcartridge252812529.jpg
 authors: Andrew Yeung
 tags: [ce285a,ink cartridges,laser toner cartridges,LaserJet P1102W,hp 85a]
 ---

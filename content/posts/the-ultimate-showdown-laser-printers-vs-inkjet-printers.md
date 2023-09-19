@@ -3,7 +3,7 @@ title: "The Ultimate Showdown: Laser Printers vs. Inkjet Printers"
 date: 2013-03-04T18:00:00.000Z
 slug: the-ultimate-showdown-laser-printers-vs-inkjet-printers
 description: "The Ultimate Showdown: Laser Printers vs. Inkjet Printers"
-featured_image: /images/archive/2013/03/blondeyoungmanboxer.preview_COLOURBOX2284637.jpeg
+featured_image: /blog/images/archive/2013/03/blondeyoungmanboxer.preview_COLOURBOX2284637.jpeg
 authors: Andrew Yeung
 tags: [laser printer,product comparison,toner vs ink,what is toner,inkjet printers vs laser printers,laser printers vs inkjet printers,inkjet printer]
 ---

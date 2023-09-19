@@ -3,7 +3,7 @@ title: "HP PhotoSmart Printer Series – Review at a Glance"
 date: 2012-05-24T00:54:00.000Z
 slug: hp-photosmart-printer-series-review-at-a-glance
 description: "HP PhotoSmart Printer Series – Review at a Glance"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

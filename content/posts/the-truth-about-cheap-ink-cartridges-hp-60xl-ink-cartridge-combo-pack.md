@@ -3,7 +3,7 @@ title: "The Truth About Cheap Ink Cartridges: HP 60XL Ink Cartridge Combo Pack"
 date: 2012-07-20T11:17:00.000Z
 slug: the-truth-about-cheap-ink-cartridges-hp-60xl-ink-cartridge-combo-pack
 description: "The Truth About Cheap Ink Cartridges: HP 60XL Ink Cartridge Combo Pack"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: []
 ---

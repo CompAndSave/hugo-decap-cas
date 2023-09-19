@@ -3,7 +3,7 @@ title: "How to Calculate the Cost of Per Page Printing"
 date: 2012-02-22T15:56:00.000Z
 slug: how-to-calculate-the-cost-of-per-page-printing
 description: "How to Calculate the Cost of Per Page Printing"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [ink cartridges]
 ---

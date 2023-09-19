@@ -3,7 +3,7 @@ title: "Why Spend More On Printer Ink At The Big Box Store"
 date: 2011-10-17T23:18:00.000Z
 slug: why-spend-more-on-printer-ink-at-the-big-box-store
 description: "Why Spend More On Printer Ink At The Big Box Store"
-featured_image: /images/archive/2011/10/4040cdn.jpg
+featured_image: /blog/images/archive/2011/10/4040cdn.jpg
 authors: Andrew Yeung
 tags: [9840cdw toner,brother 4040cdn]
 ---

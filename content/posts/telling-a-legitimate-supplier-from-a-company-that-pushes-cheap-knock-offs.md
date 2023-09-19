@@ -3,7 +3,7 @@ title: "Telling A Legitimate Supplier From A Company That Pushes Cheap Knock Off
 date: 2012-08-17T10:06:00.000Z
 slug: telling-a-legitimate-supplier-from-a-company-that-pushes-cheap-knock-offs
 description: "Telling A Legitimate Supplier From A Company That Pushes Cheap Knock Offs"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: []
 ---

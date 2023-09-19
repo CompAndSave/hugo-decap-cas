@@ -3,7 +3,7 @@ title: "Our Spring March Logo - Love it or Leave It?"
 date: 2015-03-18T18:46:00.000Z
 slug: our-spring-march-logo-love-it-or-leave-it
 description: "Our Spring March Logo - Love it or Leave It?"
-featured_image: /images/archive/2015/03/thumbnail.jpg
+featured_image: /blog/images/archive/2015/03/thumbnail.jpg
 authors: Denise Resendez
 tags: [CompAndSave logo,Spring,March]
 ---

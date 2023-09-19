@@ -3,7 +3,7 @@ title: "DIY Home Improvement with 3D Printing"
 date: 2015-07-21T02:18:00.000Z
 slug: diy-home-improvement-with-3d-printing
 description: "DIY Home Improvement with 3D Printing"
-featured_image: /images/archive/2015/07/thumbnail.png
+featured_image: /blog/images/archive/2015/07/thumbnail.png
 authors: Denise Resendez
 tags: [DIY,home improvement,3D printing]
 ---

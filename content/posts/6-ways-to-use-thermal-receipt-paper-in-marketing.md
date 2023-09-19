@@ -3,7 +3,7 @@ title: "6 Ways to Use Thermal Receipt Paper in Marketing"
 date: 2016-09-20T20:00:00.000Z
 slug: 6-ways-to-use-thermal-receipt-paper-in-marketing
 description: "6 Ways to Use Thermal Receipt Paper in Marketing"
-featured_image: /images/archive/2016/09/6-Ways-that-Thermal-Receipt-Paper-can-Act-as-a-Marketing-Tool-scaled.jpg
+featured_image: /blog/images/archive/2016/09/6-Ways-that-Thermal-Receipt-Paper-can-Act-as-a-Marketing-Tool-scaled.jpg
 authors: Katy S
 tags: [advertising,marketing material,Printed Marketing Materials]
 ---

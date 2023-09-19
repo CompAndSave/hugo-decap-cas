@@ -3,7 +3,7 @@ title: "What Exactly Is Toner?"
 date: 2013-08-08T05:33:00.000Z
 slug: what-exactly-is-toner
 description: "What Exactly Is Toner?"
-featured_image: /images/archive/2013/08/Printer-Toner-Cartridge1.jpg
+featured_image: /blog/images/archive/2013/08/Printer-Toner-Cartridge1.jpg
 authors: Andrew Yeung
 tags: [copy machine,printing,laser toner cartridges,Toner,laser printer]
 ---

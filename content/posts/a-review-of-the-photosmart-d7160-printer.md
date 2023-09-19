@@ -3,7 +3,7 @@ title: "A review of the PhotoSmart D7160 Printer"
 date: 2012-06-12T01:34:00.000Z
 slug: a-review-of-the-photosmart-d7160-printer
 description: "A review of the PhotoSmart D7160 Printer"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

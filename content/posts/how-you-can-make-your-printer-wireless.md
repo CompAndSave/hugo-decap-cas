@@ -3,7 +3,7 @@ title: "How You Can Make Your Printer Wireless"
 date: 2012-05-18T05:57:00.000Z
 slug: how-you-can-make-your-printer-wireless
 description: "How You Can Make Your Printer Wireless"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

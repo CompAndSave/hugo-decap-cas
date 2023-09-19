@@ -3,7 +3,7 @@ title: "The New Generation of Toner Cartridge"
 date: 2012-02-05T09:26:00.000Z
 slug: the-new-generation-of-toner-cartridge
 description: "The New Generation of Toner Cartridge"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [laser toner cartridges]
 ---

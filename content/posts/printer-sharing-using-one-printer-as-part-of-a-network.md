@@ -3,7 +3,7 @@ title: "Printer Sharing – Using One Printer as part of a Network"
 date: 2012-06-24T12:35:00.000Z
 slug: printer-sharing-using-one-printer-as-part-of-a-network
 description: "Printer Sharing – Using One Printer as part of a Network"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

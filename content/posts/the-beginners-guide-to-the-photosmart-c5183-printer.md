@@ -3,7 +3,7 @@ title: "The Beginners Guide to the PhotoSmart C5183 Printer"
 date: 2012-04-24T00:15:00.000Z
 slug: the-beginners-guide-to-the-photosmart-c5183-printer
 description: "The Beginners Guide to the PhotoSmart C5183 Printer"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

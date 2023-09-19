@@ -3,7 +3,7 @@ title: "Using your HP PhotoSmart C5150 Printer"
 date: 2012-03-23T01:24:00.000Z
 slug: using-your-hp-photosmart-c5150-printer
 description: "Using your HP PhotoSmart C5150 Printer"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

@@ -3,7 +3,7 @@ title: "Will 3D Printing Pen Become a Household Staple?"
 date: 2015-03-16T20:48:00.000Z
 slug: will-3d-printing-pen-become-a-household-staple
 description: "Will 3D Printing Pen Become a Household Staple?"
-featured_image: /images/archive/2015/03/cas_pen_300x600_0316.jpg
+featured_image: /blog/images/archive/2015/03/cas_pen_300x600_0316.jpg
 authors: Denise Resendez
 tags: [3D Doodler Pen,Kickstarter,CreoPop 3D Pen,3D printing,3D Pen]
 ---

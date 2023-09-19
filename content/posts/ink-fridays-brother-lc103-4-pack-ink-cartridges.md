@@ -3,7 +3,7 @@ title: "Ink Fridays™: Brother LC103 (4-Pack) Ink Cartridges"
 date: 2015-01-17T00:02:00.000Z
 slug: ink-fridays-brother-lc103-4-pack-ink-cartridges
 description: "Ink Fridays™: Brother LC103 (4-Pack) Ink Cartridges"
-featured_image: /images/archive/2015/01/ink-friday-banner.jpg
+featured_image: /blog/images/archive/2015/01/ink-friday-banner.jpg
 authors: Denise Resendez
 tags: [CompAndSave.com,Discount Offers,Ink Fridays™,Save on Ink &amp; Toner]
 ---

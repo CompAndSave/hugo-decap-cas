@@ -3,7 +3,7 @@ title: "Amazing Features And Facts Of Brother LC75 Cartridges"
 date: 2012-07-10T11:07:00.000Z
 slug: amazing-features-and-facts-of-brother-lc75-cartridges
 description: "Amazing Features And Facts Of Brother LC75 Cartridges"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: []
 ---

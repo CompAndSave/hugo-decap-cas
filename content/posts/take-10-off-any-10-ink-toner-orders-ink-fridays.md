@@ -3,7 +3,7 @@ title: "Take $10 off any $10 Ink & Toner Orders - Ink Fridays ™"
 date: 2015-06-12T22:37:00.000Z
 slug: take-10-off-any-10-ink-toner-orders-ink-fridays
 description: "Take $10 off any $10 Ink & Toner Orders - Ink Fridays ™"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Denise Resendez
 tags: [compatible ink and toner cartridges,Ink Fridays™,Save on Ink &amp; Toner]
 ---

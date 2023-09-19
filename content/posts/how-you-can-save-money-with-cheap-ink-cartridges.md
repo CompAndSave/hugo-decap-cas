@@ -3,7 +3,7 @@ title: "How You Can Save Money with Cheap Ink Cartridges"
 date: 2016-11-15T21:00:00.000Z
 slug: how-you-can-save-money-with-cheap-ink-cartridges
 description: "How You Can Save Money with Cheap Ink Cartridges"
-featured_image: /images/archive/2016/11/credit-squeeze.jpg
+featured_image: /blog/images/archive/2016/11/credit-squeeze.jpg
 authors: Katy S
 tags: [cheap printing,compatible ink cartridges,remanufactured printer cartridges,ink cartridges]
 ---

@@ -3,7 +3,7 @@ title: "Get $35 off Lexmark #200XL (4-pack) Replacement Ink Cartridges - Ink Fri
 date: 2015-07-17T22:37:00.000Z
 slug: get-35-off-lexmark-200xl-4-pack-replacement-ink-cartridges-ink-fridays
 description: "Get $35 off Lexmark #200XL (4-pack) Replacement Ink Cartridges - Ink Fridays™"
-featured_image: /images/archive/2015/07/1_inkfridaysssss.png
+featured_image: /blog/images/archive/2015/07/1_inkfridaysssss.png
 authors: Denise Resendez
 tags: [Ink Fridays™,ink cartridges,Lexmark 200XL]
 ---

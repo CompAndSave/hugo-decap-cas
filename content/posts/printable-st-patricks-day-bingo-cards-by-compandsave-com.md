@@ -3,7 +3,7 @@ title: "Printable St. Patrick's Day Bingo Cards by CompAndSave.com"
 date: 2014-03-11T04:00:00.000Z
 slug: printable-st-patricks-day-bingo-cards-by-compandsave-com
 description: "Printable St. Patrick's Day Bingo Cards by CompAndSave.com"
-featured_image: /images/archive/2014/03/st-patrick-moc-up.jpg
+featured_image: /blog/images/archive/2014/03/st-patrick-moc-up.jpg
 authors: Andrew Yeung
 tags: [Printable Bingo Cards,St. Patrick's Day Bingo Cards]
 ---

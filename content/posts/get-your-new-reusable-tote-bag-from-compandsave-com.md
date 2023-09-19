@@ -3,7 +3,7 @@ title: "Get your new Reusable Tote Bag from CompAndsave.com"
 date: 2014-03-27T00:56:00.000Z
 slug: get-your-new-reusable-tote-bag-from-compandsave-com
 description: "Get your new Reusable Tote Bag from CompAndsave.com"
-featured_image: /images/archive/2014/03/totebagpost.jpg
+featured_image: /blog/images/archive/2014/03/totebagpost.jpg
 authors: Andrew Yeung
 tags: [Free Recycled Grocery Bag,Free Reusable Tote Bag]
 ---

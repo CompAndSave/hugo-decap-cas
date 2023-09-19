@@ -3,7 +3,7 @@ title: "How To Run A Successful Social Marketing Campaign?"
 date: 2011-08-08T10:39:00.000Z
 slug: how-to-run-a-successful-social-marketing-campaign
 description: "How To Run A Successful Social Marketing Campaign?"
-featured_image: /images/archive/2011/08/social-media-marketing.jpg
+featured_image: /blog/images/archive/2011/08/social-media-marketing.jpg
 authors: Andrew Yeung
 tags: [business,online marketing,social marketing]
 ---

@@ -3,7 +3,7 @@ title: "Take $10 Off Any $30+ Ink & Toner Order at CompAndSave - Ink Fridays™"
 date: 2015-05-01T21:53:00.000Z
 slug: take-10-off-any-30-ink-toner-order-at-compandsave-ink-fridays
 description: "Take $10 Off Any $30+ Ink & Toner Order at CompAndSave - Ink Fridays™"
-featured_image: /images/archive/2015/05/fb-banner.png
+featured_image: /blog/images/archive/2015/05/fb-banner.png
 authors: Denise Resendez
 tags: [compatible ink cartridges,compatible toner cartridges,discounts,Ink Fridays™,remanufactured printer cartridges]
 ---

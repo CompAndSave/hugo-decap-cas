@@ -3,7 +3,7 @@ title: "Go Green With Remanufactured Print Cartridges!"
 date: 2012-10-29T22:00:00.000Z
 slug: go-green-with-remanufactured-print-cartridges
 description: "Go Green With Remanufactured Print Cartridges!"
-featured_image: /images/archive/2012/10/plantlightbulbseparate.preview_COLOURBOX3675939copy.jpg
+featured_image: /blog/images/archive/2012/10/plantlightbulbseparate.preview_COLOURBOX3675939copy.jpg
 authors: Andrew Yeung
 tags: [green,remanufactured printer cartridges,recycling,ink cartridges]
 ---

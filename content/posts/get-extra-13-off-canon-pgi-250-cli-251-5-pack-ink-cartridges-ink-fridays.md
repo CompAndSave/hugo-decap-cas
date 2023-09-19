@@ -3,7 +3,7 @@ title: "Get Extra $13 off Canon PGI-250 & CLI-251 (5 Pack) Ink Cartridges - Ink 
 date: 2015-09-11T23:25:00.000Z
 slug: get-extra-13-off-canon-pgi-250-cli-251-5-pack-ink-cartridges-ink-fridays
 description: "Get Extra $13 off Canon PGI-250 & CLI-251 (5 Pack) Ink Cartridges - Ink Fridays™"
-featured_image: /images/archive/2015/09/inkfridays-canon.png
+featured_image: /blog/images/archive/2015/09/inkfridays-canon.png
 authors: Denise Resendez
 tags: [Canon PGI-250XL,CLI-251XL,Ink Fridays™]
 ---

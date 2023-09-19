@@ -3,7 +3,7 @@ title: "Print Your Mom Something Special for Mother's Day"
 date: 2013-05-09T23:17:00.000Z
 slug: print-your-mom-something-special-for-mothers-day
 description: "Print Your Mom Something Special for Mother's Day"
-featured_image: /images/archive/2013/05/6a00d8358081ff69e201901baa95ca970b-800wi.jpg
+featured_image: /blog/images/archive/2013/05/6a00d8358081ff69e201901baa95ca970b-800wi.jpg
 authors: Andrew Yeung
 tags: [DIY,Printed gifts,printing,Printer crafts,Printer paper,projects,inkjet printer]
 ---

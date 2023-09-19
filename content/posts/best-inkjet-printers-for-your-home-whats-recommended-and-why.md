@@ -3,7 +3,7 @@ title: "Best Inkjet Printers for Your Home – What's Recommended and Why"
 date: 2013-12-04T04:24:00.000Z
 slug: best-inkjet-printers-for-your-home-whats-recommended-and-why
 description: "Best Inkjet Printers for Your Home – What's Recommended and Why"
-featured_image: /images/archive/2013/12/Home_office_3cas.jpg
+featured_image: /blog/images/archive/2013/12/Home_office_3cas.jpg
 authors: Andrew Yeung
 tags: [Best Inkjet Printer for Home]
 ---

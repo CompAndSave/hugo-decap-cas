@@ -3,7 +3,7 @@ title: "How a Trade War with China Affects Consumers in the United States"
 date: 2018-05-04T08:11:00.000Z
 slug: how-a-trade-war-with-china-affects-consumers-in-the-united-states
 description: "How a Trade War with China Affects Consumers in the United States"
-featured_image: /images/archive/2018/05/US-China-Trade-War.jpeg
+featured_image: /blog/images/archive/2018/05/US-China-Trade-War.jpeg
 authors: Andrew Yeung
 tags: [import tariffs,price increase,Trade War,US Consumer]
 ---

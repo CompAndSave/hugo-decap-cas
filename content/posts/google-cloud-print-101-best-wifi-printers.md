@@ -3,7 +3,7 @@ title: "Google Cloud Print 101: Best Wifi Printers"
 date: 2014-12-14T08:24:00.000Z
 slug: google-cloud-print-101-best-wifi-printers
 description: "Google Cloud Print 101: Best Wifi Printers"
-featured_image: /images/archive/2014/12/Untitled.png
+featured_image: /blog/images/archive/2014/12/Untitled.png
 authors: Denise Resendez
 tags: [cloud print,cloud printers,google cloud,google cloud print,printing,wifi printing]
 ---

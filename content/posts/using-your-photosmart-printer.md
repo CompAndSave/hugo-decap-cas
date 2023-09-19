@@ -3,7 +3,7 @@ title: "Using your PhotoSmart Printer"
 date: 2012-03-23T01:23:00.000Z
 slug: using-your-photosmart-printer
 description: "Using your PhotoSmart Printer"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

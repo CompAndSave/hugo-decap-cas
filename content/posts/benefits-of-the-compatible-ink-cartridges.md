@@ -3,7 +3,7 @@ title: "Benefits of the Compatible Ink Cartridges"
 date: 2012-05-29T02:56:00.000Z
 slug: benefits-of-the-compatible-ink-cartridges
 description: "Benefits of the Compatible Ink Cartridges"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

@@ -3,7 +3,7 @@ title: "Why You Can't Print with One Empty Cartridge"
 date: 2018-07-09T20:00:00.000Z
 slug: why-you-cant-print-with-one-empty-cartridge
 description: "Why You Can't Print with One Empty Cartridge"
-featured_image: /images/archive/2018/07/ink-cartridges-exhausted-stacked-yellow-background-empty-labels-four-primary-colors-51356334-2B-25281-2529.jpg
+featured_image: /blog/images/archive/2018/07/ink-cartridges-exhausted-stacked-yellow-background-empty-labels-four-primary-colors-51356334-2B-25281-2529.jpg
 authors: Andrew Yeung
 tags: [Color printing,Ink Cartridge]
 ---

@@ -3,7 +3,7 @@ title: "Ink and laser toners at deep discounts."
 date: 2011-10-11T01:56:00.000Z
 slug: ink-and-laser-toners-at-deep-discounts
 description: "Ink and laser toners at deep discounts."
-featured_image: /images/archive/2011/10/printer-ink.jpg
+featured_image: /blog/images/archive/2011/10/printer-ink.jpg
 authors: Andrew Yeung
 tags: [ink cartridges,laser toner cartridges]
 ---

@@ -3,7 +3,7 @@ title: "The HP PhotoSmart C6175 All in One Printer"
 date: 2012-04-30T08:49:00.000Z
 slug: the-hp-photosmart-c6175-all-in-one-printer
 description: "The HP PhotoSmart C6175 All in One Printer"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: [photosmart ink]
 ---

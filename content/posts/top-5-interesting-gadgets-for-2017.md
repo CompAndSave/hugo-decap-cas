@@ -3,7 +3,7 @@ title: "Top 5 Interesting Gadgets for 2017"
 date: 2017-01-10T21:00:00.000Z
 slug: top-5-interesting-gadgets-for-2017
 description: "Top 5 Interesting Gadgets for 2017"
-featured_image: /images/archive/2017/01/Wair-anti-pollution-scarf.jpg
+featured_image: /blog/images/archive/2017/01/Wair-anti-pollution-scarf.jpg
 authors: Katy S
 tags: [games,technology trends,New Year]
 ---

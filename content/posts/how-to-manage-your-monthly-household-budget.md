@@ -3,7 +3,7 @@ title: "How to Manage Your Monthly Household Budget"
 date: 2017-01-31T21:00:00.000Z
 slug: how-to-manage-your-monthly-household-budget
 description: "How to Manage Your Monthly Household Budget"
-featured_image: /images/archive/2017/01/budgeting.jpg
+featured_image: /blog/images/archive/2017/01/budgeting.jpg
 authors: Katy S
 tags: [home projects,save money]
 ---

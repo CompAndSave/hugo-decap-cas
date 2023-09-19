@@ -3,7 +3,7 @@ title: "Advantages Of Using Canon PGI225 And Its Compatibility With Printer"
 date: 2012-07-02T11:00:00.000Z
 slug: advantages-of-using-canon-pgi225-and-its-compatibility-with-printer
 description: "Advantages Of Using Canon PGI225 And Its Compatibility With Printer"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: []
 ---

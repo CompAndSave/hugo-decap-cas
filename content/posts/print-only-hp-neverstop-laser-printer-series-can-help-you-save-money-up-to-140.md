@@ -3,7 +3,7 @@ title: "Print-Only HP Neverstop Laser Printer Series Can Help You Save Money Up 
 date: 2020-04-03T16:14:00.000Z
 slug: print-only-hp-neverstop-laser-printer-series-can-help-you-save-money-up-to-140
 description: "Print-Only HP Neverstop Laser Printer Series Can Help You Save Money Up to 140%"
-featured_image: /images/archive/2020/04/796338-scaled.jpg
+featured_image: /blog/images/archive/2020/04/796338-scaled.jpg
 authors: Amanda M
 tags: [brother laser printers,print-only laser printer,Print-Only laser printers,HP Neverstop Laser Printer Series,laser printer,laser printers]
 ---

@@ -3,7 +3,7 @@ title: "Top 5 Best Home Printers 2019"
 date: 2019-07-11T05:55:00.000Z
 slug: top-5-best-home-printers-2019
 description: "Top 5 Best Home Printers 2019"
-featured_image: /images/archive/2019/07/7095.jpg
+featured_image: /blog/images/archive/2019/07/7095.jpg
 authors: Andrew Yeung
 tags: [best home printer,printer review]
 ---

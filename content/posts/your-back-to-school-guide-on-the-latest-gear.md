@@ -3,7 +3,7 @@ title: "Your Back-to-School Guide on the Latest Gear"
 date: 2017-07-25T19:00:00.000Z
 slug: your-back-to-school-guide-on-the-latest-gear
 description: "Your Back-to-School Guide on the Latest Gear"
-featured_image: /images/archive/2017/07/back-to-school.jpg
+featured_image: /blog/images/archive/2017/07/back-to-school.jpg
 authors: Katy S
 tags: [Inkjet printers,Online Shopping,Printer Ink,back to school,Children,all in one printer]
 ---

@@ -3,7 +3,7 @@ title: "Stop Overpaying For Your Ink And Toner Cartridges"
 date: 2011-10-17T07:06:00.000Z
 slug: stop-overpaying-for-your-ink-and-toner-cartridges
 description: "Stop Overpaying For Your Ink And Toner Cartridges"
-featured_image: /images/archive/2011/10/P4015n.jpg
+featured_image: /blog/images/archive/2011/10/P4015n.jpg
 authors: Andrew Yeung
 tags: [p4014n toner,p4015n toner]
 ---

@@ -3,7 +3,7 @@ title: "Take 70% off Canon PGI-250XL & CLI-251XL Compatible 5-Pack Cartridges un
 date: 2015-05-09T00:01:00.000Z
 slug: take-70-off-canon-pgi-250xl-cli-251xl-compatible-5-pack-cartridges-until-midnight-ink-fridays
 description: "Take 70% off Canon PGI-250XL & CLI-251XL Compatible 5-Pack Cartridges until midnight - Ink Fridays™"
-featured_image: /images/archive/2015/05/fb-banner2B1.png
+featured_image: /blog/images/archive/2015/05/fb-banner2B1.png
 authors: Denise Resendez
 tags: [canon printer cartridges,Ink Fridays™]
 ---

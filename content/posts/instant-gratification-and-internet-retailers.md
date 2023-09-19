@@ -3,7 +3,7 @@ title: "Instant Gratification and Internet Retailers"
 date: 2012-08-27T10:13:00.000Z
 slug: instant-gratification-and-internet-retailers
 description: "Instant Gratification and Internet Retailers"
-featured_image: /images/archive/2020/07/blog-placeholder.png
+featured_image: /blog/images/archive/2020/07/blog-placeholder.png
 authors: Andrew Yeung
 tags: []
 ---

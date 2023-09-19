@@ -3,7 +3,7 @@ title: "Creative Tips For Distributing Your Business Cards"
 date: 2013-04-25T01:06:00.000Z
 slug: creative-tips-for-distributing-your-business-cards
 description: "Creative Tips For Distributing Your Business Cards"
-featured_image: /images/archive/2013/04/businesscard.jpg
+featured_image: /blog/images/archive/2013/04/businesscard.jpg
 authors: Andrew Yeung
 tags: [Business cards,networking,print business cards,business information,community,marketing material]
 ---
