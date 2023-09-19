@@ -15,9 +15,11 @@ Follow this link to install Hugo at your local environment for development purpo
 https://gohugo.io/getting-started/quick-start/
 
 Tips:
+
 You can add the shortcut command found at `.bashrc` to run hugo server at your local. It will sync the updated configuration and content to the public folder `blog/` as the change on watched files happens.
 
 **Important files**
+
 - `hugo.toml`: Hugo configuration file - To learn more: https://gohugo.io/getting-started/configuration/
 
 
@@ -30,11 +32,15 @@ Decap is using Netlify to do the user authentication by default. In order to use
 You can easily create yours via GitHub authentication by AWS Lambda. Check out this repository for details. https://github.com/lubu12/decap-sveltia-cms-auth-lambda
 
 **Important files**
+
 All configuration files for Decap CMS is under `static/admin`.
+
 - `config.yml`: Decap CMS configuration file. To learn more: https://decapcms.org/docs/configuration-options/
 - `index.html`: If the blog is hosted in a subfolder of a domain. `config.yml` path will needed to be specified at this file. All the custom widgets should be linked from this file.
 
 ### GitHub Action
 
-`.github/workflows/hugo.yaml` - Configuration file for Github action. When `master` branch is pushed, GitHub action will build the Hugo container, generate the static content files and copy them to the static content repository.
+`.github/workflows/hugo.yaml`
+
+Configuration file for Github action. When `master` branch is pushed, GitHub action will build the Hugo container, generate the static content files and copy them to the static content repository.
 Since the script will copy the generated static files to static content repository. Personal access token is required and needed to store at Repository secret. To learn more: https://github.com/lubu12/copy-files-to-repository
