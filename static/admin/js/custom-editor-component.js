@@ -90,19 +90,22 @@ const ImageWithLink = {
   fromBlock: (match) =>
     match && {
       image: match[2],
-      alt: match[1]
+      alt: match[1],
+      title: match[4]
     },
 
-  toBlock: ({ alt, image }) =>
-    `[![${alt || ""}](${image || ""})](${image || ""})`,
+  toBlock: ({ alt, image, title }) =>
+    `[![${alt || ""}](${image || ""}${
+      title ? ` "${title.replace(/"/g, '\\"')}"` : ""
+    })](${image || ""})`,
 
-  toPreview: ({ alt, image }, getAsset, fields) => {
+  toPreview: ({ alt, image, title }, getAsset, fields) => {
     const imageField = fields?.find((f) => f.get("widget") === "image");
     const src = getAsset(image, imageField);
-    return `<a target="_blank" href="${image || ""}" class="no-border"><img src="${src || ""}" alt="${alt || ""}" /></a>`;
+    return `<a target="_blank" href="${image || ""}" class="no-border"><img src="${src || ""}" alt="${alt || ""}" title="${title || ""}" /></a>`;
   },
 
-  pattern: /^\[!\[(.*)\]\((.*?)\)\]\((.*?)(\s"(.*)")?\)$/,
+  pattern: /^\[!\[(.*)\]\((.*?)(\s"(.*)")?\)\]\((.*?)(\s"(.*)")?\)$/,
   fields: [
     {
       label: "Image",
@@ -116,6 +119,10 @@ const ImageWithLink = {
       label: "Alt text",
       name: "alt",
       required: true
+    },
+    {
+      label: "Title",
+      name: "title",
     }
   ]
 };

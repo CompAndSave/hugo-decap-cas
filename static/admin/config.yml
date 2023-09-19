@@ -15,7 +15,7 @@ backend:
 site_url: https://www.compandsave.com/blog/
 publish_mode: editorial_workflow
 media_folder: static/images
-public_folder: /images
+public_folder: /blog/images
 show_preview_links: true
 logo_url: https://www.compandsave.com/static/frontend/Compandsave/cas/en_US/images/logo.svg
 
@@ -46,10 +46,10 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime', date_format: 'ddd, MMM DD, YYYY', time_format: 'hh:mm a' }
       - { label: 'Author', name: 'authors', widget: relation, collection: authors_list, file: 'authors', search_fields: [ "authors.*.name" ], value_field: "authors.*.name" }
       - { label: "Permalink", name: "slug", widget: "stringWithCounter", charLimit: 75, required: false }
-      - { label: "Cover Image", name: "featured_image", widget: "image", required: false, choose_url: false, media_folder: '/blog/images' }
+      - { label: "Cover Image", name: "featured_image", widget: "image", required: false, choose_url: false }
       - { label: 'Description', name: 'description', widget: 'textWithCounter', charLimit: 160, rows: 4, cols: 5 }
       - { label: "Tags", name: "tags", widget: "list", collapsed: false, add_to_top: true, allow_add: true, required: false, field: { label: 'Tag', name: 'tag', widget: 'string' }}
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Body', name: 'body', widget: 'markdown', buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list"], editor_components : ['imageWithLink', 'accordion', 'youtubeEmbed'] }
   - name: 'drafts'
     label: 'Drafts'
     folder: 'content/posts'
@@ -73,10 +73,10 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime', date_format: 'ddd, MMM DD, YYYY', time_format: 'hh:mm a' }
       - { label: 'Author', name: 'authors', widget: relation, collection: authors_list, file: 'authors', search_fields: [ "authors.*.name" ], value_field: "authors.*.name"}
       - { label: "Permalink", name: "slug", widget: "stringWithCounter", charLimit: 75, required: false }
-      - { label: "Cover Image", name: "featured_image", widget: "image", required: false, choose_url: false, media_folder: '/blog/images' }
+      - { label: "Cover Image", name: "featured_image", widget: "image", required: false, choose_url: false }
       - { label: 'Description', name: 'description', widget: 'textWithCounter', charLimit: 160, rows: 4, cols: 5 }
       - { label: "Tags", name: "tags", widget: "list", collapsed: false, add_to_top: true, allow_add: true, required: false, field: { label: 'Tag', name: 'tag', widget: 'string' } }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Body', name: 'body', widget: 'markdown', buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list"], editor_components : ['imageWithLink', 'accordion', 'youtubeEmbed'] }
   - name: 'authors_list'
     label: 'Authors List'
     editor:
