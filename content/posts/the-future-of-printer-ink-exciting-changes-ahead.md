@@ -18,7 +18,7 @@ tags:
 ---
 [![ink cartridges at printer](/blog/images/printer-933098_640.jpg "ink cartridges at printer")](/blog/images/printer-933098_640.jpg)
 
-Ever wondered about the ink in your printer? It might seem like a small thing, but it's going through some big changes. Let's dive into the colorful world of printer ink and see what's happening now and what's coming up next.
+Ever wondered about the ink in your printer? It might seem like a small thing, but it's going through some big changes. Let's dive into the colorful world of [printer ink](https://www.compandsave.com) and see what's happening now and what's coming up next.
 
 ## A Quick Look Back
 
