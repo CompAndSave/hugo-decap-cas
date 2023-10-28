@@ -10,8 +10,6 @@ description: >
 ---
 Have you ever wondered how much waste the printing industry generates each year? Are you ready to start with eco-friendly printing and do your part for the environment? Well, get ready to embark on a journey to discover the incredible power of sustainable printing and how it works. Read on to learn tips on how to print with a purpose and make a difference! 
 
-
-
 In this guide, we will discuss the following: \[to dev:anchor]
 
 1. What is Eco-Friendly Printing?
@@ -20,7 +18,8 @@ In this guide, we will discuss the following: \[to dev:anchor]
 4. Eco-Friendly Printing: Other Benefits
 5. Practice Eco-Friendly Printing: Tips on What You Can Do to Help
 6. Eco-Friendly Printing Challenges Faced
-7. What is Eco-Friendly Printing?
+
+## What is Eco-Friendly Printing?
 
 Ever wondered how we can make printing kinder to the environment? That's where eco-friendly printing, also called green printing, comes in. Say goodbye to harmful practices and hello to sustainable printing. We're positively changing our environment with recycled materials, eco-friendly inks, and energy-efficient methods. Join the movement and reduce your carbon footprint today.
 
@@ -50,8 +49,6 @@ Eco-friendly printing is like a superhero compared to the old way of printing. I
 
 Choosing [remanufactured ink cartridges](https://www.compandsave.com/what-are-remanufactured-ink-cartridges-guide) is a clever and planet-friendly move in printing. These cartridges, also known as [recycled or fixed-up ink cartridges](https://www.compandsave.com/environmentally-friendly-ink-cartridges), provide a green alternative to regular, use-it-once-and-toss cartridges. Here's why picking remanufactured ink is a great idea:
 
-
-
 * **Less Plastic Waste:** Remanufactured ink cartridges are like the recycling champs of the cartridge world. They're old cartridges that get a makeover – they're cleaned up and refilled with fresh ink. This means we don't need to make as many new plastic cartridges, which is awesome for reducing plastic waste.
 * **Budget-Friendly:** These ink heroes, such as [CompAndSave’s remanufactured inks](https://www.compandsave.com/), are often kinder to your wallet than brand-new ones. So, not only are you doing your bit for the environment, but you're also saving some cash.
 * **Reliable and Compatible:** Remanufactured ink cartridges are like the friendly team players of the printing world. They get along with a wide range of printers, and they're known for quality and performance. You get to be eco-conscious without compromising on print quality.
@@ -60,11 +57,7 @@ Choosing [remanufactured ink cartridges](https://www.compandsave.com/what-are-re
 
 Recycled paper is like a hero in environmentally friendly printing. Instead of making new paper, we give old paper a second chance. This saves lots of energy and resources, which is pretty awesome!
 
-
-
 And there's more to it! Eco-friendly printers skip the new paper and go for the recycled stuff made from old paper or leftover bits from farms. This helps in so many ways:
-
-
 
 * **Less waste:** We're not cutting down as many trees.
 * **Energy saved:** Making new paper is a real energy muncher, but recycling is easier on the planet.
@@ -74,13 +67,9 @@ And there's more to it! Eco-friendly printers skip the new paper and go for the 
 
 Eco-friendly printing is all about using high-tech tricks, like waterless printing. They use lots of water in old-style printing to wet the printing plate. But waterless printing is different. It doesn't need a drop of water, and here's why it's a green hero:
 
-
-
 * **Saves Water:** Waterless printing is like a water-saving champion. It doesn't slurp gallons of water like the old way of printing.
 * **Less Chemicals:** Because it's waterless, it doesn't need as many chemicals, so there's less chance of nasty chemical waste and pollution.
 * **Superior Quality:** Waterless printing doesn't just save the day for the environment; it makes prints look sharper and more dazzling, giving us top-notch printed stuff.
-
-
 
 Eco-friendly printing is like a symphony of green practices. It brings together materials and methods that care for our planet. It's all about reducing the harm that regular printing can do while still giving you great prints.
 
