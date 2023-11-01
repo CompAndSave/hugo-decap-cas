@@ -1,23 +1,35 @@
 {
-    "authors" : [{
-        "name": "Andrew Yeung",
-        "email": "andrew@compandsave.com",
-        "status": "active"
+  "authors": [
+    {
+      "status": "active",
+      "name": "Trisha Olivar",
+      "email": "trishao@compandsave.com"
     },
     {
-        "name": "Amanda M",
-        "email": "amandam@compandsave.com",
-        "status": "locked"
+      "status": "active",
+      "name": "Showerly Sumaylo",
+      "email": "showerlys@compandsave.com"
     },
     {
-        "id": "5f1f8836b8e5406ad8211b68",
-        "name": "Denise Resendez",
-        "email": "deniser@compandsave.com",
-        "status": "locked"
+      "name": "Andrew Yeung",
+      "email": "andrew@compandsave.com",
+      "status": "active"
     },
     {
-        "name": "Katy S",
-        "email": "katys@compandsave.com",
-        "status": "locked"
-    }]
+      "name": "Amanda M",
+      "email": "amandam@compandsave.com",
+      "status": "locked"
+    },
+    {
+      "id": "5f1f8836b8e5406ad8211b68",
+      "name": "Denise Resendez",
+      "email": "deniser@compandsave.com",
+      "status": "locked"
+    },
+    {
+      "name": "Katy S",
+      "email": "katys@compandsave.com",
+      "status": "locked"
+    }
+  ]
 }
