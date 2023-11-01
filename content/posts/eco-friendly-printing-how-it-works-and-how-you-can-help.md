@@ -10,7 +10,7 @@ description: >
 ---
 Have you ever wondered how much waste the printing industry generates each year? Are you ready to start with eco-friendly printing and do your part for the environment? Well, get ready to embark on a journey to discover the incredible power of sustainable printing and how it works. Read on to learn tips on how to print with a purpose and make a difference! 
 
-In this guide, we will discuss the following: \[to dev:anchor]
+In this guide, we will discuss the following: 
 
 1. What is Eco-Friendly Printing?
 2. What is the Environmental Impact of Traditional Printing?
@@ -97,7 +97,7 @@ Embracing eco-friendly practices pushes the printing industry to discover and us
 
 More and more people like eco-friendly stuff, so when a business offers those options, it makes customers happy and keeps them returning for more. It's like giving your customers exactly what they want! 
 
-## Practice Eco-Friendly Printing: Tips on What You Can Do to Help\[to dev:tb-card]
+## Practice Eco-Friendly Printing: Tips on What You Can Do to Help
 
 Ready to start your sustainable printing journey? Practicing it is a responsible choice that can help reduce your environmental footprint. Here are some tips to help you practice eco-friendly printing:
 
@@ -195,7 +195,7 @@ Join the green revolution today by embracing eco-friendly printing practices! It
 
 Do you need assistance with ink orders or have any inquiries? Reach out to our friendly team at 1-833-465-6888 toll-free. Our dedicated support staff is available Monday to Friday, 6 a.m. to 4 p.m. PT. Count on us to ensure your printing experience is hassle-free and enjoyable!
 
-## Frequently Asked Questions \[to dev:accordion]
+## Frequently Asked Questions 
 
 ### Is eco-friendly printing more expensive than traditional printing?
 
