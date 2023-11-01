@@ -1,7 +1,7 @@
 ---
 title: "Eco-Friendly Printing: How It Works and How You Can Help"
 date: 2023-10-28T13:33:18.841Z
-authors: Katy S
+authors: Andrew Yeung
 featured_image: /blog/images/ingoude.-8-.png
 description: >
   What is eco-friendly printing, and how is it changing how we print? Learn
