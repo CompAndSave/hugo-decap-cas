@@ -1,13 +1,17 @@
 ---
-title: "DIY Projects for Kids"
+title: DIY Projects for Kids
 date: 2016-08-30T20:00:00.000Z
-slug: diy-projects-for-kids
-description: "DIY Projects for Kids"
-featured_image: /blog/images/archive/2016/08/diykids.jpg
 authors: Katy S
-tags: [back to school,home projects,Children,stickers,DIY]
+slug: diy-projects-for-kids
+featured_image: /blog/images/archive/2016/08/diykids.jpg
+description: DIY Projects for Kids
+tags:
+  - back to school
+  - home projects
+  - Children
+  - stickers
+  - DIY
 ---
-
 [![DIY for Kids](/blog/images/diykids.jpg "DIY Banner")](/blog/images/diykids.jpg)Now that school is back in session or close to it, let's explore a few fun DIY projects that your child might make in school. You can even do these projects with your kids at home. 
 
 ### Dioramas
@@ -26,11 +30,11 @@ An easy DIY project for kids is a bookmark. ThePartyAnimal.org created these fun
 
 [Kimberly Layton](https://www.everythingetsy.com/2011/07/felt-bookmarks-tutorial-back-to-school/) at Everything Etsy crafted a simple bookmark using felt and large paper clips. Just cut your felt to a two-inch strip and wrap around the end of a paper clip. Secure the felt with needle and thread or with hot glue. You can then cut out felt shapes and adhere them to the main felt piece using thread or glue.
 
-[![DIY Bookmarks](/blog/images/feltbookmarks11_thumb.jpg "Paperclip Bookmarks")](/blog/images/feltbookmarks11%5Fthumb.jpg)
+[![DIY Bookmarks](/blog/images/feltbookmarks11_thumb.jpg "Paperclip Bookmarks")](/blog/images/feltbookmarks11_thumb.jpg)
 
 ### Cards
 
-Kid's Crafts Contributor [Stephanie](https://thinkcrafts.com/blog/2012/09/15/apple-notecards/) made this cute apple note card. All you need are note cards or heavy paper, a halved apple, red paint, and black marker or pen. Dip the apple half in the red paint and stamp on to the note cards. After the paint dries, your child can add the apple core and stem with a black pen or fine-tip marker.
+To make a cute apple note card, all you need are note cards or heavy paper, a halved apple, red paint, and black marker or pen. Dip the apple half in the red paint and stamp on to the note cards. After the paint dries, your child can add the apple core and stem with a black pen or fine-tip marker.
 
 [![DIY Cards](/blog/images/Think-Crafts-Apple-Notecards.jpg "Apple Cards")](/blog/images/Think-Crafts-Apple-Notecards.jpg)
 
