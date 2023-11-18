@@ -47,15 +47,15 @@ Fixing toner issues can be a headache, but it can be less troublesome when you c
 
 **2. Check the Toner Levels:** First, see if your toner cartridge has enough toner left in it. If it's running low, it can cause printing issues. To check the toner levels in your printer, follow these simple steps:
 
-**\- Open Your Printer Software:** Start by opening the software or application on your computer that controls your printer.
+**Step 1: Open Your Printer Software:** Start by opening the software or application on your computer that controls your printer.
 
-**\- Access Printer Properties or Settings:** Look for options like "Printer Preferences," "Printer Properties," or "Maintenance."
+**Step 2: Access Printer Properties or Settings:** Look for options like "Printer Preferences," "Printer Properties," or "Maintenance."
 
-**\- Find Toner or Supplies:** Within the printer properties or settings, search for a tab or section related to "Toner" or "Supplies."
+**Step 3: Find Toner or Supplies:** Within the printer properties or settings, search for a tab or section related to "Toner" or "Supplies."
 
-**\- Check Toner Levels:** In this section, you should see information about your toner levels. It might display a graphic showing the remaining toner or provide a percentage.
+**Step 4: Check Toner Levels:** In this section, you should see information about your toner levels. It might display a graphic showing the remaining toner or provide a percentage.
 
-**\- Note the Toner Level:** Take note of the toner level to see if it's low or needs replacement.
+**Step 5: Note the Toner Level:** Take note of the toner level to see if it's low or needs replacement.
 
 **3. Use the Right Cartridge:** Double-check if you use the correct toner cartridge that fits your printer model. The wrong one won't work correctly.
 
@@ -71,21 +71,21 @@ If none of the initial approaches fixed any of your toner cartridge problems, it
 
 One of the most common issues is when your printer fails to recognize the toner cartridge. This can happen for various reasons, including outdated firmware or when you [refill toner cartridge](https://www.wikihow.com/Refill-a-Laser-Printer-or-Copier-Toner-Cartridge). To fix the "Toner Cartridge Not Recognized" problem, follow these steps:
 
-**\- Turn Off the Printer.** First, turn off the printer and unplug it from the power source.
+**Step 1: Turn Off the Printer.** First, turn off the printer and unplug it from the power source.
 
-**\- Remove the Toner Cartridge.** Open the printer's cover and take out the toner cartridge.
+**Step 2: Remove the Toner Cartridge.** Open the printer's cover and take out the toner cartridge.
 
-**\- Inspect the Cartridge.** Check the cartridge for any visible damage, like scratches or loose parts.
+**Step 3: Inspect the Cartridge.** Check the cartridge for any visible damage, like scratches or loose parts.
 
-**\- Check the Printer Contacts.** Look inside the printer where the cartridge goes and clean the corresponding contacts with a clean, dry cloth if they are dirty. This helps ensure a good connection.
+**Step 4: Check the Printer Contacts.** Look inside the printer where the cartridge goes and clean the corresponding contacts with a clean, dry cloth if they are dirty. This helps ensure a good connection.
 
-**\- Reinsert the Cartridge.** Put the toner cartridge back into the printer and ensure it's properly seated.
+**Step 5: Reinsert the Cartridge.** Put the toner cartridge back into the printer and ensure it's properly seated.
 
-**\- Power On the Printer.** Plug the printer back in, turn it on, and see if it recognizes the cartridge.
+**Step 6: Power On the Printer.** Plug the printer back in, turn it on, and see if it recognizes the cartridge.
 
-**\- Replace Cartridge.** If the problem persists, try a different toner cartridge to see if it's a cartridge-specific issue.
+**Step 7: Replace Cartridge.** If the problem persists, try a different toner cartridge to see if it's a cartridge-specific issue.
 
-**\- Update Printer Firmware.** Sometimes, updating your printer's software or firmware can resolve recognition issues. To update your printer’s firmware:
+**Step 8: Update Printer Firmware.** Sometimes, updating your printer's software or firmware can resolve recognition issues. To update your printer’s firmware:
 
 * [HP Printer](https://support.hp.com/us-en/document/ish_1776648-1643972-16)
 * [Epson Printer](https://epson.com/support/updating-your-printers-firmware-using-epson-software-updater)
