@@ -94,60 +94,60 @@ One of the most common issues is when your printer fails to recognize the toner 
 
 #### **2. Toner Smudging/Leaks**
 
-Toner smudging happens when the ink doesn't stick properly to the paper or when there are leaks, which can create messy prints. To fix these toner issues, follow these steps: 
+Toner smudging happens when the ink doesn't stick properly to the paper or when there are leaks, which can create messy prints. To fix these toner issues, try these methods: 
 
-**Option 1: Clean the Printer Drum**
+**OPTION 1: Clean the Printer Drum**
 
-If toner smudging continues, clean the printer drum gently. Here’s how:
+\- If toner smudging continues, clean the printer drum gently. Here’s how:
 
-**\- Turn Off the Printer:** Before doing anything, turn off the printer and unplug it from the power source.
+**Step 1: Turn Off the Printer:** Before doing anything, turn off the printer and unplug it from the power source.
 
-**\- Use a Lint-Free Cloth:** Use a clean, lint-free cloth for wiping the drum. This prevents any additional particles from getting on the drum.
+**Step 2: Use a Lint-Free Cloth:** Use a clean, lint-free cloth for wiping the drum. This prevents any additional particles from getting on the drum.
 
-**\- Gently Wipe the Drum:** Carefully wipe the drum's surface to remove toner and debris. Be gentle to avoid causing damage.
+**Step 3: Gently Wipe the Drum:** Carefully wipe the drum's surface to remove toner and debris. Be gentle to avoid causing damage.
 
-**\- Rotate the Drum:** As you clean, gently rotate the drum to ensure you clean the entire surface evenly.
+**Step 4: Rotate the Drum:** As you clean, gently rotate the drum to ensure you clean the entire surface evenly.
 
-**\- Reinstall the Drum:** After cleaning, put the drum unit back into the printer.
+**Step 5: Reinstall the Drum:** After cleaning, put the drum unit back into the printer.
 
-**\- Turn On the Printer:** Plug the printer back in and turn it on.
+**Step 6: Turn On the Printer:** Plug the printer back in and turn it on.
 
-**Option 2: Replace Toner Cartridge**
+**OPTION 2: Replace Toner Cartridge**
 
-If the problem persists and there is a leak, consider replacing the toner cartridge. Here’s how you can do it:
+\- If the problem persists and there is a leak, consider replacing the toner cartridge. Here’s how you can do it:
 
-**\- Turn Off the Printer:** First, turn off the printer and unplug it from the power source for safety.
+**Step 1: Turn Off the Printer:** First, turn off the printer and unplug it from the power source for safety.
 
-**\- Open the Printer Cover:** Access the area where the toner cartridge is located by opening the printer cover or panel. This location can vary depending on your printer model.
+**Step 2: Open the Printer Cover:** Access the area where the toner cartridge is located by opening the printer cover or panel. This location can vary depending on your printer model.
 
-**\- Remove the Old Cartridge:** Carefully remove the old toner cartridge. You may need to follow specific instructions for your printer to do this correctly. There might be a release latch or button to unlock the cartridge.
+**Step 3: Remove the Old Cartridge:** Carefully remove the old toner cartridge. You may need to follow specific instructions for your printer to do this correctly. There might be a release latch or button to unlock the cartridge.
 
-**\- Unpack the New Cartridge:** Take the new toner cartridge out of its packaging. Remove any protective covers or seals as instructed in the cartridge manual.
+**Step 4: Unpack the New Cartridge:** Take the new toner cartridge out of its packaging. Remove any protective covers or seals as instructed in the cartridge manual.
 
-**\- Install the New Toner:** [Insert the new toner cartridge into the printer](https://www.compandsave.com/help/articles/360016143551/how-to-install-ink-toner-cartridges) where the old one was. Make sure it's properly seated and locked in place. If you are using a Brother printer, you can also [follow this guide on how to change toner in Brother printer.](https://www.compandsave.com/how-to-change-toner-in-brother-printer-guide)
+**Step 5: Install the New Toner:** [Insert the new toner cartridge into the printer](https://www.compandsave.com/help/articles/360016143551/how-to-install-ink-toner-cartridges) where the old one was. Make sure it's properly seated and locked in place. If you are using a Brother printer, you can also [follow this guide on how to change toner in Brother printer.](https://www.compandsave.com/how-to-change-toner-in-brother-printer-guide)
 
-**\- Close the Printer Cover:** After inserting the new cartridge, close the printer cover or panel.
+**Step 6: Close the Printer Cover:** After inserting the new cartridge, close the printer cover or panel.
 
-**\- Turn On the Printer:** Plug the printer back in and turn it on.
+**Step 7: Turn On the Printer:** Plug the printer back in and turn it on.
 
-**\- Test the Print Quality:** [Print a test page](https://www.compandsave.com/how-to-print-test-page-on-windows-and-mac) to ensure the new toner cartridge is working correctly and that the print quality has improved.
+**Step 8: Test the Print Quality:** [Print a test page](https://www.compandsave.com/how-to-print-test-page-on-windows-and-mac) to ensure the new toner cartridge is working correctly and that the print quality has improved.
 
 #### **3. Low Toner Warning**
 
 If you're getting a low toner warning even when there's still some ink left, you can try these steps to address the issue:
 
-**\- Shake the Toner Cartridge:** Gently shake the toner cartridge from side to side. This helps redistribute the remaining toner powder inside, making better use of it.
+**Step 1: Shake the Toner Cartridge:** Gently shake the toner cartridge from side to side. This helps redistribute the remaining toner powder inside, making better use of it.
 
-**\- Check Toner Cartridge Sensors:** Inspect the toner cartridge for any sensor or chip that may be dirty or damaged. Clean it gently or replace it if necessary.
+**Step 2: Check Toner Cartridge Sensors:** Inspect the toner cartridge for any sensor or chip that may be dirty or damaged. Clean it gently or replace it if necessary.
 
-**\- Update Firmware:** Check if firmware updates are available for your printer model. Sometimes, a firmware update can resolve inaccuracies in toner-level readings. To update your printer’s firmware:
+**Step 3: Update Firmware:** Check if firmware updates are available for your printer model. Sometimes, a firmware update can resolve inaccuracies in toner-level readings. To update your printer’s firmware:
 
 * [HP Printer](https://support.hp.com/us-en/document/ish_1776648-1643972-16)
 * [Epson Printer](https://epson.com/support/updating-your-printers-firmware-using-epson-software-updater)
 * [Canon Printer](https://support.usa.canon.com/kb/index?page=content&id=ART139383)
 * [Brother Printer](https://support.brother.com/g/b/faqend.aspx?c=ph&lang=en&prod=ads2400n_all&faqid=faq00100468_001)
 
-**\- Ignore the Warning:** If you're sure there's enough toner and the prints are of good quality, you can choose to ignore the warning. If the warning is on your computer, you can bypass it when you send a print job. Look for a checkbox that allows you to proceed with printing despite the low toner warning.
+**Step 4: Ignore the Warning:** If you're sure there's enough toner and the prints are of good quality, you can choose to ignore the warning. If the warning is on your computer, you can bypass it when you send a print job. Look for a checkbox that allows you to proceed with printing despite the low toner warning.
 
 #### **4. Blank Pages**
 
