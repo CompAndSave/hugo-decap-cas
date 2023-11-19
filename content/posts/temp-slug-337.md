@@ -45,7 +45,7 @@ Fixing toner issues can be a headache, but it can be less troublesome when you c
 
 **1. Restart the Printer:** Sometimes, a simple printer restart can fix the toner cartridge problem.
 
-**2. Check the Toner Levels:** First, see if your toner cartridge has enough toner left in it. If it's running low, it can cause printing issues. To check the toner levels in your printer, follow these simple steps:
+**2. Check the Toner Levels:** See if your toner cartridge has enough toner left in it. If it's running low, it can cause printing issues. To check the toner levels in your printer, follow these simple steps:
 
 **Step 1: Open Your Printer Software:** Start by opening the software or application on your computer that controls your printer.
 
