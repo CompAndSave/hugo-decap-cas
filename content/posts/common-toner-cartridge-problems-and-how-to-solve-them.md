@@ -142,9 +142,27 @@ If you're getting a low toner warning even when there's still some ink left, you
 
 **\- Update Firmware:** Check if firmware updates are available for your printer model. Sometimes, a firmware update can resolve inaccuracies in toner-level readings. To update your printer’s firmware:
 
-* HP Printer
-* Epson Printer
-* Canon Printer
-* Brother Printer
+* [HP Printer](https://support.hp.com/us-en/document/ish_1776648-1643972-16)
+* [Epson Printer](https://epson.com/support/updating-your-printers-firmware-using-epson-software-updater)
+* [Canon Printer](https://support.usa.canon.com/kb/index?page=content&id=ART139383)
+* [Brother Printer](https://support.brother.com/g/b/faqend.aspx?c=ph&lang=en&prod=ads2400n_all&faqid=faq00100468_001)
 
 **\- Ignore the Warning:** If you're sure there's enough toner and the prints are of good quality, you can choose to ignore the warning. If the warning is on your computer, you can bypass it when you send a print job. Look for a checkbox that allows you to proceed with printing despite the low toner warning.
+
+#### **4. Blank Pages**
+
+If your printer produces blank pages, check for a protective seal on the toner cartridge that needs to be removed. Follow these steps to check for and remove a protective seal on the toner cartridge:
+
+Turn Off the Printer: Start by turning off the printer and unplugging it from the power source for safety.
+
+Open the Printer Cover: Access the area where the toner cartridge is located by opening the printer cover or panel. The exact location varies based on your printer model.
+
+Remove the Toner Cartridge: Carefully remove the toner cartridge from the printer. Be gentle to avoid damaging it.
+
+Inspect the Cartridge: Examine the toner cartridge for protective seals, tapes, or tabs. These are typically located on the cartridge's surface.
+
+Remove the Seal: If you find a protective seal or tab, gently pull it away or peel it off. Make sure you remove it entirely to expose the toner.
+
+Reinstall the Cartridge: After removing the seal, place the toner cartridge back into the printer, ensuring it's correctly seated and locked in place.
+
+Turn On the Printer: Plug the printer back in and turn it on.
