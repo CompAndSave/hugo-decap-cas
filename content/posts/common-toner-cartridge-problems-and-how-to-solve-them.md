@@ -21,7 +21,6 @@ Have you ever been in the middle of an important print job, only to have your pr
 In this guide, we will discuss the following: 
 
 1. What is a Toner Cartridge?
-
 2. Common Toner Cartridge Problems: Reasons and Solutions
 
 * Initial Checks and Fixes
@@ -110,8 +109,6 @@ If toner smudging continues, clean the printer drum gently. Here’s how:
 
 **\- Turn On the Printer:** Plug the printer back in and turn it on.
 
-
-
 **Option 2: Replace Toner Cartridge**
 
 If the problem persists and there is a leak, consider replacing the toner cartridge. Here’s how you can do it:
@@ -171,14 +168,14 @@ If your printer produces blank pages, check for a protective seal on the toner c
 
 Make sure your new toner cartridge is compatible with your printer model. Using an incompatible cartridge can lead to numerous problems. To fix the new toner cartridge not working issues, follow these steps:
 
-\- Check Printer Model: Ensure that the new toner cartridge is designed to work with your specific printer model. Look for the printer model number on the printer itself or in the user manual.
+**\- Check Printer Model:** Ensure that the new toner cartridge is designed to work with your specific printer model. Look for the printer model number on the printer itself or in the user manual.
 
-\- Consult the Cartridge Manual: Review the toner cartridge's packaging and manual to verify that it is compatible with your printer.
+**\- Consult the Cartridge Manual:** Review the toner cartridge's packaging and manual to verify that it is compatible with your printer.
 
-\- Return or Exchange: If you discover an incompatible toner cartridge, return it to the seller or exchange it for the correct one. Make sure to keep the packaging and receipt for a smooth return process.
+**\- Return or Exchange:** If you discover an incompatible toner cartridge, return it to the seller or exchange it for the correct one. Make sure to keep the packaging and receipt for a smooth return process.
 
-\- Purchase the Correct Cartridge: Obtain the appropriate toner cartridge for your printer based on the model number and specifications. This ensures a proper fit and compatibility.
+**\- Purchase the Correct Cartridge:** Obtain the appropriate toner cartridge for your printer based on the model number and specifications. This ensures a proper fit and compatibility.
 
-\- Install the Correct Cartridge: After acquiring the compatible toner cartridge, install it in your printer. You can follow this [video on how to install ink and toner cartridges](https://www.compandsave.com/help/articles/360016143551/how-to-install-ink-toner-cartridges).
+**\- Install the Correct Cartridge:** After acquiring the compatible toner cartridge, install it in your printer. You can follow this [video on how to install ink and toner cartridges](https://www.compandsave.com/help/articles/360016143551/how-to-install-ink-toner-cartridges).
 
-\- Test Print: [Print a test page](https://www.compandsave.com/how-to-print-test-page-on-windows-and-mac) to confirm that the new cartridge is working correctly with your printer.
+**\- Test Print:** [Print a test page](https://www.compandsave.com/how-to-print-test-page-on-windows-and-mac) to confirm that the new cartridge is working correctly with your printer.
