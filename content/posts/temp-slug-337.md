@@ -2,7 +2,7 @@
 draft: true
 title: Common Toner Cartridge Problems and How to Solve Them
 date: 2023-11-18T12:11:00.022Z
-authors: Trisha Olivar
+authors: Andrew Yeung
 slug: ""
 featured_image: /blog/images/ingoude.-31-.png
 description: >
