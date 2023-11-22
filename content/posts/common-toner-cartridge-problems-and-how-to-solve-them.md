@@ -68,3 +68,24 @@ If none of the initial approaches fixed any of your toner cartridge problems, it
 #### **1. Toner Cartridge Not Recognized**
 
 One of the most common issues is when your printer fails to recognize the toner cartridge. This can happen for various reasons, including outdated firmware or when you [refill toner cartridge](https://www.wikihow.com/Refill-a-Laser-Printer-or-Copier-Toner-Cartridge). To fix the "Toner Cartridge Not Recognized" problem, follow these steps:
+
+**\- Turn Off the Printer:** First, turn off the printer and unplug it from the power source.
+
+**\- Remove the Toner Cartridge:** Open the printer's cover and take out the toner cartridge.
+
+**\- Inspect the Cartridge:**  Check the cartridge for any visible damage, like scratches or loose parts.
+
+**\- Check the Printer Contacts:**  Look inside the printer where the cartridge goes and clean the corresponding contacts with a clean, dry cloth if they are dirty. This helps ensure a good connection.
+
+**\- Reinsert the Cartridge:** Put the toner cartridge back into the printer and ensure it's properly seated.
+
+**\- Power On the Printer:** Plug the printer back in, turn it on, and see if it recognizes the cartridge.
+
+**\- Replace Cartridge:** If the problem persists, try a different toner cartridge to see if it's a cartridge-specific issue.
+
+**\- Update Printer Firmware:** Sometimes, updating your printer's software or firmware can resolve recognition issues. To update your printer’s firmware:
+
+* HP Printer
+* Epson Printer
+* Canon Printer
+* Brother Printer
