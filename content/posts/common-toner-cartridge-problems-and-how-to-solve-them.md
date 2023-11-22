@@ -131,3 +131,20 @@ If the problem persists and there is a leak, consider replacing the toner cartri
 **\- Turn On the Printer:** Plug the printer back in and turn it on.
 
 **\- Test the Print Quality:** [Print a test page](https://www.compandsave.com/how-to-print-test-page-on-windows-and-mac) to ensure the new toner cartridge is working correctly and that the print quality has improved.
+
+#### **3. Low Toner Warning**
+
+If you're getting a low toner warning even when there's still some ink left, you can try these steps to address the issue:
+
+**\- Shake the Toner Cartridge:** Gently shake the toner cartridge from side to side. This helps redistribute the remaining toner powder inside, making better use of it.
+
+**\- Check Toner Cartridge Sensors:** Inspect the toner cartridge for any sensor or chip that may be dirty or damaged. Clean it gently or replace it if necessary.
+
+**\- Update Firmware:** Check if firmware updates are available for your printer model. Sometimes, a firmware update can resolve inaccuracies in toner-level readings. To update your printer’s firmware:
+
+* HP Printer
+* Epson Printer
+* Canon Printer
+* Brother Printer
+
+**\- Ignore the Warning:** If you're sure there's enough toner and the prints are of good quality, you can choose to ignore the warning. If the warning is on your computer, you can bypass it when you send a print job. Look for a checkbox that allows you to proceed with printing despite the low toner warning.
