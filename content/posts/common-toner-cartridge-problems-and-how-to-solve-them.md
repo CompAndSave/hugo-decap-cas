@@ -7,6 +7,8 @@ description: >
   Is your toner not working? Don't worry! Here are some helpful tips to fix
   common toner issues. Read on to find out how and get back to printing easily!
 tags:
+  - toner problem
+  - toner
   - Refilling Toner Cartridges
   - Error Messages
   - Toner Cartridge Compatibility
