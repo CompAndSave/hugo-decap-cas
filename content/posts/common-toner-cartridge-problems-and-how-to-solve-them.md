@@ -153,16 +153,32 @@ If you're getting a low toner warning even when there's still some ink left, you
 
 If your printer produces blank pages, check for a protective seal on the toner cartridge that needs to be removed. Follow these steps to check for and remove a protective seal on the toner cartridge:
 
-Turn Off the Printer: Start by turning off the printer and unplugging it from the power source for safety.
+**\- Turn Off the Printer:** Start by turning off the printer and unplugging it from the power source for safety.
 
-Open the Printer Cover: Access the area where the toner cartridge is located by opening the printer cover or panel. The exact location varies based on your printer model.
+**\- Open the Printer Cover:** Access the area where the toner cartridge is located by opening the printer cover or panel. The exact location varies based on your printer model.
 
-Remove the Toner Cartridge: Carefully remove the toner cartridge from the printer. Be gentle to avoid damaging it.
+**\- Remove the Toner Cartridge:** Carefully remove the toner cartridge from the printer. Be gentle to avoid damaging it.
 
-Inspect the Cartridge: Examine the toner cartridge for protective seals, tapes, or tabs. These are typically located on the cartridge's surface.
+**\- Inspect the Cartridge:** Examine the toner cartridge for protective seals, tapes, or tabs. These are typically located on the cartridge's surface.
 
-Remove the Seal: If you find a protective seal or tab, gently pull it away or peel it off. Make sure you remove it entirely to expose the toner.
+**\- Remove the Seal:** If you find a protective seal or tab, gently pull it away or peel it off. Make sure you remove it entirely to expose the toner.
 
-Reinstall the Cartridge: After removing the seal, place the toner cartridge back into the printer, ensuring it's correctly seated and locked in place.
+**\- Reinstall the Cartridge:** After removing the seal, place the toner cartridge back into the printer, ensuring it's correctly seated and locked in place.
 
-Turn On the Printer: Plug the printer back in and turn it on.
+**\- Turn On the Printer:** Plug the printer back in and turn it on.
+
+#### **5. New Toner Cartridge Not Working**
+
+Make sure your new toner cartridge is compatible with your printer model. Using an incompatible cartridge can lead to numerous problems. To fix the new toner cartridge not working issues, follow these steps:
+
+\- Check Printer Model: Ensure that the new toner cartridge is designed to work with your specific printer model. Look for the printer model number on the printer itself or in the user manual.
+
+\- Consult the Cartridge Manual: Review the toner cartridge's packaging and manual to verify that it is compatible with your printer.
+
+\- Return or Exchange: If you discover an incompatible toner cartridge, return it to the seller or exchange it for the correct one. Make sure to keep the packaging and receipt for a smooth return process.
+
+\- Purchase the Correct Cartridge: Obtain the appropriate toner cartridge for your printer based on the model number and specifications. This ensures a proper fit and compatibility.
+
+\- Install the Correct Cartridge: After acquiring the compatible toner cartridge, install it in your printer. You can follow this [video on how to install ink and toner cartridges](https://www.compandsave.com/help/articles/360016143551/how-to-install-ink-toner-cartridges).
+
+\- Test Print: [Print a test page](https://www.compandsave.com/how-to-print-test-page-on-windows-and-mac) to confirm that the new cartridge is working correctly with your printer.
