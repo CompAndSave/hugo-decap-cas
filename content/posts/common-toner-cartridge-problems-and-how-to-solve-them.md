@@ -85,7 +85,49 @@ One of the most common issues is when your printer fails to recognize the toner 
 
 **\- Update Printer Firmware:** Sometimes, updating your printer's software or firmware can resolve recognition issues. To update your printer’s firmware:
 
-* HP Printer
-* Epson Printer
-* Canon Printer
-* Brother Printer
+* [HP Printer](https://support.hp.com/us-en/document/ish_1776648-1643972-16)
+* [Epson Printer](https://epson.com/support/updating-your-printers-firmware-using-epson-software-updater)
+* [Canon Printer](https://support.usa.canon.com/kb/index?page=content&id=ART139383)
+* [Brother Printer](https://support.brother.com/g/b/faqend.aspx?c=ph&lang=en&prod=ads2400n_all&faqid=faq00100468_001)
+
+#### **2. Toner Smudging/Leaks**
+
+Toner smudging happens when the ink doesn't stick properly to the paper or when there are leaks, which can create messy prints. To fix these toner issues, follow these steps: 
+
+**Option 1: Clean the Printer Drum**
+
+If toner smudging continues, clean the printer drum gently. Here’s how:
+
+**\- Turn Off the Printer:** Before doing anything, turn off the printer and unplug it from the power source.
+
+**\- Use a Lint-Free Cloth:** Use a clean, lint-free cloth for wiping the drum. This prevents any additional particles from getting on the drum.
+
+**\- Gently Wipe the Drum:** Carefully wipe the drum's surface to remove toner and debris. Be gentle to avoid causing damage.
+
+**\- Rotate the Drum:** As you clean, gently rotate the drum to ensure you clean the entire surface evenly.
+
+**\- Reinstall the Drum:** After cleaning, [put the drum unit back](https://www.compandsave.com/how-to-replace-the-drum-on-brother-printer-guide) into the printer.
+
+**\- Turn On the Printer:** Plug the printer back in and turn it on.
+
+
+
+**Option 2: Replace Toner Cartridge**
+
+If the problem persists and there is a leak, consider replacing the toner cartridge. Here’s how you can do it:
+
+**\- Turn Off the Printer:** First, turn off the printer and unplug it from the power source for safety.
+
+**\- Open the Printer Cover:** Access the area where the toner cartridge is located by opening the printer cover or panel. This location can vary depending on your printer model.
+
+**\- Remove the Old Cartridge:** Carefully remove the old toner cartridge. You may need to follow specific instructions for your printer to do this correctly. There might be a release latch or button to unlock the cartridge.
+
+**\- Unpack the New Cartridge:** Take the new toner cartridge out of its packaging. Remove any protective covers or seals as instructed in the cartridge manual.
+
+**\- Install the New Toner:** [Insert the new toner cartridge into the printer](https://www.compandsave.com/help/articles/360016143551/how-to-install-ink-toner-cartridges) where the old one was. Make sure it's properly seated and locked in place. If you are using a Brother printer, you can also follow this [guide on how to change toner in Brother printer.](https://www.compandsave.com/how-to-change-toner-in-brother-printer-guide)
+
+**\- Close the Printer Cover:** After inserting the new cartridge, close the printer cover or panel.
+
+**\- Turn On the Printer:** Plug the printer back in and turn it on.
+
+**\- Test the Print Quality:** [Print a test page](https://www.compandsave.com/how-to-print-test-page-on-windows-and-mac) to ensure the new toner cartridge is working correctly and that the print quality has improved.
