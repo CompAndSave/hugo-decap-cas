@@ -36,3 +36,35 @@ A toner cartridge is an important part of laser printers and photocopiers. It ho
 ## Common Toner Cartridge Problems: Reasons and Solutions
 
 Toner cartridges are essential for printers and copiers, but sometimes they can have issues. Knowing how to solve these problems is helpful to keep your printing running smoothly. Here are some things you can do:
+
+### Initial Checks and Fixes
+
+Fixing toner issues can be a headache, but it can be less troublesome when you consider doing some initial checking and basic fixes first. Here are some of the things you can try:
+
+**1. Restart the Printer:** Sometimes, a simple printer restart can fix the toner cartridge problem.
+
+**2. Check the Toner Levels:** First, see if your toner cartridge has enough toner left in it. If it's running low, it can cause printing issues. To check the toner levels in your printer, follow these simple steps:
+
+**\- Open Your Printer Software:** Start by opening the software or application on your computer that controls your printer.
+
+**\- Access Printer Properties or Settings:** Look for options like "Printer Preferences," "Printer Properties," or "Maintenance."
+
+**\- Find Toner or Supplies:** Within the printer properties or settings, search for a tab or section related to "Toner" or "Supplies."
+
+**\- Check Toner Levels:** In this section, you should see information about your toner levels. It might display a graphic showing the remaining toner or provide a percentage.
+
+**\- Note the Toner Level:** Take note of the toner level to see if it's low or needs replacement.
+
+**3. Use the Right Cartridge:** Double-check if you use the correct toner cartridge that fits your printer model. The wrong one won't work correctly.
+
+**4. Give It a Gentle Shake:** Sometimes, the toner inside the cartridge settles at the bottom. To fix this, give the cartridge a soft shake to spread the toner evenly.
+
+**5. Look for Physical Damage:** Next, examine the toner cartridge for any signs of damage or if it's leaking. A cartridge that's broken won't work right.
+
+### Toner Cartridge Problems: Addressing Complex Ones
+
+If none of the initial approaches fixed any of your toner cartridge problems, it could be a more challenging issue with your toner cartridge not working properly. Let's discuss some of the more complicated ones further and get your printer working smoothly again.
+
+#### **1. Toner Cartridge Not Recognized**
+
+One of the most common issues is when your printer fails to recognize the toner cartridge. This can happen for various reasons, including outdated firmware or when you [refill toner cartridge](https://www.wikihow.com/Refill-a-Laser-Printer-or-Copier-Toner-Cartridge). To fix the "Toner Cartridge Not Recognized" problem, follow these steps:
