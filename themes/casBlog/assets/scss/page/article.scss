@@ -39,6 +39,8 @@
     }
 }
 
+@import '../base/block/sharing-buttons';
+
 @media screen and #{breakpoint(large)} {
     .content {
         padding: 2rem 3rem;

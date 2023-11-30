@@ -8,9 +8,11 @@
             {{ end }}
             {{ partial "author-with-link.html" (dict "taxonomy" "authors" "page" .) }}&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<span class="date" itemprop="datePublished">{{ .Date.Format .Site.Params.dateFormat }}</span>
             {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+            {{ partial "sharing-buttons.html" . }}
             <section class="content-body">
                 {{ .Content | safeHTML }}
             </section>
         </section>
     </article>
+    {{ partial "disqus.html" . }}
 {{ end }}

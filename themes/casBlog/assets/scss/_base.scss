@@ -101,6 +101,15 @@ table {
     margin: 2rem;
 }
 
+.margin-top-4 {
+    margin-top: 4rem;
+}
+
+hr {
+    border-top: $global-border;
+    margin: 2rem 0;
+}
+
 details {
     margin: 1rem auto;
     padding: 1rem;

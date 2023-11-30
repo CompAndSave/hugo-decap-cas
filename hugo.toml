@@ -5,6 +5,7 @@ publishDir = 'blog'
 uglyURLs = true
 summaryLength= 25
 paginate = 9
+disqusShortname = 'compandsave-blog'
 
 [params]
     name= 'CompAndSave'
