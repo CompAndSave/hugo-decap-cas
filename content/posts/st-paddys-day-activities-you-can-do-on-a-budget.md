@@ -1,18 +1,26 @@
 ---
-title: "St. Paddy's Day Activities You Can Do on a Budget"
+title: St. Paddy's Day Activities You Can Do on a Budget
 date: 2017-02-28T21:00:00.000Z
-slug: st-paddys-day-activities-you-can-do-on-a-budget
-description: "St. Paddy's Day Activities You Can Do on a Budget"
-featured_image: /blog/images/archive/2017/02/clover.jpg
 authors: Katy S
-tags: [Children,how to save money,Paper Craft,Printables,Printer crafts,St. Patrick's Day Bingo Cards,holidays,DIY,food]
+slug: st-paddys-day-activities-you-can-do-on-a-budget
+featured_image: /blog/images/archive/2017/02/clover.jpg
+description: St. Paddy's Day Activities You Can Do on a Budget
+tags:
+  - Children
+  - how to save money
+  - Paper Craft
+  - Printables
+  - Printer crafts
+  - St. Patrick's Day Bingo Cards
+  - holidays
+  - DIY
+  - food
 ---
-
 ![St. Paddy's Day Activities](/blog/images/clover.jpg "shamrock")
 
 You don't have to be Irish to celebrate St. Patrick's Day! From food to decorations, there are many ways for you to have a fun celebration with family and friends even if you aren't from an Irish background. And you don't need a pot of gold to participate in St. Paddy's Day activities.  
 
-## Budget-Friendly St. Paddy's Day Activities 
+## Budget-Friendly St. Paddy's Day Activities
 
 ### Parades
 
@@ -28,7 +36,7 @@ Create your own leprechaun costume cheaply. Green is the theme so use green pant
 
 An even easier way to dress up is to decorate a white shirt. For this kid-friendly project, use fabric paint and foam stamps to create shamrocks, rainbows, and more.
 
-### Food 
+### Food
 
 Start the day off right with a healthy green smoothie. Add spinach or kale to your favorite smoothie combination and watch it turn green.
 
