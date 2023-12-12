@@ -20,7 +20,7 @@ Now that school is back in session or close to it, let's explore a few fun DIY p
 
 [Alicia Bodine](https://www.thesprucecrafts.com/easy-ways-to-make-school-dioramas-2366269) posted three terrific diorama designs with instructions at About Home. The desert and ocean dioramas are recommended for ages 3 and above while the forest diorama is for ages 5 and above. The time to complete the dioramas takes anywhere from one hour to three hours. As they are making these dioramas, your children learn about the different habitats and the creatures that live there.
 
-[![DIY Diorama]( "Forest Diorama")]()
+**DIY Diorama**
 
 Of course, the first item you need is a box. An old shoebox works great as the base of the diorama. You'll also need safety scissors, construction paper, glue, paint, paintbrush, and magazine clippings. The desert and ocean dioramas require sand and the forest one calls for grass or green felt. And then add any figurines; you can even make your own using clay or Play-Doh.
 
