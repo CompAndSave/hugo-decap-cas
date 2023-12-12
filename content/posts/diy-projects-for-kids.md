@@ -40,6 +40,4 @@ To make a cute apple note card, all you need are note cards or heavy paper, a ha
 
 Using index cards, a marker, [stickers](https://www.compandsave.com/paper/sticker-paper), glue, and sand, these counting cards by [Jenae](https://www.icanteachmychild.com/sand-numbers/) are a fun, effective way for your young child to learn numbers. Write one number on each card; if your child is just starting to count, then stick with numbers one through ten. Flip the card, and adhere the same number of stickers on the back. Then on the front, trace the number with glue and pour sand on top. After the glue and sand dry, your child is able to see and feel the numeral on the front and count the same number of stickers on the back.
 
-[![DIY Cards](/blog/images/sandcounting.jpg "Counting Cards")](/blog/images/sandcounting.jpg)
-
 Do you have any ideas for fun and educational DIY projects for kids? Let us know in the comments below or on [Facebook](https://www.facebook.com/compandsave.ink/), [Twitter](https://twitter.com/compandsave), or [Pinterest](https://www.pinterest.com/compandsave/).
