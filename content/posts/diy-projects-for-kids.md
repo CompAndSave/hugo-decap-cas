@@ -12,13 +12,15 @@ tags:
   - stickers
   - DIY
 ---
-[![DIY for Kids](/blog/images/diykids.jpg "DIY Banner")](/blog/images/diykids.jpg)Now that school is back in session or close to it, let's explore a few fun DIY projects that your child might make in school. You can even do these projects with your kids at home. 
+[![DIY for Kids](/blog/images/diykids.jpg "DIY Banner")](/blog/images/diykids.jpg)
+
+Now that school is back in session or close to it, let's explore a few fun DIY projects that your child might make in school. You can even do these projects with your kids at home. 
 
 ### Dioramas
 
 [Alicia Bodine](https://www.thesprucecrafts.com/easy-ways-to-make-school-dioramas-2366269) posted three terrific diorama designs with instructions at About Home. The desert and ocean dioramas are recommended for ages 3 and above while the forest diorama is for ages 5 and above. The time to complete the dioramas takes anywhere from one hour to three hours. As they are making these dioramas, your children learn about the different habitats and the creatures that live there.
 
-[![DIY Diorama](/blog/images/forest.jpg "Forest Diorama")](/blog/images/forest.jpg)
+**DIY Diorama**
 
 Of course, the first item you need is a box. An old shoebox works great as the base of the diorama. You'll also need safety scissors, construction paper, glue, paint, paintbrush, and magazine clippings. The desert and ocean dioramas require sand and the forest one calls for grass or green felt. And then add any figurines; you can even make your own using clay or Play-Doh.
 
@@ -39,7 +41,5 @@ To make a cute apple note card, all you need are note cards or heavy paper, a ha
 [![DIY Cards](/blog/images/Think-Crafts-Apple-Notecards.jpg "Apple Cards")](/blog/images/Think-Crafts-Apple-Notecards.jpg)
 
 Using index cards, a marker, [stickers](https://www.compandsave.com/paper/sticker-paper), glue, and sand, these counting cards by [Jenae](https://www.icanteachmychild.com/sand-numbers/) are a fun, effective way for your young child to learn numbers. Write one number on each card; if your child is just starting to count, then stick with numbers one through ten. Flip the card, and adhere the same number of stickers on the back. Then on the front, trace the number with glue and pour sand on top. After the glue and sand dry, your child is able to see and feel the numeral on the front and count the same number of stickers on the back.
-
-[![DIY Cards](/blog/images/sandcounting.jpg "Counting Cards")](/blog/images/sandcounting.jpg)
 
 Do you have any ideas for fun and educational DIY projects for kids? Let us know in the comments below or on [Facebook](https://www.facebook.com/compandsave.ink/), [Twitter](https://twitter.com/compandsave), or [Pinterest](https://www.pinterest.com/compandsave/).
