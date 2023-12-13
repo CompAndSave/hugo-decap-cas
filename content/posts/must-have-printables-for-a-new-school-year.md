@@ -56,7 +56,7 @@ Toddlers and preschoolers are known to respond really well to flashcards; partic
 **Back to School Recipes**\
 Healthy eats for school are a good idea. Collecting and printing these out for ready reference ensures a varied and interesting array of meals for students.
 
-1. [24 Lunch Ideas for School ](https://funlearninglife.com/2014/08/24-lunch-ideas-for-school-plus-the-poweryourlunchbox-pledge-and-contest/)
+1. 24 Lunch Ideas for School 
 2. [Sandwich-less Lunch Ideas for Kids ](https://www.thirtyhandmadedays.com/sandwichless-lunch-ideas/)
 3. [20+ Amazing & Healthy School Lunches](https://marlameridith.com/20-amazing-back-to-school-lunchbox-recipes/)
 
