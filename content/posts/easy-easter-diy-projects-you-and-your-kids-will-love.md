@@ -23,7 +23,7 @@ Before the Easter bunny delivers the Easter candy, have your kids join in the Ea
 
 [DLTK ](https://www.dltk-holidays.com/easter/printables.html)has a bunch of different printables for you and your children to have fun for hours. Your kids can create bookmarks, cards, and t-shirt designs using our [transfer paper](https://www.compandsave.com/paper/transfer-paper/inkjet). Print [these pages](https://www.dltk-holidays.com/easter/measterposter.htm) in black and white and let your children color in the drawings of bunnies or flowers. With these printables, kids can draw faces on a hatched chick, bunnies, and lambs.
 
-Want more coloring options? Try one of the many Easter designs [here](https://www.coloring.ws/easter.htm) or [here ](https://www.firstpalette.com/tool%5Fbox/printables/eastereggs.html)at First Palette.
+Want more coloring options? Try one of the many Easter designs [here](https://www.coloring.ws/easter.htm) or here at First Palette.
 
 If you're throwing an Easter party or have to bring cupcakes into school, print out these [cupcake toppers](https://www.skiptomylou.org/free-printable-easter-cupcake-toppers/).
 
@@ -45,7 +45,7 @@ Peep, peep! Baby birds need a home. To build a nest for baby birds, you will nee
 * Paint brush
 * For nesting material: paper shreds, brown crepe paper, raffia, or natural materials, such as small twigs
 
-Get step-by-step instructions [here](https://www.firstpalette.com/Craft%5Fthemes/Animals/babybirdsnest/babybirdsnest.html).
+Get step-by-step instructions here.
 
 A "carrot" cone holder can hold Easter candy and trinkets. Here's what you will need:
 
@@ -55,8 +55,6 @@ A "carrot" cone holder can hold Easter candy and trinkets. Here's what you will 
 * Tacky glue, white glue, or double-sided tape
 * Ribbon or pipe cleaner
 * Optional decorative materials, such as lace, [stickers](https://www.compandsave.com/paper/sticker-paper), sequins, or glitter
-
-See how to [assemble it](https://www.firstpalette.com/Craft%5Fthemes/Special%5FOccassions/Easter/conetreatholder/conetreatholder.html).
 
 This hatched chick is too cute. The necessary materials are:
 
@@ -69,7 +67,7 @@ This hatched chick is too cute. The necessary materials are:
 * White glue
 * Safety scissors
 
-You can also craft a [cotton bunny](https://www.firstpalette.com/Craft%5Fthemes/Animals/cottonbunny/cottonbunny.html) and many more charming designs at [First Palette](https://www.firstpalette.com/Craft%5Fthemes/Special%5FOccassions/easter.html).
+You can also craft a cotton bunny and many more charming designs at First Palette.
 
 ### Games
 
