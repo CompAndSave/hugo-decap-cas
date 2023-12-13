@@ -20,7 +20,7 @@ However, quite a few online retailers are not up to par in terms of quality and 
 
 **What is the online retailer's policy on shipping?**
 
-Retailers can have very different [shipping options](https://www.practicalecommerce.com/Solving-the-Free-Shipping-Dilemma) between themselves, but what's most important is that the company itself has an explicit and consistent policy. A lot of retailers boast [free shipping](https://www.bradsdeals.com/blog/stores-with-free-shipping) policies, which you should take the time to verify.
+Retailers can have very different [shipping options](https://www.practicalecommerce.com/Solving-the-Free-Shipping-Dilemma) between themselves, but what's most important is that the company itself has an explicit and consistent policy. A lot of retailers boast free shipping policies, which you should take the time to verify.
 
 **Look for the online retailer's certifications**\
 [![shopping cart button on computer keyboard](/blog/images/onlineshoppingkeyboard.jpeg "shopping cart button on computer keyboard")](/blog/images/onlineshoppingkeyboard.jpeg)\
