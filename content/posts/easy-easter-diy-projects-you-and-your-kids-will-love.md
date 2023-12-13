@@ -69,8 +69,6 @@ This hatched chick is too cute. The necessary materials are:
 * White glue
 * Safety scissors
 
-Read how to [make this adorable little creature](https://www.firstpalette.com/Craft%5Fthemes/Animals/hatchedchick/hatchedchick.html).
-
 You can also craft a [cotton bunny](https://www.firstpalette.com/Craft%5Fthemes/Animals/cottonbunny/cottonbunny.html) and many more charming designs at [First Palette](https://www.firstpalette.com/Craft%5Fthemes/Special%5FOccassions/easter.html).
 
 ### Games
