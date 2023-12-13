@@ -31,7 +31,7 @@ Product design, engineering and allied professional courses can be introduced to
 
 One [Ohio school asked 8th graders to use 3D printers](https://3dprint.com/44249/ohio-8-grade-3d-printing-class/) to design a solution for a fictional group of space explorers who are attempting to colonize a new planet. Recently, 3 engineering students developed a [recycling 3d printer.](https://phys.org/news/2015-03-students-desktop-recycler-bottles-3d.html) These University of British Columbia students created a desktop 3D printing device that takes plastic waste and extrudes this into 3D printing material.
 
-The [MicroPasts Project](https://crowdsourced.micropasts.org/), created by the British Museum and the UCL Institute of Archaeology lets students ‘visit' museums and view artifacts. The project allows educators and students to print 3D models of ancient objects. For instance a teacher can print out an ancient Bronze Age spearhead to demonstrate to the class. 
+The MicroPasts Project, created by the British Museum and the UCL Institute of Archaeology lets students ‘visit' museums and view artifacts. The project allows educators and students to print 3D models of ancient objects. For instance a teacher can print out an ancient Bronze Age spearhead to demonstrate to the class. 
 
 A startup called Artificial is working on a system that will recreate priceless works of art. What the company founder calls Art DNA, will make available to students and others masterpieces recreated from 3D scans of items in museums and private art collections. In South Korea, Seokhee Oh and his son Myung-Jin Oh recreated Van Gogh's bedroom in Arles. This was for the son's school project; accomplished using a 3d printer among other things.
 
