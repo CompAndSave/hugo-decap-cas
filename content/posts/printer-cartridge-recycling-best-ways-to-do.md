@@ -58,7 +58,7 @@ One easy way to deal with used ink and toner cartridges is to take them to your 
 
 ### 2. Look for Mail-Back Programs
 
-Some manufacturers provide mail-back programs where you can send your used cartridges back to them for recycling. They often provide prepaid shipping labels, making it convenient for you to return the cartridges.
+Some [manufacturers provide mail-back programs](https://www.compandsave.com/where-to-recycle-ink-cartridges-guide) where you can send your used cartridges back to them for recycling. They often provide prepaid shipping labels, making it convenient for you to return the cartridges.
 
 ### 3. Check for Office Recycling Programs
 
@@ -72,6 +72,26 @@ Giving your used cartridges to friends or colleagues is a nice way to help out a
 
 Check out local announcements or community boards to find out about events happening nearby where you can drop off your old electronics for recycling. Attending these events not only helps you properly dispose of your cartridges but also supports the community's effort to reduce electronic waste and take care of the environment. 
 
-6. Refill Your Ink Cartridges to Make Them Last Longer
+### 6. Refill Your Ink Cartridges to Make Them Last Longer
 
-Another easy way on how to recycle ink and toner cartridges is to refill them yourself. You can get refill kits from office supply stores, or you can also use CompAndSave refill kits. They usually include a syringe, a screw tool, and a bottle of ink. If you want to give it a try, you can easily refill your cartridges by following this guide. It's a straightforward way to give your cartridges a second life.
+Another easy way on how to recycle ink and toner cartridges is to refill them yourself. You can get refill kits from office supply stores, or you can also use [CompAndSave refill kits](https://www.compandsave.com/ink-refill-bulk-ink). They usually include a syringe, a screw tool, and a bottle of ink. If you want to give it a try, you can easily [refill your cartridges by following this guide](https://www.compandsave.com/how-to-refill-ink-cartridges-guide). It's a straightforward way to give your cartridges a second life.
+
+## Cartridge Recycling: Common Misconceptions
+
+Let's clear up some common misunderstandings about cartridge recycling. Many people have misconceptions that might be keeping them from recycling their used printer cartridges properly. In this part, we'll address and debunk these common myths to help you make informed choices when it comes to recycling cartridges. Recycling is more accessible and beneficial than you might think!
+
+1. Printer Ink Recycling is Complicated
+
+Thinking that recycling printer cartridges is hard is a common mistake. Some might believe there are tricky steps or specific rules that make it complicated. But actually, recycling cartridges is meant to be easy and simple. Many places have made it simple so more people can join in. It's a vital and doable thing that helps our environment by reducing waste and saving resources.
+
+2. Recycling Damaged Cartridges is Pointless
+
+Some may think that if a printer cartridge is damaged, recycling it doesn't matter. However, even damaged cartridges can be recycled, and every bit helps. It's not pointless – it's a positive step towards reducing waste and taking care of our environment. Let's break this misconception and understand that even imperfect cartridges can have a second life through recycling.
+
+3. Recycling Yields No Benefits
+
+Some might believe that recycling printer cartridges doesn't really do much good. However, that's not true. Recycling brings benefits like reducing waste, conserving resources, and helping the environment. Not only that! Recycling printer cartridges for money is also possible. Let's dispel the idea that cartridge recycling has no benefits and recognize the positive change it brings to our planet and our wallets.
+
+4. Cartridges Must Be Completely Empty
+
+Some might think that printer cartridges must be entirely out of ink or toner to be recycled, but that's not the case. You can recycle printer ink cartridges even if they still have some ink left. This misconception shouldn't stop you from responsibly recycling your cartridges.
