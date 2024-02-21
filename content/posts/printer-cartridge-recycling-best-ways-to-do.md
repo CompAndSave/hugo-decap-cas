@@ -134,10 +134,10 @@ Yes, you can often recycle damaged or empty cartridges. Many recycling programs,
 
 [Where to Recycle Ink Cartridges?](https://www.compandsave.com/where-to-recycle-ink-cartridges-guide)
 
-How to Refill Ink Cartridge?
+[How to Refill Ink Cartridge?](https://www.compandsave.com/how-to-refill-ink-cartridges-guide)
 
-Eco-Friendly Ink Cartridges
+[Eco-Friendly Ink Cartridges](https://www.compandsave.com/environmentally-friendly-ink-cartridges)
 
-What are Remanufactured Ink Cartridges?
+[What are Remanufactured Ink Cartridges?](https://www.compandsave.com/what-are-remanufactured-ink-cartridges-guide)
 
-What is an Eco-solvent Printer and Eco-solvent Ink?
+[What is an Eco-solvent Printer and Eco-solvent Ink?](https://www.compandsave.com/what-is-an-eco-solvent-printer-and-eco-solvent-ink)
