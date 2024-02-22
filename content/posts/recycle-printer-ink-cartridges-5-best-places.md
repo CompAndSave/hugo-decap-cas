@@ -118,7 +118,7 @@ If online recycling suits your preference, check out these platforms that not on
 
 Milner welcomes all ink and toner cartridges, whether remanufactured or OEM. They strictly adhere to a zero-landfill policy, showcasing their commitment to responsible recycling. While they don't offer compensation, their dedication is commendable.
 
-### 2. Planet Green Recycle
+### 2. [Planet Green Recycle](https://www.planetgreenrecycle.com/pages/free-ink-recycling)
 
 This platform accepts all ink cartridges, excluding toner, regardless of make, condition, or model. Compensation is provided only for OEM ink cartridges in good condition that can be remanufactured. Please note that they do not handle toner cartridges.
 
