@@ -146,7 +146,7 @@ Discover [Tips That Increase the Life of Your Ink Cartridges](https://www.compan
 
 Join us in recycling – thank you for being an Earth-friendly citizen!
 
-Do you still have questions? Contact our support team for any assistance. Reach out to us at 1-833-465-6888, Monday to Friday, between 6 a.m. and 4 p.m. PT. We're all about making sure your printing experience is smooth and enjoyable. Give us a call, and let's make your printing journey hassle-free together!
+Do you still have questions? Contact our support team for any assistance. Contact us at 1-833-465-6888, Monday to Friday, between 6 a.m. and 4 p.m. PT. We're all about making sure your printing experience is smooth and enjoyable. Give us a call, and let's make your printing journey hassle-free together!
 
 ## FAQs
 
