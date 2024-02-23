@@ -94,6 +94,8 @@ Compatible cartridges are brand-new cartridges made by third-party manufacturers
 * Some printers may not recognize or accept compatible cartridges.
 * Limited warranty compared to OEM cartridges.
 
+
+
 ### B. Remanufactured Cartridge
 
 [Remanufactured ink cartridges](https://www.compandsave.com/what-are-remanufactured-ink-cartridges-guide) and replacement toners are recycled from used cartridges, often part of recycling programs. According to Energy Central, over 375 million ink and toner cartridges end up in landfills each year. To address this issue, remanufacturers disassemble the cartridges, clean them, and replace any defective parts. After this refurbishing process, they fill the cartridges with ink. Recycling and remanufacturing help reduce this non-biodegradable waste. 
