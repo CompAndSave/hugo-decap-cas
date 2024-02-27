@@ -21,7 +21,7 @@ When your printer won’t print anything at work and starts having different pro
 
 **In this guide, we will discuss:**
 
-* Printer Won’t Print: Why Fixing it is Important?
+* Printer Won’t Print: Why Fixing It Is Important?
 * Printer Not Printing: Common Issues and Solutions
 * Printer is Not Printing Properly: Tips to Prevent These Problems
 
@@ -55,7 +55,7 @@ If your printer is not working, it could be because of a problem with the cable 
 
 **Step 3: Check the Connection.** If your printer is connected with a cable, look at the USB or Ethernet wire. Check if it's damaged or not connected properly. For printers using Wi-Fi, make sure the Wi-Fi is good. Check if the connection is strong and stays stable.
 
-**Step 4: Print Test Page.** Print a test page to check if the print finishes. 
+**Step 4: Print Test Page.** [Print a test page](https://www.compandsave.com/how-to-print-test-page-on-windows-and-mac) to check if the print finishes. 
 
 ### 2. Printer has Low Ink or Empty Cartridges
 
@@ -164,7 +164,7 @@ Your printer might stop printing before finishing a file because of a few reason
 
 It's not necessary to turn off your printer when you're not using it, but it can be a good idea. Turning it off helps save energy and makes your printer last longer. However, some printers have a sleep mode that saves energy even when they're on but not printing. So, if you use your printer often, leaving it on or using its sleep mode might be more convenient. It's like giving your printer a little rest when you're not printing to keep it ready for the next time you need it.
 
-### 5. What can I do if my printer is not printing at the usual speed? 
+### 5. What can I do if my printer is not printing at the usual speed?
 
 If your printer is printing slowly, you can try a few things to make it faster. First, check if you selected a very high-quality setting for printing, as this can slow things down. Lowering the print quality in the settings might help. Also, if you're printing a big file, try breaking it into smaller parts to speed up the process. Make sure your computer and printer are connected well and restart both. If the issue persists, you can check the printer settings and choose a faster mode if available.
 
