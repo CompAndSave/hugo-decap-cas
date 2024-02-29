@@ -72,7 +72,7 @@ Verify whether the retailer's remanufactured ink cartridges are approved by the 
 
 NOT everything you hear should be trusted. Remanufactured ink cartridges of high caliber won't deteriorate the print heads on your device, leak ink, or produce prints of poor quality.
 
-### 4. Environment- Friendliness
+### 4. Environment-Friendliness
 
 The process to [recycle ink cartridges](https://www.compandsave.com/where-to-recycle-ink-cartridges-guide) is a need in a world where resources are depleting more quickly than an elephant at a David Copperfield concert!
 
