@@ -67,17 +67,17 @@ This eco-friendly approach not only reduces waste but also offers a cost-effecti
 
 ## Remanufactured Cartridges: Why Choose This?
 
-Why choose remanufactured printer cartridges? Simple – when they fix up the cartridge and add new ink, you get results just as good as the pricey OEM ones. Additionally, here are some benefits that you can consider:
+Why choose [remanufactured printer cartridges](https://www.compandsave.com/what-are-remanufactured-ink-cartridges-guide)? Simple – when they fix up the cartridge and add new ink, you get results just as good as the pricey OEM ones. Additionally, here are some benefits that you can consider:
 
 ### 1. Less Garbage in Landfills
 
-Choosing remanufactured printer ink and toner cartridges is environmentally friendly because it prevents old cartridges from ending up in landfills, where they take hundreds of years to break down.
+Choosing remanufactured printer ink and toner cartridges is [environmentally friendly](https://www.compandsave.com/environmentally-friendly-ink-cartridges) because it prevents old cartridges from ending up in landfills, where they take hundreds of years to break down.
 
 ### 2. More Savings
 
 Save up to 75% on ink costs with remanufactured cartridges, making them a much cheaper alternative. It's like getting quality prints while being kind to your wallet and the planet!
 
-For a more detailed comparison between OEM and third-party ink and toner cartridges, you can check this guide.
+For a more detailed comparison between OEM and third-party ink and toner cartridges, you can [check this guide](https://www.compandsave.com/ink-cartridges-price-comparison).
 
 ### 3. Resource Conservation
 
