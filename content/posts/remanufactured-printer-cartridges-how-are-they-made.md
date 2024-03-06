@@ -145,7 +145,7 @@ Yes, remanufactured cartridges can be as reliable as OEM ones. They go through a
 
 ### 2. Does using remanufactured cartridges void my printer warranty?
 
-No, using remanufactured cartridges usually doesn't void your printer warranty. Printer manufacturers cannot cancel the warranty just because you use remanufactured cartridges. The Magnuson-Moss Warranty Act protects your rights to choose the type of cartridges you want to use. So, you can use remanufactured cartridges without worrying about losing your printer warranty.
+No, using remanufactured cartridges usually [doesn't void your printer warranty](https://www.compandsave.com/help/articles/360015776352/will-using-these-cartridges-void-my-warranty). Printer manufacturers cannot cancel the warranty just because you use remanufactured cartridges. The Magnuson-Moss Warranty Act protects your rights to choose the type of cartridges you want to use. So, you can use remanufactured cartridges without worrying about losing your printer warranty.
 
 ### 3. How much can I save by using remanufactured cartridges?
 
@@ -153,11 +153,11 @@ You can save a lot by using remanufactured cartridges, up to 75% on ink costs. C
 
 ### 4. How do I know if remanufactured printer ink cartridges are of good quality? 
 
-To check if a remanufactured cartridge is of good quality, first, look for reviews from other people who used it. Positive reviews mean others had a good experience. Second, see if the supplier mentions testing or quality checks in their information. This shows they care about their product's performance. Lastly, check if the remanufactured cartridge has a return policy. A return policy is important because it means the supplier is confident in their product, and you can return it if you face any issues. 
+To check if a r[emanufactured cartridge is of good quality](https://www.compandsave.com/are-remanufactured-ink-cartridges-good-guide?view=abc/), first, look for reviews from other people who used it. Positive reviews mean others had a good experience. Second, see if the supplier mentions testing or quality checks in their information. This shows they care about their product's performance. Lastly, check if the remanufactured cartridge has a return policy. A return policy is important because it means the supplier is confident in their product, and you can return it if you face any issues. 
 
 ### 5. Do remanufactured cartridges have the same page yield as OEM ones?
 
-Remanufactured cartridges can have similar page yields as OEM ones, and it depends on the specific type you choose. CompAndSave, for example, provides different options like standard yield, high yield, and super high yield. Standard yield may be similar to OEM, while high and super high yield could offer more pages due to higher ink volume. The page yield information is usually mentioned when you're buying, so you can pick the one that fits your printing needs. Remember that the actual page yield might vary based on what you're printing.
+[Remanufactured cartridges](https://www.compandsave.com/what-are-remanufactured-ink-cartridges-guide) can have similar page yields as OEM ones, and it depends on the specific type you choose. CompAndSave, for example, provides different options like standard yield, high yield, and super high yield. Standard yield may be similar to OEM, while high and super high yield could offer more pages due to higher ink volume. The page yield information is usually mentioned when you're buying, so you can pick the one that fits your printing needs. Remember that the actual page yield might vary based on what you're printing.
 
 ## Related Articles:
 
