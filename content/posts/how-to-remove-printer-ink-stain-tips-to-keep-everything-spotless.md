@@ -199,36 +199,36 @@ How to remove printer ink stain? Well, you have simple tips in this guide that y
 
 Got questions about ink or your order? Our helpful team is here to help. Call us at 1-833-465-6888, Monday to Friday, between 6am-4pm PT. We want to make sure your printing journey goes smoothly, so don't hesitate to reach out and let's make sure your printing experience is stress-free!
 
-Frequently Asked Questions
+## Frequently Asked Questions
 
-1. How to remove printer ink from fabric?
+### 1. How to remove printer ink from fabric?
 
 To remove printer ink stains from fabric such as clothes, first, check the fabric care instructions and test in an inconspicuous area. Gently blot the wet ink stain with a clean cloth or paper towel, avoiding rubbing. Choose a method such as using isopropyl alcohol, hand sanitizer, a milk and vinegar mixture, salt and lemon juice paste, or hairspray. Apply the chosen solution, let it sit for a few minutes, and then wash the stained area with cold water. Repeat the process if needed and follow up with regular washing to ensure the ink stain is completely removed. For a more detailed instruction, you can follow the steps above to remove the printer ink stains. 
 
-2. How to remove ink stains on my carpet?
+### 2. How to remove ink stains on my carpet?
 
 Quickly tackle printer ink stains on carpets by using as little liquid as possible. Try using mild dish soap, a mix of cornstarch and milk, white vinegar and baking soda, salt and rubbing alcohol, or hydrogen peroxide to remove printer ink from carpet. Before using any method, test it in a hidden spot to be sure it won't harm the carpet. Gently scrub the stained area, avoiding soaking the carpet too much. Rinse well and pat the cleaned spot dry with a cloth to finish the process. Additionally, follow the steps mentioned above to easily remove stains on the carpet.
 
-3. Can I use regular soap to remove printer ink stains from my hands?
+### 3. Can I use regular soap to remove printer ink stains from my hands?
 
 Yes, you can use regular soap to remove printer ink stains from your hands. Start by wetting the area with the ink stain, then make a good lather with the soap. Gently rub the soapy bubbles onto the ink stains using your hands or a soft cloth. Let it sit for a minute or two to let the soap break down the ink. After waiting, thoroughly rinse your hands with water, wipe off the soapy mixture, and repeat the process if necessary until the ink is completely removed. Finally, pat your hands dry with a clean towel.
 
-4. Can I use the baby oil method to remove ink stains from any type of skin?
+### 4. Can I use the baby oil method to remove ink stains from any type of skin?
 
 Yes, the baby oil method is typically gentle and suitable for most skin types. Nonetheless, if you have sensitive skin, it's recommended to conduct a patch test in a small area first to ensure that no adverse reactions occur. This precaution helps confirm that the baby oil won't cause any irritation or discomfort before applying it more widely to remove ink stains from your skin.
 
-5. What precautions should I take to prevent printer ink stains?
+### 5. What precautions should I take to prevent printer ink stains?
 
-To avoid printer ink stains, install cartridges carefully to prevent leaks. When refilling, avoid overfilling the cartridges. Also, remember to keep your printer closed when you're not using it so the ink doesn't dry out or leak. Additionally, store ink cartridges in a cool, safe place, preferably in their original packaging, to prevent leaks. You can also clean your printer regularly, especially the printhead, to avoid ink buildup that can cause spills. Doing these things makes it less likely you'll have to deal with unexpected ink stains.
+To avoid printer ink stains, [install cartridges carefully](https://www.compandsave.com/ink-toner-how-to-video) to prevent leaks. When [refilling](https://www.compandsave.com/how-to-refill-ink-cartridges-guide), avoid overfilling the cartridges. Also, remember to keep your printer closed when you're not using it so the ink doesn't dry out or leak. Additionally, [store ink cartridges](https://www.compandsave.com/how-to-store-printer-ink-cartridges) in a cool, safe place, preferably in their original packaging, to prevent leaks. You can also clean your printer regularly, especially the printhead, to avoid ink buildup that can cause spills. Doing these things makes it less likely you'll have to deal with unexpected ink stains.
 
-Related Articles:
+## Related Articles:
 
-How to Store Printer Ink Cartridges?
+[How to Store Printer Ink Cartridges?](https://www.compandsave.com/how-to-store-printer-ink-cartridges)
 
-How to Refill Ink Cartridge?
+[How to Refill Ink Cartridge?](https://www.compandsave.com/how-to-refill-ink-cartridges-guide)
 
-How to Get Printer Ink Out of Clothes?
+[How to Get Printer Ink Out of Clothes?](https://www.compandsave.com/help/articles/22118332426893/how-to-get-printer-ink-out-of-clothes-easy-removal-tips)
 
-How to Get Printer Ink Off Skin?
+[How to Get Printer Ink Off Skin?](https://www.compandsave.com/help/articles/21876122688397/how-to-get-printer-ink-off-skin-products-you-can-try-at-home)
 
-How to Get Toner Out of Carpet?
+[How to Get Toner Out of Carpet?](https://www.compandsave.com/help/articles/21876126244749/how-to-get-toner-out-of-carpet-easy-methods-to-try)
