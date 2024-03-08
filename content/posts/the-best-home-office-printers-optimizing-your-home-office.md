@@ -54,7 +54,7 @@ The printer market is expected to grow from $11.34 billion in 2023 to $12.01 bil
 
 Meet the HP OfficeJet Pro 9015, a versatile powerhouse designed to meet the demands of your home office with its advanced features and exceptional print quality.
 
-**Inkjet printing technology**
+**Inkjet Printing Technology**
 
 * **Print Quality:** Printing papers and images at a high resolution.
 * **Print Speed:** 18 pages per minute (PPM) in color and up to 22 pages per minute (PPM) in black and white.
