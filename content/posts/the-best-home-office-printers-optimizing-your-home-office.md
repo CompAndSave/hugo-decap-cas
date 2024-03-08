@@ -64,7 +64,7 @@ Meet the HP OfficeJet Pro 9015, a versatile powerhouse designed to meet the dema
 * **Ink efficiency:** Utilizes HP 962 ink cartridges, offering regular and high-yield alternatives. 
 * **Support and Warranty:** HP customer support and a one-year limited hardware warranty.
 
-[![inkjet printer](/blog/images/screenshot-2024-03-08-at-3.45.26 pm.png "HP OfficeJet Pro 9015")](/blog/images/screenshot-2024-03-08-at-3.45.26 pm.png)
+[![inkjet printer](/blog/images/screenshot-2024-03-08-at-4.06.16 pm.png "HP OfficeJet Pro 9015")](/blog/images/screenshot-2024-03-08-at-4.06.16 pm.png)
 
 ### 2. Canon  PIXMA TR8520
 
@@ -80,7 +80,7 @@ Introducing the Canon PIXMA TR8520, the perfect all-in-one solution for your hom
 * **Ink Efficiency:** Uses Canon CL-281 and PG-280 ink cartridges; XL and XXL cartridges are also available.
 * **Support and Warranty:** InstantExchange Program and limited warranty.
 
-[![Inkjet Printing](/blog/images/screenshot-2024-03-08-at-3.47.47 pm.png "Canon  PIXMA TR8520")](/blog/images/screenshot-2024-03-08-at-3.47.47 pm.png)
+[![Inkjet Printing](/blog/images/screenshot-2024-03-08-at-4.07.20 pm.png "Canon  PIXMA TR8520")](/blog/images/screenshot-2024-03-08-at-4.07.20 pm.png)
 
 ### 3. Epson EcoTank ET-4760
 
@@ -96,7 +96,7 @@ Here is the Epson EcoTank ET-4760, a revolutionary printer with refillable ink t
 * **Ink Efficiency:** The package has enough ink to last up to two years, and more ink bottles are available.
 * **Warranty:** Two-year limited warranty and Epson customer service are included.
 
-[![inkjet printer](/blog/images/screenshot-2024-03-08-at-3.49.29 pm.png "Epson EcoTank ET-4760")](/blog/images/screenshot-2024-03-08-at-3.49.29 pm.png)
+[![inkjet printer](/blog/images/screenshot-2024-03-08-at-4.08.08 pm.png "Epson EcoTank ET-4760")](/blog/images/screenshot-2024-03-08-at-4.08.08 pm.png)
 
 ### 4. Brother MFC-L2750DW
 
@@ -113,7 +113,7 @@ Here is the Brother MFC-L2750DW, one of the best-rated home office printers, equ
 * **Toner Efficiency:** For economical printing, high-yield toner cartridges are available.
 * **Warranty and Support:** Limited one-year warranty; Brother is always there to help.
 
-[![inkjet printer](/blog/images/screenshot-2024-03-08-at-3.51.51 pm.png "Brother MFC-L2750DW")](/blog/images/screenshot-2024-03-08-at-3.51.51 pm.png)
+[![inkjet printer](/blog/images/screenshot-2024-03-08-at-4.09.13 pm.png "Brother MFC-L2750DW")](/blog/images/screenshot-2024-03-08-at-4.09.13 pm.png)
 
 ### 5. HP LaserJet Pro MFP M227fdw
 
@@ -129,7 +129,7 @@ The HP LaserJet Pro MFP M227fdw is one of the best-rated home office printers. I
 * **Toner Efficiency:** High-yield choices are available for HP 30A and 30X toner cartridges.
 * **Support and Warranty:** HP customer support and a one-year limited hardware warranty.
 
-[![inkjet printer](/blog/images/screenshot-2024-03-08-at-3.53.03 pm.png "HP LaserJet Pro MFP M227fdw")](/blog/images/screenshot-2024-03-08-at-3.53.03 pm.png)
+[![inkjet printer](/blog/images/screenshot-2024-03-08-at-4.10.40 pm.png "HP LaserJet Pro MFP M227fdw")](/blog/images/screenshot-2024-03-08-at-4.10.40 pm.png)
 
 ## Find The Solution To Buy A Good Home Office Printer
 
