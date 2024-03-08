@@ -121,13 +121,13 @@ The HP LaserJet Pro MFP M227fdw is one of the best-rated home office printers. I
 
 **Laser Printing Technology**
 
-* Print quality: Crisp text and images with up to 1200 x 1200 dpi maximum resolution.
-* Print Speed: 30 PPM is the maximum print speed.
-* Connectivity Options: Wi-Fi, Ethernet, USB, Apple AirPrint, HP ePrint, and Google Cloud Print 
-* Paper Handling Options: automatic 35-sheet document feeder, a 250-sheet input tray, and automatic duplex printing.
-* Features for Scanning and Copying: Up to 1200 dpi optical resolution and 30 CPM copy speed are offered by this flatbed scanner.
-* Toner Efficiency: High-yield choices are available for HP 30A and 30X toner cartridges.
-* Support and Warranty: HP customer support and a one-year limited hardware warranty.
+* **Print quality:** Crisp text and images with up to 1200 x 1200 dpi maximum resolution.
+* **Print Speed:** 30 PPM is the maximum print speed.
+* **Connectivity Options:** Wi-Fi, Ethernet, USB, Apple AirPrint, HP ePrint, and Google Cloud Print 
+* **Paper Handling Options:** automatic 35-sheet document feeder, a 250-sheet input tray, and automatic duplex printing.
+* **Features for Scanning and Copying:** Up to 1200 dpi optical resolution and 30 CPM copy speed are offered by this flatbed scanner.
+* **Toner Efficiency:** High-yield choices are available for HP 30A and 30X toner cartridges.
+* **Support and Warranty:** HP customer support and a one-year limited hardware warranty.
 
 [![inkjet printer](/blog/images/screenshot-2024-03-08-at-3.53.03 pm.png "HP LaserJet Pro MFP M227fdw")](/blog/images/screenshot-2024-03-08-at-3.53.03 pm.png)
 
