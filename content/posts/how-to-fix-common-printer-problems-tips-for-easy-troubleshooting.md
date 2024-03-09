@@ -60,7 +60,7 @@ Look at your printer for any words or signs that show a problem, and also check 
 
 Check what color is blinking – green usually means things are good, but red might signal problems, like a paper jam, low ink, or no paper in the tray.
 
-Additionally, if your printer is showing error messages, it could be [due to stuck print jobs](https://www.tonergiant.co.uk/blog/how-to-fix-error-printing-message/). You can fix it by right-clicking on each job and canceling it. 
+Additionally, if your printer is showing error messages such as Error-Printing in the printer spool service, possible reasons could be due to outdated USB drivers or [due to stuck print jobs](https://www.tonergiant.co.uk/blog/how-to-fix-error-printing-message/). You can try fixing it by making sure that USB drivers of your computer are up to date or accessing the printer spool service and canceling all the printing jobs manually.
 
 Remember to read the manual that came with your printer to know what each color means so you can fix any issues.
 
