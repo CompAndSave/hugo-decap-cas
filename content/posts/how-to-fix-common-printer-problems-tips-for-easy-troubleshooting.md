@@ -150,60 +150,93 @@ Switch the printer back on and see if there are any more messages. It should be 
 
 [Print a test page](https://www.compandsave.com/how-to-print-test-page-on-windows-and-mac/) to check if the paper jam is completely gone.
 
-3. Low Ink Message on Printer After Refilling
+### 3. Low Ink Message on Printer After Refilling
 
-If you put in a refilled ink cartridge and your printer shows a "Low Ink" message, it might be because the cartridge wasn't completely reset when it was refilled. Even if the cartridge has enough ink, the printer doesn't always recognize it. 
-
-
+If you put in a [refilled ink cartridge](https://www.compandsave.com/how-to-refill-ink-cartridges-guide/) and your printer shows a "Low Ink" message, it might be because the cartridge wasn't completely reset when it was refilled. Even if the cartridge has enough ink, the printer doesn't always recognize it. 
 
 You can do two things to solve this problem: ignore the message and keep printing, or turn off the ink level system on your printer. If you turn it off, you won't get bothered by "Low Ink" warnings when using refilled cartridges. But remember to check your print quality to make sure the cartridges still have enough ink. Here’s how you can disable it:
 
-For Windows:
+**For Windows:**
 
-Step 1: Open Printer Software
+**Step 1: Open Printer Software**
 
 Go to "Printer Utility" or "Printer Software," then look for "Printer Preferences" or "Printer Settings." You can find it in the "File" or "Settings" menu.
 
-Step 2: Look for Ink Level Settings
+**Step 2: Look for Ink Level Settings**
 
 Inside preferences, find a section about ink or cartridges. This could be under "Maintenance" or "Tools."
 
-Step 3: Turn Off Ink Monitoring
+**Step 3: Turn Off Ink Monitoring**
 
 Search for an option to turn off or disable ink level monitoring. It might be a box you can uncheck or a switch to toggle.
 
-Step 4: Save Your Changes
+**Step 4: Save Your Changes**
 
 After making the changes, save what you did. Some printers might ask you to restart them so the changes are applied.
 
-Step 5: Test Print
+**Step 5: Test Print**
 
-Print a test page to make sure the ink level warnings are turned off.
+[Print a test page](https://www.compandsave.com/how-to-print-test-page-on-windows-and-mac/) to make sure the ink level warnings are turned off.
 
-For Mac:
+**For Mac:**
 
-Step 1: Go to Settings
+**Step 1: Go to Settings**
 
 Click on the Apple logo at the top-left. Choose "System Preferences."
 
-Step 2: Find Printers & Scanners
+**Step 2: Find Printers & Scanners**
 
 Look for "Printers & Scanners" and click on it. Then, click on your printer's name in the list.
 
-Step 3: Open Printer Utility
+**Step 3: Open Printer Utility**
 
 Find and click on something like "Printer Setup" or "Printer Utility."
 
-Step 4: Turn Off Ink Monitoring
+**Step 4: Turn Off Ink Monitoring**
 
 Look for an option related to ink levels. Find and disable the ink level monitoring or warnings.
 
-Step 5: Save Changes
+**Step 5: Save Changes**
 
 Apply the changes and close the Printer Utility.
 
-Step 6: Test Print
+**Step 6: Test Print**
 
-Print a test page to see if the ink level warnings are turned off.
+[Print a test page](https://www.compandsave.com/how-to-print-test-page-on-windows-and-mac/) to see if the ink level warnings are turned off.
 
-If the problem continues after doing this, you can check this guide for troubleshooting ink after refilling for more steps to fix it.
+If the problem continues after doing this, you can check this guide for [troubleshooting ink after refilling](https://www.compandsave.com/help/articles/21875990254221/why-does-my-printer-say-low-ink-when-i-just-refilled-it) for more steps to fix it.
+
+### 4. Printer is Offline
+
+If your printer is showing as "offline," it means that your computer is having trouble connecting to the printer. So, here are simple steps in troubleshooting a printer that is offline:
+
+**Step 1: Check Cables**
+
+Make sure all the printer cables are plugged in properly. Check if the power cable is connected to the printer and a working power outlet.
+
+**Step 2: Check Connections**
+
+Confirm the printer is connected to the network properly. If it's a USB connection, try a different USB port. If you are connecting wirelessly, [check that the wifi is working](https://www.compandsave.com/how-to-connect-printer-to-wifi) both on the printer and on the computer you are using. Adjust printer settings on both the printer and computer if needed.
+
+**Step 3: Test Print**
+
+After completing the steps, try [printing a test page](https://www.compandsave.com/how-to-print-test-page-on-windows-and-mac/) to see if the issue is resolved. If the test print is successful, your printer should be back online.
+
+For additional information, you can also check this [guide on fixing printer offline problems](https://www.compandsave.com/how-to-fix-printer-offline-problems-on-windows-and-mac).
+
+### 5. Printer is not Scanning
+
+Troubleshooting a printer that is not scanning can involve several factors. Here are some solutions you can do to fix it:
+
+**A. Turn Off and On**
+
+Turn off your scanner, unplug it from the wall, wait for 30 seconds, and then plug it back in. Turn it on again to see if it works.
+
+**B. Update Firmware**
+
+Visit the website of the company that made your scanner and download the latest firmware. This helps your scanner communicate better with your computer. To update your printer’s firmware, you can visit these links:
+
+* [HP Printer](https://support.hp.com/us-en/document/ish_1776648-1643972-16)
+* [Epson Printer](https://epson.com/support/updating-your-printers-firmware-using-epson-software-updater)
+* [Canon Printer](https://support.usa.canon.com/kb/index?page=content&id=ART139383)
+* [Brother Printer](https://support.brother.com/g/b/faqend.aspx?c=ph&lang=en&prod=ads2400n_all&faqid=faq00100468_001)
