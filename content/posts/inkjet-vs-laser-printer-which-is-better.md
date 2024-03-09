@@ -53,12 +53,12 @@ Let’s explore the difference between a laser printer and an inkjet printer in 
 
 Let’s explore more about the laser printer vs inkjet printer  in terms of disadvantages:
 
-### Inkjet Printer Cons
+### Inkjet Printer Drawbacks
 
 * **Expense a Lot to Maintain:** Although an inkjet printer may seem more affordable initially, its costs can add up over time. For several reasons, inkjet printer maintenance costs can mount up quickly. Generally speaking, inkjet printers are expensive per page. Depending on how many pages your toner (or ink) cartridge can print before running out, this is the cost per print or copy. The amount of ink used on the pages determines the cost per page (more on this later).
 * **Reduced Lifespan:** The fact that inkjet printers normally only last three years when used at average volume is another significant drawback. Because inkjet printers are meant for the short term and are not as durable as laser printers, they should not be used as a long-term printing solution in an office or large corporate setting.
 
-### Laser Printer Cons
+### Laser Printer Drawbacks
 
 * **Greater Short-Term Expense:** Due to their larger print output capacity and print speed, laser printers can initially cost a lot more than inkjet printers. Initially more expensive, laser printers are less costly to operate over time because of their increased document handling capacity and lower supply requirements. Instead of buying a new printer outright, many companies lease them to reduce the high upfront costs.  
 * **They're Huge Devices:** The fact that laser printers can be larger than inkjet printers and need more room to be installed is another drawback of the device. However, this isn't necessarily the case, as laser printers can also be smaller desktop devices. More sophisticated all-in-one printers, including the 352-pound Xerox AltaLink C8170, which has base measurements of 24.4" x 31.2" x 46". It may be difficult to fit these in home offices or congested workspaces. Before making a purchase, consider a printer's electrical and space needs to ensure it will fit into your workstation.
