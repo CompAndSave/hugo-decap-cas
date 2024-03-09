@@ -121,3 +121,89 @@ Select the option to run a cleaning cycle and follow the on-screen instructions.
 After the cleaning, [print a test page](https://www.compandsave.com/how-to-print-test-page-on-windows-and-mac/) to check if the clogs are gone.
 
 For additional information, you can check this [guide for the printhead cleaning cycle](https://www.compandsave.com/printhead-cleaning-guide/) automatically or manually.
+
+### 2. Paper Jam
+
+A paper jam happens when a piece of paper gets stuck inside your printer, stopping it from working properly. This can occur if the paper is not loaded correctly or too much paper is in the tray. Sometimes, wrinkled or torn paper can also cause jams. Also, if you try to print too many pages at a time, the printer might get overwhelmed, leading to a [paper jam](https://www.compandsave.com/how-to-fix-paper-jam-in-printer-guide/). Here’s how you can fix it:
+
+**Step 1: Check for Jam Signs**
+
+Look for blinking lights or messages on your printer that tell you about a paper jam. Open the printer cover to find where the paper is stuck.
+
+**Step 2: Turn Off the Printer**
+
+Make sure the printer is turned off to avoid any issues while fixing the jam.
+
+**Step 3: Take Out Loose Paper**
+
+Gently pull out any paper that's loose or stuck halfway in the direction it goes through the printer . Be careful not to rip it or harm the printer. Check the paper path to be sure there's no tiny bits of paper left. You can use a flashlight to see better.
+
+**Step 4: Put Paper Back**
+
+After fixing the jam, put new, undamaged paper back into the printer.
+
+**Step 5: Turn On the Printer**
+
+Switch the printer back on and see if there are any more messages. It should be ready to use.
+
+**Step 6: Print a Test Page**
+
+[Print a test page](https://www.compandsave.com/how-to-print-test-page-on-windows-and-mac/) to check if the paper jam is completely gone.
+
+3. Low Ink Message on Printer After Refilling
+
+If you put in a refilled ink cartridge and your printer shows a "Low Ink" message, it might be because the cartridge wasn't completely reset when it was refilled. Even if the cartridge has enough ink, the printer doesn't always recognize it. 
+
+
+
+You can do two things to solve this problem: ignore the message and keep printing, or turn off the ink level system on your printer. If you turn it off, you won't get bothered by "Low Ink" warnings when using refilled cartridges. But remember to check your print quality to make sure the cartridges still have enough ink. Here’s how you can disable it:
+
+For Windows:
+
+Step 1: Open Printer Software
+
+Go to "Printer Utility" or "Printer Software," then look for "Printer Preferences" or "Printer Settings." You can find it in the "File" or "Settings" menu.
+
+Step 2: Look for Ink Level Settings
+
+Inside preferences, find a section about ink or cartridges. This could be under "Maintenance" or "Tools."
+
+Step 3: Turn Off Ink Monitoring
+
+Search for an option to turn off or disable ink level monitoring. It might be a box you can uncheck or a switch to toggle.
+
+Step 4: Save Your Changes
+
+After making the changes, save what you did. Some printers might ask you to restart them so the changes are applied.
+
+Step 5: Test Print
+
+Print a test page to make sure the ink level warnings are turned off.
+
+For Mac:
+
+Step 1: Go to Settings
+
+Click on the Apple logo at the top-left. Choose "System Preferences."
+
+Step 2: Find Printers & Scanners
+
+Look for "Printers & Scanners" and click on it. Then, click on your printer's name in the list.
+
+Step 3: Open Printer Utility
+
+Find and click on something like "Printer Setup" or "Printer Utility."
+
+Step 4: Turn Off Ink Monitoring
+
+Look for an option related to ink levels. Find and disable the ink level monitoring or warnings.
+
+Step 5: Save Changes
+
+Apply the changes and close the Printer Utility.
+
+Step 6: Test Print
+
+Print a test page to see if the ink level warnings are turned off.
+
+If the problem continues after doing this, you can check this guide for troubleshooting ink after refilling for more steps to fix it.
