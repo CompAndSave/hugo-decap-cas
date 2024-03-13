@@ -72,3 +72,15 @@ After you replace either the drum or toner, make sure you secure them properly. 
 ### Step 5: Check If The Toner Works
 
 Plug in your printer and turn it on. Check if the new toner is detected. Some printers have LED indicators to show the toner or drum status. You can try [printing a test page](https://www.compandsave.com/how-to-print-test-page-on-windows-and-mac/) to see if the newly installed toner cartridge works. If you face any issues, try our [troubleshooting tips](https://www.compandsave.com/troubleshoot-remanufactured-toner-cartridge-problems-guide).
+
+## Brother Toner: Why Are New Ones Smaller?
+
+When you're [changing your printer's toner](https://www.compandsave.com/ink-toner-how-to-video), it might seem like the new cartridge is smaller than what you had before. Don't worry; it's a common confusion. People often take out the toner with the drum unit, and together, they look bigger.
+
+To fix this, take out the toner from the drum unit. Now, insert the new toner into the drum unit and put the entire assembly back into the printer. It's a simple step that might save you from scratching your head trying to fit the toner back in.
+
+## Parting Words
+
+How to replace toner in Brother printer? Now you know how to do it easily! Just follow the straightforward steps in this guide to change toner in Brother printer. By doing this, you'll keep your printer in great shape, ensuring smooth printing for a long time. Give your Brother printer a toner refresh today! 
+
+Need help with ink or have questions about your order? Our friendly team is ready to assist you! Simply call us at 1-833-465-6888, Monday to Friday, between 6am-4pm PT. We're dedicated to making sure your printing experience is stress-free!
