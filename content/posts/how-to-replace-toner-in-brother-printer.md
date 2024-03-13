@@ -44,3 +44,31 @@ Brother toner replacement is needed when your printer gives you a completely bla
 **3. Low Toner Warning**
 
 Some Brother printers give you a heads-up when the toner is running low. When you see this message or a light blinking, it's a hint to install a new toner soon. Additionally, if your printed pages have lines, faded, or poor in quality, it might be because your printer is having issues or you're low on ink/toner. When this happens, you might need to check your ink or toner and replace if needed.
+
+## How to Replace Toner in Brother Printer: Steps You Can Follow
+
+When you’ve noticed those signs above, it is time to change toner in Brother printer.  Don't worry, [changing the toner](https://www.compandsave.com/how-to-change-toner-in-brother-printer-guide) is easy! Just follow the few simple steps below on how to replace toner in Brother printer, and you'll be good to go. Doing this ensures that your Brother printer keeps working well, making clear prints without problems.
+
+### Step 1: Turn Off and Unplug Your Printer
+
+Before changing toner in Brother printer, it's a good idea to have plenty of extra paper nearby just in case there's any toner leakage. Make sure the printer is switched off and not connected to any power outlets or devices. Doing this will prevent any mess and make changing the toner easy.
+
+### Step 2: Separate the Drum and Cartridge
+
+Open the front cover of your printer and gently pull apart the drum and cartridge. Be careful not to let any toner spill; if it does, clean it up with the extra paper. Don’t touch the electrode to avoid damaging it with static electricity.
+
+Press the green lever to separate the drum and cartridge. Place them on paper, away from things like magnets or electronic devices. Your printer warranty might not cover damaging parts during replacement.
+
+### Step 3: Replace the Drum or Cartridge
+
+So, how do you change the toner in a Brother printer? It's pretty simple! If you're [changing the drum](https://www.compandsave.com/how-to-replace-the-drum-on-brother-printer-guide), just put the new one in. If you have a new toner cartridge, just take the drum out of the printer then remove the old toner. Install the new toner cartridge by snapping it into the drum. 
+
+Brother toner cartridges are easy to install and last about 2,600 pages, while drums last longer, usually around 12,000 pages.
+
+### Step 4: Secure the Drum and Cartridge
+
+After you replace either the drum or toner, make sure you secure them properly. Once they’re secured, lock them together by clicking them in place as the green lever that you pushed earlier pops back up automatically to indicate a successful replacement.
+
+### Step 5: Check If The Toner Works
+
+Plug in your printer and turn it on. Check if the new toner is detected. Some printers have LED indicators to show the toner or drum status. You can try [printing a test page](https://www.compandsave.com/how-to-print-test-page-on-windows-and-mac/) to see if the newly installed toner cartridge works. If you face any issues, try our [troubleshooting tips](https://www.compandsave.com/troubleshoot-remanufactured-toner-cartridge-problems-guide).
