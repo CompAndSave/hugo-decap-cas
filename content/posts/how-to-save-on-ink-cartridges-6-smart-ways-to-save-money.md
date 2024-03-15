@@ -95,4 +95,12 @@ In addition to having a high failure rate, clones and compatibles are frequently
 
 Still wondering how to save money on ink for printers? It's advised to utilize color printing only when necessary if you own a color printer. You only use your black cartridge when printing in black and white. Colors are combined to create black-in-color ink cartridges used for black printing.
 
-Thus, printing in black and white rather than color extends the life of your ink. Have an expert set your computer's default print settings to black and white or greyscale printing.
+Thus, printing in black and white rather than color extends the life of your ink. Have an expert set your computer's default print settings to black and white or greyscale printing. 
+
+### Tip # 5: When Printing Webpages, Use This Tip
+
+Web page printing can waste a lot of ink. Web pages with images, links, ads, and formatting add a lot of extraneous printing and clutter. PrintFriendly is a free web application that helps you conserve paper and ink when printing by turning webpages into printable PDFs and eliminating ads, navigation, and other extraneous content.
+
+### Tip # 6: Remain Clear of "Toner Pirates"
+
+"Toner Pirates" are businesses that contact phone companies, attempting to sell printer toner or ink cartridges over the phone. They often use high-pressure tactics and make low offers. They falsely claim to represent your supplier and offer lower prices.
