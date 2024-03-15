@@ -54,12 +54,12 @@ Thanks to its generous ink tank capacity, users can print thousands of pages bef
 
 **Pros**
 
-* Fast printing for high-volume needs.
-* Wireless connectivity.
-* Huge paper capacity.
-* Advanced Scanning Functions.
-* Duplex printing for paper and cost savings.
-* High-quality output for professional documents.
+* Cost-effective printing with EcoTank system.
+* High-quality prints with PrecisionCore tech.
+* Efficient scanning with ADF and duplex.
+* Ample paper capacity cuts refills.
+* Wireless printing from multiple devices.
+* Professional-grade output for all documents.
 
 ### 3. HP OfficeJet Pro 9015e Printer
 
