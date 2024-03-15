@@ -27,7 +27,7 @@ In a recent Consumer Reports printer poll, we discovered that one of the most pr
 * 6 hints: How to save money on printer ink
 * Practical tips on how to reduce printing costs
 
-## How to Save on Ink Cartridges: Top 6 Ways to Save $$$
+## How to Save on Ink Cartridges: Top 6 Ways to Save Money
 
 Are you sick of that feeling of having to keep buying new ink cartridges and spending all of your money doing it? You no longer have to ask yourself, “[How to reduce printing costs](https://www.compandsave.com/how-to-reduce-printing-costs)” constantly because we are here to save you from all the [printer ink scams](https://www.compandsave.com/printer-ink-scam-guide) and similar ones.
 
