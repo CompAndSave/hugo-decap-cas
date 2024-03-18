@@ -48,7 +48,7 @@ It does not get any simpler than Ina Garten's sautéed cabbage [recipe](https://
 
 Guinness is often the go-to drink on St. Patrick's Day, but you should try out a few other festive libations too.
 
-Irish coffee is easy to make and it won't break the bank. This simple [recipe](https://www.rd.com/food/easy-irish-coffee/) requires strong coffee, your favorite Irish whiskey, sugar to taste, and cream.
+Irish coffee is easy to make and it won't break the bank. This simple recipe requires strong coffee, your favorite Irish whiskey, sugar to taste, and cream.
 
 Think peppermint is just for the holidays? Peppermint hot cocoa is perfect for when you're standing at a chilly St. Paddy's Day parade. Make hot chocolate as you normally would but add in a drop of peppermint extract per mug. You can also try melting in peppermint candies if you don't have the extract. For decadent hot cocoa with peppermint, try [this recipe](https://www.tasteofhome.com/recipes/peppermint-hot-chocolate). 
 
