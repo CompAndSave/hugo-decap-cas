@@ -24,7 +24,7 @@ Now this has to be the most obvious way to save money on ink cartridges; that yo
 
 | [![make ink cartridges last longer](/blog/images/timesnewroman.jpg "Tip: Print in Smaller Font to Save Ink")](/blog/images/timesnewroman.jpg) |
 | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Photo [credit](https://parasolx.net/sites/default/files/styles/large/public/timesnewroman.gif?itok=tfBvsdSl)                                  |
+| Photo credit                                                                                                                                  |
 
 Don't print unless you have to. Send an email, share documents on the Cloud or use any one of the many digital options available so you don't have to take a print out.
 
