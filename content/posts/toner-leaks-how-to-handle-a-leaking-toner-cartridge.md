@@ -71,7 +71,7 @@ Incorrect installation of an ink or toner cartridge is a common issue. If the ca
 
 It's best to change a cartridge if it has inherent flaws or is beginning to show symptoms of age, as this can prevent future leaks and potential harm to your printer. Leaking may also occur with a defective cartridge that sustained damage during shipping or after being purchased locally. Always inspect a toner cartridge before use, and never insert one that is broken.
 
-### 3. Refilling Toner Cartridge 
+### 3. Refilling Toner Cartridge
 
 Refilling toner cartridges at home or work is not advised as this may also lead to frequent leaks, especially when refills are not done properly with the correct materials. Ask for assistance from an expert if you are unsure of how to proceed with the refill process. You may also replace your cartridge with cheaper, reliable third-party cartridges instead, saving you from the trouble of having to refill your cartridges.
 
@@ -83,7 +83,7 @@ To avoid the hassle of a printer cartridge leak in the future, it is best to imp
 * While using OEM products ensures the best results for your printing, you can also consider less expensive alternatives from trustworthy third-party sources like [CompAndSave](https://www.compandsave.com/) that offer the same quality and output.
 * Cartridges should be stored in a dry, cold environment in their original packing when not in use. This aids in averting future harm and degradation over time.
 
-By following these instructions and using caution when selecting toner and ink cartridges, you may reduce the possibility of cartridge leaks and enjoy hassle-free printing.
+By following these and using caution when selecting toner and ink cartridges, you may reduce the possibility of cartridge leaks and enjoy hassle-free printing.
 
 ## Cleaning After Printer Cartridge Leaking: 5 Tips
 
@@ -103,7 +103,7 @@ Remove as much of the toner leak as possible by scooping and discarding it. You 
 
 ### 4. Dab Clean
 
-Using a dampened soft cloth or paper towel, gently dab affected surfaces where the remaining toner leak residue has adhered to. Avoid scrubbing the affected area as this can cause the toner leak to spread and embed even more.
+Using a dampened soft cloth or paper towel, gently dab affected surfaces where the remaining toner leak residue has adhered to. Avoid scrubbing the affected area, as this can cause the toner leak to spread and embed even more.
 
 ### 5. Dispose Properly
 
@@ -119,7 +119,7 @@ Depending on your printer type, some printers have sensors that detect toner lev
 
 ### 2. Issues With Print Quality
 
-One of the most noticeable issues that may arise once there is a printer cartridge leaking is poor-quality print in the form of smudges, fading prints, and streaks. When cleaning a toner leak ensure to also properly clean the paper path and other internal parts of your device.
+One of the most noticeable issues that may arise once there is a printer cartridge leaking is a poor-quality print in the form of smudges, fading prints, and streaks. When cleaning a toner leak, ensure to also properly clean the paper path and other internal parts of your device.
 
 ### 3. Paper Jams
 
@@ -149,11 +149,11 @@ Need more assistance? Our customer service staff is ready to help you find solut
 
 ## Frequently Asked Questions
 
-### 1. What to do about toner leaking on paper? 
+### 1. What to do about toner leaking on paper?
 
 When you see toner leaking on paper, you should look for any obvious damage or leaks in the toner cartridge. If a leak is found, take the appropriate steps to clean it up. Make sure that the printer's cartridge is seated and installed correctly.
 
-### 2. What to do about toner cartridge leaking Powder? 
+### 2. What to do about toner cartridge leaking Powder?
 
 To save your printer and workspace from harm, you must take immediate action if you see a toner cartridge leaking powder. First, disconnect the printer from the power source and turn it off. Take out the leaky cartridge with care, then look for any obvious wear or damage. Replace the cartridge with a new one if it is damaged.
 
