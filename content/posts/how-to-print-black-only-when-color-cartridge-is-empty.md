@@ -2,7 +2,7 @@
 title: How to Print Black Only When Color Cartridge Is Empty?
 date: 2024-03-22T07:57:48.211Z
 authors: Trisha Olivar
-featured_image: /blog/images/ingoude.-99-.png
+featured_image: /blog/images/ingoude.-100-.png
 description: Learn how to print black only. Find out how to adjust your printer
   settings to print black ink only, ensuring crisp, clear, & quality documents
   every time.
@@ -15,7 +15,7 @@ tags:
   - laser printer
   - Printer troubleshooting
 ---
-[![printer ink cartridge](/blog/images/ingoude.-99-.png "How to Print Black Only When Color Cartridge Is Empty?")](/blog/images/ingoude.-99-.png)
+[![printer ink cartridge](/blog/images/ingoude.-100-.png "How to Print Black Only When Color Cartridge Is Empty?")](/blog/images/ingoude.-100-.png)
 
 In today's digital era, printers have become essential tools for both professional and personal use. However, a common frustration arises when a color cartridge runs out and you only need to print in black. This situation calls into question the limitations and capabilities of printers, particularly when color printing isn't necessary or when you need to print black only.
 
