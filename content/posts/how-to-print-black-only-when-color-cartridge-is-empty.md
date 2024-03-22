@@ -88,7 +88,7 @@ Using a printer with an empty color cartridge can compromise the quality of blac
 
 ### 2. Printhead Maintenance
 
-If you are wondering how to clean printhead, remember that regular maintenance is crucial for inkjet printers. It helps them to perform well and produce high-quality prints. Printing with empty cartridges can exacerbate issues like printhead clogging, as the remaining ink may dry and harden within the nozzles over time. To minimize this risk, it's important to follow the printer manufacturer's recommendations for routine printhead cleaning and maintenance.
+If you are wondering [how to clean printhead](https://www.compandsave.com/printhead-cleaning-guide), remember that regular maintenance is crucial for inkjet printers. It helps them to perform well and produce high-quality prints. Printing with empty cartridges can exacerbate issues like printhead clogging, as the remaining ink may dry and harden within the nozzles over time. To minimize this risk, it's important to follow the printer manufacturer's recommendations for routine printhead cleaning and maintenance.
 
 ### 3. Ink Usage
 
@@ -108,7 +108,7 @@ Before trying to print with an empty cartridge, look at the printer settings for
 
 ### 2. Evaluate Print Quality
 
-Check the quality of your prints before doing a large print job. If the prints are significantly worse or inconsistent, consider replacing or refilling empty cartridges with the best cheap ink cartridges for better results.
+Check the quality of your prints before doing a large print job. If the prints are significantly worse or inconsistent, consider replacing or refilling empty cartridges with the [best cheap ink cartridges](https://www.compandsave.com/top-5-best-cheap-printer-ink-cartridges) for better results.
 
 ### 3. Manage Ink Consumption
 
@@ -122,7 +122,7 @@ Stick to the printer manufacturer's advice for cartridge maintenance, replacemen
 
 In conclusion, to print black ink only or with an empty color cartridge is possible. However, it requires careful consideration of potential drawbacks. By understanding your printer's capabilities and following the best practices, you can efficiently manage your printing needs without compromising quality.
 
-Remember, delaying ink replacements can be harmful in the long run. To get an answer on how to reduce printing costs, consider using affordable ink replacements that are cheaper than name-brand cartridges but just as reliable.
+Remember, delaying ink replacements can be harmful in the long run. To get an answer on [how to reduce printing costs](https://www.compandsave.com/how-to-reduce-printing-costs), consider using affordable ink replacements that are cheaper than name-brand cartridges but just as reliable.
 
 Need more assistance? Our customer service staff is ready to help you find solutions to print black only. CompAndSave’s toll-free number: 1-833-465-6888, from Monday to Friday, 6 am to 4 pm PT, for further assistance.
 
@@ -146,10 +146,10 @@ Yes, it's possible to print with an empty cartridge if your printer model permit
 
 ## Related Articles:
 
-How to Reduce Printing Costs
+[How to Reduce Printing Costs](https://www.compandsave.com/how-to-reduce-printing-costs)
 
-How to Save Money on Printer Ink
+[How to Save Money on Printer Ink](https://www.compandsave.com/blog/posts/how-to-save-money-on-printer-ink-simple-tips-for-home-and-office-printing.html)
 
-Top 5 Best Cheap Ink Cartridges
+[Top 5 Best Cheap Ink Cartridges](https://www.compandsave.com/top-5-best-cheap-printer-ink-cartridges)
 
-How to Clean Printhead
+[How to Clean Printhead](https://www.compandsave.com/printhead-cleaning-guide)
