@@ -79,3 +79,63 @@ Hybrid readers are like a mix of two types of readers: magnetic stripe and scann
 ### 4. Portable Readers
 
 Portable readers are compact devices you can take wherever you go. They're handy for businesses needing to read outside checks, such as delivery companies. You can easily connect them to phones or laptops. However, they can be more expensive than other options and might not be as effective at reading checks as larger machines.
+
+## MICR Readers: How Do They Work?
+
+Now that we understand why MICR readers are important and some types available in the market, let's learn how they read and understand the special characters printed with magnetic ink on checks. Here's how they do it:
+
+### 1. Magnetic Ink
+
+MICR characters are printed using a special ink containing iron oxide particles. This ink is resistant to tampering and fading, making it ideal for check printing.
+
+### 2. Printing Process
+
+[![MICR check](/blog/images/screenshot-2024-03-29-at-11.39.34 am.png "bank check")](/blog/images/screenshot-2024-03-29-at-11.39.34 am.png)
+
+(Source: [CFI](https://corporatefinanceinstitute.com/resources/wealth-management/magnetic-ink-character-recognition-micr-line/))
+
+When a check is printed, essential details like the bank's routing number, account number, and check number are printed at the bottom called the MICR line. This line is printed with magnetic ink, which helps machines read it easily. It's like a special code that tells banks where the money should go and where it's coming from.
+
+### 3. Magnetic Reading
+
+[![MICR](/blog/images/screenshot-2024-03-29-at-11.35.49 am.png "Micr Head")](/blog/images/screenshot-2024-03-29-at-11.35.49 am.png)
+
+(Source: [Apollo Electronics](http://www.apolloelectronics.com/en/products_show_3_16_178553624.html))
+
+A magnetic character reader has special sensors or magnetic heads that can detect the magnetic ink characters on checks. These sensors scan the characters as the check moves through the reader.
+
+### 4. Character Recognition
+
+The MICR check scanner reads the magnetic signals and changes them into digital information. Each symbol has its own unique magnetic pattern, so the machine can tell which symbol is which. This helps it read the characters on the check correctly.
+
+### 5. Data Processing
+
+Once the characters are recognized, the MICR reader organizes the information based on the bank's needs. This might mean checking if the routing number matches what's in the bank's database, making sure the account number looks right, and doing other checks to ensure everything is correct and valid. This helps ensure the information is accurate and trustworthy before the bank does anything.
+
+### 6. Transaction Processing
+
+Once the information is processed, it can be used for banking transactions like depositing a check, withdrawing funds, or transferring money between accounts. The MICR data is usually combined with other details on the check to finish the task safely and quickly. MICR readers do this job fast and with fewer mistakes than people typing it in by hand.
+
+## Parting Words
+
+So, why are MICR readers important in banking? Well, they help make things faster and more accurate. A magnetic ink character reader reads magnetic ink on checks and other important documents, helping banks process transactions quickly and avoid mistakes. Though there are different kinds of MICR readers out there, they all do the same basic job: making sure banking runs smoothly and efficiently.
+
+**Key takeaways:**
+
+* MICR readers help banks read all the important information on checks really fast. This helps banks process transactions smoothly and without making mistakes.
+* The numbers and symbols at the bottom of checks are printed using magnetic ink that stays the same and doesn't fade over time. This ensures that the machines can always read them properly.
+* MICR readers have special sensors to "see" the special ink on checks. They then turn what they see into digital information that computers can understand and work with.
+
+## Frequently Asked Questions
+
+### 1. Are MICR readers compatible with all types of magnetic ink characters?
+
+Yes, MICR readers can usually understand all types of magnetic ink characters found on checks and financial papers. They're made to read the important details like routing numbers and account numbers, no matter which style of magnetic ink characters are used. Whether it's the E-13B font seen in North America, Australia, and the United Kingdom, or the CMC-7 font more common in Europe and parts of South America, MICR readers can handle both. They work by sensing the magnetic ink to figure out the information written on the check. Just make sure the MICR reader is set up right and taken care of to work well with different types of magnetic ink characters.
+
+### 2. How accurate are MICR readers in decoding magnetic ink characters?
+
+MICR readers are designed to read characters on checks with very few mistakes. Whether it's routing numbers, account numbers, or check numbers, they usually get it right. These machines rely on magnetic sensors to pick up the details encoded in the magnetic ink, so they're pretty reliable. But, like with any technology, there can be occasional errors, especially if the ink is smudged or the machine isn't maintained properly. Overall, the magnetic ink scanner is known for its accuracy in decoding magnetic ink characters.
+
+### 3. Do we still need MICR technology when we can pay digitally?
+
+Yes, MICR technology is still important even though digital payments are popular now. Checks are still used everywhere, like businesses and for paying bills. MICR helps make sure checks are processed correctly and securely. It's like a safety net for handling paper checks, making sure everything goes smoothly. So, even with digital options, MICR technology remains valuable in managing paper-based payments.
