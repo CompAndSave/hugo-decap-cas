@@ -139,10 +139,10 @@ To ensure you choose a high-quality ink cartridge, look for products from reputa
 
 ## Related Articles:
 
-Printer Ink Scam
+[Printer Ink Scam](https://www.compandsave.com/printer-ink-scam-guide)
 
-Cheap Printer Cartridges
+[Cheap Printer Cartridges](https://www.compandsave.com/blog/posts/cheap-printer-cartridges-deciding-between-compatible-remanufactured-and-refillable-options.html)
 
-How to Save Money on Printer Ink
+[How to Save Money on Printer Ink](https://www.compandsave.com/blog/posts/how-to-save-money-on-printer-ink-simple-tips-for-home-and-office-printing.html)
 
-What are Remanufactured Ink Cartridges
+[What are Remanufactured Ink Cartridges](https://www.compandsave.com/what-are-remanufactured-ink-cartridges-guide)
