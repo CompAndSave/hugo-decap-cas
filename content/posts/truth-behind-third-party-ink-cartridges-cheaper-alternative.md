@@ -1,6 +1,6 @@
 ---
 title: "Truth Behind Third-Party Ink Cartridges: Cheaper Alternative"
-date: Fri, Mar 29, 2024T02:56 pm
+date: Tue, Apr 02, 2024T12:01 pm
 authors: Trisha Olivar
 featured_image: /blog/images/ingoude.-2024-04-01t142848.863.png
 description: Discover the truth behind third-party ink cartridges! Addressing
