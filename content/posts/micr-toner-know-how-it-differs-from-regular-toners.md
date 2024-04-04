@@ -33,7 +33,7 @@ MICR, which stands for Magnetic Ink Character Recognition, is a technology used 
 
 ### So, what is a MICR toner?
 
-MICR toner is a unique substance used to print these magnetic characters. It contains iron oxide particles, which make the printed characters magnetic. This is important because banks use machines with magnetic sensors, known as [MICR readers](https://www.compandsave.com/blog/posts/micr-readers-understanding-how-it-reads-magnetic-ink-characters.html), to read the characters quickly and accurately during check processing.
+**MICR toner is a unique substance used to print these magnetic characters.** It contains iron oxide particles, which make the printed characters magnetic. This is important because banks use machines with magnetic sensors, known as [MICR readers](https://www.compandsave.com/blog/posts/micr-readers-understanding-how-it-reads-magnetic-ink-characters.html), to read the characters quickly and accurately during check processing.
 
 ## MICR Toner Cartridges: How It Differs From Regular Laser Toners?
 
