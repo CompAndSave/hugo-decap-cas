@@ -46,7 +46,7 @@ For older kids it can help to set out math formulas, scientific terms, graphs, d
 These are as much for keeping younger kids entertained as they are for letting them practice coloring within the lines!
 
 * Printable Coloring Bookmarks
-* [10 Coloring Sheets - Jungle Animals ](https://www.123homeschool4me.com/coloring-sheets-jungle-animals%5F12/)
+* 10 Coloring Sheets - Jungle Animals 
 
 **Flashcards**\
 Toddlers and preschoolers are known to respond really well to flashcards; particularly when it comes to learning numbers and letters and short words. Customize these with picture or objects that kids relate to and print your own.
