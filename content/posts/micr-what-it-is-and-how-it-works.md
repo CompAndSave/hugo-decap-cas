@@ -1,6 +1,6 @@
 ---
 title: "MICR: What It Is And How It Works?"
-date: 2024-04-03T11:38:00.000-07:00
+date: 2024-04-03T11:42:00.000-07:00
 authors: Trisha Olivar
 featured_image: /blog/images/ingoude.-2024-03-26t001400.509.png
 description: Do you want to know what MICR is? This guide will teach you all
