@@ -1,6 +1,6 @@
 ---
 title: "MICR Toner: Know How It Differs From Regular Toners"
-date: Wed, Apr 03, 2024T09:35 pm
+date: 2024-04-03T11:37:00.000-07:00
 authors: Trisha Olivar
 featured_image: /blog/images/ingoude.-2024-04-01t230432.650.png
 description: Do you know the difference between a MICR toner and a regular laser
