@@ -43,7 +43,7 @@ collections:
     identifier_field: title
     fields:
       - { label: 'Title', name: 'title', widget: 'stringWithCounter', tagname: 'h1', charLimit: 60, default: 'New Article' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime', date_format: 'YYYY-MM-DD', time_format: 'hh:mm' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', date_format: 'YYYY-MM-DD', time_format: 'hh:mm:ss.SSSZ' }
       - { label: 'Author', name: 'authors', widget: relation, collection: authors_list, file: 'authors', search_fields: [ "authors.*.name" ], value_field: "authors.*.name" }
       - { label: "Permalink", name: "slug", widget: "stringWithCounter", charLimit: 75, required: false }
       - { label: "Cover Image", name: "featured_image", widget: "image", required: false, choose_url: false }
@@ -70,7 +70,7 @@ collections:
     identifier_field: title
     fields:
       - { label: 'Title', name: 'title', widget: 'stringWithCounter', tagname: 'h1', charLimit: 60, default: 'New Article' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime', date_format: 'YYYY-MM-DD', time_format: 'hh:mm' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', date_format: 'YYYY-MM-DD', time_format: 'hh:mm:ss.SSSZ' }
       - { label: 'Author', name: 'authors', widget: relation, collection: authors_list, file: 'authors', search_fields: [ "authors.*.name" ], value_field: "authors.*.name"}
       - { label: "Permalink", name: "slug", widget: "stringWithCounter", charLimit: 75, required: false }
       - { label: "Cover Image", name: "featured_image", widget: "image", required: false, choose_url: false }
