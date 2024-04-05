@@ -1,6 +1,6 @@
 ---
 title: "MICR Readers: Understanding How It Reads Magnetic Ink Characters"
-date: Mon, Apr 01, 2024T03:22 pm
+date: 2024-04-02T11:35:00.000-07:00
 authors: Trisha Olivar
 featured_image: /blog/images/ingoude.-2024-03-27t231021.841.png
 description: How do MICR readers work? In this guide, we will learn how a
