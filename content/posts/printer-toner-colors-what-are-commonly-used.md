@@ -1,6 +1,6 @@
 ---
 title: "Printer Toner Colors: What Are Commonly Used?"
-date: Fri, Apr 05, 2024T08:28 pm
+date: 2024-04-06T09:49:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/ingoude.-2024-04-05t012414.496.png
 description: Do you know what printer toner colors are commonly used in laser
