@@ -44,7 +44,7 @@ Cloud printing offers a flexible printing solution for all users. Here's a break
 5. **Cloud Print Service:** A web service lets users send print jobs to the print server from any internet-connected device. It handles user authentication and forwards the print job to the print server.
 6. **Cloud Print Proxy:** Software on the client device that sends print jobs to the cloud print service. It acts as a go-between for the client device and the cloud print service, handling user authentication and job forwarding.
 
-## The Inner Workings of Cloud-Based Printing 
+## The Inner Workings of Cloud-Based Printing
 
 Cloud-based printing services enable printing from any device connected to the Internet. They route print jobs from your computer, smartphone, or tablet to an internet-connected printer.
 
