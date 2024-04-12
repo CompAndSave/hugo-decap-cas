@@ -81,7 +81,7 @@ MICR is used worldwide to process checks, ensuring they all follow the same rule
 
 **1. Can be Costly**
 
-Using MICR technology can cost a lot because it needs special ink and printing, which can make running banks and other financial places more expensive. The good thing is, there are [cheap MICR toners](https://www.compandsave.com/nsearch/?q=MICR#?q=MICR&keywords=MICR&search_return=all) that you can use in printing. 
+Using MICR technology can cost a lot because it needs special ink and printing, which can make running banks and other financial places more expensive. The good thing is, there are cheap MICR toners that you can use in printing. 
 
 **2. Limited Characters**
 
