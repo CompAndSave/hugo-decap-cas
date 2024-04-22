@@ -135,7 +135,7 @@ Now the question is, “[What is The Best Printer to Buy?](https://www.compandsa
 
 \- The [Canon PIXMA TR4720](https://www.compandsave.com/canon/pixma/tr4720-ink-cartridges) stands out as one of the best budget-friendly options in the competitive market. You can not say it’s a top performer in any specific category, but it holds its decent place. Despite its modest price point, it performs well, making it promising.
 
-One notable strength of the PIXMA series is its color reproduction, particularly - evident when printing on glossy paper. It delivers better color accuracy without issues like dimpling in images than pricier all-in-one printers. Additionally, skin tones appear more natural on prints from Canon than on other brands.
+\- One notable strength of the PIXMA series is its color reproduction, particularly evident when printing on glossy paper. It delivers better color accuracy without issues like dimpling in images than pricier all-in-one printers. Additionally, skin tones appear more natural on prints from Canon than on other brands.
 
 \- Considering its affordability, the PIXMA TR4720 is a solid choice among budget-friendly, top-rated inkjet printers for home use.
 
