@@ -95,7 +95,7 @@ Picking the best at-home inkjet printer takes work. However, considering a few k
 
 \- Consider the physical space available in your home and choose a printer that fits comfortably. Also, think about the design aesthetic that complements your home environment.
 
-### 7. Brand Reputation 
+### 7. Brand Reputation
 
 \- You must research the reputation of different brands to determine whether they are trustworthy. This will help you find the top-rated inkjet printers for home use. Also, know about their customer support. Opting for a reputable brand gives you a guarantee about your hard-earned money and easier access to support if needed.
 
@@ -149,7 +149,7 @@ Now the question is, “[What is The Best Printer to Buy?](https://www.compandsa
 
 ### 5) Epson Expression Home XP-4100
 
-\- The Epson Expression Home XP-4100 wireless color printer is pleasantly surprising with its performance. It excels at text copy and delivers fine image quality. It is quick and easy to set up, and the Wi-Fi connection is strong. While the print time is average, the exceptional text quality more than compensates for it, ensuring all text, including photocopies, is legible and smooth.
+\- The [Epson Expression Home XP-4100](https://www.compandsave.com/epson/expression/xp-4100-ink-cartridges) wireless color printer is pleasantly surprising with its performance. It excels at text copy and delivers fine image quality. It is quick and easy to set up, and the Wi-Fi connection is strong. While the print time is average, the exceptional text quality more than compensates for it, ensuring all text, including photocopies, is legible and smooth.
 
 **Some features it offers:**
 
