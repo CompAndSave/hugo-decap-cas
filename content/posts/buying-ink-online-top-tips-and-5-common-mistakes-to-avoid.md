@@ -140,6 +140,6 @@ To get a fair deal, compare prices from various sellers and consider factors suc
 
 [How to Order Online for CompAndSave](https://www.compandsave.com/how-to-order-online-for-compandsave)
 
-[How to Save Money on Printer Ink](https://www.compandsave.com/how-to-order-online-for-compandsave)
+[How to Save Money on Printer Ink](https://www.compandsave.com/blog/posts/how-to-save-money-on-printer-ink-simple-tips-for-home-and-office-printing.html)
 
 [Remanufactured Printer Cartridges](https://www.compandsave.com/blog/posts/remanufactured-printer-cartridges-how-are-they-made.html)
