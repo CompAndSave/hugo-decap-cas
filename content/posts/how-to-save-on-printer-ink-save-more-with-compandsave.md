@@ -1,5 +1,5 @@
 ---
-title: "How to Save On Printer Ink: Save More With CompAndSave"
+title: "How to Print on Fabric with Inkjet Printer: 5 Easy Steps"
 date: 2024-05-02T07:17:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/ingoude.-2024-04-30t190340.804.png
