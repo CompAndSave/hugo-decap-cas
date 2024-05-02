@@ -106,14 +106,14 @@ Need more assistance? Our customer service staff is ready to help you find the [
 
 ## FAQs
 
-### How to Print on Fabric with Inkjet Printer?
+### 1. How to Print on Fabric with Inkjet Printer?
 
 To print on fabric with an inkjet printer, first, soak the fabric in a Bubble Jet Set solution. Then, secure it onto the printer tray. Adjust settings for fabric printing. Let the ink dry before handling or washing to avoid smudging.
 
-### Is Inkjet Printing on Fabric Permanent?
+### 2. Is Inkjet Printing on Fabric Permanent?
 
 Inkjet prints on fabric aren't permanent unless you pre-treat the fabric with a Bubble Jet Set solution before printing. This solution bonds the ink to the fabric fibers, making the prints permanent and washable. Pre-treating fabric before printing ensures lasting results.
 
-### What Kind of Printer Do You Need to Print on Fabric?
+### 3. What Kind of Printer Do You Need to Print on Fabric?
 
 There are three main types of digital fabric printers: DTG, sublimation, and direct-to-fabric. DTG printers are for garments like T-shirts, while sublimation printers transfer dye using heat, perfect for polyester materials. Direct-to-fabric printers print directly onto the fabric, providing high-quality results.
