@@ -118,14 +118,14 @@ Need more assistance? Visit CompAndSave for the best deals on the [best cheap in
 
 ## FAQs
 
-### How to Save Ink When Printing?
+### 1. How to Save Ink When Printing?
 
 To save ink when printing, print only what's necessary and avoid unnecessary graphics or text. Use grayscale instead of color, choose less ink-intensive fonts, and consider single-color cartridges. Preview documents before printing, maintain your printer and upgrade to a more ink-efficient model if necessary.
 
-### How Long Can Ink Be Stored?
+### 2. How Long Can Ink Be Stored?
 
 OEM inks last about two years, while compatible inks last up to three, but not all cartridges have expiration dates. To save on printer ink, proper storage in a cool, dry place can help to extend their shelf life.
 
-### What Printer Setting Saves Ink?
+### 3. What Printer Setting Saves Ink?
 
 Use 'Draft' mode to save ink by printing at a lower resolution. Remember to switch back for final copies. This mode reduces ink usage by printing at a lower resolution and using less ink density compared to standard printing modes.
