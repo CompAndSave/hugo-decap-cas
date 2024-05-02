@@ -1,5 +1,5 @@
 ---
-title: How to Print on Fabric with Inkjet Printer?
+title: "How to Print on Fabric with Inkjet Printer: 5 Easy Steps"
 date: 2024-05-02T06:00:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/ingoude.-2024-04-30t190753.271.png
