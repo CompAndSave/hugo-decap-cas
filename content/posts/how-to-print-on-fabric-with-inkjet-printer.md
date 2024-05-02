@@ -21,7 +21,7 @@ In today's world, customizing clothing and home decor is simple with inkjet prin
 
 To begin, it's crucial to select one of the [best inkjet printers](https://www.compandsave.com/blog/posts/the-best-all-in-one-inkjet-printers-for-efficient-printing-top-6-picks.html). These printers deliver not only top-quality prints but are also dependable and efficient for all fabric printing projects.
 
-In this blog, we will discuss:
+**In this blog, we will discuss:**
 
 * How to Print on Fabric Using Inkjet Printer 
 * Design Preparation for Inkjet Printing on Fabric
