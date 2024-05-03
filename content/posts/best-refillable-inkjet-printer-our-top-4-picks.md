@@ -215,15 +215,11 @@ Additionally, Brother ink tank printers are stylish, compact, and space-saving, 
 
 [![BROTHER INKTANK PRINTER](/blog/images/screenshot-2024-04-26-at-9.12.15 pm.png "BROTHER DCP-T720DW")](/blog/images/screenshot-2024-04-26-at-9.12.15 pm.png)
 
-Easy to Refill: Refilling ink is easy and mess-free, and you can easily monitor ink levels.
-
-Two-Sided Printing: This printer supports duplex printing, enabling automatic printing on both sides of the paper, which saves paper and reduces printing costs.
-
-Wireless Printing: It comes with flexible connectivity options, including wireless printing, allowing you to print from anywhere with ease.
-
-Fast Printing: Brother ink tank printers are known for their fast printing capabilities, ensuring that your documents are printed quickly and efficiently.
-
-Scanning and Copying: Besides printing, it can scan and make copies of your documents. 
+* **Easy to Refill:** Refilling ink is easy and mess-free, and you can easily monitor ink levels.
+* **Two-Sided Printing:** This printer supports duplex printing, enabling automatic printing on both sides of the paper, which saves paper and reduces printing costs.
+* **Wireless Printing:** It comes with flexible connectivity options, including wireless printing, allowing you to print from anywhere with ease.
+* **Fast Printing:** Brother ink tank printers are known for their fast printing capabilities, ensuring that your documents are printed quickly and efficiently.
+* **Scanning and Copying:** Besides printing, it can scan and make copies of your documents. 
 
 ## Parting Words
 
@@ -249,7 +245,7 @@ Refillable inkjet printers are often more cost-effective than traditional inkjet
 
 ### 3. Can I use third-party ink with refillable inkjet printers?
 
-Yes, you can use third-party ink with refillable inkjet printers. A reliable option to consider is CompAndSave, which offers compatible ink bottles for various printer models. They provide cost-effective alternatives to the original manufacturer's ink, ensuring you save money without compromising print quality.
+Yes, you can use third-party ink with refillable inkjet printers. A reliable option to consider is [CompAndSave](https://www.compandsave.com/), which offers compatible ink bottles for various printer models. They provide cost-effective alternatives to the original manufacturer's ink, ensuring you save money without compromising print quality.
 
 ### 4. How do I maintain a refillable inkjet printer?
 
@@ -268,9 +264,5 @@ Yes, most printers support wireless printing, allowing you to print directly fro
 [Inkjet vs. Laser Printer](https://www.compandsave.com/inkjet-vs-laser-printer-guide)
 
 [What is the Best Printer to Buy?](https://www.compandsave.com/the-best-printer-guide)
-
-
-
-
 
 [](https://www.compandsave.com/the-best-printer-guide)
