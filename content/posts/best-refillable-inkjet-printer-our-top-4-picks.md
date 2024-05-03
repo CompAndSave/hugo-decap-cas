@@ -144,4 +144,36 @@ HP printers with refillable ink tanks, known as the HP Smart Tank printer series
 * **Basic All-in-One Features:** The printer provides essential printing, copying, and scanning functions, which are suitable for home use. 
 * **Prints Slowly:** While offering decent print speeds of up to 11 pages per minute for monochrome and 5 pages per minute for color, it may not be the fastest option for high-volume printing environments.
 
+### 3. Canon Megatank Printer
+
+Canon's Megatank printers are perfect for students and anyone who needs to do a lot of printing. They have ink tanks that you can easily check and refill when it’s running out of ink. This refillable ink printer can also connect wirelessly, and the ink from Canon makes pictures look really good. 
+
+**POPULAR FOR**
+
+* Exceptional print quality
+* Professional-like printing
+
+**BEST FOR**
+
+* Students
+* Business 
+* Home printing
+
+**PROS**
+
+* Low-cost printing
+* Great print quality
+* Versatile paper sizes
+* Easy-to-refill ink tanks
+* Acceptable printing speed
+* High-page yield ink bottles
+
+**CONS**
+
+* Bigger size
+* Pricier ink bottles
+* Ink dries up when the printer is not used often
+
+**BEST CANON MEGATANK PRINTER: [Canon PIXMA G6020](https://www.compandsave.com/canon/pixma/g6020-ink-cartridges)**
+
 [](https://www.compandsave.com/the-best-printer-guide)
