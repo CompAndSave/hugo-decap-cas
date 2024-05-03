@@ -176,4 +176,11 @@ Canon's Megatank printers are perfect for students and anyone who needs to do a 
 
 **BEST CANON MEGATANK PRINTER: [Canon PIXMA G6020](https://www.compandsave.com/canon/pixma/g6020-ink-cartridges)**
 
-[](https://www.compandsave.com/the-best-printer-guide)
+[![CANON MEGATANK PRINTER](/blog/images/screenshot-2024-04-26-at-8.54.06 pm.png "Canon PIXMA G6020")](/blog/images/screenshot-2024-04-26-at-8.54.06 pm.png)
+
+* **Easy Ink Refill:** You can easily refill the ink in this printer, so you don't have to worry about buying new ink cartridges often.
+* **High Page Yield:** You can print up to 6,000 black text pages or 7,700 color pages per each full ink bottle set, reducing the frequency of ink replacements.
+* **Duplex Printing:** The printer supports automatic duplex printing, allowing you to print on both sides of the paper, which saves paper and reduces printing costs.
+* Wireless Connectivity: With wireless connectivity, you can easily print using Canon Print App directly from your smartphone, tablet, or computer without the need for cables, offering convenience and flexibility in printing.
+* Versatile Printing: This 3-in-1 printer can print, copy, and scan, offering versatility for various printing needs. It can also produce borderless photos in sizes ranging from 3.5” x 3.5” square to 8.5” x 11” letter size.
+* [](https://www.compandsave.com/the-best-printer-guide)
