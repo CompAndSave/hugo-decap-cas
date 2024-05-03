@@ -92,6 +92,15 @@ Epson was the first to introduce refillable printers. They launched the EcoTank 
 * Printouts are prone to smudging
 * Ink dries up when the printer is not used often
 
-Best EcoTank printer:  Epson EcoTank ET-2800
+**BEST ECOTANK PRINTER:  [Epson EcoTank ET-2800](https://www.compandsave.com/epson/ecotank/et-2800-wireless-color-all-in-one-ink-bottles)**
+
+[![epson ecotank printer](/blog/images/screenshot-2024-04-26-at-8.02.55 pm.png "Epson EcoTank ET-2800")](/blog/images/screenshot-2024-04-26-at-8.02.55 pm.png)
+
+* **Cost Savings:** The Epson ET-2800 printer offers significant savings on ink costs, with replacement ink bottles providing up to 90% savings compared to traditional ink cartridges.
+* **Print Quality:** The printer utilizes Micro Piezo Heat-Free Technology to produce sharp text and vibrant color prints on various types of paper.
+* **Versatile Use:** Ideal for home and office settings, it ensures smooth printing of documents and photos.
+* **All-in-One Functionality:** This printer also serves as a scanner and copier, simplifying document and photo tasks.
+* **Wireless Printing:** Enjoy wireless connectivity for printing from compatible devices and control it via the Smart Panel app on smartphones and tablets.
+* **Warranty Included:** Has a 2-year limited warranty with registration, including full unit replacement if needed.
 
 [](https://www.compandsave.com/the-best-printer-guide)
