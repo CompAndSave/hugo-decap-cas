@@ -92,4 +92,6 @@ Epson was the first to introduce refillable printers. They launched the EcoTank 
 * Printouts are prone to smudging
 * Ink dries up when the printer is not used often
 
+Best EcoTank printer:  Epson EcoTank ET-2800
+
 [](https://www.compandsave.com/the-best-printer-guide)
