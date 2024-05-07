@@ -69,3 +69,31 @@ The Epson EcoTank Pro ET-5850 is distinguished by its refillable ink tank system
 [![Epson EcoTank](/blog/images/screenshot-2024-05-07-at-10.20.04 pm.png "Epson EcoTank Pro ET-5850")](/blog/images/screenshot-2024-05-07-at-10.20.04 pm.png)
 
 **Best For:** It is perfect for small to medium businesses or home offices with high printing demands. Its efficiency and multifunctional capabilities provide a comprehensive printing solution.
+
+### \#2 Best Budget Printer: Brother MFC-J1205W INKvestment
+
+The Brother MFC-J1205W INKvestment Tank printer stands out for its value. It uses high-yield cartridges to extend the time between replacements and reduce costs.
+
+* **Printing Technology:** Inkjet
+* **Printing Speed:** 16 pages per minute
+* **Original Brother LC404 Ink Price:** Black $25.99 | CMY $15.49
+* **CompAndSave Price:** [Black $10.99](https://www.compandsave.com/brother/lc404-ink-cartridges/lc404bk-black) | [CMY $10.99](https://www.compandsave.com/brother/lc404-ink-cartridges/lc404c-cyan)
+* [](https://www.compandsave.com/brother/lc404-ink-cartridges/lc404c-cyan)**Maximum Paper Capacity:** 150
+
+[![Brother INKvestment](/blog/images/screenshot-2024-05-07-at-10.22.34 pm.png "Brother MFC-J1205W INKvestment")](/blog/images/screenshot-2024-05-07-at-10.22.34 pm.png)
+
+**Best For:** It is the best printer for students with cheap ink needs or home and office use on a regular basis. It offers an economical solution without sacrificing quality.
+
+### \#3 Best All-in-One Printer: Epson EcoTank ET-2400
+
+Known for its oversized, easy-to-refill ink tanks, the Epson EcoTank ET-2400 significantly lowers the cost per print. It integrates printing, scanning, and copying into one device.
+
+Printing Technology: Inkjet
+
+Printing Speed: 10 pages per minute
+
+Original EcoTank 522 Ink Price: Black $13.99 | CMY $13.99
+
+CompAndSave Price:  Black $6.99 | CMY $6.99
+
+Maximum Paper Capacity: 100
