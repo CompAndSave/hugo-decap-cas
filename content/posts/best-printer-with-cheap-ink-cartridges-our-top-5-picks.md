@@ -82,18 +82,16 @@ The Brother MFC-J1205W INKvestment Tank printer stands out for its value. It use
 
 [![Brother INKvestment](/blog/images/screenshot-2024-05-07-at-10.22.34 pm.png "Brother MFC-J1205W INKvestment")](/blog/images/screenshot-2024-05-07-at-10.22.34 pm.png)
 
-**Best For:** It is the best printer for students with cheap ink needs or home and office use on a regular basis. It offers an economical solution without sacrificing quality.
+**Best For:** It is the [best printer for students](https://www.compandsave.com/what-is-the-best-printer-for-students) with cheap ink needs or home and office use on a regular basis. It offers an economical solution without sacrificing quality.
 
 ### \#3 Best All-in-One Printer: Epson EcoTank ET-2400
 
 Known for its oversized, easy-to-refill ink tanks, the Epson EcoTank ET-2400 significantly lowers the cost per print. It integrates printing, scanning, and copying into one device.
 
-Printing Technology: Inkjet
+* **Printing Technology:** Inkjet
+* **Printing Speed:** 10 pages per minute
+* **Original EcoTank 522 Ink Price:** Black $13.99 | CMY $13.99
+* **CompAndSave Price:**  [Black $6.99](https://www.compandsave.com/epson/522-ink-cartridges/t522120-black) | [CMY $6.99](https://www.compandsave.com/epson/522-ink-cartridges/t522220-cyan)
+* **Maximum Paper Capacity:** 100
 
-Printing Speed: 10 pages per minute
-
-Original EcoTank 522 Ink Price: Black $13.99 | CMY $13.99
-
-CompAndSave Price:  Black $6.99 | CMY $6.99
-
-Maximum Paper Capacity: 100
+[![Epson EcoTank](/blog/images/screenshot-2024-05-07-at-10.27.50 pm.png "Epson EcoTank ET-2400")](/blog/images/screenshot-2024-05-07-at-10.27.50 pm.png)
