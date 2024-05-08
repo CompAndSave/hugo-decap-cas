@@ -49,10 +49,94 @@ When assessing the cost of printing with the best low-cost printer with low-cost
 
 This metric looks at how much you'll spend on both the printer and its ink cartridges in the long run. To figure it out, you divide the price of ink cartridges by how many pages they can print. This helps you compare different printers more accurately.
 
-Top Picks: Best Low-Cost Printer with Low-Cost Ink
+## Top Picks: Best Low-Cost Printer with Low-Cost Ink
 
-We’ve selected the best printers for students, homes, and offices that won't break the bank. These affordable options prove that you can print your work or photos without emptying your wallet. Most of these printers are priced under $100, making them ideal for home office setups.
+We’ve selected the best printers for students, homes, and offices that won't break the bank. These affordable options prove that you can print your work or photos without emptying your wallet. Most of these printers are **priced under $100**, making them ideal for home office setups.
 
-We've carefully compared these printers based on factors like price, print speed, quality, design, ease of installation, and color accuracy. It's essential to be cautious when purchasing a cheap printer, as some manufacturers may lower the printer's price but keep consumables like ink cartridges expensive, resulting in long-term costs. 
+We've carefully compared these printers based on factors like **price, print speed, quality, design**, ease of installation, and color accuracy. It's essential to be cautious when purchasing a cheap printer, as *some manufacturers may lower the printer's price but keep consumables like ink cartridges expensive, resulting in long-term costs.* 
 
 Explore the selection of the cheapest printer with cheap ink to find the perfect fit for your needs. Utilize the price comparison tool to snag the best deals and maximize savings.
+
+### Best Budget-Friendly Printer For Homes: Canon PIXMA MG3620 Printer
+
+[![Canon PIXMA printer](/blog/images/screenshot-2024-05-08-at-12.30.01 am.png "Canon PIXMA MG3620 Printer")](/blog/images/screenshot-2024-05-08-at-12.30.01 am.png)
+
+(Source: [Amazon](https://www.amazon.com/Canon-MG3620-Wireless-Printer-Printing/dp/B010A7TZJY?th=1))
+
+For home use, where print tasks are typically lighter compared to office environments, investing in a budget-friendly printer is always a good decision. To meet the home printing requirements, we will suggest “[Canon PIXMA MG3620 Wireless All-in-One Color Inkjet Printer](https://www.amazon.com/Canon-MG3620-Wireless-Printer-Printing/dp/B010A7TZJY)” as the perfectly affordable printer and ink (black and color).
+
+* **Printer Price:** $69.00
+* **OEM Ink Price:** 240XL Black $29.99 | 241XL Color $38.99
+* **CompAndSave Ink Price:** [240XL Black $19.99](https://www.compandsave.com/canon/240xl-ink-cartridge-pg-240xl-black?queryID=88f06995ef51f61ad0e896e5c6447ad5&objectID=8107&indexName=magento2_cas_en_products) | [241XL Color $24.99](https://www.compandsave.com/canon/241xl-ink-cartridge-cl-241xl-color)
+
+**Why is it the Best?**
+
+**✅ Mobile Device Printing:**
+
+Easily print from your iPhone, iPad, Android, or tablet, offering convenient access to your printing needs.
+
+**✅ Quick and Easy Wireless Setup:** 
+
+Seamlessly connect your devices to the printer without the hassle of wires, enhancing user convenience and accessibility.
+
+**✅ Powerful Printing Options:**
+
+Equipped with AirPrint, Google Cloud Print, NFC, Mopria, and Canon Print, ensuring compatibility with various printing platforms for versatile usage.
+
+**✅ Compact and Space-Saving Design:**
+
+Perfectly suited for home environments with limited space, the compact design of the Canon PIXMA MG3620 ensures it fits seamlessly into your home setup.
+
+✅ **Budget-Friendly Color Ink Cartridges:**
+
+With its affordable color ink cartridges, the Canon PIXMA MG3620 offers cost-effective printing solutions for home users, allowing you to print vibrant and colorful documents or photos without breaking the bank.
+
+**Pros:** 
+
+* Compact
+* Copy's Well
+* Prints Crystal Clear & Speedily 
+* Use Minimal Ink
+
+**Cons:**
+
+* It can’t go with a heavy workload.
+
+### Best Budget-Friendly Printer For Office: HP Smart-Tank 5000
+
+[![HP Smart Tank](/blog/images/screenshot-2024-05-08-at-12.26.58 am.png "HP Smart-Tank 5000")](/blog/images/screenshot-2024-05-08-at-12.26.58 am.png)
+
+(Source: [Amazon](https://www.amazon.com/HP-Smart-Tank-5000-Wireless-Ink-Tank/dp/B0CC7TVR2F?th=1))
+
+Here we have found a reliable printer from [HP Smart-Tank 5000 Wireless All-in-One Ink-Tank Printer](https://www.amazon.com/HP-Smart-Tank-5000-Wireless-Ink-Tank/dp/B0CC7TVR2F) that attracted us because it can handle heavy workloads, and even if you spend a little over 100$, you will have no worries about ink refills for a longer time as it offers irresistible ink package. It’s fully loaded with savings, making it the ideal choice for low-cost, high-volume printing needs. Amazing? Let’s find out more about this!
+
+* **Printer Price:** $149.89
+* **OEM Ink Price:** HP 32XL Black $24.99 | HP 31 Color $21.99
+* **CompAndSave Ink Price:** [HP 32XL Black $6.95](https://www.compandsave.com/hp/32xl-31-ink-cartridges/1vv24an-black?queryID=88d96b099f6beeccf40c75b499cd2d54&objectID=11117&indexName=magento2_cas_en_products) | [HP 31 Color $5.95](https://www.compandsave.com/hp/32xl-31-ink-cartridges/1vu26an-cyan)
+
+**Why is it the Best?**
+
+**✅ High-Volume Printing:** 
+
+With up to 2 years of Original HP Ink included, the HP Smart-Tank 5000 is perfect for low-cost, high-volume printing, ensuring you have enough ink to handle your office's printing demands without constantly worrying about running out.
+
+**✅ Versatile Functionality:**
+
+Equipped with print, copy, and scan capabilities, along with borderless, mobile, and wireless features, the HP Smart-Tank 5000 offers versatile functionality to meet various office needs efficiently.
+
+**✅ Reliable Connectivity:** 
+
+The printer's self-healing Wi-Fi automatically detects and resolves connection issues, ensuring reliable connectivity so you can print, scan, and copy seamlessly from anywhere in your office.
+
+**Pros:**
+
+* Set up is easy
+* You can fill tanks individually
+* The ink doesn’t leak
+* Handsome looking printer
+* Takes less space
+* Mobile and wireless printing options.
+
+**Cons:**
+
+* There can be some slow Wifi connectivity issues.
