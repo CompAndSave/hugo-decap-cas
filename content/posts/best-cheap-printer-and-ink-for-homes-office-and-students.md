@@ -212,14 +212,14 @@ Need more assistance? Our customer service staff is ready to help you find the b
 
 ## FAQs
 
-### Are cheap printers worth buying?
+### 1. Are cheap printers worth buying?
 
 Yes, cheap printers can be worth buying, especially if you have basic printing needs and are on a tight budget. However, it's essential to consider factors like print quality, ink costs, and long-term reliability before making a purchase.
 
-### How can I save money on ink when using a cheap printer?
+### 2. How can I save money on ink when using a cheap printer?
 
 To save money on ink, consider printing in draft mode for internal documents, and use grayscale printing for text-only documents. Perform regular maintenance on your printer to optimize ink efficiency. Additionally, purchasing XL or high-yield ink cartridges can be more cost-effective in the long run.
 
-### What should I consider when choosing a cheap printer and cartridges for home use?
+### 3. What should I consider when choosing a cheap printer and cartridges for home use?
 
 When selecting a cheap printer for home use, consider factors such as print quality, printing speed, connectivity options, and the cost of replacement ink cartridges. You can also go for a printer that fits your space and aesthetic preferences.
