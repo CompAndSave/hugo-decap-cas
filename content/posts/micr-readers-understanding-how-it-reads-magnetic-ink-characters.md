@@ -38,7 +38,7 @@ Checks have numbers written in two unique fonts: E-13B and CMC-7. E-13B is more 
 
 ## Magnetic Ink Character Recognition Reader: Advantages
 
-Magnetic Ink Character Recognition readers are handy devices used in banks and businesses to quickly and accurately process checks and other important documents. But what makes them so useful? Let's explore some reasons why:
+[Magnetic Ink Character Recognition](https://www.youtube.com/watch?v=6SIQpqwwoe4) readers are handy devices used in banks and businesses to quickly and accurately process checks and other important documents. But what makes them so useful? Let's explore some reasons why:
 
 ### 1. High Accuracy
 
