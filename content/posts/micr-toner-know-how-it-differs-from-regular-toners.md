@@ -110,3 +110,5 @@ Yes, MICR toner cartridges have specific storage requirements to maintain their 
 [MICR: What It Is And How It Works?](https://www.compandsave.com/blog/posts/micr-what-it-is-and-how-it-works.html)
 
 [MICR Readers: How It Reads Magnetic Ink Characters](https://www.compandsave.com/blog/posts/micr-readers-understanding-how-it-reads-magnetic-ink-characters.html)
+
+[What is MICR? And how does it work? (Video)](https://www.youtube.com/watch?v=6SIQpqwwoe4)
