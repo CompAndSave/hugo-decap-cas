@@ -161,4 +161,6 @@ Businesses can benefit from using MICR (Magnetic Ink Character Recognition) tech
 
 [MICR Readers: Understanding How It Reads Magnetic Ink Characters](https://www.compandsave.com/blog/posts/micr-readers-understanding-how-it-reads-magnetic-ink-characters.html)
 
+[What is MICR? And how does it work? (Video)](https://www.youtube.com/watch?v=6SIQpqwwoe4)
+
 [](https://www.compandsave.com/blog/posts/micr-readers-understanding-how-it-reads-magnetic-ink-characters.html)[](https://www.compandsave.com/blog/posts/micr-toner-know-how-it-differs-from-regular-toners.html)
