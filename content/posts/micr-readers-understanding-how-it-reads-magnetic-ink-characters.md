@@ -146,4 +146,4 @@ Yes, [MICR](https://www.compandsave.com/blog/posts/micr-what-it-is-and-how-it-wo
 
 [MICR: What It Is And How It Works?](https://www.compandsave.com/blog/posts/micr-what-it-is-and-how-it-works.html)
 
-[](https://www.compandsave.com/blog/posts/micr-toner-know-how-it-differs-from-regular-toners.html)
+[What is MICR? And how does it work? (Video)](https://www.youtube.com/watch?v=6SIQpqwwoe4)
