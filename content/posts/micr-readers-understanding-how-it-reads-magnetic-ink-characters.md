@@ -38,7 +38,7 @@ Checks have numbers written in two unique fonts: E-13B and CMC-7. E-13B is more 
 
 ## Magnetic Ink Character Recognition Reader: Advantages
 
-[Magnetic Ink Character Recognition](https://www.youtube.com/watch?v=6SIQpqwwoe4) readers are handy devices used in banks and businesses to quickly and accurately process checks and other important documents. But what makes them so useful? Let's explore some reasons why:
+Magnetic Ink Character Recognition readers are handy devices used in banks and businesses to quickly and accurately process checks and other important documents. But what makes them so useful? Let's explore some reasons why:
 
 ### 1. High Accuracy
 
@@ -81,6 +81,8 @@ Hybrid readers are like a mix of two types of readers: magnetic stripe and scann
 Portable readers are compact devices you can take wherever you go. They're handy for businesses needing to read outside checks, such as delivery companies. You can easily connect them to phones or laptops. However, they can be more expensive than other options and might not be as effective at reading checks as larger machines.
 
 ## MICR Readers: How Do They Work?
+
+{{< youtubeLazyload id="https://www.youtube.com/watch?v=6SIQpqwwoe4" title="What is MICR? And how does it work?" >}}
 
 Now that we understand why MICR readers are important and some types available in the market, let's learn how they read and understand the special characters printed with magnetic ink on checks. Here's how they do it:
 
