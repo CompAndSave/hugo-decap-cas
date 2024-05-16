@@ -17,7 +17,7 @@ tags:
   - Magnetic Ink Character Recognition
   - MICR
 ---
-[![MICR](/blog/images/ingoude.-2024-03-26t001400.509.png "MICR: What It Is And How It Works?")](/blog/images/ingoude.-2024-03-26t001400.509.png)
+{{< youtubeLazyload id="https://www.youtube.com/watch?v=6SIQpqwwoe4" title="What is MICR? And how does it work?" >}}
 
 What is a MICR? In modern banking, MICR, short for Magnetic Ink Character Recognition, is an important innovation. It changed how our banks handle checks, making transactions faster and more efficient. In this guide, let's explore what MICR is, how it works, and why it's essential in today's digital age. Let’s get started!
 
@@ -31,7 +31,7 @@ What is a MICR? In modern banking, MICR, short for Magnetic Ink Character Recogn
 
 ## MICR: What Does It Mean?
 
-Magnetic Ink Character Recognition, also known as MICR line and read as “micker,” is a strip of characters found at the bottom left of a check. This includes essential information about the bank account and the check itself. The American Bankers Association (ABA) created this technology in the late 1950s to help machines read checks faster and more accurately. The characters are printed using magnetic ink or [MICR toner](https://www.compandsave.com/blog/posts/micr-toner-know-how-it-differs-from-regular-toners.html), such as [HP 26X MICR toner cartridge](https://www.compandsave.com/hp/26x-micr-toner-cartridge-cf226x-black), so machines can easily recognize even if marks or signatures are on the check. 
+[Magnetic Ink Character Recognition](https://www.youtube.com/watch?v=6SIQpqwwoe4), also known as MICR line and read as “micker,” is a strip of characters found at the bottom left of a check. This includes essential information about the bank account and the check itself. The American Bankers Association (ABA) created this technology in the late 1950s to help machines read checks faster and more accurately. The characters are printed using magnetic ink or [MICR toner](https://www.compandsave.com/blog/posts/micr-toner-know-how-it-differs-from-regular-toners.html), such as [HP 26X MICR toner cartridge](https://www.compandsave.com/hp/26x-micr-toner-cartridge-cf226x-black), so machines can easily recognize even if marks or signatures are on the check. 
 
 ### So, what are some of its components?
 
@@ -157,6 +157,6 @@ Businesses can benefit from using MICR (Magnetic Ink Character Recognition) tech
 
 [MICR Toner: Know How It Differs From Regular Toners](https://www.compandsave.com/blog/posts/micr-toner-know-how-it-differs-from-regular-toners.html)
 
-[MICR Readers: Understanding How It Reads Magnetic Ink Characters](https://www.compandsave.com/blog/posts/micr-readers-understanding-how-it-reads-magnetic-ink-characters.html)
+[MICR Readers: Understanding How It Reads Magnetic Ink Characters](https://www.compandsave.com/blog/posts/micr-readers-understanding-how-it-reads-magnetic-ink-characters.html)[](https://www.youtube.com/watch?v=6SIQpqwwoe4)
 
 [](https://www.compandsave.com/blog/posts/micr-readers-understanding-how-it-reads-magnetic-ink-characters.html)[](https://www.compandsave.com/blog/posts/micr-toner-know-how-it-differs-from-regular-toners.html)
