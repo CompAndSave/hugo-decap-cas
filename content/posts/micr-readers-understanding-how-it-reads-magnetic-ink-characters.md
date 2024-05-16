@@ -82,6 +82,8 @@ Portable readers are compact devices you can take wherever you go. They're handy
 
 ## MICR Readers: How Do They Work?
 
+{{< youtubeLazyload id="https://www.youtube.com/watch?v=6SIQpqwwoe4" title="What is MICR? And how does it work?" >}}
+
 Now that we understand why MICR readers are important and some types available in the market, let's learn how they read and understand the special characters printed with magnetic ink on checks. Here's how they do it:
 
 ### 1. Magnetic Ink
@@ -146,4 +148,4 @@ Yes, [MICR](https://www.compandsave.com/blog/posts/micr-what-it-is-and-how-it-wo
 
 [MICR: What It Is And How It Works?](https://www.compandsave.com/blog/posts/micr-what-it-is-and-how-it-works.html)
 
-[](https://www.compandsave.com/blog/posts/micr-toner-know-how-it-differs-from-regular-toners.html)
+[What is MICR? And how does it work? (Video)](https://www.youtube.com/watch?v=6SIQpqwwoe4)
