@@ -1,13 +1,17 @@
 ---
-title: "Will 3D Printing Pen Become a Household Staple?"
+title: Will 3D Printing Pen Become a Household Staple?
 date: 2015-03-16T20:48:00.000Z
-slug: will-3d-printing-pen-become-a-household-staple
-description: "Will 3D Printing Pen Become a Household Staple?"
-featured_image: /blog/images/archive/2015/03/cas_pen_300x600_0316.jpg
 authors: Denise Resendez
-tags: [3D Doodler Pen,Kickstarter,CreoPop 3D Pen,3D printing,3D Pen]
+slug: will-3d-printing-pen-become-a-household-staple
+featured_image: /blog/images/archive/2015/03/cas_pen_300x600_0316.jpg
+description: Will 3D Printing Pen Become a Household Staple?
+tags:
+  - 3D Doodler Pen
+  - Kickstarter
+  - CreoPop 3D Pen
+  - 3D printing
+  - 3D Pen
 ---
-
 [![3d printing pen](/blog/images/cas-pen-300x600-0316.jpg "Will 3D Printing Pen Become a Household Staple?")](/blog/images/cas-pen-300x600-0316.jpg)
 
 Drawing with 3D pens is a little like creating things out of thin air, isn't it? You glide your hand and out appears your drawing just as you imagined. In fact, the most popular 3D print pen, "3D Doodler", has a tagline that pretty much sums how it works: "It's a pen that can draw in the air! Lift your imagination off the page!". As Wired.com put it once, the "[3D Doodler is for "anyone with a passion for making](https://www.wired.com/2013/02/3doodler/)". 
@@ -20,19 +24,19 @@ Given that this technology is already available, and is constantly being improve
 
 3D printers tend to be popular with designers, makers and hobbyists. Thing is, these are usually large and bulky devices that - especially when you compare them to 3D pens. That said, with 3D pens This is literally something you slip into your pocket and whip out at a moment's notice. So anytime the creative bug bites and you want to ‘draw' something - a 3D pen is a easy and portable choice.
 
-It's no wonder that 3D pens have captured many's attention. Even WobbleWorks LLC., a major toy company, has joined in the 3D pen fever and began a Kickstarter fundraiser project on March 25, 2013 with a small goal of $30,000\. This number was met in a matter of hours. In fact, the 3D Doodler Kickstarter program raised well over $2 million! And why not – this device is as close to being a magic wand that we can get to! 
+It's no wonder that 3D pens have captured many's attention. Even WobbleWorks LLC., a major toy company, has joined in the 3D pen fever and began a Kickstarter fundraiser project on March 25, 2013 with a small goal of $30,000. This number was met in a matter of hours. In fact, the 3D Doodler Kickstarter program raised well over $2 million! And why not – this device is as close to being a magic wand that we can get to! 
 
-### Your Current 3D Printing Pen Options 
+### Your Current 3D Printing Pen Options
 
-Amazon currently offers you a couple of choices over and above the highly popular [3D Doodler](https://www.amazon.com/3Doodler-Printing-Strands-Plastic-Black/dp/B00JSGFPCA/) which has two speeds, a reverse option, comes with 50 plastic strands in 10 colors and costs you a little over $100  
-.   
+Amazon currently offers you a couple of choices over and above the highly popular [3D Doodler](https://www.amazon.com/3Doodler-Printing-Strands-Plastic-Black/dp/B00JSGFPCA/) which has two speeds, a reverse option, comes with 50 plastic strands in 10 colors and costs you a little over $100\
+.\
 [The Samto 3D Stereoscopic Printing Pen Grey for 3D Drawing Doodling](https://www.amazon.in/Stereoscopic-Printing-Doodling-Filament-Microfiber/dp/B00Q9UURRQ) is another option for artists, hobby enthusiasts, and other creative individuals. The 3D stereoscopic printing pen works on pretty much the same as the 3D Doodler. It melts plastic filament to let the user create different objects. This is defiantly a cheaper option at $70, but take it with a grain of salt - this one has mixed reviews. As always, it's best to check reviews before making a purchase. 
 
-[The 7TECH 3D Printing Pen with LCD Screen](https://www.amazon.com/dp/B00S4CJWVE?psc=1) is a similar device also priced around $100\. This 3D printing pen claims to prevent clogging and jamming for a trouble-free user experience. There's not too many reviews, but they are quite positive and mention that it's light to use compared to other 3D printing pens.
+The 7TECH 3D Printing Pen with LCD Screen is a similar device also priced around $100. This 3D printing pen claims to prevent clogging and jamming for a trouble-free user experience. There's not too many reviews, but they are quite positive and mention that it's light to use compared to other 3D printing pens.
 
 [Scribbler 3d Printing Drawing Pen with Filament](https://www.amazon.com/Scribbler-Printing-Drawing-Pen-Filament/dp/B00OT2SI9A/) is another similar product with largely positive buyer reviews who claim it's "cool to the touch" and easy to use. The pen comes in 4 different colors for those of you who like owning a specific color of technology. 
 
-### 3D Printing Pens – Your Future Options 
+### 3D Printing Pens – Your Future Options
 
 We shall soon see the 3D Doodler 2.2, a lighter, slimmer, sleeker version of the original. This will be something quite like a regular marker and will be hitting stores later this year. According to WobbleWorks, about 130,000 3Doodlers have already been sold and the company has raised another $1.5 million to bring us the 2.0! This new version was unveiled at the International Consumer Electronics Show in January of this year. If you're interested, you can pre-order this from the [3D Doodler store](https://the3doodler.com/pages/range) and even get inspiration from the[ Doodler community](https://learn.the3doodler.com/resources/) in the form of videos, stencils and other creative ideas.
 
