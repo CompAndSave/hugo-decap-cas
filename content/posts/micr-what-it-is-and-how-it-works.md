@@ -17,7 +17,7 @@ tags:
   - Magnetic Ink Character Recognition
   - MICR
 ---
-[![MICR](/blog/images/ingoude.-2024-03-26t001400.509.png "MICR: What It Is And How It Works?")](/blog/images/ingoude.-2024-03-26t001400.509.png)
+{{< youtubeLazyload id="https://www.youtube.com/watch?v=6SIQpqwwoe4" title="What is MICR? And how does it work?" >}}
 
 What is a MICR? In modern banking, MICR, short for Magnetic Ink Character Recognition, is an important innovation. It changed how our banks handle checks, making transactions faster and more efficient. In this guide, let's explore what MICR is, how it works, and why it's essential in today's digital age. Let’s get started!
 
