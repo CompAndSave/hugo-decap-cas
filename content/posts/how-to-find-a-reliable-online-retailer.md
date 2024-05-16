@@ -24,7 +24,7 @@ Retailers can have very different [shipping options](https://www.practicalecomme
 
 **Look for the online retailer's certifications**\
 [![shopping cart button on computer keyboard](/blog/images/onlineshoppingkeyboard.jpeg "shopping cart button on computer keyboard")](/blog/images/onlineshoppingkeyboard.jpeg)\
-If a website is indeed a legitimate business, it should have a seal of verification (such as one from the [Better Business Bureau](https://www.bbb.org/) or the [NRF](https://www.nrffoundation.com/content/retail-certifications)). They should also explicitly say their warranty on purchases on their website.
+If a website is indeed a legitimate business, it should have a seal of verification (such as one from the [Better Business Bureau](https://www.bbb.org/) or the NRF). They should also explicitly say their warranty on purchases on their website.
 
 **The proof is in the online retailer's product**
 
