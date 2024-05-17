@@ -29,7 +29,7 @@ Do you know how a MICR toner differs from a regular laser toner? Magnetic Ink Ch
 
 ## MICR Toner: What Is This?
 
-{{< youtubeLazyload id="https://www.youtube.com/watch?v=6SIQpqwwoe4" title="What is MICR? And how does it work?" >}}
+{{< youtubeLazyload id="6SIQpqwwoe4" title="What is MICR? And how does it work?" >}}
 
 MICR, which stands for Magnetic Ink Character Recognition, is a technology used by banks to process checks. It allows machines to read special characters printed with magnetic ink on the bottom of checks, also known as the MICR line. These characters include bank account numbers, check numbers and routing numbers.
 
