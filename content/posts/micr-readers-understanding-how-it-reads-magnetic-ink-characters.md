@@ -82,7 +82,7 @@ Portable readers are compact devices you can take wherever you go. They're handy
 
 ## MICR Readers: How Do They Work?
 
-{{< youtubeLazyload id="https://www.youtube.com/watch?v=6SIQpqwwoe4" title="What is MICR? And how does it work?" >}}
+{{< youtubeLazyload id="6SIQpqwwoe4" title="What is MICR? And how does it work?" >}}
 
 Now that we understand why MICR readers are important and some types available in the market, let's learn how they read and understand the special characters printed with magnetic ink on checks. Here's how they do it:
 
