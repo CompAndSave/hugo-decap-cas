@@ -21,7 +21,7 @@ Are you tired of ink subscriptions and complicated setups? There’s a growing d
 
 This guide introduces the best home printers for 2024, focusing on models that do not require ink subscriptions. The top-rated home printers ensure value and ease of use for every type of user—from bustling family homes to streamlined home offices.
 
-Need good printers for home? Let's delve into the following:
+**Need good printers for home? Let's delve into the following:**
 
 1. What is the Best home printer?
 
