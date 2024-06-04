@@ -106,4 +106,12 @@ Different printer brands offer various methods to check ink levels. Understandin
 
 Image Source: [HP Support](https://support.hp.com/us-en/document/ish_1716406-1413451-16)
 
+### 2. Canon Printers
+
+[![Canon Printers](/blog/images/screenshot-2024-06-04-at-7.14.36 pm.png "How To Check Printer Ink Levels")](/blog/images/screenshot-2024-06-04-at-7.14.36 pm.png)
+
+[![Canon Printers](/blog/images/screenshot-2024-06-04-at-7.15.56 pm.png "Canon Printers")](/blog/images/screenshot-2024-06-04-at-7.15.56 pm.png)
+
+Image Source: [Canon Support](https://support.usa.canon.com/kb/index?page=content&id=ART133191)
+
 [](https://support.hp.com/us-en/document/ish_1716406-1413451-16)
