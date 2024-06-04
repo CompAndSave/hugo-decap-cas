@@ -84,12 +84,26 @@ Checking ink cartridge levels via your computer offers a more detailed view, whi
 
 **Step 4:** Go to "Options & Supplies" and then click the "Supply Levels" tab to view the ink levels.
 
-Method 3: Using a Mobile App
+### **Method 3: Using a Mobile App**
 
 Many printers offer mobile apps to manage and check ink levels from your smartphone or tablet. These apps are available for both iOS and Android. Here are simple steps:
 
-Step 1: Download the App: You can install the app for your printer brand (e.g., HP Smart, Epson iPrint, Canon PRINT Inkjet) from the App Store or Google Play Store.
+**Step 1: Download the App:** You can install the app for your printer brand (e.g., HP Smart, Epson iPrint, Canon PRINT Inkjet) from the App Store or Google Play Store.
 
-Step 2: Connect to Your Printer: Ensure your mobile device and printer are on the same Wi-Fi network. Follow the app’s instructions to connect.
+**Step 2: Connect to Your Printer:** Ensure your mobile device and printer are on the same Wi-Fi network. Follow the app’s instructions to connect.
 
-Step 3: Check Ink Levels: Open the app and navigate to the "Ink Levels" or "Printer Status" section. The app will display the current ink levels for each cartridge.
+**Step 3: Check Ink Levels:** Open the app and navigate to the "Ink Levels" or "Printer Status" section. The app will display the current ink levels for each cartridge.
+
+## How To Check Printer Ink Levels on Different Printer Brands
+
+Different printer brands offer various methods to check ink levels. Understanding how to check ink cartridge levels with such methods ensures your printer runs smoothly and produces high-quality prints. Here’s a quick guide for checking ink levels on popular printer brands like HP, Canon, Epson, and Brother.
+
+### 1. HP Printers
+
+[![HP Printers](/blog/images/screenshot-2024-06-04-at-7.12.48 pm.png "How To Check Printer Ink Levels")](/blog/images/screenshot-2024-06-04-at-7.12.48 pm.png)
+
+[![HP Printers](/blog/images/screenshot-2024-06-04-at-7.13.34 pm.png "HP Printers")](/blog/images/screenshot-2024-06-04-at-7.13.34 pm.png)
+
+Image Source: [HP Support](https://support.hp.com/us-en/document/ish_1716406-1413451-16)
+
+[](https://support.hp.com/us-en/document/ish_1716406-1413451-16)
