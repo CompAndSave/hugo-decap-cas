@@ -55,7 +55,7 @@ Checking ink cartridge levels via your computer offers a more detailed view, whi
 
 **How to Check Ink Level of Printer on Windows:**
 
-**Control Panel Method:**
+**A. Control Panel Method:**
 
 **Step 1:** In the Windows, go to "Control Panel."
 
@@ -65,12 +65,15 @@ Checking ink cartridge levels via your computer offers a more detailed view, whi
 
 **Step 4:** Click "Properties" or "Preferences" and look for the ink levels in the status section.
 
-**Notification Area Method:**
+**B. Notification Area Method:**
 
-* Ensure your printer software is installed.
-* Find the printer icon in the Windows Notification Area (bottom right corner of your screen).
-* Right-click the icon and select "Properties" or "Preferences."
-* The ink levels should be displayed in this menu.
+**Step 1:** Ensure your printer software is installed.
+
+**Step 2:** Find the printer icon in the Windows Notification Area (bottom right corner of your screen).
+
+**Step 3:** Right-click the icon and select "Properties" or "Preferences."
+
+**Step 4:** The ink levels should be displayed in this menu.
 
 **How to View Printer Ink Levels on macOS:**
 
@@ -150,9 +153,9 @@ Switch to the draft mode when printing documents that don’t require high quali
 
 Keeping your printer clean helps maintain optimal performance and prevents ink from drying out. Regularly clean the print heads and run maintenance checks to ensure smooth operation.
 
-***NOTE:** Follow a [how to refill ink cartridge](https://www.compandsave.com/how-to-refill-ink-cartridges-guide) guide for step-by-step instructions on refilling your cartridges properly. If you want to extend your ink's life, check out these [tips on how to make printer ink last longer.](https://www.compandsave.com/blog/posts/how-to-make-printer-ink-last-longer-5-easy-ways.html)*
+**\*NOTE:** Follow a [how to refill ink cartridge](https://www.compandsave.com/how-to-refill-ink-cartridges-guide) guide for step-by-step instructions on refilling your cartridges properly. If you want to extend your ink's life, check out these [tips on how to make printer ink last longer.](https://www.compandsave.com/blog/posts/how-to-make-printer-ink-last-longer-5-easy-ways.html)*
 
-## How to Check Ink Cartridge Levels: Troubleshooting Issues 
+## How to Check Ink Cartridge Levels: Troubleshooting Issues
 
 Understanding how to check printer ink status helps maintain performance and extend the printer's lifespan. Even with handy apps and built-in tools, you might encounter issues when checking your printer’s ink levels.
 
