@@ -8,11 +8,12 @@ description: >
   about its benefits here in this guide. Start your sustainable printing journey
   today!
 tags:
+  - Remanufactured Printer Ink
+  - eco-friendly ink cartridges
   - Environmentally Friendly Print
   - Waste Reduction Printing
   - Digital Sustainability
   - Recycled Materials
-  - Eco Friendly Ink
   - Sustainable Printing
 ---
 [![Eco Friendly Printing](/blog/images/ingoude.-8-.png "Eco-Friendly Printing: How It Works and How You Can Help")](/blog/images/ingoude.-8-.png)
