@@ -151,7 +151,7 @@ You'll never go wrong with our bestselling:
 
 ### Can I use a Universal Refill Kit for all HP cartridges?
 
-Yes. A Universal Refill Kit is designed to work with most HP cartridges.  It is a versatile and cost-effective option that simplifies the refilling process across different HP printer models. However, always check the kit instructions to ensure compatibility with your specific cartridge type.
+Yes. A [Universal Refill Kit](https://www.compandsave.com/ink-refill-bulk-ink) is designed to work with most HP cartridges.  It is a versatile and cost-effective option that simplifies the refilling process across different HP printer models. However, always check the kit instructions to ensure compatibility with your specific cartridge type.
 
 ### How to refill HP printer cartridge correctly?
 
