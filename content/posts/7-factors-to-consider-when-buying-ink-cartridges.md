@@ -63,7 +63,7 @@ Compatible cartridges are made by third-party manufacturers. They are designed t
 
 [![Compatible (Third-Party) Cartridges pros and cons](/blog/images/screenshot-2024-06-12-at-9.01.46 pm.png "Compatible (Third-Party) Cartridges")](/blog/images/screenshot-2024-06-12-at-9.01.46 pm.png)
 
-**3) Remanufactured Cartridges**
+**C) Remanufactured Cartridges**
 
 Remanufactured cartridges are recycled OEM cartridges that have been cleaned, refilled, and tested.
 
@@ -151,7 +151,11 @@ Compare and save up to 80% on all your printing needs with our wide selection of
 
 **Buying Printer Ink by Popular Printer Brands**
 
-[![Buying Printer Ink by Popular Printer Brands](/blog/images/screenshot-2024-06-12-at-9.12.52 pm.png "Buying Printer Ink by Popular Printer Brands")](/blog/images/screenshot-2024-06-12-at-9.12.52 pm.png)
+[Shop HP Cartridges](https://www.compandsave.com/hp): Envy 5055, OfficeJet 3830, DeskJet 3755, ENVY 4520\
+[Shop Canon Cartridges](https://www.compandsave.com/canon): MX490, PIXMA MG2522, MG3620\
+[Shop Epson Cartridges](https://www.compandsave.com/epson): Expression XP-830, Artisan 1430, WorkForce WF-3640\
+[Shop Brother Cartridges](https://www.compandsave.com/brother): MFC-240C, MFC-J485DW, MFC-J480DW\
+[Shop Lexmark Cartridges](https://www.compandsave.com/lexmark): PRO915,  PRO715, X5650
 
 If you have questions or need printing tips, contact us at 1-833-465-6888. We are available Monday through Friday from 6 a.m. to 4 p.m. PT. 
 
