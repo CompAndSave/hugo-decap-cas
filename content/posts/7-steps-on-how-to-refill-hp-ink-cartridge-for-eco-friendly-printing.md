@@ -46,7 +46,7 @@ Proper preparation ensures a smooth and successful refilling process, minimizing
 
 #### **Materials Needed**
 
-* Universal Refill Kit
+* [Universal Refill Kit](https://www.compandsave.com/ink-refill-bulk-ink)
 * HP Ink Cartridge
 * Plastic Gloves
 * Paper Towels
@@ -62,3 +62,49 @@ Proper preparation ensures a smooth and successful refilling process, minimizing
 * Keep ink bottles and refilled cartridges out of reach of children.
 * Cover your workspace with paper towels in case of accidental spills.
 * Ensure the area is well-ventilated to avoid inhaling any fumes from the ink.
+
+### 7 Easy Steps on How to Refill HP Printer Cartridge
+
+Refilling your HP printer cartridge involves a few simple steps. Here’s a comprehensive guide on how to refill HP printer ink to get you started:
+
+**Step 1: Removing the Cartridge from the Printer**
+
+\- Turn off your printer and open the printer cover to access the cartridges.
+
+\- Carefully remove the cartridge that needs refilling. Handle it gently to avoid any damage.
+
+**Step 2: Peeling Off the Cartridge Label to Expose Refill Holes**
+
+\- Use a small tool or your fingers to peel off the label on the top of the cartridge. This will expose the refill holes necessary for injecting the ink.
+
+**Step 3: Identifying the Color Chambers in Tricolor Cartridges**
+
+\- If you are refilling a tricolor cartridge, it is crucial to identify the color chambers correctly.
+
+\- Insert the syringe briefly into each hole and pull it out. The ink on the syringe will indicate the chamber's color.
+
+**Step 4: Filling the Syringe with the Correct Amount of Ink**
+
+\- Attach the appropriate needle to your syringe and fill it with the correct ink color.
+
+\- For standard cartridges, use about 4ml of ink. For high-yield cartridges, use approximately 10ml.
+
+**Step 5: Injecting Ink Slowly to Avoid Overfilling**
+
+\- Insert the syringe into the correct refill hole.
+
+\- Slowly and steadily inject the ink to avoid overfilling. Overfilling can cause leaks and printing issues.
+
+**Step 6: Proper Sealing and Cleaning After Filling Ink**
+
+\- After injecting the ink, carefully seal the refill holes with a small piece of tape or the original label.
+
+\- Use a damp cloth or cotton swab to clean and remove any ink residue. This helps prevent clogging and ensures smooth printing.
+
+\- Allow the cartridge to sit for about 30 minutes. This lets the ink settle into the sponge inside the cartridge.
+
+**Step 7: Reinstalling the Cartridge and Bypassing Low Ink Warnings**
+
+\- Once settled, reinstall the cartridge and put it back into the printer.
+
+\- Your printer may still show a [low ink](https://www.compandsave.com/help/articles/21875990254221/why-does-my-printer-say-low-ink-when-i-just-refilled-it-) warning. Simply bypass this message to continue printing.
