@@ -46,17 +46,25 @@ Proper preparation ensures a smooth and successful refilling process, minimizing
 
 #### **Materials Needed**
 
-* [Universal Refill Kit](https://www.compandsave.com/ink-refill-bulk-ink)
-* HP Ink Cartridge
-* Plastic Gloves
-* Paper Towels
-* Cotton Swabs
-* Adhesive Tape
-* Clean Workspace
-* Small Screwdriver or Knife (for some cartridges)
-* Syringe and Injection Needles
+1. [Universal Refill Kit](https://www.compandsave.com/ink-refill-bulk-ink)
 
-#### **Safety Precautions**
+2. HP Ink Cartridge
+
+3. Plastic Gloves
+
+4. Paper Towels
+
+5. Cotton Swabs
+
+6. Adhesive Tape
+
+7. Clean Workspace
+
+8. Small Screwdriver or Knife (for some cartridges)
+
+9. Syringe and Injection Needles
+
+#### **Safety Precautions:**
 
 * Always wear protective gloves to avoid direct contact with the ink.
 * Keep ink bottles and refilled cartridges out of reach of children.
@@ -109,7 +117,7 @@ Refilling your HP printer cartridge involves a few simple steps. Here’s a comp
 
 \- Your printer may still show a [low ink](https://www.compandsave.com/help/articles/21875990254221/why-does-my-printer-say-low-ink-when-i-just-refilled-it-) warning. Simply bypass this message to continue printing.
 
-## Alternatives: How to Refill HP Printer Ink to Save Money 
+## Alternatives: How to Refill HP Printer Ink to Save Money
 
 Besides refilling, explore other options to [save money on printer ink](https://www.compandsave.com/blog/posts/how-to-save-money-on-printer-ink-simple-tips-for-home-and-office-printing.html).
 
@@ -138,12 +146,12 @@ By following these tips, ensure the best results when refilling your HP ink cart
 
 Refilling HP ink cartridges offers significant benefits, including cost savings and [eco-friendly printing](https://www.compandsave.com/blog/posts/eco-friendly-printing-how-it-works-and-how-you-can-help.html). Learning how to refill HP ink cartridges can help you [save money on printer ink](https://www.compandsave.com/blog/posts/how-to-save-money-on-printer-ink-simple-tips-for-home-and-office-printing.html) while maintaining high print quality. Always use a [Universal Refill Kit](https://www.compandsave.com/ink-refill-bulk-ink) and follow proper procedures to extend the life of your cartridges.
 
-For replacement or remanufactured HP printer ink and toner cartridges, visit [CompAndSave](https://www.compandsave.com/how-to-refill-ink-cartridges-guide). We offer huge discounts, and you can save even more by purchasing in bulk. Check out our monthly updated coupon codes for additional savings. If you have questions or need printing tips, contact us at 1-833-465-6888. We are available Monday through Friday from 6 a.m. to 4 p.m. PT. We're here to help!
+For replacement or remanufactured HP printer ink and toner cartridges, visit [CompAndSave](https://www.compandsave.com/). We offer huge discounts, and you can save even more by purchasing in bulk. Check out our monthly updated coupon codes for additional savings. If you have questions or need printing tips, contact us at 1-833-465-6888. We are available Monday through Friday from 6 a.m. to 4 p.m. PT. We're here to help!
 
 You'll never go wrong with our bestselling:
 
-* [HP Deskjet 2700 ink](https://www.compandsave.com/hp/deskjet/2700-all-in-one-ink-cartridges)
-* [HP 141A toner cartridge](https://www.compandsave.com/hp/141a-toner-cartridge-w1410a-black)
+* [HP OfficeJet Pro 8028e Ink](https://www.compandsave.com/hp/officejet/pro-8028e-all-in-one-ink-cartridges)
+* [HP DeskJet 2752 Ink](https://www.compandsave.com/hp/deskjet/2752-all-in-one-ink-cartridges)
 * [HP Ink Tank 315 Ink bottles](https://www.compandsave.com/hp/ink-tank/315-ink-bottles)
 * [HP Color LaserJet Pro MFP M479fdw Toner](https://www.compandsave.com/hp/color-laserjet/pro-mfp-m479fdw-toner-cartridges)
 
