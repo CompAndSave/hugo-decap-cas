@@ -105,7 +105,7 @@ Staples sells both ink cartridges and toner, primarily stocking OEM cartridges, 
 
 **1. CompAndSave**
 
-CompAndSave offers cartridges starting at $2.99 and free shipping on orders over $50. [Order online from CompAndSave](https://www.compandsave.com/how-to-order-online-for-compandsave) offers low prices. This makes them a top contender for the best place to buy ink cartridges online.
+CompAndSave offers cartridges starting at $2.99 and free shipping on orders over $50. [Order online from CompAndSave](https://www.compandsave.com/how-to-order-online-for-compandsave), which offers low prices. This makes them a top contender for the best place to buy ink cartridges online.
 
 **2. Carrot Ink**
 
