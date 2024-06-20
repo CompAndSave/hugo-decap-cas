@@ -31,19 +31,19 @@ Our survey shows that the highest-rated brands are affordable third-party option
 
 [Why printer ink is expensive?](https://www.compandsave.com/why-printer-ink-is-so-expensive-guide) Understanding different types of printer ink cartridges is key to answering this question and is also helpful in finding the cheapest place to buy printer ink online. Each type offers unique advantages and cost benefits, helping you make informed decisions and identify the best place to buy ink cartridges online.
 
-1. OEM (Original Equipment Manufacturer) Cartridges
+### 1. OEM (Original Equipment Manufacturer) Cartridges
 
 Produced by the printer’s manufacturer, these ensure high-quality prints and reduce malfunctions. However, they are the most expensive option. For those seeking [cheap printer cartridges](https://www.compandsave.com/blog/posts/cheap-printer-cartridges-deciding-between-compatible-remanufactured-and-refillable-options.html), consider other alternatives for significant savings.
 
-2. Compatible Cartridges
+### 2. Compatible Cartridges
 
 Made by third-party manufacturers, these work with specific printer models and offer comparable quality to OEM cartridges at a much lower cost. When looking for the cheapest place to buy ink cartridges online, compatible cartridges are a popular choice.
 
-3. Remanufactured Cartridges
+### 3. Remanufactured Cartridges
 
 These recycled OEM cartridges are cleaned, refilled, and tested for quality. This eco-friendly option is widely available, making it easy to find the cheapest place to buy ink online. They are often significantly cheaper than new OEM cartridges.
 
-4. Printer Ink Refills
+### 4. Printer Ink Refills
 
 Refilling existing cartridges with ink using bottles and syringes is economical but can also be messy. Refill kits from various online retailers offer a cost-saving option, though they may not always guarantee the same print quality as OEM or compatible cartridges. For an efficient and affordable solution, consider the [Universal Refill Kit](https://www.compandsave.com/ink-refill-bulk-ink).
 
