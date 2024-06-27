@@ -1,6 +1,6 @@
 ---
 title: "Compare Ink Cartridge Prices For Printers: OEM vs Compatible"
-date: 2024-06-27T09:57:00.000+08:00
+date: 2024-06-27T10:13:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/ingoude.-31-.png
 description: Let's compare ink cartridge prices for printers. Where can you save
