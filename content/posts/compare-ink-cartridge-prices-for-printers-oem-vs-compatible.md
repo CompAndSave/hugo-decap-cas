@@ -50,3 +50,13 @@ So, as we compare printer ink prices above, can you see how much you can save wh
 Now that we know how OEM differs from compatible cartridges let’s look at the table below and compare ink cartridge prices for printers. Where can you save more on ink? Let’s find out below: 
 
 [![Printer Ink Price Comparison table](/blog/images/screenshot-2024-06-27-at-9.49.24 am.png "Printer Ink Price Comparison Table")](/blog/images/screenshot-2024-06-27-at-9.49.24 am.png)
+
+As we can see in this printer ink cost comparison table , massive savings are possible when you buy compatible cartridges from [CompAndSave](https://www.compandsave.com/). You can save anywhere from 38% to as much as 89%!
+
+***NOTE:** The prices provided above are indicative only and are subject to change at the discretion of the respective vendor, shop, or website. CompAndSave has no control over these changes, which may occur without prior notice. CompAndSave is not responsible or accountable for any such price changes. The prices listed are solely intended to inform buyers and site visitors.*
+
+## Parting Words
+
+There you have it! Now you know how much you can save when you buy ink from third-party companies like CompAndSave. When we compare ink cartridge prices for printers, we can see that you can save up to 89% when you choose compatible cartridges rather than OEM ones. The good thing is you can save without sacrificing quality. So, check our regularly updated printer ink price comparison table and start [reducing your printing costs](https://www.compandsave.com/how-to-reduce-printing-costs)!
+
+If you have any questions about ordering compatible cheap ink cartridges, our friendly team is here to help. Call us at 1-833-465-6888, Monday through Friday, from 6 am to 4 pm PT. Happy printing!
