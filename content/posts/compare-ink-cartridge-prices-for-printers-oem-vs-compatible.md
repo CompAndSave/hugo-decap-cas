@@ -47,4 +47,6 @@ So, as we compare printer ink prices above, can you see how much you can save wh
 
 ## Printer Ink Price Comparison: Where Can You Save More Money On Ink?
 
-Now that we know how OEM differs from compatible cartridges let’s look at the table below and compare ink cartridge prices for printers. Where can you save more on ink? Let’s find out below:
+Now that we know how OEM differs from compatible cartridges let’s look at the table below and compare ink cartridge prices for printers. Where can you save more on ink? Let’s find out below: 
+
+[![Printer Ink Price Comparison table](/blog/images/screenshot-2024-06-27-at-9.49.24 am.png "Printer Ink Price Comparison Table")](/blog/images/screenshot-2024-06-27-at-9.49.24 am.png)
