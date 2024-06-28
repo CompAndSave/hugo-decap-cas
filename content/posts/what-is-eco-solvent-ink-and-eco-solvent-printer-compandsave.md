@@ -20,8 +20,13 @@ For you to learn more about it, this guide will discuss what is eco-solvent prin
 In this guide, we will learn:
 
 * What Is Eco-Solvent Ink And Eco-Solvent Printer?
+
+  * What is Eco-solvent Ink? How Does it Differ From Regular Solvent Ink?
+  * What Is Eco-Solvent Printer?
 * What Is Eco-Solvent Printing Used For?
 * Eco-Solvent Printing: What Are Some Of Its Benefits?
+
+
 
 ## What Is Eco-Solvent Ink And Eco-Solvent Printer?
 
