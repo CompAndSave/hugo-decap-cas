@@ -11,7 +11,7 @@ tags:
   - eco-solvent printer
   - eco-solvent printing
 ---
-[![what is eco-solvent ink and eco-solvent printer](/blog/images/what-is-eco-solvent-ink-and-eco-solvent-printer.png "what is eco-solvent ink and eco-solvent printer")](/blog/images/what-is-eco-solvent-ink-and-eco-solvent-printer.png)
+[![what is eco-solvent ink and eco-solvent printer](/blog/images/what-is-eco-solvent-ink-and-eco-solvent-printer.png "What is Eco-solvent Ink and Eco-solvent Printer")](/blog/images/what-is-eco-solvent-ink-and-eco-solvent-printer.png)
 
 Do you know what is eco-solvent ink and eco-solvent printer? How does it differ from regular solvent ink? As we all know, ink is essential for printing, but printer ink cartridges can be expensive and wasteful. That's where an eco-solvent printer comes in—they use less ink and less energy to print, have higher yields, and, therefore, save money. 
 
@@ -26,10 +26,6 @@ For you to learn more about it, this guide will discuss what is eco-solvent prin
 * What Is Eco-Solvent Printing Used For?
 * Eco-Solvent Printing: What Are Some Of Its Benefits?
 
-
-
-
-
 ## What Is Eco-Solvent Ink And Eco-Solvent Printer?
 
 Printers and ink are needed almost every day to make our tasks easier. However, some might not know that printing can harm the environment. So, how can we print more eco-friendly? One way is by using eco-solvent ink and eco-solvent printers. Now, let’s discuss each one to understand them better.
@@ -42,7 +38,7 @@ Printers and ink are needed almost every day to make our tasks easier. However, 
 
 Eco-solvent inks are printer inks that have colors suspended in mild, biodegradable solvents like mineral oils. Since they are biodegradable inks, they won't contaminate the water or soil and won't affect the environment. Additionally, here are some ways they're different from solvent ink:
 
-[![solvent vs eco-solvent ink comparison table](/blog/images/eco-solvent-inkprinter.png "solvent vs eco-solvent ink comparison table")](/blog/images/eco-solvent-inkprinter.png)
+[![solvent vs eco-solvent ink comparison table](/blog/images/eco-solvent-inkprinter.png "Solvent Vs Eco-solvent Ink Comparison Table")](/blog/images/eco-solvent-inkprinter.png)
 
 So, if you want to lower your carbon footprint and increase printing efficiency, eco-solvent inks are an excellent choice compared to solvent inks!
 
