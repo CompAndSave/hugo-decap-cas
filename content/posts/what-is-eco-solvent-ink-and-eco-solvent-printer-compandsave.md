@@ -4,8 +4,8 @@ date: 2024-06-28T11:40:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/what-is-eco-solvent-ink-and-eco-solvent-printer.png
 description: What is eco-solvent ink and eco-solvent printer? Let's find out in
-  this guide how it differs from regular ink, where it is commonly used, and
-  some of its benefits!
+  this guide how it differs from regular ink, where it is commonly used, and its
+  benefits!
 tags:
   - eco-solvent ink
   - eco-solvent printer
