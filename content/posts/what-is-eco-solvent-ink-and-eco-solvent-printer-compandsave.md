@@ -17,7 +17,7 @@ Do you know what is eco-solvent ink and eco-solvent printer? How does it differ 
 
 For you to learn more about it, this guide will discuss what is eco-solvent printing, how eco-solvent ink is used, and some examples of eco-solvent printers. But if you want to use regular printer ink, you can also choose eco-friendly ink cartridges and print with a purpose!
 
-In this guide, we will learn:
+**In this guide, we will learn:**
 
 * What Is Eco-Solvent Ink And Eco-Solvent Printer?
 
