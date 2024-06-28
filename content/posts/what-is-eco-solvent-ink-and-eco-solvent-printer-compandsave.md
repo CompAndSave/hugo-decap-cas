@@ -17,7 +17,7 @@ tags:
 
 Do you know what is eco-solvent ink and eco-solvent printer? How does it differ from regular solvent ink? As we all know, ink is essential for printing, but printer ink cartridges can be expensive and wasteful. That's where an eco-solvent printer comes in—they use less ink and less energy to print, have higher yields, and, therefore, save money. 
 
-For you to learn more about it, this guide will discuss what is eco-solvent printing, how eco-solvent ink is used, and some examples of eco-solvent printers. But if you want to use regular printer ink, you can also choose eco-friendly ink cartridges and print with a purpose!
+For you to learn more about it, this guide will discuss what is eco-solvent printing, how eco-solvent ink is used, and some examples of eco-solvent printers. But if you want to use regular printer ink, you can also choose [eco-friendly ink cartridges](https://www.compandsave.com/environmentally-friendly-ink-cartridges) and print with a purpose!
 
 **In this guide, we will learn:**
 
