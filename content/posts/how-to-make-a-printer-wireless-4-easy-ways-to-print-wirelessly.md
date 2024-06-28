@@ -1,5 +1,5 @@
 ---
-title: "How to Make a Printer Wireless: 4 Easy Ways to Print Wirelessly"
+title: "How to Make a Printer Wireless: 4 Ways to Print Wirelessly"
 date: 2024-06-27T11:52:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/ingoude.-35-.png
@@ -17,7 +17,7 @@ Have you ever wondered how to make a printer wireless?
 
 Printing technology has evolved to offer unmatched convenience and flexibility. This has enabled users to print from various devices, including smartphones and tablets. Knowing how to make a wired printer wireless can enhance productivity and streamline workflows. 
 
-This guide explores:
+**This guide explores:**
 
 * The Types of Wireless Printing 
 * Benefits of Wireless Printing
@@ -81,43 +81,25 @@ Using a router to make a non-wireless printer print wirelessly is a practical me
 
 **a) USB Connection**
 
-**1. Check Router Compatibility**
+**1. Check Router Compatibility -** Ensure your router supports printer sharing and has a USB port.
 
-Ensure your router supports printer sharing and has a USB port.
+**2. Connect Printer to Router -** Attach the printer's USB cable to the router.
 
-**2. Connect Printer to Router**
+**3. Access Router Settings -** Log into your router’s admin panel (usually 192.168.1.1 or 192.168.0.1).
 
-Attach the printer's USB cable to the router.
+**4. Enable Printer Sharing -** In the router settings, activate the printer sharing function.
 
-**3. Access Router Settings**
-
-Log into your router’s admin panel (usually 192.168.1.1 or 192.168.0.1).
-
-**4. Enable Printer Sharing**
-
-In the router settings, activate the printer sharing function.
-
-**5. Install Printer Drivers**
-
-Download and install the necessary drivers on your computer, ensuring the printer is recognized as a network device.
+**5. Install Printer Drivers -** Download and install the necessary drivers on your computer, ensuring the printer is recognized as a network device.
 
 **b) Ethernet Connection**
 
-**1. Connect via Ethernet**
+**1. Connect via Ethernet -** Link the printer to the router using an Ethernet cable connected to a LAN port.
 
-Link the printer to the router using an Ethernet cable connected to a LAN port.
+**2. Power On and Configure -** Turn on both devices and ensure the router recognizes and assigns the printer an IP address.
 
-**2. Power On and Configure**
+**3. Configure on Printer -** Navigate through the printer’s menu to confirm network connection and settings.
 
-Turn on both devices and ensure the router recognizes and assigns the printer an IP address.
-
-**3. Configure on Printer**
-
-Navigate through the printer’s menu to confirm network connection and settings.
-
-**4. Network Access**
-
-Install the printer drivers on all network devices and connect them using the printer's IP address.
+**4. Network Access -** Install the printer drivers on all network devices and connect them using the printer's IP address.
 
 ### Method 2: Using a Print Server
 
