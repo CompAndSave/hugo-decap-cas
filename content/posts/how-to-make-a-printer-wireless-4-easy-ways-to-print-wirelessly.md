@@ -6,8 +6,12 @@ featured_image: /blog/images/ingoude.-35-.png
 description: Want more printing freedom? Learn how to make a printer wireless
   and boost productivity. Convert your regular wired printers and enjoy printing
   wirelessly.
+tags:
+  - laser printer
+  - inkjet printer
+  - wireless printer
 ---
-[![](/blog/images/ingoude.-35-.png)](/blog/images/ingoude.-35-.png)
+[![How to make printer wireless](/blog/images/ingoude.-35-.png "how to make printer wireless?")](/blog/images/ingoude.-35-.png)
 
 Have you ever wondered how to make a printer wireless? 
 
