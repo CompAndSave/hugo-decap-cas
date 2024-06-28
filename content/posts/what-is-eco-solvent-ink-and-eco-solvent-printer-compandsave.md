@@ -1,5 +1,5 @@
 ---
-title: What Is Eco-Solvent Ink And Eco-Solvent Printer? | 2024
+title: What Is Eco-solvent Ink And Eco-solvent Printer? | 2024
 date: 2024-06-28T11:40:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/what-is-eco-solvent-ink-and-eco-solvent-printer.png
