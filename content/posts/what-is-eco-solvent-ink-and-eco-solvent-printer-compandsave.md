@@ -87,15 +87,11 @@ Aside from those mentioned above on what is eco-solvent printing, this type of p
 
 Many business owners are concerned about the impact of their actions on the environment. One way to reduce environmental impact and improve print quality is to use biodegradable printer ink.
 
-
-
 This process uses less energy, and ink is better for the environment and has a lower carbon footprint than ink made from gasoline. This means that the air is less polluted. Plus, the solvents in these inks evaporate completely, so they don't make much waste and don't need to be thrown away, which can be harmful.
 
 ### 2. Low Cost Printing
 
 Eco-solvent inks, unlike oil-based inks, do not require a pre-treatment because they are water-soluble. This means that you can save on both the cost of printing supplies and ink. Plus, because these inks are less toxic and nonflammable, your staff can work with them without risking internal injury.
-
-
 
 Also, when printing, they are not as harsh as regular inks, so they use less energy, which means your utility bill will be lower. Lastly, since these inks don't produce much waste, this also saves you money on disposal fees and environmental costs down the line!
 
