@@ -7,6 +7,8 @@ description: What is eco-solvent ink and eco-solvent printer? Let's find out in
   this guide how it differs from regular ink, where it is commonly used, and its
   benefits!
 tags:
+  - eco-solvent printer cartridges
+  - eco-solvent
   - eco-solvent ink
   - eco-solvent printer
   - eco-solvent printing
