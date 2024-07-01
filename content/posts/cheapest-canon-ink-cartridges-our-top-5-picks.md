@@ -104,3 +104,37 @@ Reflect on how often you print—daily, weekly, or monthly. If your printing is 
 4. **Quality Requirements**
 
    Consider the level of print quality you need. If quality matters, even if it means a slightly higher cost, a high-yield option might give you better value in the end.
+
+
+
+### So, What are the Top 5 Cheap Ink for Canon Printer?
+
+At this point, you might already know which type of cheap ink for Canon printers is the right fit for your printing needs. Now, let's move forward and talk about the five most affordable ink cartridges based on your printing needs.
+
+Price Disclaimer: Please note that prices for original Canon ink may change over time.
+
+### Standard: Top 5 Cheapest Canon Printer Ink
+
+**1. [Canon PG-245 Black, CL-246 Tri-Color Ink Cartridge](https://www.usa.canon.com/shop/p/pg-245-cl-246-value-pack?color=Black&type=Kit)**
+
+Price: $42.98
+
+Ink Type: Pigment-based black and dye-based tricolor
+
+Page Yield: 180 pages black and 180 pages tricolor
+
+Cost per Page: $0.119
+
+Best for: Home use, black and white documents, color documents, or photos.
+
+**2. [Canon PG-240 Black, CL-241 Tri-Color Ink Cartridge](https://www.usa.canon.com/shop/p/pg-240-black-ink-cartridge?color=Black&type=New)**
+
+Price: $19.99 (black), $25.99 (tri-color)
+
+Ink Type: Pigment for black and dye-based for tri-color
+
+Page Yield: 180 pages for black and 180 pages for tri-color
+
+Cost per Page: $0.11 for black and $0.144 for tri-color
+
+Best for: Home and home-office use for black and white documents, color documents, and photos.
