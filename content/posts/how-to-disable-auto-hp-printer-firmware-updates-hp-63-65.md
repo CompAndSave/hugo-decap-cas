@@ -64,3 +64,15 @@ This method will work on HP network-capable printers and Wi-Fi Direct Printers. 
 [![Printer Update](/blog/images/screenshot-2024-07-01-at-11.47.58 pm.png "home dashboard")](/blog/images/screenshot-2024-07-01-at-11.47.58 pm.png)
 
 4. Next, you want to make sure that the checkbox for "Install updates automatically (recommended)" on the “Printer Update Options” section is unchecked. This will disable the auto firmware update feature on your printer. Once you're done, click the "Apply" button to save the settings.
+
+[![](/blog/images/screenshot-2024-07-01-at-11.49.00 pm.png)](/blog/images/screenshot-2024-07-01-at-11.49.00 pm.png)
+
+5. You may also confirm the "Automatic Firmware Update" status by pressing the "i" button on your printer's control panel. It will print out your “Printer Information Page” which will show the status of your auto update setting.
+
+[![](/blog/images/screenshot-2024-07-01-at-11.50.47 pm.png)](/blog/images/screenshot-2024-07-01-at-11.50.47 pm.png)
+
+## For Printers without Touchscreen Control Panel
+
+You can disable the auto update from your printer homepage via web browser. To do so, you would need to print out your “Printer's Status Report” first to obtain the IP address.
+
+1. Make sure your printer is connected to the network by pressing "Wi-Fi" and "Wi-Fi Direct" buttons on your printer control panel. For printers without the "Wi-Fi Direct" button, you may press on the "Wi-Fi" button only.
