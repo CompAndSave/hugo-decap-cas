@@ -73,7 +73,7 @@ There are mainly two types of paper to print business cards at home. You can cho
 
 Are you going to print on just one side or both sides? Regular cardstock will work fine for the former, but for the latter, you need a special double-sided printing cardstock that's not see-through or has the ink bleeding through it.
 
-**TIP:** If you want to go an extra mile on the fanciness meter, try exploring linen or textured cardstocks . Explore different kinds of paper for your printing projects.
+***TIP:** If you want to go an extra mile on the fanciness meter, try exploring linen or textured cardstocks . Explore different kinds of paper for your printing projects.*
 
 ### STEP 2: Deciding on Business Card Information Layout
 
@@ -113,7 +113,7 @@ A good logo should be fairly easy to spot and recognize, look modern and elegant
 
 **Pick a Color Scheme**
 
-First, pick a color scheme that will be the dominant one on the cards. For example, you might go for a light blue as the base color, with different shades of purple or green used sparingly. Furthermore, you can go with bold colors or less saturated versions so that they'll look more natural on different printers. To help you decide, you can check out color palette generators, such as Canva business cards and Coolors. And lastly, consider using textures or patterns to add some extra visual interest.
+First, pick a color scheme that will be the dominant one on the cards. For example, you might go for a light blue as the base color, with different shades of purple or green used sparingly. Furthermore, you can go with bold colors or less saturated versions so that they'll look more natural on different printers. To help you decide, you can check out color palette generators, such as [Canva business cards](https://www.canva.com/colors/color-palette-generator/) and [Coolors](https://coolors.co/). And lastly, consider using textures or patterns to add some extra visual interest.
 
 **Choose a Font(s)**
 
@@ -127,4 +127,50 @@ You can use photos, graphics files, or even handwritten notes for your cards. Ho
 
 Finally, decide on a layout for your cards. You can go with a classic design or something more creative and unique. Consider the overall look of your card—do you want it simple and minimalistic or flashy? The choice is yours!
 
-**TIP:** Take inspiration from various business cards in your industry. Make sure to keep your card sleek and modern while still reflecting your brand. Lastly, ensure all the text on your cards is legible and easy enough for people to read at a distance.
+***TIP:** Take inspiration from various business cards in your industry. Make sure to keep your card sleek and modern while still reflecting your brand. Lastly, ensure all the text on your cards is legible and easy enough for people to read at a distance.*
+
+### STEP 4: Choosing the Designing App
+
+[![Choosing the Designing App](/blog/images/screenshot-2024-07-02-at-12.26.52 am.png "Choosing the Designing App")](/blog/images/screenshot-2024-07-02-at-12.26.52 am.png)
+
+Now, there are tools that you can use to creatively design your business cards. You can start from scratch or get free templates. If you have the skills to create your own graphics, feel free to use software that will allow you to do so.
+
+**DIY Business Cards From Scratch**
+
+Here are some tools you can use to make business cards from scratch:
+
+**Microsoft Word**
+
+How to print business cards in Word? It's super easy just by utilizing the different fonts or inserting images and shapes. It's best for non-tech-savvy people as it has limited but simple controls.
+
+**Adobe Illustrator**
+
+Perfect for people with a little knowledge of graphic design and those who can make cards with software. You have the freedom to design your card however you want.
+
+***TIP:** You can also view YouTube tutorials for business card making for the specific designing software you're using.*
+
+**Free Business Card Maker**
+
+Learning how to print business cards at home can be a cost-effective way to get the cards you need without breaking the bank. On the other hand, if you want to save time, there are free templates that you can use. Where to get free business cards templates to print at home? There are a ton of places on the internet where you can find free business card templates to print, such as:
+
+**1. Canva**
+
+How to print business cards from Canva at home? Simply choose or type business cards in the search bar. Canva offers various design options and allows you to create creative and professional cards. With many templates and designs to choose from, it's easy to find one that suits your needs perfectly.
+
+**2. Freepik**
+
+Another free template you can try is Freepik. It has millions of stock images that you can use without spending a cent. Get inspired by various designs as you start to create your own business cards.
+
+**3. Adobe Express**
+
+This is a free online version of Adobe Photoshop—best for those who don't have the software installed. It has thousands of templates you can choose from. It's the best choice if you're not yet confident with your Photoshop skills.
+
+***TIP:** Before downloading free business card templates, check the quality and printing specifications to ensure the custom business cards will print correctly and look how you want them to. Also, make sure they're royalty-free and can be used for commercial purposes, as you don't want a lawsuit filed for copyright later.*
+
+**Have a Graphic Designer Do It**
+
+Alternatively, you can outsource the designing bit to someone professional, like a graphic designer with skills in business card design. A skilled person can make custom business cards that look polished and professional and don't cost an arm and a leg. Plus, they'll likely have access to more premium templates and designs than you will at home. Try searching for graphic designers on Fiverr, Design Crowd, People Per Hour, or Upwork. You can discuss what you want with the artist, and they can send you the design so you can make your own business cards at home.
+
+
+
+STEP5: Printing Business Cards at Home
