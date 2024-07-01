@@ -81,36 +81,24 @@ Are you going to print on just one side or both sides? Regular cardstock will wo
 
 When designing a business card, the first thing that needs to be done is to decide what information should be in it. Here are a few things to consider:
 
-
-
-Name
+**Name**
 
 This is an essential part of your card and should be in a large, easy-to-read font.
 
-
-
-Job Title
+**Job Title**
 
 Your business card is a way to introduce yourself to many people, so make sure to put what you do on it.
 
-
-
-Contact Info
+**Contact Info**
 
 Include your business phone number and email address. Feel free to include the website URL of your brand as well.
 
-
-
-Social Media Links
+**Social Media Links**
 
 If you're active on social media platforms such as Twitter or Facebook, consider including their handles at the bottom or at the back. You can also add QR codes for your social media handles at the back of your card.
 
-
-
-Personalization
+**Personalization**
 
 If you're looking to stand out from your coworkers or just have a unique card in general, consider adding a small headshot, a slogan, or even a quote from you when designing a business card..
 
-
-
-STEP3: Designing a Business Card
+### STEP 3: Designing a Business Card
