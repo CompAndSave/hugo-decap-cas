@@ -6,6 +6,9 @@ featured_image: /blog/images/11.png
 description: How to print business cards at home? Making business cards at home
   can be a breeze with our ultimate guide. Learn the steps now!
 tags:
+  - laser printer
+  - business card designs
+  - inkjet printers
   - DIY BUSINESS CARD
   - HOME PRINTING
   - Print Business Cards
