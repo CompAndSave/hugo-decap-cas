@@ -257,3 +257,5 @@ These ink cartridges come in a wide range of options, including [remanufactured]
 * **Access to Discontinued Cartridges**
 
 Finding cartridges for older printer models can be challenging at brand stores. Fortunately, many third-party ink suppliers offer cartridges that are no longer available elsewhere, ensuring you can continue using your trusted printer.
+
+[![note](/blog/images/1.png "note")](/blog/images/1.png)
