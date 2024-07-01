@@ -82,3 +82,19 @@ You can disable the auto update from your printer homepage via web browser. To d
 2. Once your printer is connected to the network, you can print out your “Printer's Status Report” by pressing both "i" and "Wi-Fi" buttons for at least three seconds. On your printed report, you should be able to find your printer's Wi-Fi name and password, along with the printer's IP Address.
 
 [![Printer's Status Report](/blog/images/screenshot-2024-07-01-at-11.54.55 pm.png "Printer's Status Report")](/blog/images/screenshot-2024-07-01-at-11.54.55 pm.png)
+
+3. Enter your printer's IP address on your web browser address bar (web address bar is where a website's link is usually located). You should be able to see your printer homepage once it's loaded.
+
+[![printer's IP address](/blog/images/screenshot-2024-07-01-at-11.58.11 pm.png "printer's IP address")](/blog/images/screenshot-2024-07-01-at-11.58.11 pm.png)
+
+4. Click on "**Printer Update**" option from the home dashboard.
+
+[![home dashboard](/blog/images/screenshot-2024-07-02-at-12.01.03 am.png "home dashboard")](/blog/images/screenshot-2024-07-02-at-12.01.03 am.png)
+
+5. Next, you want to make sure that the checkbox for "Install updates automatically (recommended)" on the “Printer Update Options” section is unchecked. This will disable the auto firmware update feature on your printer. Once you're done, click the "Apply" button to save the settings.
+
+[![Printer Update Options](/blog/images/screenshot-2024-07-02-at-12.01.57 am.png "Printer Update Options")](/blog/images/screenshot-2024-07-02-at-12.01.57 am.png)
+
+6. You may also confirm the "Automatic Firmware Update" status by pressing the "i" button on your printer's control panel. It will print out your “Printer Information Page” which will show the status of your auto update setting.
+
+[![Printer Information Page](/blog/images/screenshot-2024-07-02-at-12.02.40 am.png "Printer Information Page")](/blog/images/screenshot-2024-07-02-at-12.02.40 am.png)
