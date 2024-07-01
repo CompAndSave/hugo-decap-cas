@@ -45,7 +45,7 @@ Can you print business cards at home? Definitely! With the right tools and instr
 
 ### **STEP 1: Selecting the Paper for Business Cards**
 
-[![](/blog/images/screenshot-2024-07-02-at-12.19.20 am.png)](/blog/images/screenshot-2024-07-02-at-12.19.20 am.png)
+[![Paper for Business Cards](/blog/images/screenshot-2024-07-02-at-12.19.20 am.png "Paper for Business Cards")](/blog/images/screenshot-2024-07-02-at-12.19.20 am.png)
 
 Choosing the right paper for business card printing is essential for a professional look. There are some crucial things you need to consider before making your choice, such as the type of paper, card size, etc. Let's discuss them below.
 
@@ -74,3 +74,43 @@ There are mainly two types of paper to print business cards at home. You can cho
 Are you going to print on just one side or both sides? Regular cardstock will work fine for the former, but for the latter, you need a special double-sided printing cardstock that's not see-through or has the ink bleeding through it.
 
 **TIP:** If you want to go an extra mile on the fanciness meter, try exploring linen or textured cardstocks . Explore different kinds of paper for your printing projects.
+
+### STEP 2: Deciding on Business Card Information Layout
+
+[![Business Card Information Layout](/blog/images/screenshot-2024-07-02-at-12.22.30 am.png "Business Card Information Layout")](/blog/images/screenshot-2024-07-02-at-12.22.30 am.png)
+
+When designing a business card, the first thing that needs to be done is to decide what information should be in it. Here are a few things to consider:
+
+
+
+Name
+
+This is an essential part of your card and should be in a large, easy-to-read font.
+
+
+
+Job Title
+
+Your business card is a way to introduce yourself to many people, so make sure to put what you do on it.
+
+
+
+Contact Info
+
+Include your business phone number and email address. Feel free to include the website URL of your brand as well.
+
+
+
+Social Media Links
+
+If you're active on social media platforms such as Twitter or Facebook, consider including their handles at the bottom or at the back. You can also add QR codes for your social media handles at the back of your card.
+
+
+
+Personalization
+
+If you're looking to stand out from your coworkers or just have a unique card in general, consider adding a small headshot, a slogan, or even a quote from you when designing a business card..
+
+
+
+STEP3: Designing a Business Card
