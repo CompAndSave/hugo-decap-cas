@@ -251,7 +251,7 @@ If you don't own a business card printer and want to start printing your own, yo
 
 The Canon PIXMA iX6820 is an excellent home photo printer. This printer is suitable for both families and students. It comes with a large input tray for a wide range of paper sizes. You can achieve low-cost printing but with great photo quality as well. The perfect printer if you aim to use graphics when printing business cards at home.
 
-[![](/blog/images/screenshot-2024-07-02-at-12.45.00 am.png)](/blog/images/screenshot-2024-07-02-at-12.45.00 am.png)
+[![Canon Pixma iX6820 table](/blog/images/screenshot-2024-07-02-at-12.45.00 am.png "Canon Pixma iX6820 table")](/blog/images/screenshot-2024-07-02-at-12.45.00 am.png)
 
 ### 2. [HP OfficeJet 3830](https://www.compandsave.com/hp/officejet/3830-all-in-one-ink-cartridges)
 
@@ -266,3 +266,21 @@ The HP OfficeJet 3830 has superb printing quality both for photos and documents.
 [![Epson EcoTank ET-4760](/blog/images/screenshot-2024-07-02-at-12.46.34 am.png "Epson EcoTank ET-4760")](/blog/images/screenshot-2024-07-02-at-12.46.34 am.png)
 
 If you're looking for the most budget-friendly printer to make cheap business cards, the Epson EcoTank ET-4760 takes the cake. Its incredible cost per page will help you save on printing costs. This printer is the right choice if your goal is to print thousands of business cards with basic colors and a minimal design.
+
+[![Epson EcoTank ET-4760 table](/blog/images/screenshot-2024-07-02-at-12.51.15 am.png "Epson EcoTank ET-4760 table")](/blog/images/screenshot-2024-07-02-at-12.51.15 am.png)
+
+### 4. [Brother MFC-J895DW](https://www.compandsave.com/brother/mfc/mfc-j895dw-ink-cartridges)
+
+[![Brother MFC-J895DW table](/blog/images/screenshot-2024-07-02-at-12.49.25 am.png "Brother MFC-J895DW table")](/blog/images/screenshot-2024-07-02-at-12.49.25 am.png)
+
+The Brother MFC-J895DW is best for black and white business cards. If convenience is your top priority, this printer is a great choice since it has an efficient app that you can download. Although it can print great looking photos, it can do better with color accuracy. Overall, it's a great home printer that can deliver basic printing needs quickly enough to create your own business cards.
+
+[![Brother MFC-J895DW table ](/blog/images/screenshot-2024-07-02-at-12.52.18 am.png "Brother MFC-J895DW table")](/blog/images/screenshot-2024-07-02-at-12.52.18 am.png)
+
+There's no need for you to go out and spend a fortune on a commercial business card printer when you can print them at home for a fraction of the price. Just make sure the printer you choose is compatible with the paper type, size, and connectivity before getting started!
+
+And if you need the right cartridges and/or cardstock for your business card making project, feel free to explore [CompAndSave's](v) product range. We have affordable compatible cartridges for almost every major printer brand. The best way to make business cards at home is to make sure that they're high-quality and budget-friendly.
+
+Finally, you're all set to start making business cards at home. If you're looking for other printing projects that you can venture into as a small business or just a hobby, we have more guides for you. You can try [making stickers with a thermal printer](https://www.compandsave.com/how-to-make-stickers-with-thermal-printer-guide) or [creating](https://www.compandsave.com/what-is-the-best-printer-for-magnetic-sheets-guide) printed magnets . Another great printing project is [photo printing](https://www.compandsave.com/how-to-print-high-quality-photos-at-home) . There's a lot of things you can do with your printer and ink!
+
+Are you in need of further assistance? Talk to us at our toll-free number: 1-833-465-6888. You can speak to one of our customer service representatives from 6am-4pm PT from Mondays to Fridays. We are glad to be of help!
