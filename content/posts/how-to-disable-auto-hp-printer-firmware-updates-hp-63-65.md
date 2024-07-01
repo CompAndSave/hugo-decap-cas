@@ -6,7 +6,11 @@ featured_image: /blog/images/ingoude.-37-.png
 description: HP printer not recognizing ink? Check our guide on how to stop auto
   HP printer firmware update for printers that uses HP 63/63XL & HP 65/65XL ink.
 tags:
-  - firmware update
+  - printer troubleshooting
+  - printer problems
+  - ink cartridge
+  - inkjet printer
+  - Printer firmware update
   - hp printer
 ---
 [![How to Disable Auto HP Printer Firmware Updates](/blog/images/ingoude.-37-.png "How to Disable Auto HP Printer Firmware Updates")](/blog/images/ingoude.-37-.png)
