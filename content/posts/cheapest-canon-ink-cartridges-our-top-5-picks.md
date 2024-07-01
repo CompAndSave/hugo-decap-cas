@@ -86,20 +86,19 @@ Think about how you use your printer and what aligns with your budget. As you po
 
 
 
-Printing Frequency
+1. **Printing Frequency**
 
-Reflect on how often you print—daily, weekly, or monthly. If your printing is frequent, high-yield cartridges could save you more money in the long run. If you print less often, standard ink might suit you better.
-
-1. **Print Volume**
+   Reflect on how often you print—daily, weekly, or monthly. If your printing is frequent, high-yield cartridges could save you more money in the long run. If you print less often, standard ink might suit you better.
+2. **Print Volume**
 
    Monitor how much you print each time you use your printer. If you often print many pages at once, it's smart to go for high-yield cartridges. These cartridges have more ink and are better for large print tasks, offering efficiency and cost savings compared to cartridges with less ink.
-2. **Color vs. Monochrome Printing**
+3. **Color vs. Monochrome Printing**
 
    If your printing involves a lot of black and white with occasional color, consider choosing tricolor cartridges instead of individual ones. This choice can lead to more cost-effective use.
-3. **Types of Documents**
+4. **Types of Documents**
 
    Know what you primarily print—documents, photos, or graphics. If your printing includes high-quality images, leaning towards high-yield cartridges could be a great way to save on costs.
-4. **Quality Requirements**
+5. **Quality Requirements**
 
    Consider the level of print quality you need. If quality matters, even if it means a slightly higher cost, a high-yield option might give you better value in the end.
 
@@ -182,3 +181,89 @@ At this point, you might already know which type of cheap ink for Canon printers
 **Cost per Page:** $0.11
 
 **Best For:** Home and home-office use for black and white documents, color documents and photos.
+
+
+
+### High-Yield: Top 5 Cheap Ink for Canon Printer
+
+
+
+**1. Extra High-Yield [Canon PGI-280XXL Black, CLI-281XXL (CMYK) Ink](https://www.usa.canon.com/shop/p/cli-281-xxl-dye-based-individual-ink-tank?color=Black&type=New)**
+
+**Price:**
+
+$37.99 for black and $30 for each color
+
+**Ink Type:**
+
+Pigment ink for black PGI-280 and dye-based for the CLI-281 combo
+
+**Page Yield:**
+
+600 pages for black pigment, 4,590 pages (regular black), 830 pages (cyan), 747 pages (magenta), 1,660 pages (photo blue), 830 pages (yellow)
+
+**Cost per Page:**
+
+$0.063 for black pigment, $0.0065 for regular black, $0.036 for cyan, $0.040 for magenta, $0.018 for photo blue and $0.036 for yellow.
+
+Best For:
+
+Home office, black and white text documents, and business documents.
+
+2. High Yield Canon PG-245XL Black, CL-246XL (CMY) Color Ink
+
+Price: $56.99
+
+Ink Type: Pigment-based for black, dye-based for color
+
+Page Yield: 300 pages for black and 300 pages for color
+
+Cost per Page: $0.094
+
+Best For: Home office, black and white text documents, education materials, color documents, and photos
+
+3. High Yield Canon PGI-250XL Pigment Black Ink, CLI-251 (CMY) Color Ink
+
+Price:
+
+$27.99 for black pigment and $21.99 for each color
+
+Ink Type:
+
+Pigment ink for black and dye-based for color
+
+Page Yield:
+
+500 pages for black pigment, 5000 pages (black), 705 pages (cyan), 690 pages (magenta), 675 pages (yellow), and 660 pages (gray)
+
+Cost per Page:
+
+$0.056 for black pigment, $0.0043 for black, $0.031 for cyan, $0.031 for magenta, $0.032 for yellow and $0.033 for gray
+
+Best For:
+
+Home or home office, black and white text documents, business documents, color documents, and photos
+
+4. High Yield Canon PG-260XL CLI-261XL Value Pack
+
+Price: $58.99
+
+Ink Type: Pigment-based for black, dye-based for color
+
+Page Yield: 400 pages for black and 400 pages for color
+
+Cost per Page: $0.0562
+
+Best For: Home, black and white text documents, education materials, color documents, and photos
+
+5. High Yield Canon PG-240XL CL-241XL Value Pack
+
+Price: $58.98
+
+Ink Type: Pigment-based for black, dye-based for color
+
+Page Yield: 300 pages for black and 400 pages for color
+
+Cost per Page: $0.0628
+
+Best For: Home, black and white text documents, education materials, color documents, and photos.
