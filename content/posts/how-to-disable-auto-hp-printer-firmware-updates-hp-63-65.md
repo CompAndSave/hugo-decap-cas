@@ -24,3 +24,11 @@ If you wish to continue using third party [HP 65 ink](https://www.compandsave.co
 To stop HP printer from updating automatically, kindly read and follow the instructions below on how to disable the auto update feature.
 
 **NOTE:** Please be informed that using or compatible replacement printer ink cartridges will never void your printer warranty. Please contact us for any further questions.
+
+## For Printers with Touchscreen Control Panel
+
+**Procedure 1: From Printer's Control Panel**
+
+1. Select **"Setup"** icon on your printer's control panel. From the list of options, choose **"Tools".**
+
+[![envy 5000 series](/blog/images/1.jpg "envy 5000 series")](/blog/images/1.jpg)
