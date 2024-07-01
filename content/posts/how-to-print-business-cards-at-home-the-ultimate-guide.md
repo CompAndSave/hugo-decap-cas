@@ -139,11 +139,11 @@ Now, there are tools that you can use to creatively design your business cards. 
 
 Here are some tools you can use to make business cards from scratch:
 
-**Microsoft Word**
+**1. Microsoft Word**
 
 How to print business cards in Word? It's super easy just by utilizing the different fonts or inserting images and shapes. It's best for non-tech-savvy people as it has limited but simple controls.
 
-**Adobe Illustrator**
+**2. Adobe Illustrator**
 
 Perfect for people with a little knowledge of graphic design and those who can make cards with software. You have the freedom to design your card however you want.
 
@@ -171,6 +171,38 @@ This is a free online version of Adobe Photoshop—best for those who don't have
 
 Alternatively, you can outsource the designing bit to someone professional, like a graphic designer with skills in business card design. A skilled person can make custom business cards that look polished and professional and don't cost an arm and a leg. Plus, they'll likely have access to more premium templates and designs than you will at home. Try searching for graphic designers on Fiverr, Design Crowd, People Per Hour, or Upwork. You can discuss what you want with the artist, and they can send you the design so you can make your own business cards at home.
 
+### STEP 5: Printing Business Cards at Home
 
+[![](/blog/images/screenshot-2024-07-02-at-12.30.49 am.png)](/blog/images/screenshot-2024-07-02-at-12.30.49 am.png)
 
-STEP5: Printing Business Cards at Home
+The most crucial step in learning how to print business cards at home is to print them without any mistakes! Here's how to do that!
+
+**Start Printing**
+
+Now that you have the design ready, it's time to bring it to life with some printing magic. Once you've decided on the design elements and fonts/colors/graphics you want to use, you can start creating your DIY business cards!
+
+Now that you have the design ready, it's time to bring it to life with some printing magic. Once you've decided on the design elements and fonts/colors/graphics you want to use, you can start creating your DIY business cards!
+
+**Make sure you have the right printer, and you've selected the right settings, such as:**
+
+1. Set to print for the finish you're using (glossy or matte)
+2. Set to print one or two sides
+3. Correct card dimensions
+
+**Let's proceed with the steps on how to print out business cards:**
+
+1. In your preferred design software, create a new page/document and enter the card dimensions (3.5 x 2 inches).
+2. Add the card's color(s), information, graphics, and other elements.
+3. Put your text and graphics where you want them, and then use the formatting tools in your design program to make any changes you need to line spacing and letter size.
+
+[![](/blog/images/screenshot-2024-07-02-at-12.32.21 am.png)](/blog/images/screenshot-2024-07-02-at-12.32.21 am.png)
+
+4.  Save your document as a **JPEG** or **PNG** file. Open the saved file and right-click on it. Choose **Print**.
+
+[![](/blog/images/screenshot-2024-07-02-at-12.34.17 am.png)](/blog/images/screenshot-2024-07-02-at-12.34.17 am.png)
+
+5. Once the settings appear, fill in the necessary fields such as paper size, paper type, and photo size. Click Print to do a test print first.
+
+Pay attention to the design and how everything, including colors, text, graphics, and other elements, appears in relation to the card's dimensions. Also, proofread the card for any typos or mistakes to fix before printing the first batch.
+
+***TIP:**Use ordinary paper when doing test prints. This way, you can see what needs to be improved on your custom business cards without wasting your cardstock.*
