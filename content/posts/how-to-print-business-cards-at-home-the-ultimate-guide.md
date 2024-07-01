@@ -251,10 +251,18 @@ If you don't own a business card printer and want to start printing your own, yo
 
 The Canon PIXMA iX6820 is an excellent home photo printer. This printer is suitable for both families and students. It comes with a large input tray for a wide range of paper sizes. You can achieve low-cost printing but with great photo quality as well. The perfect printer if you aim to use graphics when printing business cards at home.
 
-* **Print speed:** 8 pages per minute
-* **Paper sizes:** Letter (8.5" x 11"), Legal (8.5" x 14"), Tabloid (11" x 17"), A5 (148mm x 210mm), A4 (210mm x 297mm), Photo (4" x 6"), Photo (5" x 7"),
-* **Connectivity:** Ethernet, USB Input To Computer, Wi-Fi via Router Apple AirPrint
-* **Pros:** Great photo quality, Good color accuracy, Low-cost per print
-* **Cons:** Wide frame, Limited connectivity options
-* **Best Value Printer Ink:** [Compatible High-Yield Canon 250XL and 251XL Ink Cartridges in pigment black, black, cyan, magenta, and yellow.](https://www.compandsave.com/canon/250-251-xl-ink-cartridges)
-* **Cost per page:** 0.31 cents
+[![](/blog/images/screenshot-2024-07-02-at-12.45.00 am.png)](/blog/images/screenshot-2024-07-02-at-12.45.00 am.png)
+
+### 2. [HP OfficeJet 3830](https://www.compandsave.com/hp/officejet/3830-all-in-one-ink-cartridges)
+
+[![HP OfficeJet 3830](/blog/images/screenshot-2024-07-02-at-12.41.53 am.png "HP OfficeJet 3830")](/blog/images/screenshot-2024-07-02-at-12.41.53 am.png)
+
+The HP OfficeJet 3830 has superb printing quality both for photos and documents. It accepts a wide variety of paper sizes. If you're looking for a small printer that's easy to navigate so you can print your own business cards at home, this should be your top choice. However, the printing cost is a little higher compared to other printers that are best for business cards.
+
+[![HP OfficeJet 3830 table](/blog/images/screenshot-2024-07-02-at-12.44.07 am.png "HP OfficeJet 3830 table")](/blog/images/screenshot-2024-07-02-at-12.44.07 am.png)
+
+### 3. [Epson EcoTank ET-4760](https://www.compandsave.com/epson/ecotank/et-4760-all-in-one-ink-bottles)
+
+[![Epson EcoTank ET-4760](/blog/images/screenshot-2024-07-02-at-12.46.34 am.png "Epson EcoTank ET-4760")](/blog/images/screenshot-2024-07-02-at-12.46.34 am.png)
+
+If you're looking for the most budget-friendly printer to make cheap business cards, the Epson EcoTank ET-4760 takes the cake. Its incredible cost per page will help you save on printing costs. This printer is the right choice if your goal is to print thousands of business cards with basic colors and a minimal design.
