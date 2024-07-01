@@ -168,7 +168,7 @@ $0.063 for black pigment, $0.0065 for regular black, $0.036 for cyan, $0.040 for
 
 Home office, black and white text documents, and business documents.
 
-**2. High Yield Canon PG-245XL Black, CL-246XL (CMY) Color Ink**
+**2. High Yield [Canon PG-245XL Black, CL-246XL (CMY) Color Ink](https://www.usa.canon.com/shop/p/pg-245-cl-246-xl-combo?color=Black&type=Kit)**
 
 Price: $56.99
 
@@ -180,7 +180,7 @@ Price: $56.99
 
 **Best For:** Home office, black and white text documents, education materials, color documents, and photos
 
-**3. High Yield Canon PGI-250XL Pigment Black Ink, CLI-251 (CMY) Color Ink**
+**3. High Yield** Canon PGI-250XL Pigment Black Ink, CLI-251 (CMY) Color Ink
 
 **Price:**
 
@@ -202,7 +202,7 @@ $0.056 for black pigment, $0.0043 for black, $0.031 for cyan, $0.031 for magenta
 
 Home or home office, black and white text documents, business documents, color documents, and photos
 
-**4. High Yield Canon PG-260XL CLI-261XL Value Pack**
+**4. High Yield [Canon PG-260XL CLI-261XL Value Pack](https://www.usa.canon.com/shop/p/pg-260-xl-cli-261-xl-value-pack?color=Black&type=Kit)**
 
 **Price: $58.99**
 
@@ -214,7 +214,7 @@ Home or home office, black and white text documents, business documents, color d
 
 **Best For:** Home, black and white text documents, education materials, color documents, and photos
 
-**5. High Yield Canon PG-240XL CL-241XL Value Pack**
+**5. High Yield [Canon PG-240XL CL-241XL Value Pack](https://www.usa.canon.com/shop/p/pg-240-xl-cl-241-xl-value-pack?color=Colour&type=Kit)**
 
 **Price:** $58.98
 
