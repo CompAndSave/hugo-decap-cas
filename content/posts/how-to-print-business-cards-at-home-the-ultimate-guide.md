@@ -240,3 +240,21 @@ Both kinds of printers can print DIY business cards at home, but using an inkjet
 location. It's nice to have if you want the printer to start printing when you're away from home, so you don't have to sit down and wait for prints to come out. You can also directly print from your mobile devices with ease.
 
 ***TIP:** Make sure to test the printer before printing your cards to ensure it is exactly the one you need for your DIY business card making. With a little bit of effort, printing business cards at home can be a breeze!*
+
+## What are the Best Business Card Printers for Home?
+
+If you don't own a business card printer and want to start printing your own, you can try exploring our list of the best printers for business cards. The printers on our list are all compatible with cardstock paper. Below, you'll find more information that will help you choose the right printer, like how fast it prints, how it connects, and how much ink it needs.
+
+### 1. [Canon Pixma iX6820](https://www.compandsave.com/canon/pixma/ix6820-ink-cartridges)
+
+[![Canon Pixma iX6820](/blog/images/screenshot-2024-07-02-at-12.38.02 am.png "Canon Pixma iX6820")](/blog/images/screenshot-2024-07-02-at-12.38.02 am.png)
+
+The Canon PIXMA iX6820 is an excellent home photo printer. This printer is suitable for both families and students. It comes with a large input tray for a wide range of paper sizes. You can achieve low-cost printing but with great photo quality as well. The perfect printer if you aim to use graphics when printing business cards at home.
+
+* **Print speed:** 8 pages per minute
+* **Paper sizes:** Letter (8.5" x 11"), Legal (8.5" x 14"), Tabloid (11" x 17"), A5 (148mm x 210mm), A4 (210mm x 297mm), Photo (4" x 6"), Photo (5" x 7"),
+* **Connectivity:** Ethernet, USB Input To Computer, Wi-Fi via Router Apple AirPrint
+* **Pros:** Great photo quality, Good color accuracy, Low-cost per print
+* **Cons:** Wide frame, Limited connectivity options
+* **Best Value Printer Ink:** [Compatible High-Yield Canon 250XL and 251XL Ink Cartridges in pigment black, black, cyan, magenta, and yellow.](https://www.compandsave.com/canon/250-251-xl-ink-cartridges)
+* **Cost per page:** 0.31 cents
