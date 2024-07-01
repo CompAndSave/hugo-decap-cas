@@ -31,22 +31,36 @@ To stop HP printer from updating automatically, kindly read and follow the instr
 
 ## For Printers with Touchscreen Control Panel
 
-**Procedure 1: From Printer's Control Panel**
+### **Procedure 1: From Printer's Control Panel**
 
 1. Select **"Setup"** icon on your printer's control panel. From the list of options, choose **"Tools".**
 
 [![envy 5000 series](/blog/images/screenshot-2024-07-01-at-11.40.55 pm.png "envy 5000 series")](/blog/images/screenshot-2024-07-01-at-11.40.55 pm.png)
 
-2. Next, select "Update the Printer" on Tools display, and then choose "Printer Update Options".
+2. Next, select "**Update the Printer**" on Tools display, and then choose "**Printer Update Options**".
 
 [![Printer's Control Panel](/blog/images/screenshot-2024-07-01-at-11.41.41 pm.png "Update the Printer")](/blog/images/screenshot-2024-07-01-at-11.41.41 pm.png)
 
-3. Lastly, choose "Do Not Check" from the "Printer Update Options" display.
+3. Lastly, choose "**Do Not Check**" from the "**Printer Update Options**" display.
 
 [![Printer's Control Panel](/blog/images/screenshot-2024-07-01-at-11.43.01 pm.png "Do Not Check")](/blog/images/screenshot-2024-07-01-at-11.43.01 pm.png)
 
-Procedure 2: From Printer Homepage via Browser
+### Procedure 2: From Printer Homepage via Browser
 
 This method will work on HP network-capable printers and Wi-Fi Direct Printers. To access the printer homepage, you would first need to obtain the printer IP address, and enter it to a web browser address bar. IP address is the unique identification number assigned to the printer, depending on the network.
 
-While your printer is connected to the network, select "Setup" icon from your printer's control panel. From the list of options, choose "Network Setup". You should be able to see your printer's IP address on the top of the display screen.
+1. While your printer is connected to the network, select "**Setup**" icon from your printer's control panel. From the list of options, choose "**Network Setup**". You should be able to see your printer's IP address on the top of the display screen.
+
+**NOTE:** The IP address is unique for every printer depending on your network. The address shown on the photo below is for sample purposes only.
+
+[![Printer Homepage](/blog/images/screenshot-2024-07-01-at-11.45.41 pm.png "Printer Homepage")](/blog/images/screenshot-2024-07-01-at-11.45.41 pm.png)
+
+2. Enter your printer's IP address on your web browser address bar (web address bar is where a website's link is usually located). You should be able to see your printer homepage once it's loaded.
+
+[![printer's IP address](/blog/images/screenshot-2024-07-01-at-11.47.12 pm.png "printer's IP address")](/blog/images/screenshot-2024-07-01-at-11.47.12 pm.png)
+
+3. Click on the "Printer Update" option from the home dashboard.
+
+[![Printer Update](/blog/images/screenshot-2024-07-01-at-11.47.58 pm.png "home dashboard")](/blog/images/screenshot-2024-07-01-at-11.47.58 pm.png)
+
+4. Next, you want to make sure that the checkbox for "Install updates automatically (recommended)" on the “Printer Update Options” section is unchecked. This will disable the auto firmware update feature on your printer. Once you're done, click the "Apply" button to save the settings.
