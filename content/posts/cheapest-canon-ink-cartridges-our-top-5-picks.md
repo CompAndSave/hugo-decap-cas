@@ -206,13 +206,15 @@ Pigment ink for black PGI-280 and dye-based for the CLI-281 combo
 
 $0.063 for black pigment, $0.0065 for regular black, $0.036 for cyan, $0.040 for magenta, $0.018 for photo blue and $0.036 for yellow.
 
-Best For:
+**Best For:**
 
 Home office, black and white text documents, and business documents.
 
-2. High Yield Canon PG-245XL Black, CL-246XL (CMY) Color Ink
 
-Price: $56.99
+
+2. **High Yield[ Canon PG-245XL Black, CL-246XL (CMY) Color Ink](https://www.usa.canon.com/shop/p/pg-245-cl-246-xl-combo?color=Black&type=Kit)**
+
+**Price:** $56.99
 
 Ink Type: Pigment-based for black, dye-based for color
 
