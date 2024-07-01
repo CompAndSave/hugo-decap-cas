@@ -105,7 +105,7 @@ Reflect on how often you print—daily, weekly, or monthly. If your printing is 
 
 
 
-### So, What are the Top 5 Cheap Ink for Canon Printer?
+## So, What are the Top 5 Cheap Ink for Canon Printer?
 
 At this point, you might already know which type of cheap ink for Canon printers is the right fit for your printing needs. Now, let's move forward and talk about the five most affordable ink cartridges based on your printing needs.
 
@@ -113,30 +113,72 @@ At this point, you might already know which type of cheap ink for Canon printers
 
 [![price disclaimer](/blog/images/6.png "price disclaimer")](/blog/images/6.png)
 
-
-
 ### Standard: Top 5 Cheapest Canon Printer Ink
 
 **1. [Canon PG-245 Black, CL-246 Tri-Color Ink Cartridge](https://www.usa.canon.com/shop/p/pg-245-cl-246-value-pack?color=Black&type=Kit)**
 
-Price: $42.98
+**Price:** $42.98
 
-Ink Type: Pigment-based black and dye-based tricolor
+**Ink Type:** Pigment-based black and dye-based tricolor
 
-Page Yield: 180 pages black and 180 pages tricolor
+**Page Yield:** 180 pages black and 180 pages tricolor
 
-Cost per Page: $0.119
+**Cost per Page:** $0.119
 
-Best for: Home use, black and white documents, color documents, or photos.
+**Best for:** Home use, black and white documents, color documents, or photos.
+
+
 
 **2. [Canon PG-240 Black, CL-241 Tri-Color Ink Cartridge](https://www.usa.canon.com/shop/p/pg-240-black-ink-cartridge?color=Black&type=New)**
 
-Price: $19.99 (black), $25.99 (tri-color)
+**Price:** $19.99 (black), $25.99 (tri-color)
 
-Ink Type: Pigment for black and dye-based for tri-color
+**Ink Type:** Pigment for black and dye-based for tri-color
 
-Page Yield: 180 pages for black and 180 pages for tri-color
+**Page Yield:** 180 pages for black and 180 pages for tri-color
 
-Cost per Page: $0.11 for black and $0.144 for tri-color
+**Cost per Page:** $0.11 for black and $0.144 for tri-color
 
-Best for: Home and home-office use for black and white documents, color documents, and photos.
+**Best for:** Home and home-office use for black and white documents, color documents, and photos.
+
+
+
+3. [Canon PG-40/CL-41 Combo Ink Pack](https://www.usa.canon.com/shop/p/pg-40-cl-41-combo-ink-pack-with-photo-paper-glossy-50-sheets-4-x6?color=Black&type=Kit)
+
+**Price:** $57.98
+
+**Ink Type:** Pigment for black and dye-based for tri-color
+
+**Page Yield:** 329 pages for black and 312 pages for tri-color
+
+**Cost per Page:** $0.09
+
+**Best for:** Home and home-office use for black and white documents, color documents and photos.
+
+
+
+4. [Canon PG-275 Black, CL-276 Tri-Color Ink Cartridge](https://www.usa.canon.com/shop/p/pg-275-cl-276-value-pack?color=Black&type=Kit)
+
+**Price:** $29.99
+
+**Ink Type:** Pigment for black and dye-based for tri-color
+
+**Page Yield:** 180 pages for black and 180 pages for tri-color
+
+**Cost per Page:** $0.083
+
+**Best For:** Home and home-office use for black and white documents, color documents and photos
+
+
+
+5. [Canon PG-260 Black & CL-261 Tri-color Ink Cartridge](<Canon PG-260 Black & CL-261 Tri-color Ink Cartridge>)
+
+**Price:** $39.99
+
+**Ink Type:** Pigment for black and dye-based for tri-color
+
+**Page Yield:** 180 pages for black and 180 pages for tri-color
+
+**Cost per Page:** $0.11
+
+**Best For:** Home and home-office use for black and white documents, color documents and photos.
