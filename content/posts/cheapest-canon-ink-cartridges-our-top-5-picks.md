@@ -74,11 +74,9 @@ Now, let's figure out the cost per page using this formula:
 
 Let's use standard HP 60 black ink, for example, to see the cost per page difference between this standard yield and its higher yield counterpart HP 60XL black ink cartridge:
 
-**Ink Cartridge Type	Page Yield	OEM Price	Cost per Page**
+[![ink cartridge type](/blog/images/5.png "ink cartridge type")](/blog/images/5.png)
 
-HP 60 Black (Standard)	Up to 200	$24.99	$0.125
 
-HP 60XL Black (High-Yield)	Up to 600	$51.99	$0.08665
 
 
 
@@ -111,7 +109,11 @@ Reflect on how often you print—daily, weekly, or monthly. If your printing is 
 
 At this point, you might already know which type of cheap ink for Canon printers is the right fit for your printing needs. Now, let's move forward and talk about the five most affordable ink cartridges based on your printing needs.
 
-Price Disclaimer: Please note that prices for original Canon ink may change over time.
+
+
+[![price disclaimer](/blog/images/6.png "price disclaimer")](/blog/images/6.png)
+
+
 
 ### Standard: Top 5 Cheapest Canon Printer Ink
 
