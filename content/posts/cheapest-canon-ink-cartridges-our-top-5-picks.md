@@ -259,3 +259,29 @@ These ink cartridges come in a wide range of options, including [remanufactured]
 Finding cartridges for older printer models can be challenging at brand stores. Fortunately, many third-party ink suppliers offer cartridges that are no longer available elsewhere, ensuring you can continue using your trusted printer.
 
 [![note](/blog/images/1.png "note")](/blog/images/1.png)
+
+
+
+## Cheapest Canon Ink Cartridges: OEM vs. CompAndSave Price
+
+### High-Yield Ink Cartridges:
+
+
+
+1. **Canon PGI-280XXL Black Pigment, Canon CLI-281XXL (CMYK) Extra High-Yield Ink Cartridges**
+
+   [![oem](/blog/images/2.png "oem")](/blog/images/2.png)
+2. **Canon PG-245XL Black, CL-246XL Color High-Yield Ink Cartridge**
+
+
+3. **Canon PGI-250XL Pigment Black Ink, CLI-251BK XL High-Yield color Cartridges**
+
+
+4. **Canon PG-260 XL / CLI-261 XL Value Pack**
+
+
+5. **Canon PG-240 XL / CL-241 XL Value Pack**
+
+
+
+For us to easily check the price difference, let's compare the OEM price versus CompAndSave price side by side.
