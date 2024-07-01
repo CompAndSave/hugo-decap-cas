@@ -206,3 +206,51 @@ Now that you have the design ready, it's time to bring it to life with some prin
 Pay attention to the design and how everything, including colors, text, graphics, and other elements, appears in relation to the card's dimensions. Also, proofread the card for any typos or mistakes to fix before printing the first batch.
 
 ***TIP:**Use ordinary paper when doing test prints. This way, you can see what needs to be improved on your custom business cards without wasting your cardstock.*
+
+## Business Card Printer Buying Guide
+
+If you're planning on printing your business cards at home, it's important to do some research and purchase the right printer for the task. There are a few key things to consider when purchasing a business card printer:
+
+Compatibility
+
+Most printers are made to handle standard paper, which is 80 gsm. On the other hand, business cards have a heavier weight, ranging between 200 and 340 GSM. So make sure to buy a compatible printer.
+
+
+
+Print quality
+
+To get high-quality prints, ensure your printer is capable of producing at least 300 dpi resolution.
+
+
+
+Print speed
+
+Most printers can print business cards quickly; however, if you go for a higher DPI like 300-600, it will take some time to print. So if the printer is faster, the less time you'll have to spend waiting for prints.
+
+
+
+Paper type
+
+Most business card paper has a synthetic coating that helps cut down on glare and keeps the colors on the card true. Some printers are not compatible with this type of paper, so be sure to choose one that is before buying.
+
+
+
+Size
+
+Since you're going to print business cards at home, you need a smaller printer than those giants in the commercial printing business.
+
+
+
+Laser or Inkjet
+
+Both kinds of printers can print DIY business cards at home, but using an inkjet is more convenient. Inkjets are great for printing in colors, graphics, and on a wide variety of paper sizes. Laser printers can sometimes curl the card due to heat. So you will have to place cards under some heavy objects like books to straighten them out. Determine whether an inkjet or laser is the best printer for your project.
+
+
+
+Connectivity:
+
+location. It's nice to have if you want the printer to start printing when you're away from home, so you don't have to sit down and wait for prints to come out. You can also directly print from your mobile devices with ease.
+
+
+
+TIP:Make sure to test the printer before printing your cards to ensure it is exactly the one you need for your DIY business card making. With a little bit of effort, printing business cards at home can be a breeze!
