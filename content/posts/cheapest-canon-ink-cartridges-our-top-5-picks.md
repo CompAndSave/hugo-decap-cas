@@ -256,13 +256,25 @@ Finding cartridges for older printer models can be challenging at brand stores. 
 
 **2. Canon PG-245XL Black, CL-246XL Color High-Yield Ink Cartridge**
 
-
+* **OEM PRICE: [$56.99](https://www.usa.canon.com/shop/p/pg-245-cl-246-xl-combo?color=Black&type=Kit)**	
+* **COMPANDSAVE PRICE: $39.90**
 
 **3. Canon PGI-250XL Pigment Black Ink, CLI-251BK XL High-Yield color Cartridges**
 
+* **OEM PRICE: [$27.99 for Black Pigment](https://www.usa.canon.com/shop/p/pgi-250-pgbk-xl-black-ink-tank?color=Black&type=New) +[ $21.99 each of the 5 Colors ($109.99 total)](https://www.usa.canon.com/shop/p/cli-251-xl-ink-tank?color=Black&type=New)**
+* **COMPANDSAVE PRICE:[ $28.50 for the whole set of 6](https://www.compandsave.com/canon/250-251-xl-ink-cartridges/pgi-250xl-cli-251xl-6-combo)**
+
 **4. Canon PG-260 XL / CLI-261 XL Value Pack**
 
+**OEM PRICE: [$58.99](https://www.usa.canon.com/shop/p/pg-260-xl-cli-261-xl-value-pack?color=Black&type=Kit)**
+
+**COMPANDSAVE PRICE: $44.98**
+
 **5. Canon PG-240 XL / CL-241 XL Value Pack**
+
+**OEM PRICE: $58.98**
+
+**COMPANDSAVE PRICE: $43.98**
 
 For us to easily check the price difference, let's compare the OEM price versus CompAndSave price side by side.
 
