@@ -151,7 +151,101 @@ CompAndSave manufactures high-quality compatible inks and printer toner cartridg
 
 Another great option that does not only save you money but is environmentally friendly as well is refilling your ink cartridges. This is not applicable for toners. You can check our [refill ink/bulk ink](<refill ink/bulk ink>) products. First, you need to make sure if it is compatible with your printer. It is simply refilling your ink. The kit already includes all the necessary items for refilling, such as needles, screwdriver, and drill tool, among others. For an easier refilling process, you can follow our [universal ink refill kit guide](https://www.compandsave.com/assets/instruction_ink_refill_kit_for_inkjet_printer.pdf)
 
-[![](/blog/images/10.png)](/blog/images/10.png)
+[![printer ink refill kit](/blog/images/10.png "printer ink refill kit")](/blog/images/10.png)
+
+## Price
+
+### Why is ink expensive?
+
+Major brands mostly get their profit by selling printer inks at a higher cost. The printer may not be that expensive, but since they require you to purchase their OEM inks, you may need to spend more if you prefer genuine inks.
+
+
+
+### Why are remanufactured and compatible inks cheaper?
+
+Remanufactured inks use recycled cartridges. This makes the ink and toner cartridges less expensive but with the same quality. Compatible inks have new cartridges manufactured by a third-party company. It is similar to buying generic products rather than the branded ones. The third-party manufacturer does not have to keep up with the costs of processing as major brands do.
+
+
+
+### How much money will I save by buying a compatible or remanufactured cartridge?
+
+Typically buying a compatible or remanufactured cartridge saves you about 50-75% over the cost of a new OEM cartridge. This usually amounts to $15-$30 every time you use our product. Check out the savings for your printer. Make sure to explore different quantities to find the price break that suits you best. You can check our [top 5 best cheap printer ink cartridges](https://www.compandsave.com/top-5-best-cheap-printer-ink-cartridges) in 2021 to have a concrete idea of how much you can save.
+
+## Quality
+
+### Will I get the same quality printing with a compatible or remanufactured cartridge?
+
+We guarantee you will get the same quality printing with our kinds of ink. Many of our best customers are graphic designers and photographers who demand the highest quality printing and the strictest color matching.
+
+
+
+Not only that, our factory is ISO-9001 Certified. ISO-9000 is a set of five universal standards for a Quality Assurance System that is accepted around the world. Currently, 90 countries have adopted ISO-9000 as national standards. When you purchase a product or service from a company that is registered to the appropriate ISO-9000 standard, you have important assurances that the quality of what you receive will be as you expect.
+
+
+
+The most comprehensive of the standards is ISO-9001. This means you can expect only the highest and the most consistent level of Quality for our printer inks!
+
+
+
+### Will using a compatible or remanufactured cartridge void my warranty?
+
+No, using a compatible or remanufactured cartridge WILL NOT VOID YOUR WARRANTY. Major printer manufacturers sell printers at or below cost. They make their profits from selling the cartridges. Formerly, once you bought your expensive new printer, you had no choice but to buy one of their cartridges after yours ran dry. By using compatible inks, you are cutting into their primary source of profit. Because of this, they will threaten to void your warranty if you use compatible or remanufactured cartridges. They are simply trying to protect their interests in any way they can. It is, however, strictly ILLEGAL for them to do so. Using remanufactured or compatible cartridges do not void your warranty MAGNUSON-MOSS WARRANTY IMPROVEMENT ACT, United States Code Annotated Title 15 Commerce Trade Chapter 50, Consumer Product Warranties 15 Sections 2302.
+
+
+
+There is no reason that you should not use compatible inks or remanufactured cartridges. They work and will save your money. We have sold many cartridges and never had an incident where a customer's warranty was "voided" from using our products.
+
+
+
+### How easy is the compatible or remanufactured cartridge to install?
+
+Each cartridge is installed the same way that you would install the original OEM cartridge. They are individually wrapped in foil or plastic bags and have the tab on (which you remove when installing the cartridge - just like the original OEM cartridge.) We recommend that you use the head cleaning or nozzle cleaning utility that comes with your printer to clean the printheads (you should do this EVERY time you replace any cartridge - OEM or Compatible). Go to Control Panel - Printers - Properties - Utility.
+
+
+
+### How much money will I save by buying a compatible or remanufactured cartridge?
+
+Each cartridge is installed the same way that you would install the original OEM cartridge. They are individually wrapped in foil or plastic bags and have the tab on (which you remove when installing the cartridge - just like the original OEM cartridge.) We recommend that you use the head cleaning or nozzle cleaning utility that comes with your printer to clean the printheads (you should do this EVERY time you replace any cartridge - OEM or Compatible). Go to Control Panel - Printers - Properties - Utility.
+
+### How long will they last on the shelf?
+
+Our cartridges are fresh from the factory every month and have a tested shelf life of at least 20 months.
+
+
+
+### Is this cartridge name-brand or generic?
+
+Our complete line of printing products includes both name-brand (OEM) and generic cartridges and toners.
+
+
+
+OEM cartridges and toners come with the quality and reliability you have come to expect from the manufacturers of these products.
+
+
+
+We only offer the highest quality generic brands of cartridges and toners and guarantee that they perform with the same quality as the OEM's while costing just a fraction of the price. If for any reason you are unhappy with any of the products you received, please contact our customer service center for a refund.
+
+
+
+### Why should I buy a compatible or remanufactured cartridge?
+
+When you buy compatible or remanufactured cartridges, you do not just save money, but you also help save the environment. You can read about how our [environmentally friendly ink cartridges](https://www.compandsave.com/environmentally-friendly-ink-cartridges) help save the planet.
+
+What to do with old ink cartridges/toner cartridges?
+
+CompAndSave [does not accept empty cartridges for credit](https://www.compandsave.com/help/articles/360045542232/do-you-accept-empty-cartridges-for-a-credit), but you still have many options on what to do with them. You can go to your local office supply stores such as Staples and Office Depot. They will give you credit for qualified original cartridges that can be recycled.
+
+
+
+To know more about recycling old cartridges per brand, check our [recycling guide](https://www.compandsave.com/recycling-guide) for basic information. Major printer brands are now accepting old ink and toner cartridges. Schools and offices in your area may also accept empty cartridges for recycling.
+
+
+
+Another great option is to refill the empty cartridges by yourself. Check our [refill kit](https://www.compandsave.com/ink-refill-bulk-ink) that comes with all the tools you need for the refilling process.
+
+
+
+CompAndSave is committed to helping you get the best options for high-quality printing at a much affordable price. You can control your printing costs depending on what kind of ink you will use. Our friendly customer service staff is also committed to providing you with the information you need. You may contact our toll-free no. 1-833-465-6888 from Mondays to Fridays, 6am-4pm PT if you have further inquiries. We are always ready to help!
 
 
 
