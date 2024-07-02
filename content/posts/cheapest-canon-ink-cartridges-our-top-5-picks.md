@@ -34,7 +34,7 @@ When it comes to picking the right Canon printer ink that doesn't drain your wal
 
 When finding the cheapest Canon ink cartridges, understanding the various ink cartridge options available is crucial in making the best decision. The two main ink cartridges that Canon offers are standard and high-yield cartridges.
 
-* **Standard Ink Cartridges:**
+* **Standard Ink Cartridges**
 
 These ink cartridges tend to be the cheaper option upfront but may not be the best fit for heavy users. For example, a standard ink cartridge might be the ideal choice if your household has a printer primarily used to print out school assignments.
 
@@ -48,7 +48,7 @@ Despite a slightly higher initial cost, they offer a better cost-per-page ratio,
 
 To find out if the ink cartridge is truly cheap based on your printing needs, you need to learn how [to calculate the ink cartridge's cost per page.](https://www.compandsave.com/how-to-calculate-printing-cost-per-page) Understanding the cost per page is essential for efficient print expense management. It enables you to gauge the actual cost of each printed page, considering both the cartridge price and page yield. This knowledge empowers you to make cost-effective ink choices aligned with your budget and printing frequency.
 
-Here's what you need to consider:
+**Here's what you need to consider:**
 
 * **Cost:** The cost of the ink cartridge is the upfront price you pay to purchase it. Depending on your printing needs, you might opt for the lower upfront cost if you don't print frequently, or you may prefer to invest in a cartridge with a slightly higher initial cost for long-term savings if you print often.
 * **Page Yield:** This tells you how many pages an ink cartridge can print before you need a new one. While cartridges with higher page yields cost a bit more upfront, they're a better deal for businesses overall because they print more pages before running out. If you don't print a lot, standard ink cartridges will be the best choice for you.
@@ -59,7 +59,7 @@ Now, let's figure out the cost per page using this formula:
 
 Let's use standard HP 60 black ink, for example, to see the cost per page difference between this standard yield and its higher yield counterpart HP 60XL black ink cartridge:
 
-[![ink cartridge type](/blog/images/5.png "ink cartridge type")](/blog/images/5.png)
+[![ink cartridge type](/blog/images/screenshot-2024-07-02-at-1.36.19 pm.png "ink cartridge type")](/blog/images/screenshot-2024-07-02-at-1.36.19 pm.png)
 
 ### 3. Choosing the Most Cost-Effective Ink for Your Needs
 
@@ -85,7 +85,7 @@ Think about how you use your printer and what aligns with your budget. As you po
 
 At this point, you might already know which type of cheap ink for Canon printers is the right fit for your printing needs. Now, let's move forward and talk about the five most affordable ink cartridges based on your printing needs.
 
-[![price disclaimer](/blog/images/6.png "price disclaimer")](/blog/images/6.png)
+***Price Disclaimer:** Please note that prices for original Canon ink may change over time.*
 
 ### Standard: Top 5 Cheapest Canon Printer Ink
 
@@ -113,7 +113,7 @@ At this point, you might already know which type of cheap ink for Canon printers
 
 **Best for:** Home and home-office use for black and white documents, color documents, and photos.
 
-3. [Canon PG-40/CL-41 Combo Ink Pack](https://www.usa.canon.com/shop/p/pg-40-cl-41-combo-ink-pack-with-photo-paper-glossy-50-sheets-4-x6?color=Black&type=Kit)
+**3. [Canon PG-40/CL-41 Combo Ink Pack](https://www.usa.canon.com/shop/p/pg-40-cl-41-combo-ink-pack-with-photo-paper-glossy-50-sheets-4-x6?color=Black&type=Kit)**
 
 **Price:** $57.98
 
@@ -125,7 +125,7 @@ At this point, you might already know which type of cheap ink for Canon printers
 
 **Best for:** Home and home-office use for black and white documents, color documents and photos.
 
-4. [Canon PG-275 Black, CL-276 Tri-Color Ink Cartridge](https://www.usa.canon.com/shop/p/pg-275-cl-276-value-pack?color=Black&type=Kit)
+**4. [Canon PG-275 Black, CL-276 Tri-Color Ink Cartridge](https://www.usa.canon.com/shop/p/pg-275-cl-276-value-pack?color=Black&type=Kit)**
 
 **Price:** $29.99
 
@@ -137,7 +137,7 @@ At this point, you might already know which type of cheap ink for Canon printers
 
 **Best For:** Home and home-office use for black and white documents, color documents and photos
 
-5. [Canon PG-260 Black & CL-261 Tri-color Ink Cartridge](<Canon PG-260 Black & CL-261 Tri-color Ink Cartridge>)
+**5. [Canon PG-260 Black & CL-261 Tri-color Ink Cartridge](<Canon PG-260 Black & CL-261 Tri-color Ink Cartridge>)**
 
 **Price:** $39.99
 
@@ -153,25 +153,15 @@ At this point, you might already know which type of cheap ink for Canon printers
 
 **1. Extra High-Yield [Canon PGI-280XXL Black, CLI-281XXL (CMYK) Ink](https://www.usa.canon.com/shop/p/cli-281-xxl-dye-based-individual-ink-tank?color=Black&type=New)**
 
-**Price:**
+**Price:** $37.99 for black and $30 for each color
 
-$37.99 for black and $30 for each color
+**Ink Type:** Pigment ink for black PGI-280 and dye-based for the CLI-281 combo
 
-**Ink Type:**
+**Page Yield:** 600 pages for black pigment, 4,590 pages (regular black), 830 pages (cyan), 747 pages (magenta), 1,660 pages (photo blue), 830 pages (yellow)
 
-Pigment ink for black PGI-280 and dye-based for the CLI-281 combo
+**Cost per Page:** $0.063 for black pigment, $0.0065 for regular black, $0.036 for cyan, $0.040 for magenta, $0.018 for photo blue and $0.036 for yellow.
 
-**Page Yield:**
-
-600 pages for black pigment, 4,590 pages (regular black), 830 pages (cyan), 747 pages (magenta), 1,660 pages (photo blue), 830 pages (yellow)
-
-**Cost per Page:**
-
-$0.063 for black pigment, $0.0065 for regular black, $0.036 for cyan, $0.040 for magenta, $0.018 for photo blue and $0.036 for yellow.
-
-**Best For:**
-
-Home office, black and white text documents, and business documents.
+**Best For:** Home office, black and white text documents, and business documents.
 
 **2. High Yield [Canon PG-245XL Black, CL-246XL (CMY) Color Ink](https://www.usa.canon.com/shop/p/pg-245-cl-246-xl-combo?color=Black&type=Kit)**
 
