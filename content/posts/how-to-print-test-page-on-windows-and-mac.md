@@ -82,3 +82,7 @@ Now, let's talk about how to test print. The process varies slightly depending o
 **Step 1:** Click on the **'Windows'** icon and select **'Settings.'**
 
 **Step 2:** On the search bar, type **“printer”** and then click **'Printers & scanners.'**
+
+[![windows settings](/blog/images/windows-settings.png "windows settings")](/blog/images/windows-settings.png)
+
+**Step 3:** Next, click on the printer you want to print a test page and click **'Manage.'**
