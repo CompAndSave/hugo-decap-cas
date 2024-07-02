@@ -241,15 +241,16 @@ Finding cartridges for older printer models can be challenging at brand stores. 
 
 ***NOTE:** It's important to note that the quality and performance of third-party ink cartridges can vary depending on the supplier, so it's advisable to research and choose a reputable third-party ink supplier to ensure a satisfactory printing experience.*
 
-[![note](/blog/images/1.png "note")](/blog/images/1.png)
-
 ## Cheapest Canon Ink Cartridges: OEM vs. CompAndSave Price
 
 ### High-Yield Ink Cartridges:
 
 **1. Canon PGI-280XXL Black Pigment, Canon CLI-281XXL (CMYK) Extra High-Yield Ink Cartridges**
 
-[![oem price](/blog/images/2.png "oem price")](/blog/images/2.png)
+* **OEM PRICE:** [$37.99 for Black Pigment](https://www.usa.canon.com/shop/p/pgi-280-xxl-pigment-black-individual-ink-tank?color=Pigment%20Black&type=New) + [$30 each of the 5 Colors ($150 total)](https://www.usa.canon.com/shop/p/cli-281-xxl-dye-based-individual-ink-tank?color=Black&type=New)
+* **COMPANDSAVE PRICE:** [$59.99 for the whole set of 6](https://www.compandsave.com/canon/280-281-xxl-ink-cartridges/pgi-280xxl-cli-281xxl-6-combo)
+
+  [](https://www.compandsave.com/canon/280-281-xxl-ink-cartridges/pgi-280xxl-cli-281xxl-6-combo)[](https://www.compandsave.com/canon/280-281-xxl-ink-cartridges/pgi-280xxl-cli-281xxl-6-combo)
 
 **2. Canon PG-245XL Black, CL-246XL Color High-Yield Ink Cartridge**
 
