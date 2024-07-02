@@ -258,3 +258,51 @@ If you're wondering, "Why is my printer offline?" it's possible that your printe
 **Step 6:** Close the Printer Options window.
 
 **Step 7:** Restart your Mac for the changes to take effect.
+
+### 2. Print Queue Issues
+
+If your printer says offline but is connected, there might be issues with the print queue. You can try two fixes: clearing the stuck print job or resetting the printing queue manager. Here are the steps to do it:
+
+#### **A. Stuck Print Jobs**
+
+\- Stuck print jobs can cause a printer to go offline by creating a traffic jam in the print queue. Clearing these jobs resolves the issue and restores regular printing. Here are the steps to fix it in Windows or Mac.
+
+**For WINDOWS**
+
+**Step 1:** Go to the Windows search bar, type **"printer,"** and select **"Printer & scanners"** from the results.
+
+**Step 2:** Choose your printer from the list and click on it. Then, select **"Open print queue."**
+
+**Step 3:** Look for the documents listed in the print queue window. Select each document, click **"Document,"** and choose **"Cancel"** to remove them from the queue.
+
+**For MAC**
+
+**Step 1**: Click on Apple Menu > **System Settings** > **Printers and scanners**.
+
+**Step 2:** Select the active printer from the list and click the **"Open Print Queue"** button.
+
+**Step 3:** Once the print queue appears, choose the print job you want to cancel and click the **close button (X)** next to it.
+
+**Step 4:** To clear the printer queue, press **"Command + A"** to select all print jobs and then **"Command + delete"** to cancel them. Another way is to click **"Printer"** in the menu bar and choose **"Cancel All Documents."**
+
+#### **B. Printing Queue Manager Needs Resetting**
+
+\- Windows and Mac have a service that manages the printing queue that may encounter errors or become unresponsive. This can lead to a backlog of print jobs and prevent new jobs from being processed, causing printer offline issues. Clearing or resetting the printing system can help fix this.
+
+**For WINDOWS**
+
+**Step 1:** Go to Windows' search taskbar and type **"services."** From the list of search results, select **"Services."**
+
+**Step 2:** Scroll down to the **Print Spooler** service, click it to see the **Restart service** options, or right-click **“Print Spooler”** to see the **Restart** option. Either way, choose **Restart**.
+
+**For MAC**
+
+**Step 1:** Click on Apple Menu > **System Settings** > **Printers & Scanners** (scroll down if needed).
+
+**Step 2:** Control-click on any space within the printer list area and select **"Reset printing system"** from the context menu that appears.
+
+**Step 3:** A confirmation pop-up will inform you that resetting the printing system will remove all printers. If you want to proceed, click on the **"Reset"** button.
+
+**Step 4:** Enter your administrator password if prompted and click the **"OK"** button.
+
+**Step 5:** Once you reset the printing system, add your printers again by clicking the **"+"** button in the **Printers & Scanners** window and following the on-screen instructions.
