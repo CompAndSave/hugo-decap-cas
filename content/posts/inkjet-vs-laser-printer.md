@@ -207,7 +207,7 @@ We only offer the highest quality generic brands of cartridges and toners and gu
 
 When you buy compatible or remanufactured cartridges, you do not just save money, but you also help save the environment. You can read about how our [environmentally friendly ink cartridges](https://www.compandsave.com/environmentally-friendly-ink-cartridges) help save the planet.
 
-What to do with old ink cartridges/toner cartridges?
+### What to do with old ink cartridges/toner cartridges?
 
 CompAndSave [does not accept empty cartridges for credit](https://www.compandsave.com/help/articles/360045542232/do-you-accept-empty-cartridges-for-a-credit), but you still have many options on what to do with them. You can go to your local office supply stores such as Staples and Office Depot. They will give you credit for qualified original cartridges that can be recycled.
 
