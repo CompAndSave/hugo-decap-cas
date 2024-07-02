@@ -116,8 +116,6 @@ Another common printing error is when files get stacked on top of each other, ca
 
 **A. Clear Print Queue**
 
-
-
 **For WINDOWS**
 
 **Step 1:** Go to the Control Panel.
@@ -127,8 +125,6 @@ Another common printing error is when files get stacked on top of each other, ca
 **Step 3:** Find your printer and open its print queue.
 
 **Step 4:** Clear all print jobs by selecting "Cancel All Documents."
-
-
 
 **For MAC**
 
@@ -140,8 +136,30 @@ Another common printing error is when files get stacked on top of each other, ca
 
 **Step 4:** Clear all print jobs by selecting "Cancel All Documents."
 
-
-
 **B. Restart Your Printer**
 
 Turn off your printer by pressing the power button. Wait for a few moments, then turn it back on. This helps to refresh the printer's system and resolve any issues causing the print queue overload.
+
+### 6. When Your Wi-Fi Printing Takes Too Long
+
+You may be experiencing printing errors only because your connection is unreliable. If your wired printing is functioning correctly, but your wireless printing is excessively slow, the issue may lie elsewhere.
+
+#### **How To Fix It?**
+
+* **Enhance Wi-Fi Signal:** The most obvious solution is to move your printer closer to the router or your internet device. You can also place a Wi-Fi extender or a wireless repeater to have better signal coverage throughout your house. 
+* **Check Router Bands:** For the best connection, you should also make sure your router has a 5GHz as well as a 2.4GHz band.
+* **Update Printer Driver:** There are times when you need to make sure that the driver software installed for your printer has all the latest updates. Visit your printer’s official website to download the latest printer driver.
+
+### 7. The New Ink/Toners Are Not Working
+
+Newly replaced ink or toner cartridges can sometimes cause printer issues. It's possible that the cartridge is faulty or there was an installation problem.
+
+#### **How To Fix It?**
+
+* **Test with Old Cartridge:** Try using your old cartridge instead of the new one to see if the printer works fine. If it does, then the issue might be with the new cartridge. You can then try reinstalling the new cartridge and see if the problem persists.
+* **Inspect Cartridge Installation:** Make sure to check your cartridge for any issues. Did you remove the protective seal before installing it? 
+* **Clear Toner Vent Path:** Ensure that the toner vent has no obstructions or foreign objects blocking its path.
+* **Inspect Printer Firmware Version:** Firmware updates are also intended to restrict third-party ink usage. If you've updated your printer's firmware, you might consider downgrading it (the downgrade option is available for specific printers only like HP and Epson).
+* **Printer Regional Coding:** Certain printers are designed to exclusively work with cartridges manufactured in the same region where the printer was purchased. If you move your printer to a different region and buy new cartridges, it's highly likely that the printer won't recognize those cartridges.
+
+If your printer ink is not recognized, check our guide on how to fix ink non-recognition issues to learn more about the reason and how to resolve it.
