@@ -63,7 +63,7 @@ Printer manufacturers implement strategies to lock their printers into using onl
 
 As we all know, firmware updates are usually intended to fix problems and improve a printer's performance, especially when it comes to addressing bugs and crashes. However, when you choose to use remanufactured or third-party ink cartridges, these updates take on a different role. In this case, these updates are designed to limit your ability to use non-OEM cartridges, effectively pushing you toward the more expensive ink options the manufacturer offers.
 
-To learn more, check [How to Downgrade HP Printer Firmware](https://www.compandsave.com/hp-printer-firmware-downgrade) or [Epson Printer Firmware Hack: Reset and Downgrade Tips](https://www.compandsave.com/epson-printer-firmware-reset-downgrade).
+To learn more, check [How to Downgrade HP Printer Firmware](https://www.compandsave.com/hp-printer-firmware-downgrade) or [Epson Printer Firmware Hack: Reset and Downgrade Tips](https://www.compandsave.com/epson-printer-firmware-reset-downgrade)
 
 ***Interesting Fact:***
 
