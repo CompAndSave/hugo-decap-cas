@@ -166,12 +166,39 @@ So let's discuss both:
 
 Once installed, it may ask you to select a folder in your phone's directory where it will store backups, so select one.
 
-Next, tap on **SMS**, then on Backup Conversations, and it may ask for permission to access contacts and messages. If you don't allow this, you won't be able to proceed further.
+Next, tap on **SMS**, then on **Backup Conversations**, and it may ask for permission to access contacts and messages. If you don't allow this, you won't be able to proceed further.
 
-If you accept permission, go to Backup Conversations, select (check) all the messages you want to print, and tap on Back Up at the bottom of the screen.
+If you accept permission, go to **Backup Conversations**, select (check) all the messages you want to print, and tap on **Back Up** at the bottom of the screen.
 
-It will ask you to select the file name. You can rename it or leave it as is. Click OK.
+It will ask you to select the file name. You can rename it or leave it as is. Click **OK**.
 
-Now go back and click on View Backups. Now tap on the file you just created.
+Now go back and click on **View Backups**. Now tap on the file you just created.
 
 It will open the messages you backed up. There will also be a print button in the top right corner. Tap on it, and then you can print the text normally like you print any document.
+
+### How to Print an Email from Android Phone?
+
+It's quite simple actually. Here's how to print an email from Android phone:
+
+
+
+1.  Go to your email account and open the email that you want to print.
+2.  Next, tap on the three vertical dots (⋮) located at the top right corner and you'll see a drop-down menu.
+3. Now tap on print, change print settings to your preferences and tap on the **Select Printer** button.
+4.  Select your printer and you're ready to print from Android.
+
+## Conclusion
+
+As you can see, there are plenty of ways to print from your Android phone through the internet. However, if you do not have an active internet connection or if the printer's Wi-Fi receiver does not work properly, there are other ways to print from your Android phone.
+
+
+
+For example, by using a USB cable and connecting your smartphone to the printer or Bluetooth to print directly.
+
+
+
+The gist is that there is a way for everyone to ensure their printing needs are met even if their computer is away or not working, thanks to smartphones and the tons of connectivity options we see in modern printers.
+
+
+
+Printing from an Android phone can be easy peasy with our guide. If you have more questions about printing and our products, talk to us at our toll-free number: 1-833-465-6888 from Mondays to Fridays from 6am-4pm PT. Our customer service representatives are ready to help.
