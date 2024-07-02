@@ -274,6 +274,8 @@ Finding cartridges for older printer models can be challenging at brand stores. 
 
 **4. Canon PG-260 XL / CLI-261 XL Value Pack**
 
+[![Canon PG-260 XL ](/blog/images/2.png "CLI-261 XL Value Pack")](/blog/images/2.png)
+
 
 
 For us to easily check the price difference, let's compare the OEM price versus CompAndSave price side by side.
