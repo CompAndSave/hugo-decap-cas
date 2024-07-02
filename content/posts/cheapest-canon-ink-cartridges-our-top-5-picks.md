@@ -217,7 +217,7 @@ Did you know that when it comes to getting the most out of your savings, there's
 
 These cartridges offer the same quality as original Canon cartridges but come at a fraction of the cost. If you're looking to reduce your printing expenses while enjoying the same print results, third-party ink cartridges are your perfect choice.
 
-#### **Benefits of Third-Party Ink: Quality, Savings, and Sustainability**
+### **Benefits of Third-Party Ink: Quality, Savings, and Sustainability**
 
 * **Cost Savings**
 
@@ -238,6 +238,8 @@ These ink cartridges come in a wide range of options, including [remanufactured]
 * **Access to Discontinued Cartridges**
 
 Finding cartridges for older printer models can be challenging at brand stores. Fortunately, many third-party ink suppliers offer cartridges that are no longer available elsewhere, ensuring you can continue using your trusted printer.
+
+***NOTE:** It's important to note that the quality and performance of third-party ink cartridges can vary depending on the supplier, so it's advisable to research and choose a reputable third-party ink supplier to ensure a satisfactory printing experience.*
 
 [![note](/blog/images/1.png "note")](/blog/images/1.png)
 
