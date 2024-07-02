@@ -159,7 +159,40 @@ Newly replaced ink or toner cartridges can sometimes cause printer issues. It's 
 * **Test with Old Cartridge:** Try using your old cartridge instead of the new one to see if the printer works fine. If it does, then the issue might be with the new cartridge. You can then try reinstalling the new cartridge and see if the problem persists.
 * **Inspect Cartridge Installation:** Make sure to check your cartridge for any issues. Did you remove the protective seal before installing it? 
 * **Clear Toner Vent Path:** Ensure that the toner vent has no obstructions or foreign objects blocking its path.
-* **Inspect Printer Firmware Version:** Firmware updates are also intended to restrict third-party ink usage. If you've updated your printer's firmware, you might consider downgrading it (the downgrade option is available for specific printers only like HP and Epson).
+* **Inspect Printer Firmware Version:** Firmware updates are also intended to restrict third-party ink usage. If you've updated your printer's firmware, you might consider downgrading it (the downgrade option is available for specific printers only like [HP](https://www.compandsave.com/hp-printer-firmware-downgrade) and [Epson](https://www.compandsave.com/epson-printer-firmware-reset-downgrade)).
 * **Printer Regional Coding:** Certain printers are designed to exclusively work with cartridges manufactured in the same region where the printer was purchased. If you move your printer to a different region and buy new cartridges, it's highly likely that the printer won't recognize those cartridges.
 
-If your printer ink is not recognized, check our guide on how to fix ink non-recognition issues to learn more about the reason and how to resolve it.
+If your printer ink is not recognized, check our guide on [how to fix ink non-recognition issues](https://www.compandsave.com/how-to-fix-ink-cartridge-not-recognized) to learn more about the reason and how to resolve it.
+
+### 8. My Printer Won't Scan
+
+If your printer can't scan, it might be because it's not connected properly to your computer, or there's something wrong with the scanner part of the printer. It could also be due to a corrupted scanner driver.
+
+#### **How To Fix It?**
+
+* **Restart Printer:** Try restarting your printer to see if it resolves the issue. 
+* **Check Driver Updates:** Update your scanner driver and make sure it is configured correctly. Alternatively, if the problem persists, you may need to reinstall the printing software package.
+* **Refer to the User Manual:** You may also want to read through the printer troubleshooting section in your printer manual to determine the cause of the problem.
+* **Consult a technician:** Once you've confirmed that there's no driver problem, get a technician to examine your MFP for hardware issues.
+
+### 9. Driver Not Recognized
+
+One of the more overlooked common printer problems and solutions is related to the driver not working properly. The printer driver is essentially the software that connects your printer to your computer. If it doesn't work right, your printer might be unable to print your documents or might print distorted copies.
+
+#### **How To Fix It?**
+
+* **Check Device Driver Version:** Ensure that your device has the correct driver installed. Visit the printer manufacturer's website, search for print drivers, and compare your model with the provided list. Check if it matches what you have installed.
+* **Update Driver:** Fixing this problem and getting your printer to work properly again is as easy as updating the driver. To do this, just uninstall your current printer driver and then install the latest version.
+
+### 10. Other General Problems
+
+Hardware issues often cause printers to not turn on or complete print jobs. If you can't find any specific problems or solutions for troubleshooting a malfunctioning printer, a quick check and simple fix might be all your device needs.
+
+#### **How To Fix It?**
+
+* **Inspect External Components:** You need to check if all the external components of your printers are working correctly. 
+* **Examine USB Lead:** It is possible your USB lead is quite worn out and needs replacement. 
+* **Paper Tray Inspection:** Make sure to also check the paper tray to see if it has been loaded correctly or if there is a paper jam. 
+* **Address Flashing Lights:** If you see flashing lights on your printer, it could signal device issues. Quick action is important to prevent further problems.
+
+If these steps don't resolve the issue, it's best to seek help from an expert rather than delay it to prevent further damage to your printer.
