@@ -57,7 +57,7 @@ Manufacturers claim this technique enhances the quality of black prints, but You
 
 The result? You might get fewer printed pages than advertised and have to replace your cartridges sooner than planned.
 
-**3. Tactics to Limit Ink Choices**
+### **3. Tactics to Limit Ink Choices**
 
 Printer manufacturers implement strategies to lock their printers into using only their ink cartridges. They employ tactics like frequent firmware updates to enforce this exclusivity.
 
@@ -70,7 +70,7 @@ To learn more, check [How to Downgrade HP Printer Firmware](https://www.compands
 * *In 2018, HP had to pay $1.5 million in a court settlement because their printer updates caused fake error messages when people used third-party ink cartridges.*
 * *In October 2019, Epson faced a class action lawsuit because their printer firmware updates blocked the use of compatible cartridges.*
 
-**4. Intentional Product Aging**
+### **4. Intentional Product Aging**
 
 Another concerning aspect of the printer ink scam is planned product aging. Below are some of them:
 
@@ -89,3 +89,75 @@ Another concerning aspect of the printer ink scam is planned product aging. Belo
 * *HP faced three class action lawsuits in 2010, involving issues like inkjet printers incorrectly indicating low ink levels, cyan ink being used when printing with black ink, and ink cartridges disabling due to false empty cartridge alerts. This legal battle ended up costing them $5 million in settlements.*
 * *Back in 2006, Epson found itself in a similar situation with a class action lawsuit. This time, it was about their inkjet printers and cartridges causing printer functions to halt due to incorrect "empty cartridge" notifications. Epson resolved the case by providing $45 e-coupons to people who had purchased their inkjet printers and cartridges between 1999 and 2006.*
 * *In 2017, several major companies, including Brother, Canon, Epson, and HP, faced allegations of Planned Obsolescence in France. This practice intentionally shortens the lifespan of both printers and ink cartridges, essentially pushing consumers to spend more on their products. While these companies received a relatively modest fine of €15,000, but it was considered a small victory in a long journey.*
+
+### **5. Ink Subscription Services: Value or Waste?**
+
+In the world of printers, a recent development is the rise of subscription-based ink services like the [HP Instant Ink](https://www.compandsave.com/what-is-hp-instant-ink-program).
+
+Here's how HP Instant Ink subscription works: you pay a monthly fee for a set number of pages. While it can be convenient for heavy printers, it might seem like you're spending on ink you don't need if you print infrequently. It's a fine line between assistance and quietly emptying your wallet.
+
+For instance, imagine subscribing to a $20-per-month service that covers 200 pages. If you regularly print close to or exceed this limit, it's a good deal. However, if you only print 50 pages monthly, you might be paying for unused ink, making it less cost-effective.
+
+What's surprising is that if you cancel your subscription, HP disables the cartridges, even if they're full. Some users liken this to needing HP's permission to use their own printer.
+
+### 6. Ink-Based Scanning
+
+The scanning feature on some printers may refuse to operate if ink levels are low or empty. Imagine needing to make copies of important documents, and your printer decides to take a break because it claims it's out of ink—even though you only want to scan. Louis Rossmann's video, '[HP sued over scanner that requires ink](https://www.youtube.com/watch?v=J_XiaMzzZUo)', talks about this.
+
+## Tips on How to Protect Yourself from Printer Ink Scams
+
+While there's no foolproof way to completely avoid printer manufacturers' ink cartridge sneaky tactics, you can take steps to maximize your printer's efficiency and save on ink costs. Here are some practical tips to reduce ink consumption and enhance your overall printing experience.
+
+### 1. Research Before Buying
+
+When looking for a printer, check how efficiently it uses ink during maintenance tasks, as this impacts your overall expenses.
+
+For example, compare the Brother MFC-J775DW XL and the Epson Expression Photo XP-8500, both priced at around $250. Consumer Reports found that the MFC-J775DW XL costs about $27 per year for ink, while the XP-8500 sets you back nearly $280 annually.
+
+Another option is ink tank printers like the Epson EcoTank series. These allow you to refill the ink tank when it's empty, saving you more money in the long run than replacing entire cartridges.
+
+### 2. Consider Laser Printers
+
+If you don't need high-quality photo prints, a laser printer is the best route to save money and avoid printer ink issues. Laser printers use dry toner instead of ink and don't require toner for maintenance, making them more cost-effective.
+
+### 3. Proper Printer Placement
+
+It's also essential to keep your printers in a cool, shaded location. Exposure to drier and hotter environments may increase the chance of clogged printheads. When this happens, you'll have no choice but to clean the printhead, which can lead to unnecessary ink usage.
+
+4. Manually Clean the Printhead
+
+Cleaning the printhead manually when you experience clogged printhead issues or dried ink cartridges helps you save a lot of ink. Follow the steps in our printhead cleaning guide for more information.
+
+5. Monitor Ink Usage
+
+Don't rely solely on the printer's indicator to determine when to replace cartridges. Physically check the cartridge itself to assess if it truly needs replacement.
+
+6. Subscription Considerations
+
+Before you commit to a subscription, take a moment to think about the downsides. These drawbacks aren't usually highlighted as much as the benefits. To get a better understanding, just check out what people are saying on the internet.
+
+To know more, check 'What is HP Instant Ink Program – Is It Worth It?' and 'What is HP+ Program? Everything You Need To Know'.
+
+7. Power Management
+
+Consider leaving your printer on when it's not in use to prevent automatic cleaning cycles, which can use ink unnecessarily and contribute to ink wastage.
+
+If you're concerned about the potential increase in your electricity bill, you can rest easy. According to Sulin, who leads CR's printer-testing program, modern inkjet printers consume very little power when idle.
+
+8. Disable Printer Firmware Update
+
+If you use third-party ink or intend to use non-OEM ink cartridges, make sure to disable printer firmware updates to continue using non-OEM cartridges without any issues.
+
+For HP printer users, you can check our How to Disable HP Cartridge Protection guide for a step-by-step instructions on how to disable automatic printer firmware updates.
+
+9. Consider Refilling Your Ink Cartridges
+
+Take advantage of ink cartridge refilling services offered by businesses like Costco or Walgreens.
+
+Alternatively, you can opt for a DIY approach by refilling them yourself. Just ensure you are refilling an original empty cartridge, using a refill kit from a trustworthy supplier, and that you have a clear manual on how to refill ink cartridges. This eco-friendly practice not only helps reduce waste but can also lead to significant savings compared to purchasing brand-new cartridges.
+
+10. Check for Third-Party Alternatives
+
+Consider trying third-party ink cartridges; they are not only more reasonably priced and eco-friendly but also offer quality on par with the original ones.
+
+To ensure a satisfying experience, look for a trustworthy third-party ink supplier. Check product reviews for insights into their product quality, after-sales service, policies, and more if you decide to explore this option.
