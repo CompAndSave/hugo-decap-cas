@@ -227,3 +227,26 @@ There isn't a dedicated shortcut key to print a test page. You need to access yo
 ### 4. Why can't I print a test page?
 
 If you cannot print a test page, there may be an issue with your printer's connection to your computer, driver issues, or hardware problems like low ink levels or paper jams.
+
+### 5. Printer will print test page but nothing else. What should I do?
+
+To troubleshoot the issue of your printer only printing test pages, follow these steps:
+
+* Check printer connections and ensure they are secure.
+* Restart the printer and computer to resolve temporary glitches.
+* Check paper and ink/toner levels.
+* Ensure printer is set to default.
+* Clear the print queue of any stuck jobs.
+* Run printer diagnostics if available.
+* Reset printer settings to defaults if needed.
+* Contact the manufacturer's support for further assistance.
+
+## Related articles:
+
+[HP Printer Problem and Solutions](https://www.compandsave.com/hp-printer-troubleshooting-guide/)
+
+[Epson Printer Problem and Solutions](https://www.compandsave.com/epson-printer-troubleshooting-guide/)
+
+[Canon Printer Problem and Solutions](https://www.compandsave.com/canon-printer-troubleshooting-ink-and-toner-guide/)
+
+[Brother Printer Problem and Solutions](https://www.compandsave.com/brother-printer-troubleshooting-guide/)
