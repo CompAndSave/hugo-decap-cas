@@ -38,7 +38,7 @@ Although only a handful of printers support Bluetooth connectivity nowadays, it'
 3. If there is no option for pairing, then there will be a scanner searching for Bluetooth devices nearby to start printing from Android device.
 4. Let it do its searching, and your printer should show up in scanned devices under its default name. Tap on its name to connect printer to Android phone.
 
-***\*Note:** Make sure to keep the mobile close to the printer, as Bluetooth doesn't have a very high range. Also, if you close the Bluetooth, either from the printer or the mobile, it will disconnect. So make sure not to do this mid-printing.**
+**\*\*Note:** Make sure to keep the mobile close to the printer, as Bluetooth doesn't have a very high range. Also, if you close the Bluetooth, either from the printer or the mobile, it will disconnect. So make sure not to do this mid-printing.\*\*
 
 **NFC Connection:** Some printers also feature an NFC connection (Near Field Communication), which makes it even easier and faster to connect Android to Bluetooth. Look for an NFC mark on the front or side of your printer if it supports an NFC connection.
 
@@ -53,8 +53,8 @@ This one is done in a number of ways, but we'll focus on two; **Android Default 
 Almost every major printer brand, such as Brother, HP, Dell, Canon, Epson, etc., can print with Android's default print function or has their own Android printer app. Most major printer brands have a wireless printer for Android phones. Follow the steps below on how to print from an Android phone using Wi-Fi.
 
 1. First and foremost, connect to the same Wi-Fi network as your Android phone. If you have multiple Wi-Fi connections, your device may automatically connect to the one with the best signal strength, while your printer may be connected to a different one. Ensure they are connected to the same network.
-2. Now go to your phone's settings menu, search Printing and select it from the suggestions.
-3. Next, select Default Printing Service (or System Printing Service on some devices) and turn it on. This will show you a list of compatible printers connected to the same Wi-Fi network as your Android phone. Select the correct printer model.
+2. Now go to your phone's settings menu, search **Printing** and select it from the suggestions.
+3. Next, select **Default Printing Service** (or System Printing Service on some devices) and turn it on. This will show you a list of compatible printers connected to the same Wi-Fi network as your Android phone. Select the correct printer model.
 
 ### What If It Doesn't Detect the Printer? Adding Printer to Android Using Printer's Mobile App:
 
@@ -74,7 +74,7 @@ This one is also one of the most popular ways to print from Android phones, but 
 1. Every printer comes with a [USB cable](https://www.compandsave.com/usb-cables) with two ends. The first end that goes into the printer is square and called the USB B type. The second end that goes into the computer is the standard USB A type.
 2. Make sure the USB B end is connected to the printer, and for the USB A end, you need to buy OTG to connect it to your phone because phones don't have USB A ports.
 3. Now you need to see which USB type your phone has. Modern ones come with USB C, while older models come with USB mini A, USB mini B, and USB Micro A/B ports. select
-4. Once you've determined which port type your phone has, purchase an OTG device for it. This device will have one end with a USB A port where the printer cable will go in. While the other end will be the connector that goes into your phone, just like your phone's charger. So get an OTG device (it won't cost more than **$1-2)**.
+4. Once you've determined which port type your phone has, purchase an OTG device for it. This device will have one end with a USB A port where the printer cable will go in. While the other end will be the connector that goes into your phone, just like your phone's charger. So get an OTG device (it won't cost more than **$1-2**).
 5. After that, go to the Google Play store and download the NokoPrint app.
 6. Next, go to your phone's settings, then to additional settings, and scroll all the way down. You will see the OTG settings. Turn them on. If your phone doesn't have this option, then it may not need it. Move to the next step (or if this doesn't work, try the PrintShare Mobile Print app instead of NokoPrint)
 7. Once you connect the OTG device to your phone, you will get a pop-up from NokoPrint asking you to install printer drivers. Press **OK**, and you'll see another menu. Select your printer to install its driver.
