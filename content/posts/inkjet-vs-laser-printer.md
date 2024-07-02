@@ -159,8 +159,20 @@ OEM is an abbreviation for 'Original Equipment Manufacturer.' When you see a pro
 
 ### What are remanufactured ink and toner cartridges?
 
-Remanufactured ink and toner cartridges are simply not refilled cartridges as they have been recycled to meet or exceed OEM (Original Equipment Manufacturer) specifications. The recycling process involves disassembling, inspecting, cleaning, reassembling, filling the product with ink. Then it will undergo a thorough test to make sure that it will work the same way as the original ones, including print quality. Enjoy the benefits of purchasing printer cartridges from CompAndSave that gives nothing but the best remanufactured ink cartridges online! For more information, you can watch this FAQ about remanufactured ink cartridges. You can get the same quality prints for a much lower price.
+Remanufactured ink and toner cartridges are simply not refilled cartridges as they have been recycled to meet or exceed OEM (Original Equipment Manufacturer) specifications. The recycling process involves disassembling, inspecting, cleaning, reassembling, filling the product with ink. Then it will undergo a thorough test to make sure that it will work the same way as the original ones, including print quality. Enjoy the benefits of purchasing printer cartridges from CompAndSave that gives nothing but the best remanufactured ink cartridges online! For more information, you can watch this FAQ about [remanufactured ink cartridges](https://www.youtube.com/watch?v=1cgqMXGRmXg). You can get the same quality prints for a much lower price.
 
 
 
 CompAndSave offers the best remanufactured ink cartridges and toners at an affordable cost. You can see below samples of our various products.
+
+[![REMANUFACTURED INK AND TONER CARTRIDGES](/blog/images/8.png "REMANUFACTURED INK ANF TONER CARTRDGES")](/blog/images/8.png)
+
+### What are compatible ink and toner cartridges?
+
+Compatible ink and toner cartridges are brand new non-OEM new cartridges - not recycled nor refilled. Compatible ink cartridges are manufactured by a third-party factory to the OEM specifications. Each printer cartridge is carefully researched, manufactured, and tested. New compatible cartridges are added regularly.
+
+
+
+CompAndSave manufactures high-quality compatible inks and printer toner cartridges that are cost-efficient. You can see some of our compatible ink and toner cartridges below.
+
+[![compatible ink and toner cartridges?](/blog/images/9.png "compatible ink and toner cartridges?")](/blog/images/9.png)
