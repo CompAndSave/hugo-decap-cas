@@ -20,9 +20,11 @@ Are you looking for the cheapest Canon ink cartridges to save money without comp
 
 **In this guide, we will discuss the following:**
 
-1. [Making Informed Choices: Going Beyond the Basics](https://www.compandsave.com/top-5-cheapest-canon-ink-cartridges-guide#indexA)
-2. [Top 5 Cheapest Ink Cartridges for Your Needs](https://www.compandsave.com/top-5-cheapest-canon-ink-cartridges-guide#indexB)
-3. [Exploring Third-Party Ink Cartridges for Maximum Savings](https://www.compandsave.com/top-5-cheapest-canon-ink-cartridges-guide#indexC)
+1. Making Informed Choices: Going Beyond the Basics
+2. Top 5 Cheapest Ink Cartridges for Your Needs
+3. Exploring Third-Party Ink Cartridges for Maximum Savings
+
+
 
 So, let's get started and explore the cost-saving opportunities of Canon ink!
 
@@ -85,7 +87,7 @@ Think about how you use your printer and what aligns with your budget. As you po
 
 At this point, you might already know which type of cheap ink for Canon printers is the right fit for your printing needs. Now, let's move forward and talk about the five most affordable ink cartridges based on your printing needs.
 
-***Price Disclaimer:** Please note that prices for original Canon ink may change over time.*
+**\*Price Disclaimer:** Please note that prices for original Canon ink may change over time.*
 
 ### Standard: Top 5 Cheapest Canon Printer Ink
 
@@ -239,7 +241,7 @@ These ink cartridges come in a wide range of options, including [remanufactured]
 
 Finding cartridges for older printer models can be challenging at brand stores. Fortunately, many third-party ink suppliers offer cartridges that are no longer available elsewhere, ensuring you can continue using your trusted printer.
 
-***NOTE:** It's important to note that the quality and performance of third-party ink cartridges can vary depending on the supplier, so it's advisable to research and choose a reputable third-party ink supplier to ensure a satisfactory printing experience.*
+**\*NOTE:** It's important to note that the quality and performance of third-party ink cartridges can vary depending on the supplier, so it's advisable to research and choose a reputable third-party ink supplier to ensure a satisfactory printing experience.*
 
 ## Cheapest Canon Ink Cartridges: OEM vs. CompAndSave Price
 
@@ -254,23 +256,15 @@ Finding cartridges for older printer models can be challenging at brand stores. 
 
 **2. Canon PG-245XL Black, CL-246XL Color High-Yield Ink Cartridge**
 
-[![Canon PG-245XL](/blog/images/5.png "CL-246XL Color High-Yield Ink Cartridge")](/blog/images/5.png)
+
 
 **3. Canon PGI-250XL Pigment Black Ink, CLI-251BK XL High-Yield color Cartridges**
 
-[![](/blog/images/6.png)](/blog/images/6.png)
-
 **4. Canon PG-260 XL / CLI-261 XL Value Pack**
-
-[![Canon PG-260 XL ](/blog/images/2.png "CLI-261 XL Value Pack")](/blog/images/2.png)
 
 **5. Canon PG-240 XL / CL-241 XL Value Pack**
 
-[![Canon PG-240 XL](/blog/images/3.png "CL-241 XL Value Pack")](/blog/images/3.png)
-
 For us to easily check the price difference, let's compare the OEM price versus CompAndSave price side by side.
-
-[![CARTRIDGE MODEL](/blog/images/1.png "CARTRIDGE MODEL")](/blog/images/1.png)
 
 In the end, third-party ink cartridges are a great option for cost-conscious consumers looking to save money while also helping the environment.
 
