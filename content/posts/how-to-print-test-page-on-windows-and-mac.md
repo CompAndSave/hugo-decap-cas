@@ -124,3 +124,17 @@ Now, let's talk about how to test print. The process varies slightly depending o
 **Step 4:** You'll see a printer listing on the life side window; **select your printer.**
 
 [![select your printer](/blog/images/screenshot-2024-07-02-at-3.24.25 pm.png "select your printer")](/blog/images/screenshot-2024-07-02-at-3.24.25 pm.png)
+
+**Step 5:** Click on Open **Print Queue.**
+
+[![Print Queue](/blog/images/screenshot-2024-07-02-at-3.25.32 pm.png "Print Queue")](/blog/images/screenshot-2024-07-02-at-3.25.32 pm.png)
+
+**Step 6:** Now click on the **Printer menu** at the top and then select Print Test Page
+
+**2. Mac OS X**
+
+**Step 1:** Click on the **Apple menu**.
+
+[![Apple menu](/blog/images/screenshot-2024-07-02-at-3.27.40 pm.png "Apple menu")](/blog/images/screenshot-2024-07-02-at-3.27.40 pm.png)
+
+**Step 2:** Now click on **System Preferences** or **System Settings.**
