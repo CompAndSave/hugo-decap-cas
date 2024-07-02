@@ -83,11 +83,11 @@ Now, let's talk about how to test print. The process varies slightly depending o
 
 **Step 2:** On the search bar, type **“printer”** and then click **'Printers & scanners.'**
 
-[![windows settings](/blog/images/screenshot-2024-07-02-at-3.08.06 pm.png "windows settings")](/blog/images/screenshot-2024-07-02-at-3.08.06 pm.png)
+[![windows settings](/blog/images/screenshot-2024-07-02-at-3.14.41 pm.png "windows settings")](/blog/images/screenshot-2024-07-02-at-3.14.41 pm.png)
 
 **Step 3:** Next, click on the printer you want to print a test page and click **'Manage.'**
 
-[![add printer](/blog/images/screenshot-2024-07-02-at-3.09.13 pm.png "add printer")](/blog/images/screenshot-2024-07-02-at-3.09.13 pm.png)
+[![add printer](/blog/images/screenshot-2024-07-02-at-3.15.17 pm.png "add printer")](/blog/images/screenshot-2024-07-02-at-3.15.17 pm.png)
 
 **Step 4:** Once in, click on the **'Print a test page.'**
 
@@ -96,3 +96,7 @@ Now, let's talk about how to test print. The process varies slightly depending o
 **Step 1:** Left-click on the **Windows** icon and select **'Settings'** from the list of options.
 
 [![printer settings](/blog/images/screenshot-2024-07-02-at-3.12.08 pm.png "printer settings")](/blog/images/screenshot-2024-07-02-at-3.12.08 pm.png)
+
+**Step 2:** Click on **'Bluetooth & devices,'** and then click on '**Printers & scanners.'** From the list of printers, choose the one where you want to try to print a test page.
+
+[![Bluetooth & devices](/blog/images/screenshot-2024-07-02-at-3.14.01 pm.png "Bluetooth & devices")](/blog/images/screenshot-2024-07-02-at-3.14.01 pm.png)
