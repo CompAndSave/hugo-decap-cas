@@ -13,8 +13,6 @@ tags:
   - printer troubleshooting
   - printer problems
 ---
-
-
 [![how to fix printer offline problem](/blog/images/how-to-fix-printer-offline-problem.png "How to Fix Printer Offline Problem")](/blog/images/how-to-fix-printer-offline-problem.png)
 
 Why is my printer offline? When your printer displays the status "Offline," it means it is not connected or unable to communicate with the computer, making you unable to process any printing tasks. This can happen for various reasons, from basic hardware issues to more complex configuration issues. Properly figuring out why it's offline is important to help efficiently fix it and start printing again. So, let’s find out in this guide how to fix printer offline problem in Windows and Mac, ensuring you can enjoy hassle-free printing once again!
@@ -121,8 +119,6 @@ If you're wondering, "Why is my printer offline?" it's possible that your printe
 
 **Step 4:** Click **"Remove device"** and then select **Yes**.
 
-
-
 **To Reinstall the Printer:**
 
 **Step 1:** Connect your printer back to the computer and turn it on.
@@ -190,3 +186,75 @@ If you're wondering, "Why is my printer offline?" it's possible that your printe
 **Step 2:** Click on **"Printers & Scanners."** Then, select your printer from the list on the left.
 
 **Step 3:** Click on the **"Set Default Printer"** button.
+
+#### **C. “Use Printer Offline” is Enabled**
+
+\- If the "Use Printer Offline" mode is enabled, the computer will not attempt to communicate with the printer for printing tasks. To disable it, follow the steps below:
+
+**For WINDOWS**
+
+**Step 1:** Go to the Windows search bar, type **"control panel,"** and select **"Control Panel"** from the results.
+
+**Step 2:** In the Control Panel window, select **"Hardware and Sound"** or **"Devices and Printers."**
+
+**Step 3:** Locate your printer in the list of devices and right-click on it.
+
+**Step 4:** Select **"See what's printing"** from the context menu or **"Open print queue."**
+
+**Step 5:** In the print queue window, click on the **"Printer"** menu at the top.
+
+**Step 6:** A checkmark should be next to the **"Use Printer Offline"** option if the printer is offline. Click on it to turn off the offline mode.
+
+**Step 7:** The printer will now be set to online mode and should be available for printing.
+
+**For MAC**
+
+**Step 1:** Click on the Apple menu in the top-left corner of the screen.
+
+**Step 2:** Select **“System Preferences”** from the drop-down menu.
+
+**Step 3:** In the System Preferences window, click **“Printers & Scanners”** or **“Print & Scan.”**
+
+**Step 4:** Select the printer from the list on the left-hand side.
+
+**Step 5:** Click the **"Options & Supplies"** or **"Open Print Queue"** button.
+
+**Step 6:** In the print queue window, click on the **"Printer"** menu at the top.
+
+**Step 7:** If the printer is currently offline, you should see an option to **"Resume"** or **"Unpause"** printing. Click on it to disable offline mode.
+
+#### **D. Disable SNMP (Simple Network Management Protocol)**
+
+\- SNMP is usually used to monitor and manage devices centrally in networked settings. For everyday home users, turning on SNMP is not required. To turn it off, follow these steps:
+
+**For WINDOWS**
+
+**Step 1:** Go to the Windows search bar and type **"printer."** From the list of results, select **"Devices and Printers."**
+
+**Step 2:** In the Devices and Printers window, expand the Printers section to see your connected printers.
+
+**Step 3:** Right-click on the printer that is having the issue and choose **"Printer Properties"** (not "Properties").
+
+**Step 4:** Click the **"Ports"** tab at the top in the Printer Properties window.
+
+**Step 5:** Find the port with a checkmark showing it's the default. Click on it, then press the **"Configure Port"** button at the bottom right.
+
+**Step 6:** Ensure the **"SNMP Status Enabled"** option is not checked in the new window. If there's a checkmark, click to uncheck it. Then click **OK** to save the changes.
+
+**Step 7:** Restart your computer and turn off your printer. After a few minutes, turn on the computer and then the printer.
+
+**For MAC**
+
+**Step 1:** Click on the Apple menu in the top-left corner and select **"System Preferences."**
+
+**Step 2:** In the System Preferences window, click **"Printers & Scanners"** or **"Print & Scan."**
+
+**Step 3:** Select your printer from the list on the left-hand side.
+
+**Step 4:** Click the **"Options & Supplies"** or **"Options & Supplies"** button.
+
+**Step 5:** In the Options tab, look for an option related to SNMP or **"Enable SNMP"** and uncheck or turn it off.
+
+**Step 6:** Close the Printer Options window.
+
+**Step 7:** Restart your Mac for the changes to take effect.
