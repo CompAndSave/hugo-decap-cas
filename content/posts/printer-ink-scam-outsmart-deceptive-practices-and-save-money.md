@@ -25,16 +25,42 @@ That's why we've created this article: to investigate whether printer ink is a s
 
 ## How Printer Ink is a Scam: The Dark Side of Printing
 
-1. Low-cost Printers High-cost ink
+### 1. Low-cost Printers High-cost ink
 
 Printer manufacturers often attract customers with low printer prices. But here's the twist: the real cost lies in those ink cartridges. This 'razor and blades' business strategy involves selling printers at a low upfront cost while generating profits from selling expensive ink cartridges.
 
+***So, how expensive are printer ink cartridges?***
 
+These [ink cartridges can be shockingly expensive](https://www.compandsave.com/why-printer-ink-is-so-expensive-guide), sometimes costing more than luxury items like Russian caviar when you think about their weight. In fact, they can even surpass the price per gallon of a bottle of 1985 Krug vintage champagne.
 
-So, how expensive are printer ink cartridges?
+In Austin McConnell's YouTube video '[Ink Cartridges Are A Scam](https://www.youtube.com/watch?v=AHX6tHdQGiQ)', he shared his experiences from his previous job in technical support. He pointed out that a set of ink cartridges used to be priced at $59.95, while it only cost about $0.23 to produce one ounce of ink. This shows that printer ink cartridges have been sold to consumers at a much higher price than they're actually worth.
 
-These ink cartridges can be shockingly expensive, sometimes costing more than luxury items like Russian caviar when you think about their weight. In fact, they can even surpass the price per gallon of a bottle of 1985 Krug vintage champagne.
+### 2. Printer Ink Consumption: What You Didn't Know
 
+Did you know that you might be getting less than you bargained for when it comes to ink? Printers have a rather surprising ink consumption pattern. Yes, they use ink for printing documents and images – that's the obvious part. But there are some aspects that many people aren't even aware of.
 
+**• Printer Maintenance Cycle**
 
-In Austin McConnell's YouTube video 'Ink Cartridges Are A Scam', he shared his experiences from his previous job in technical support. He pointed out that a set of ink cartridges used to be priced at $59.95, while it only cost about $0.23 to produce one ounce of ink. This shows that printer ink cartridges have been sold to consumers at a much higher price than they're actually worth.
+We all know that keeping our printers in good shape is important, but what most people miss is how much ink these necessary tasks can actually use.
+
+According to Rich Sulin, who leads CR's printer-testing program, most people aren't really aware of the maintenance needs of inkjets. What might surprise you is that it's pretty typical for an inkjet printer to use as much ink during maintenance as it does for actual printing, as revealed in [Consumer Reports investigation](https://www.consumerreports.org/printers/the-high-cost-of-wasted-printer-ink).
+
+On top of it, some printers initiate printhead cleaning when you power them off and on, and in some instances, they run a cleaning cycle for every single page you print. This has been tested and confirmed in Fstoppers' YouTube video, '[Printer Ink Scam Myths Tested](https://www.youtube.com/watch?v=y1B71C6BV7k&t=17s)'.
+
+These maintenance actions contribute to higher ink consumption, even if you don't use your printer very often.
+
+**• Color Mixing in Black and White Prints**
+
+One reason you may receive fewer pages than the advertised yield is the deliberate use of "cyan color mixing" by printers, even when printing in black and white.
+
+Manufacturers claim this technique enhances the quality of black prints, but YouTuber Fstoppers conducted a test and debunked this claim in their YouTube video '[Printer Ink Scam Myths Tested](https://www.youtube.com/watch?v=y1B71C6BV7k&t=116s)'.
+
+The result? You might get fewer printed pages than advertised and have to replace your cartridges sooner than planned.
+
+**3. Tactics to Limit Ink Choices**
+
+Printer manufacturers implement strategies to lock their printers into using only their ink cartridges. They employ tactics like frequent firmware updates to enforce this exclusivity.
+
+As we all know, firmware updates are usually intended to fix problems and improve a printer's performance, especially when it comes to addressing bugs and crashes. However, when you choose to use remanufactured or third-party ink cartridges, these updates take on a different role. In this case, these updates are designed to limit your ability to use non-OEM cartridges, effectively pushing you toward the more expensive ink options the manufacturer offers.
+
+To learn more, check [How to Downgrade HP Printer Firmware](https://www.compandsave.com/hp-printer-firmware-downgrade) or [Epson Printer Firmware Hack: Reset and Downgrade Tips](https://www.compandsave.com/epson-printer-firmware-reset-downgrade).
