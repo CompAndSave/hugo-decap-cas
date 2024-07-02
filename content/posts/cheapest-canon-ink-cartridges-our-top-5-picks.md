@@ -5,10 +5,10 @@ authors: Trisha Olivar
 featured_image: /blog/images/ingoude..png
 description: https://www.compandsave.com/top-5-cheapest-canon-ink-cartridges-guide
 tags:
-  - Top 5 picks
-  - Ink
-  - Cheap
-  - Canon
+  - Top 5 picks!
+  - Cartridges Ink
+  - Cheapest Ink
+  - Canon Ink Catridges
   - Canon Ink
 ---
 Are you looking for the cheapest Canon ink cartridges to save money without compromising print quality? You're in luck! Today, we'll discuss five of the cheap ink for Canon printers.
