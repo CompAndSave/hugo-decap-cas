@@ -142,3 +142,25 @@ Now, let's talk about how to test print. The process varies slightly depending o
 [![System Preferences](/blog/images/screenshot-2024-07-02-at-3.28.48 pm.png "System Preferences")](/blog/images/screenshot-2024-07-02-at-3.28.48 pm.png)
 
 **Step 3:** Hover over to **Print & Scan** or **Printers & Scanners,** depending on your Mac OS X version.
+
+[![Printers & Scanners](/blog/images/screenshot-2024-07-02-at-3.29.51 pm.png "Printers & Scanners")](/blog/images/screenshot-2024-07-02-at-3.29.51 pm.png)
+
+**Step 4:** You'll see a printer listing on the life side window; **select your printer.**
+
+[![select your printer](/blog/images/screenshot-2024-07-02-at-3.30.52 pm.png "select your printer")](/blog/images/screenshot-2024-07-02-at-3.30.52 pm.png)
+
+**Step 5:** Now select **'Option and Supplies.'**
+
+**Step 6:** In the new window, go to the **'Utility'** tab and click on **'Print Test Page'.**
+
+## Test Print Guidelines for Color and Greyscale Printing
+
+These guidelines help assess color accuracy, ink coverage, image details, and text clarity. The process for printing a color printer test page or getting a black-and-white text page is the same as provided above, depending on your operating system and printer brand.
+
+### Color Printer test pages must include the following:
+
+* **Printer color test:** A section that includes a color gradient or color wheel is essential to evaluate the accurate reproduction of different colors and shades.
+* **Printer ink test:** A test area with varying percentages of ink coverage (for example, from 10% to 100%) to check if the printer can consistently print different ink densities.
+* **Image quality assessment:** A high-resolution image or a complex pattern demonstrating the printer's capability to accurately reproduce intricate details and sharp lines.
+* **Text quality evaluation:** Text in various font sizes and styles must be present to test the printer's ability to render text clearly and legibly across different settings.
+*
