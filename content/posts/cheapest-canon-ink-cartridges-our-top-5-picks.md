@@ -304,15 +304,11 @@ Canon Pixma ink cartridges can be more expensive than other brands due to their 
 
 Yes, empty ink cartridges can be refilled and reused, provided they have not been damaged. This can be an eco-friendly and cost-effective option, but it might require some expertise or the assistance of a professional.
 
-Many local and online ink retailers offer [ink-refill kits](https://www.compandsave.com/ink-refill-bulk-ink) or refilling services. However, keep in mind that refilling cartridges more than a few times may decrease the print quality and the overall performance of the cartridge.
-
-[](https://www.compandsave.com/top-5-cheapest-canon-ink-cartridges-guide#)
+Many local and online ink retailers offer [ink-refill kits](https://www.compandsave.com/ink-refill-bulk-ink) or refilling services. However, keep in mind that refilling cartridges more than a few times may decrease the print quality and the overall performance of the cartridge.[](https://www.compandsave.com/top-5-cheapest-canon-ink-cartridges-guide#)
 
 ### 4. Will using cheap or compatible ink cartridges void my Canon printer's warranty?
 
-Using compatible or remanufactured ink cartridges does not void your Canon printer's warranty. The warranty should remain valid as long as the cartridges do not cause damage to your printer. Nonetheless, it's essential to choose high-quality, compatible cartridges from a reliable supplier, as low-quality ink and cartridges can potentially harm your printer or use up more ink, eventually costing you more in repairs or replacements.
-
-[](https://www.compandsave.com/top-5-cheapest-canon-ink-cartridges-guide#)
+Using compatible or remanufactured ink cartridges does not void your Canon printer's warranty. The warranty should remain valid as long as the cartridges do not cause damage to your printer. Nonetheless, it's essential to choose high-quality, compatible cartridges from a reliable supplier, as low-quality ink and cartridges can potentially harm your printer or use up more ink, eventually costing you more in repairs or replacements.[](https://www.compandsave.com/top-5-cheapest-canon-ink-cartridges-guide#)
 
 ### 5. How can I find the cheapest Canon ink cartridges without compromising quality?
 
