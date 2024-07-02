@@ -165,7 +165,7 @@ At this point, you might already know which type of cheap ink for Canon printers
 
 **2. High Yield [Canon PG-245XL Black, CL-246XL (CMY) Color Ink](https://www.usa.canon.com/shop/p/pg-245-cl-246-xl-combo?color=Black&type=Kit)**
 
-Price: $56.99
+**Price:** $56.99
 
 **Ink Type:** Pigment-based for black, dye-based for color
 
@@ -177,29 +177,19 @@ Price: $56.99
 
 **3. High Yield** Canon PGI-250XL Pigment Black Ink, CLI-251 (CMY) Color Ink
 
-**Price:**
+**Price:** $27.99 for black pigment and $21.99 for each color
 
-$27.99 for black pigment and $21.99 for each color
+**Ink Type:** Pigment ink for black and dye-based for color
 
-**Ink Type:**
+**Page Yield:** 500 pages for black pigment, 5000 pages (black), 705 pages (cyan), 690 pages (magenta), 675 pages (yellow), and 660 pages (gray)
 
-Pigment ink for black and dye-based for color
+**Cost per Page:** $0.056 for black pigment, $0.0043 for black, $0.031 for cyan, $0.031 for magenta, $0.032 for yellow and $0.033 for gray
 
-**Page Yield:**
-
-500 pages for black pigment, 5000 pages (black), 705 pages (cyan), 690 pages (magenta), 675 pages (yellow), and 660 pages (gray)
-
-**Cost per Page:**
-
-$0.056 for black pigment, $0.0043 for black, $0.031 for cyan, $0.031 for magenta, $0.032 for yellow and $0.033 for gray
-
-**Best For:**
-
-Home or home office, black and white text documents, business documents, color documents, and photos
+**Best For:** Home or home office, black and white text documents, business documents, color documents, and photos
 
 **4. High Yield [Canon PG-260XL CLI-261XL Value Pack](https://www.usa.canon.com/shop/p/pg-260-xl-cli-261-xl-value-pack?color=Black&type=Kit)**
 
-**Price: $58.99**
+**Price:** $58.99
 
 **Ink Type:** Pigment-based for black, dye-based for color
 
@@ -223,7 +213,7 @@ Home or home office, black and white text documents, business documents, color d
 
 ## Exploring Third-Party Ink Cartridges for Maximum Savings
 
-Did you know that when it comes to getting the most out of your savings, there's a secret that's even more wallet-friendly than the others? It's third-party ink cartridges!
+Did you know that when it comes to getting the most out of your savings, there's a secret that's even more wallet-friendly than the others? It's [third-party ink cartridges](https://www.compandsave.com/environmentally-friendly-ink-cartridges/)!
 
 These cartridges offer the same quality as original Canon cartridges but come at a fraction of the cost. If you're looking to reduce your printing expenses while enjoying the same print results, third-party ink cartridges are your perfect choice.
 
