@@ -38,7 +38,7 @@ Although only a handful of printers support Bluetooth connectivity nowadays, it'
 3. If there is no option for pairing, then there will be a scanner searching for Bluetooth devices nearby to start printing from Android device.
 4. Let it do its searching, and your printer should show up in scanned devices under its default name. Tap on its name to connect printer to Android phone.
 
-**\*Note:** Make sure to keep the mobile close to the printer, as Bluetooth doesn't have a very high range. Also, if you close the Bluetooth, either from the printer or the mobile, it will disconnect. So make sure not to do this mid-printing.*
+***\*Note:** Make sure to keep the mobile close to the printer, as Bluetooth doesn't have a very high range. Also, if you close the Bluetooth, either from the printer or the mobile, it will disconnect. So make sure not to do this mid-printing.**
 
 **NFC Connection:** Some printers also feature an NFC connection (Near Field Communication), which makes it even easier and faster to connect Android to Bluetooth. Look for an NFC mark on the front or side of your printer if it supports an NFC connection.
 
