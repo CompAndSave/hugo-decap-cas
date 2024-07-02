@@ -114,8 +114,8 @@ If you want to print photos from Android, the process is simple. Follow these st
 
 Now that you know how to print pictures from Android phone, we're left with how to print texts from Android, which can be quite useful, especially for submission in court for legal issues. So, there are two ways we can print text messages from Android.
 
-* Screenshots: It's easy but comes with a hassle depending on how many texts you want to print.
-* Super Backup app: It is convenient and quick but requires you to download a 3rd party app.
+* **Screenshots:** It's easy but comes with a hassle depending on how many texts you want to print.
+* **Super Backup app:** It is convenient and quick but requires you to download a 3rd party app.
 
 So let's discuss both:
 
