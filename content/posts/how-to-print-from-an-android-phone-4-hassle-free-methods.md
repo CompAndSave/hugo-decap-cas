@@ -202,3 +202,11 @@ The gist is that there is a way for everyone to ensure their printing needs are 
 
 
 Printing from an Android phone can be easy peasy with our guide. If you have more questions about printing and our products, talk to us at our toll-free number: 1-833-465-6888 from Mondays to Fridays from 6am-4pm PT. Our customer service representatives are ready to help.
+
+
+
+## Related articles:
+
+[How to Print From iPhone and iPad: A Complete Guide](https://www.compandsave.com/how-to-print-from-iphone-or-ipad-guide)
+
+[How to Connect Printer to Wi-Fi | Wireless Printing Guide](https://www.compandsave.com/how-to-connect-printer-to-wifi)
