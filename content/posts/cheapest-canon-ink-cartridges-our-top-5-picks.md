@@ -274,7 +274,7 @@ Finding cartridges for older printer models can be challenging at brand stores. 
 
 For us to easily check the price difference, let's compare the OEM price versus CompAndSave price side by side.
 
-[![CARTRIDGE MODEL](/blog/images/5.png "CARTRIDGE MODEL")](/blog/images/5.png)
+[![CARTRIDGE MODEL](/blog/images/screenshot-2024-07-02-at-2.42.23 pm.png "CARTRIDGE MODEL")](/blog/images/screenshot-2024-07-02-at-2.42.23 pm.png)
 
 In the end, third-party ink cartridges are a great option for cost-conscious consumers looking to save money while also helping the environment.
 
