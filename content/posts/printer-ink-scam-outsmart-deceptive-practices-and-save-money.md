@@ -82,4 +82,10 @@ Another concerning aspect of the printer ink scam is planned product aging. Belo
   Chips on the cartridges can force the printer to stop operating when any color runs out, even if other colors are available. Your printer will not work until you replace the empty cartridges.
 * **False Low Ink Warnings**
 
-  Have you ever received an error message from your printer, claiming that you're low on ink, only to replace the cartridge and find that it still has plenty of ink left? This happens because some printers intentionally provide inaccurate low ink warnings, prompting premature cartridge replacements. To learn how to bypass this, check our low ink level error guide.
+  Have you ever received an error message from your printer, claiming that you're low on ink, only to replace the cartridge and find that it still has plenty of ink left? This happens because some printers intentionally provide inaccurate low ink warnings, prompting premature cartridge replacements. To learn how to bypass this, check our [low ink level error](https://www.compandsave.com/troubleshoot-remanufactured-ink-cartridge-problems-guide#indexF) guide.
+
+***Interesting Fact:***
+
+* *HP faced three class action lawsuits in 2010, involving issues like inkjet printers incorrectly indicating low ink levels, cyan ink being used when printing with black ink, and ink cartridges disabling due to false empty cartridge alerts. This legal battle ended up costing them $5 million in settlements.*
+* *Back in 2006, Epson found itself in a similar situation with a class action lawsuit. This time, it was about their inkjet printers and cartridges causing printer functions to halt due to incorrect "empty cartridge" notifications. Epson resolved the case by providing $45 e-coupons to people who had purchased their inkjet printers and cartridges between 1999 and 2006.*
+* *In 2017, several major companies, including Brother, Canon, Epson, and HP, faced allegations of Planned Obsolescence in France. This practice intentionally shortens the lifespan of both printers and ink cartridges, essentially pushing consumers to spend more on their products. While these companies received a relatively modest fine of €15,000, but it was considered a small victory in a long journey.*
