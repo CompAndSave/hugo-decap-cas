@@ -266,17 +266,19 @@ Finding cartridges for older printer models can be challenging at brand stores. 
 
 **4. Canon PG-260 XL / CLI-261 XL Value Pack**
 
-**OEM PRICE: [$58.99](https://www.usa.canon.com/shop/p/pg-260-xl-cli-261-xl-value-pack?color=Black&type=Kit)**
-
-**COMPANDSAVE PRICE: $44.98**
+* **OEM PRICE: [$58.99](https://www.usa.canon.com/shop/p/pg-260-xl-cli-261-xl-value-pack?color=Black&type=Kit)**
+* **COMPANDSAVE PRICE: [$44.98](https://www.compandsave.com/canon/260xl-261xl-ink-pg-260xl-cl-261xl-2-combo)**
 
 **5. Canon PG-240 XL / CL-241 XL Value Pack**
 
-**OEM PRICE: $58.98**
-
-**COMPANDSAVE PRICE: $43.98**
+* **OEM PRICE: [$58.98](https://www.usa.canon.com/shop/p/pg-240-xl-cl-241-xl-value-pack?color=Colour&type=Kit)**
+* **COMPANDSAVE PRICE: [$43.98](https://www.compandsave.com/canon/240xl-241xl-ink-pg-240xl-cl-241xl-2-combo)**
 
 For us to easily check the price difference, let's compare the OEM price versus CompAndSave price side by side.
+
+[![CARTRIDGE MODEL](/blog/images/5.png "CARTRIDGE MODEL")](/blog/images/5.png)
+
+
 
 In the end, third-party ink cartridges are a great option for cost-conscious consumers looking to save money while also helping the environment.
 
@@ -302,7 +304,7 @@ It's always best to weigh the savings against potential long-term issues and cho
 
 Canon Pixma ink cartridges can be more expensive than other brands due to their high-quality inks and patented printing technologies. However, the cost varies depending on the specific Canon Pixma model and the type of cartridge being purchased. Compatible and remanufactured ink cartridges are available at lower prices and can offer an affordable alternative while still providing high-quality prints.
 
-[Can you reuse empty ink cartridges?](https://www.compandsave.com/top-5-cheapest-canon-ink-cartridges-guide#)
+### 3. Can you reuse empty ink cartridges?
 
 Yes, empty ink cartridges can be refilled and reused, provided they have not been damaged. This can be an eco-friendly and cost-effective option, but it might require some expertise or the assistance of a professional.
 
@@ -310,13 +312,13 @@ Many local and online ink retailers offer [ink-refill kits](https://www.compands
 
 [](https://www.compandsave.com/top-5-cheapest-canon-ink-cartridges-guide#)
 
-[Will using cheap or compatible ink cartridges void my Canon printer's warranty?](https://www.compandsave.com/top-5-cheapest-canon-ink-cartridges-guide#)
+### 4. Will using cheap or compatible ink cartridges void my Canon printer's warranty?
 
 Using compatible or remanufactured ink cartridges does not void your Canon printer's warranty. The warranty should remain valid as long as the cartridges do not cause damage to your printer. Nonetheless, it's essential to choose high-quality, compatible cartridges from a reliable supplier, as low-quality ink and cartridges can potentially harm your printer or use up more ink, eventually costing you more in repairs or replacements.
 
 [](https://www.compandsave.com/top-5-cheapest-canon-ink-cartridges-guide#)
 
-[How can I find the cheapest Canon ink cartridges without compromising quality?](https://www.compandsave.com/top-5-cheapest-canon-ink-cartridges-guide#)
+### 5. How can I find the cheapest Canon ink cartridges without compromising quality?
 
 To find the cheapest Canon ink cartridges without sacrificing quality, consider the following:
 
