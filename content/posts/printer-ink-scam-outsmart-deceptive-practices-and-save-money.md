@@ -136,7 +136,7 @@ Don't rely solely on the printer's indicator to determine when to replace cartri
 
 Before you commit to a subscription, take a moment to think about the downsides. These drawbacks aren't usually highlighted as much as the benefits. To get a better understanding, just check out what people are saying on the internet.
 
-To know more, check 'What is HP Instant Ink Program – Is It Worth It?' and 'What is HP+ Program? Everything You Need To Know'.
+To know more, check '[What is HP Instant Ink Program – Is It Worth It?](https://www.compandsave.com/what-is-hp-instant-ink-program)' and '[What is HP+ Program? Everything You Need To Know](https://www.compandsave.com/what-is-hp-plus-program-the-pros-and-cons)'.
 
 ### 7. Power Management
 
