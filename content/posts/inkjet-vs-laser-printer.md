@@ -5,16 +5,16 @@ authors: Trisha Olivar
 featured_image: /blog/images/ingoude.-1-.png
 description: Looking for inkjet vs. laser printer comparison? Check our helpful
   guide and learn the difference between laser and inkjet printers, ink and
-  toner, and more now!
+  toner and more now!
 tags:
-  - OfficeEquipment
-  - PrinterTechnology
+  - Office Equipment
+  - Printer Technology
   - Printing Speed
   - Laser Printer
   - Printer
   - Inkjet Printer
 ---
-[![inkjet printer](/blog/images/ingoude.-1-.png "laser printer")](/blog/images/ingoude.-1-.png)
+[![Inkjet vs. Laser Printer](/blog/images/ingoude.-1-.png "Inkjet vs. Laser Printer")](/blog/images/ingoude.-1-.png)
 
 The journey to quality and efficient printing starts with the right printer and cartridges. This guide aims to help you understand the basics of printing 101. Aside from deciding on the printer to purchase, we will tackle the necessary tools you need, such as ink cartridges and toners. Let us start with understanding the types of printers.
 
@@ -69,9 +69,9 @@ Since there are two types of printers, they also use different printing cartridg
 
 Ink cartridges are used for inkjet printers. Liquid inks are filled into containers called cartridges that enable your printer to print out texts or images. The cartridges are either refillable, or you buy a new one to install and use. You can not just install any type of ink cartridge because each cartridge is designed to work only for a specific printer. Though some cartridges look the same in physical attributes, each cartridge actually has chips in them that are designed only to let them work for printers compatible with it. You can see different kinds of ink cartridges below.
 
-[![Compatible Canon](/blog/images/1.png "Compatible Canon")](/blog/images/1.png)
+[![Compatible Canon ink cartridge](/blog/images/1.png "Compatible Canon")](/blog/images/1.png)
 
-[![Replacement HP 10 Ink](/blog/images/2.png "Replacement HP")](/blog/images/2.png)
+[![replacement ink cartridges](/blog/images/2.png "Replacement Ink cartridges")](/blog/images/2.png)
 
 ### What is an inkjet printer refills/ink refill bottle?
 
@@ -119,7 +119,7 @@ XXL ink cartridges have more ink compared to the XL ones. It may also mean a hig
 
 Take note that it can be different for other brands or other types of cartridges. The important thing to remember is that the higher the yield, the more pages it can print. On the table below, you will see standard (non-XL), XL (high yield), and XXL (super high yield) ink cartridges. The cartridges may have different ink model numbers, but all of the cartridges below are the same in size and only vary in yield version. Also, all three printer inks can be used for the following printers:
 
-[![](/blog/images/6.png)](/blog/images/6.png)
+[![Brother Ink Cartridges](/blog/images/6.png "Brother Ink Cartridges")](/blog/images/6.png)
 
 ## What are the Different Types of Ink Cartridges (condition)?
 
@@ -145,11 +145,11 @@ Compatible ink and toner cartridges are brand new non-OEM new cartridges - not r
 
 CompAndSave manufactures high-quality compatible inks and printer toner cartridges that are cost-efficient. You can see some of our compatible ink and toner cartridges below.
 
-[![compatible ink and toner cartridges?](/blog/images/9.png "compatible ink and toner cartridges?")](/blog/images/9.png)
+[![compatible ink and toner cartridges](/blog/images/9.png "compatible ink and toner cartridges")](/blog/images/9.png)
 
 ### What is a printer ink refill kit?
 
-Another great option that does not only save you money but is environmentally friendly as well is refilling your ink cartridges. This is not applicable for toners. You can check our [refill ink/bulk ink](<refill ink/bulk ink>) products. First, you need to make sure if it is compatible with your printer. It is simply refilling your ink. The kit already includes all the necessary items for refilling, such as needles, screwdriver, and drill tool, among others. For an easier refilling process, you can follow our [universal ink refill kit guide](https://www.compandsave.com/assets/instruction_ink_refill_kit_for_inkjet_printer.pdf)
+Another great option that does not only save you money but is environmentally friendly as well is refilling your ink cartridges. This is not applicable for toners. You can check our [refill ink/bulk ink](https://www.compandsave.com/ink-refill-bulk-ink) products. First, you need to make sure if it is compatible with your printer. It is simply refilling your ink. The kit already includes all the necessary items for refilling, such as needles, screwdriver, and drill tool, among others. For an easier refilling process, you can follow our [universal ink refill kit guide](https://www.compandsave.com/assets/instruction_ink_refill_kit_for_inkjet_printer.pdf).
 
 [![printer ink refill kit](/blog/images/10.png "printer ink refill kit")](/blog/images/10.png)
 
@@ -159,13 +159,9 @@ Another great option that does not only save you money but is environmentally fr
 
 Major brands mostly get their profit by selling printer inks at a higher cost. The printer may not be that expensive, but since they require you to purchase their OEM inks, you may need to spend more if you prefer genuine inks.
 
-
-
 ### Why are remanufactured and compatible inks cheaper?
 
 Remanufactured inks use recycled cartridges. This makes the ink and toner cartridges less expensive but with the same quality. Compatible inks have new cartridges manufactured by a third-party company. It is similar to buying generic products rather than the branded ones. The third-party manufacturer does not have to keep up with the costs of processing as major brands do.
-
-
 
 ### How much money will I save by buying a compatible or remanufactured cartridge?
 
@@ -177,31 +173,19 @@ Typically buying a compatible or remanufactured cartridge saves you about 50-75%
 
 We guarantee you will get the same quality printing with our kinds of ink. Many of our best customers are graphic designers and photographers who demand the highest quality printing and the strictest color matching.
 
-
-
 Not only that, our factory is ISO-9001 Certified. ISO-9000 is a set of five universal standards for a Quality Assurance System that is accepted around the world. Currently, 90 countries have adopted ISO-9000 as national standards. When you purchase a product or service from a company that is registered to the appropriate ISO-9000 standard, you have important assurances that the quality of what you receive will be as you expect.
 
-
-
 The most comprehensive of the standards is ISO-9001. This means you can expect only the highest and the most consistent level of Quality for our printer inks!
-
-
 
 ### Will using a compatible or remanufactured cartridge void my warranty?
 
 No, using a compatible or remanufactured cartridge WILL NOT VOID YOUR WARRANTY. Major printer manufacturers sell printers at or below cost. They make their profits from selling the cartridges. Formerly, once you bought your expensive new printer, you had no choice but to buy one of their cartridges after yours ran dry. By using compatible inks, you are cutting into their primary source of profit. Because of this, they will threaten to void your warranty if you use compatible or remanufactured cartridges. They are simply trying to protect their interests in any way they can. It is, however, strictly ILLEGAL for them to do so. Using remanufactured or compatible cartridges do not void your warranty MAGNUSON-MOSS WARRANTY IMPROVEMENT ACT, United States Code Annotated Title 15 Commerce Trade Chapter 50, Consumer Product Warranties 15 Sections 2302.
 
-
-
 There is no reason that you should not use compatible inks or remanufactured cartridges. They work and will save your money. We have sold many cartridges and never had an incident where a customer's warranty was "voided" from using our products.
-
-
 
 ### How easy is the compatible or remanufactured cartridge to install?
 
 Each cartridge is installed the same way that you would install the original OEM cartridge. They are individually wrapped in foil or plastic bags and have the tab on (which you remove when installing the cartridge - just like the original OEM cartridge.) We recommend that you use the head cleaning or nozzle cleaning utility that comes with your printer to clean the printheads (you should do this EVERY time you replace any cartridge - OEM or Compatible). Go to Control Panel - Printers - Properties - Utility.
-
-
 
 ### How much money will I save by buying a compatible or remanufactured cartridge?
 
@@ -211,21 +195,13 @@ Each cartridge is installed the same way that you would install the original OEM
 
 Our cartridges are fresh from the factory every month and have a tested shelf life of at least 20 months.
 
-
-
 ### Is this cartridge name-brand or generic?
 
 Our complete line of printing products includes both name-brand (OEM) and generic cartridges and toners.
 
-
-
 OEM cartridges and toners come with the quality and reliability you have come to expect from the manufacturers of these products.
 
-
-
 We only offer the highest quality generic brands of cartridges and toners and guarantee that they perform with the same quality as the OEM's while costing just a fraction of the price. If for any reason you are unhappy with any of the products you received, please contact our customer service center for a refund.
-
-
 
 ### Why should I buy a compatible or remanufactured cartridge?
 
@@ -235,21 +211,11 @@ What to do with old ink cartridges/toner cartridges?
 
 CompAndSave [does not accept empty cartridges for credit](https://www.compandsave.com/help/articles/360045542232/do-you-accept-empty-cartridges-for-a-credit), but you still have many options on what to do with them. You can go to your local office supply stores such as Staples and Office Depot. They will give you credit for qualified original cartridges that can be recycled.
 
-
-
 To know more about recycling old cartridges per brand, check our [recycling guide](https://www.compandsave.com/recycling-guide) for basic information. Major printer brands are now accepting old ink and toner cartridges. Schools and offices in your area may also accept empty cartridges for recycling.
-
-
 
 Another great option is to refill the empty cartridges by yourself. Check our [refill kit](https://www.compandsave.com/ink-refill-bulk-ink) that comes with all the tools you need for the refilling process.
 
-
-
 CompAndSave is committed to helping you get the best options for high-quality printing at a much affordable price. You can control your printing costs depending on what kind of ink you will use. Our friendly customer service staff is also committed to providing you with the information you need. You may contact our toll-free no. 1-833-465-6888 from Mondays to Fridays, 6am-4pm PT if you have further inquiries. We are always ready to help!
-
-
-
-
 
 [](https://www.compandsave.com/assets/instruction_ink_refill_kit_for_inkjet_printer.pdf)
 
