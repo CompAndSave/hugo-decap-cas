@@ -163,4 +163,10 @@ These guidelines help assess color accuracy, ink coverage, image details, and te
 * **Printer ink test:** A test area with varying percentages of ink coverage (for example, from 10% to 100%) to check if the printer can consistently print different ink densities.
 * **Image quality assessment:** A high-resolution image or a complex pattern demonstrating the printer's capability to accurately reproduce intricate details and sharp lines.
 * **Text quality evaluation:** Text in various font sizes and styles must be present to test the printer's ability to render text clearly and legibly across different settings.
-*
+
+### Greyscale Printer test pages must include the following:
+
+* **Black and white test print:** A section that includes a greyscale gradient, ranging from pure black to pure white, allowing users to assess the printer's ability to reproduce various shades of grey.
+* **Black print test:** A section containing solid black shapes or patterns to evaluate the printer's ability to produce consistent and uniform black coverage.
+* **Printer test pattern:** Geometric shapes, lines, and grids must be present on the greyscale test page, testing the printer's precision in both printing straight lines and maintaining alignment.
+* **Text quality evaluation:** Similar to the color printer test page, text in various font sizes and styles should be included to examine how well the greyscale printer renders text with good contrast and clarity.
