@@ -124,39 +124,39 @@ If you don't need high-quality photo prints, a laser printer is the best route t
 
 It's also essential to keep your printers in a cool, shaded location. Exposure to drier and hotter environments may increase the chance of clogged printheads. When this happens, you'll have no choice but to clean the printhead, which can lead to unnecessary ink usage.
 
-4. Manually Clean the Printhead
+### 4. Manually Clean the Printhead
 
-Cleaning the printhead manually when you experience clogged printhead issues or dried ink cartridges helps you save a lot of ink. Follow the steps in our printhead cleaning guide for more information.
+Cleaning the printhead manually when you experience [clogged printhead issues](https://www.compandsave.com/printhead-cleaning-guide) or [dried ink cartridges](https://www.compandsave.com/does-printer-ink-dry-out) helps you save a lot of ink. Follow the steps in our [printhead cleaning guide](https://www.compandsave.com/printhead-cleaning-guide#indexC) for more information.
 
-5. Monitor Ink Usage
+### 5. Monitor Ink Usage
 
 Don't rely solely on the printer's indicator to determine when to replace cartridges. Physically check the cartridge itself to assess if it truly needs replacement.
 
-6. Subscription Considerations
+### 6. Subscription Considerations
 
 Before you commit to a subscription, take a moment to think about the downsides. These drawbacks aren't usually highlighted as much as the benefits. To get a better understanding, just check out what people are saying on the internet.
 
 To know more, check 'What is HP Instant Ink Program – Is It Worth It?' and 'What is HP+ Program? Everything You Need To Know'.
 
-7. Power Management
+### 7. Power Management
 
 Consider leaving your printer on when it's not in use to prevent automatic cleaning cycles, which can use ink unnecessarily and contribute to ink wastage.
 
 If you're concerned about the potential increase in your electricity bill, you can rest easy. According to Sulin, who leads CR's printer-testing program, modern inkjet printers consume very little power when idle.
 
-8. Disable Printer Firmware Update
+### 8. Disable Printer Firmware Update
 
 If you use third-party ink or intend to use non-OEM ink cartridges, make sure to disable printer firmware updates to continue using non-OEM cartridges without any issues.
 
 For HP printer users, you can check our How to Disable HP Cartridge Protection guide for a step-by-step instructions on how to disable automatic printer firmware updates.
 
-9. Consider Refilling Your Ink Cartridges
+### 9. Consider Refilling Your Ink Cartridges
 
 Take advantage of ink cartridge refilling services offered by businesses like Costco or Walgreens.
 
 Alternatively, you can opt for a DIY approach by refilling them yourself. Just ensure you are refilling an original empty cartridge, using a refill kit from a trustworthy supplier, and that you have a clear manual on how to refill ink cartridges. This eco-friendly practice not only helps reduce waste but can also lead to significant savings compared to purchasing brand-new cartridges.
 
-10. Check for Third-Party Alternatives
+### 10. Check for Third-Party Alternatives
 
 Consider trying third-party ink cartridges; they are not only more reasonably priced and eco-friendly but also offer quality on par with the original ones.
 
