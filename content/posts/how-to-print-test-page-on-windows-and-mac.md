@@ -41,7 +41,7 @@ A printer test page shows various details regarding your printer's performance, 
 
 Now, let's talk about how to test print. The process varies slightly depending on the printer brand and model, but typically it involves navigating through your printer's settings menu or launching a print test from your computer.
 
-### How To Print Test Page on Windows
+### How To Print Test Page on Windows?
 
 **1. Windows XP**
 
@@ -100,3 +100,19 @@ Now, let's talk about how to test print. The process varies slightly depending o
 **Step 2:** Click on **'Bluetooth & devices,'** and then click on '**Printers & scanners.'** From the list of printers, choose the one where you want to try to print a test page.
 
 [![Bluetooth & devices](/blog/images/screenshot-2024-07-02-at-3.14.01 pm.png "Bluetooth & devices")](/blog/images/screenshot-2024-07-02-at-3.14.01 pm.png)
+
+**Step 3:** Once in, click on the **'Print test page.'**
+
+[![print test page](/blog/images/screenshot-2024-07-02-at-3.16.28 pm.png "print test page")](/blog/images/screenshot-2024-07-02-at-3.16.28 pm.png)
+
+### How to Print Test Page on Mac?
+
+**1. Mac OS Version 1**
+
+**Step 1:** Click on the **Apple menu.**
+
+[![apple menu](/blog/images/screenshot-2024-07-02-at-3.20.15 pm.png "apple menu")](/blog/images/screenshot-2024-07-02-at-3.20.15 pm.png)
+
+**Step 2:** Now click on **System Preferences** or **System Settings.**
+
+[![System Preferences](/blog/images/screenshot-2024-07-02-at-3.21.38 pm.png "System Preferences")](/blog/images/screenshot-2024-07-02-at-3.21.38 pm.png)
