@@ -230,11 +230,7 @@ Home or home office, black and white text documents, business documents, color d
 
 Did you know that when it comes to getting the most out of your savings, there's a secret that's even more wallet-friendly than the others? It's third-party ink cartridges!
 
-
-
 These cartridges offer the same quality as original Canon cartridges but come at a fraction of the cost. If you're looking to reduce your printing expenses while enjoying the same print results, third-party ink cartridges are your perfect choice.
-
-
 
 #### **Benefits of Third-Party Ink: Quality, Savings, and Sustainability**
 
@@ -260,27 +256,23 @@ Finding cartridges for older printer models can be challenging at brand stores. 
 
 [![note](/blog/images/1.png "note")](/blog/images/1.png)
 
-
-
 ## Cheapest Canon Ink Cartridges: OEM vs. CompAndSave Price
 
 ### High-Yield Ink Cartridges:
 
+**1. Canon PGI-280XXL Black Pigment, Canon CLI-281XXL (CMYK) Extra High-Yield Ink Cartridges**
 
+[![oem price](/blog/images/2.png "oem price")](/blog/images/2.png)
 
-1. **Canon PGI-280XXL Black Pigment, Canon CLI-281XXL (CMYK) Extra High-Yield Ink Cartridges**
+**2. Canon PG-245XL Black, CL-246XL Color High-Yield Ink Cartridge**
 
-   [![oem](/blog/images/2.png "oem")](/blog/images/2.png)
-2. **Canon PG-245XL Black, CL-246XL Color High-Yield Ink Cartridge**
+[![Canon PG-245XL](/blog/images/5.png "CL-246XL Color High-Yield Ink Cartridge")](/blog/images/5.png)
 
+**3. Canon PGI-250XL Pigment Black Ink, CLI-251BK XL High-Yield color Cartridges**
 
-3. **Canon PGI-250XL Pigment Black Ink, CLI-251BK XL High-Yield color Cartridges**
+[![](/blog/images/6.png)](/blog/images/6.png)
 
-
-4. **Canon PG-260 XL / CLI-261 XL Value Pack**
-
-
-5. **Canon PG-240 XL / CL-241 XL Value Pack**
+**4. Canon PG-260 XL / CLI-261 XL Value Pack**
 
 
 
