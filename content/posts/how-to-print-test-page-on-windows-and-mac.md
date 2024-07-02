@@ -138,3 +138,7 @@ Now, let's talk about how to test print. The process varies slightly depending o
 [![Apple menu](/blog/images/screenshot-2024-07-02-at-3.27.40 pm.png "Apple menu")](/blog/images/screenshot-2024-07-02-at-3.27.40 pm.png)
 
 **Step 2:** Now click on **System Preferences** or **System Settings.**
+
+[![System Preferences](/blog/images/screenshot-2024-07-02-at-3.28.48 pm.png "System Preferences")](/blog/images/screenshot-2024-07-02-at-3.28.48 pm.png)
+
+**Step 3:** Hover over to **Print & Scan** or **Printers & Scanners,** depending on your Mac OS X version.
