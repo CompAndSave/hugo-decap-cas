@@ -116,26 +116,62 @@ Google shut down Cloud Print in December 2020, and with it, a convenient way to 
 
 Okay, so till now we have discussed how you could connect the printer to Android phone using various methods, including Wi-Fi, USB, PaperCut, and Bluetooth printing from Android. Now, we will discuss the next step: printing out the content you have on your phone.
 
-How to Print Photos from Android Phone?
+### How to Print Photos from Android Phone?
 
 If you want to print photos from Android, the process is simple. Follow these steps:
 
 
 
-Open your photos app and choose the photo(s) to print, or go to File Manager and pick the documents to print.
+1. Open your photos app and choose the photo(s) to print, or go to File Manager and pick the documents to print.
+2. Next, find the **Print** option in the **Options** menu of selected photos or documents.
+3. Tap on the **Select Printer** button.
+4. Select your printer (in the case of the PaperCut app, you'll see its icon next to the printer).
+5. Now adjust the settings like paper size, colors, and other options and tap on print to get the printing working.
+6. If you're using a third-party app, such as NokoPrint, you can use it to select the photos or documents you want to print and directly print them rather than going to the file manager.
 
-Next, find the Print option in the Options menu of selected photos or documents.
+### How to Print Web Page on Android?
 
-Tap on the Select Printer button.
+1. If you want to print web pages from Android, go to your browser, go to the webpage you want to print, then click on browser settings.
+2. Next, tap on **Share**, tap on **Print**, and follow the same process of printing used for photos.
 
-Select your printer (in the case of the PaperCut app, you'll see its icon next to the printer).
+### How to Print Text Messages from Android?
 
-Now adjust the settings like paper size, colors, and other options and tap on print to get the printing working.
+Now that you know how to print pictures from Android phone, we're left with how to print texts from Android, which can be quite useful, especially for submission in court for legal issues. So, there are two ways we can print text messages from Android.
 
-If you're using a third-party app, such as NokoPrint, you can use it to select the photos or documents you want to print and directly print them rather than going to the file manager.
 
-How to Print Web Page on Android?
 
-If you want to print web pages from Android, go to your browser, go to the webpage you want to print, then click on browser settings.
+* Screenshots: It's easy but comes with a hassle depending on how many texts you want to print.
+* Super Backup app: It is convenient and quick but requires you to download a 3rd party app.
 
-Next, tap on Share, tap on Print, and follow the same process of printing used for photos.
+So let's discuss both:
+
+
+
+**Using Screenshots To Print Texts From Android:**
+
+
+
+1. Open your SMS app.
+2. Go to the message(s) you want to print.
+3. Screenshot them.
+4. Go to **Photos,** and then the **Screenshots** folder.
+5. Select the screenshot text messages you want to print and then select share.
+6. Tap on **Print**, select a printer, and you're done.
+
+**Using the Super Backup app:**
+
+
+
+ Download an app called **Super Backup** and **Restore** from Google Play.
+
+Once installed, it may ask you to select a folder in your phone's directory where it will store backups, so select one.
+
+Next, tap on **SMS**, then on Backup Conversations, and it may ask for permission to access contacts and messages. If you don't allow this, you won't be able to proceed further.
+
+If you accept permission, go to Backup Conversations, select (check) all the messages you want to print, and tap on Back Up at the bottom of the screen.
+
+It will ask you to select the file name. You can rename it or leave it as is. Click OK.
+
+Now go back and click on View Backups. Now tap on the file you just created.
+
+It will open the messages you backed up. There will also be a print button in the top right corner. Tap on it, and then you can print the text normally like you print any document.
