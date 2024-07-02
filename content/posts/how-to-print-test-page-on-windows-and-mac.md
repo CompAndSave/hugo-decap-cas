@@ -116,3 +116,11 @@ Now, let's talk about how to test print. The process varies slightly depending o
 **Step 2:** Now click on **System Preferences** or **System Settings.**
 
 [![System Preferences](/blog/images/screenshot-2024-07-02-at-3.21.38 pm.png "System Preferences")](/blog/images/screenshot-2024-07-02-at-3.21.38 pm.png)
+
+**Step 3:** Hover over to **Print & Fax**, or it might be **Print & Scan** or **Printers & Scanners**, depending on your Mac OS X version.
+
+[![Printers & Scanners](/blog/images/screenshot-2024-07-02-at-3.23.12 pm.png "Printers & Scanners")](/blog/images/screenshot-2024-07-02-at-3.23.12 pm.png)
+
+**Step 4:** You'll see a printer listing on the life side window; **select your printer.**
+
+[![select your printer](/blog/images/screenshot-2024-07-02-at-3.24.25 pm.png "select your printer")](/blog/images/screenshot-2024-07-02-at-3.24.25 pm.png)
