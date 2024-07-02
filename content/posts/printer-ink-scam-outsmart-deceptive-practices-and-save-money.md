@@ -175,10 +175,10 @@ Original printer ink cartridges are expensive, and the sneaky tactics manufactur
 
   They are made from brand-new parts manufactured by third-party factories to meet OEM specifications. These cartridges undergo meticulous research, production, and testing processes, ensuring quality and performance at par with the original.
 
-CompAndSave is offering both, as well as ink refill kits. Both our remanufactured and compatible ink cartridges have been filled with ink formulations that replicate the original, ensuring exceptional quality and performance, all at a fraction of what you would pay for OEM cartridges.
+CompAndSave is offering both, as well as ink [refill kits](https://www.compandsave.com/ink-refill-bulk-ink). Both our remanufactured and compatible ink cartridges have been filled with ink formulations that replicate the original, ensuring exceptional quality and performance, all at a fraction of what you would pay for OEM cartridges.
 
-
-
-OEM vs. CompAndSave Prices
+### OEM vs. CompAndSave Prices
 
 Let's compare the prices of OEM and CompAndSave inks for different brands, so you can see how much you could save.
+
+[![OEM vs. CompAndSave Prices](/blog/images/screenshot-2024-07-02-at-4.42.09 pm.png "OEM vs. CompAndSave Prices")](/blog/images/screenshot-2024-07-02-at-4.42.09 pm.png)
