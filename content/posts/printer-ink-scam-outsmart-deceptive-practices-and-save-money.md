@@ -148,16 +148,38 @@ If you're concerned about the potential increase in your electricity bill, you c
 
 If you use third-party ink or intend to use non-OEM ink cartridges, make sure to disable printer firmware updates to continue using non-OEM cartridges without any issues.
 
-For HP printer users, you can check our How to Disable HP Cartridge Protection guide for a step-by-step instructions on how to disable automatic printer firmware updates.
+For HP printer users, you can check our [How to Disable HP Cartridge Protection](https://www.compandsave.com/how-to-disable-hp-cartridge-protection) guide for a step-by-step instructions on how to disable automatic printer firmware updates.
 
 ### 9. Consider Refilling Your Ink Cartridges
 
 Take advantage of ink cartridge refilling services offered by businesses like Costco or Walgreens.
 
-Alternatively, you can opt for a DIY approach by refilling them yourself. Just ensure you are refilling an original empty cartridge, using a refill kit from a trustworthy supplier, and that you have a clear manual on how to refill ink cartridges. This eco-friendly practice not only helps reduce waste but can also lead to significant savings compared to purchasing brand-new cartridges.
+Alternatively, you can opt for a DIY approach by refilling them yourself. Just ensure you are refilling an original empty cartridge, using a [refill kit from a trustworthy supplier](https://www.compandsave.com/ink-refill-bulk-ink), and that you have a clear manual on [how to refill ink cartridges](https://www.compandsave.com/how-to-refill-ink-cartridges-guide). This eco-friendly practice not only helps reduce waste but can also lead to significant savings compared to purchasing brand-new cartridges.
 
 ### 10. Check for Third-Party Alternatives
 
 Consider trying third-party ink cartridges; they are not only more reasonably priced and eco-friendly but also offer quality on par with the original ones.
 
 To ensure a satisfying experience, look for a trustworthy third-party ink supplier. Check product reviews for insights into their product quality, after-sales service, policies, and more if you decide to explore this option.
+
+## Cheap Alternatives To Expensive Ink Cartridges
+
+Original printer ink cartridges are expensive, and the sneaky tactics manufacturers use to keep you hooked can worsen your printing experience. The good news is, you have options to save on ink without sacrificing quality.
+
+**Some of the most common affordable options are:**
+
+Remanufactured cartridges.
+
+They're made from durable OEM cartridge materials, cleaned, inspected, and refilled to match the performance of the new original cartridge. Choosing remanufactured cartridges saves money and reduces landfill waste, promoting sustainability.
+
+* Compatible cartridges
+
+They are made from brand-new parts manufactured by third-party factories to meet OEM specifications. These cartridges undergo meticulous research, production, and testing processes, ensuring quality and performance at par with the original.
+
+CompAndSave is offering both, as well as ink refill kits. Both our remanufactured and compatible ink cartridges have been filled with ink formulations that replicate the original, ensuring exceptional quality and performance, all at a fraction of what you would pay for OEM cartridges.
+
+
+
+OEM vs. CompAndSave Prices
+
+Let's compare the prices of OEM and CompAndSave inks for different brands, so you can see how much you could save.
