@@ -28,8 +28,6 @@ The first thing to do is deciding between inkjet or laser. To give you an idea, 
 
 Inkjet is the most common type of printer and the more affordable one. Inkjet printers use ink cartridges that create droplets of ink transferred on the paper to create texts and images. The printing technique of an inkjet printer is simpler and easier. It is popular for home office needs, especially for those who usually print images.
 
-
-
 **✔️ PROS**
 
 * Less expensive printers
@@ -49,8 +47,6 @@ Inkjet is the most common type of printer and the more affordable one. Inkjet pr
 
 Laser printers use toner cartridges with powdered colorants to create prints. As with its name, this type of printer uses laser beams to print out texts or images. It is widely popular for office use since it prints documents fast and can accommodate heavy loads.
 
-
-
 **✔️ PROS**
 
 * Fast printing speed
@@ -68,8 +64,6 @@ Laser printers use toner cartridges with powdered colorants to create prints. As
 ## What are the Types of Printer Cartridges?
 
 Since there are two types of printers, they also use different printing cartridges. An inkjet printer uses ink cartridges or ink bottles, while a laserjet printer uses toner cartridges for printing.
-
-
 
 ### What is a printer ink cartridge?
 
@@ -89,29 +83,19 @@ Ink bottles/ink refill bottles are needed if your printer has an ink tank. An in
 
 Dye-based ink and pigment-based ink are the two types of ink. Another factor to consider before even buying your printer is the kind of ink it uses. Ask yourself what do you usually print; is it photos or more on documents? Do you need prints that can last for a long time? Some printers use both pigment and dye-based ink cartridges. One example is Canon Pixma TS and TR series with [Canon Ink Cartridges 280 and 281](https://www.compandsave.com/canon/280-281-xxl-ink-cartridges/pgi-280xxl-cli-281xxl-5-combo). PG-280XXL black is pigment-based, while CLI-281XXL black, cyan, magenta, and yellow are dye-based
 
-
-
 To know the type of ink your printer uses, you can find this information in the printer manual. For CompAndSave products, the ink type is listed on the Product Specifications.
 
 [![HP 63KL COLOR INK CARTRIDGE PRODUCT SPECIFICATIONS](/blog/images/4.png "HP 63XL COLOR INK CARTRIDGES PRODUCT SPECIFICATIONS")](/blog/images/4.png)
 
 **Dye-based inks** use coloring agents dissolved in liquid to produce prints. This type of ink is usually used for documents and sharper prints as it gives off more vibrant colors. Dye ink is best used for indoor documents since it may fade quicker when under sunlight.
 
-
-
 **Pigment-based inks** use powdered coloring agents to print. The colored powder is mixed with water, and therefore, it becomes a suspension. Pigment ink may give off lighter colors, but it is best for prints exposed to light since it does not fade away easily.
 
-
-
 If your printing needs evolve on short-term use, you will save more by using dye-based inks. However, if you run a small business and need long-term prints, it is best to use pigment ink.
-
-
 
 ### What are toner cartridges and a drum unit?
 
 Toner cartridges are used for laser printers. It holds the powdered color agents that the drum unit in your laser printer melts to produce texts or images. The toner cartridge can basically print up to 2,000 pages before it needs replacement. Your drum unit can accommodate up to 4,000 pages before you need to replace it.
-
-
 
 These two tools work together so your printer can work. Some printers like HP incorporate the drum unit into the toner. For most of the Brother printers, the toner cartridge and drum unit are separated. You can see a sample below of a drum unit, toner cartridge, and the toner installed into the drum unit.
 
@@ -121,25 +105,17 @@ These two tools work together so your printer can work. Some printers like HP in
 
 Each cartridge has a different page yield. Choosing the right printer ink is based not only on how it fits your printer but also on how many pages you usually print. Page yield refers to the number of pages per cartridge that can print. To maximize its use and save more money, you have to know the differences in your cartridges’ page yield.
 
-
-
 ### What is standard ink or toner cartridge?
 
 It is best to purchase a standard ink or toner when you only use your printer for family needs. If you do not regularly print or in large quantities, this is the perfect one for you. Avoid getting inks with a higher page yield if you do not print regularly. Your ink may dry up since you are not using it frequently.
-
-
 
 ### What is an XL ink or toner cartridge?
 
 The XL letters on the packaging or cartridge indicate that it is a high-yield ink or toner. The size of the cartridge is the same as standard ones, but XL ink/toner contains more ink. What does high yield mean? It means that it can print more pages than the standard ink and has nothing to do with its size. Thus, the cost per page is lower. High-yield ink can print twice as much as the standard ink. For home offices or small businesses that need regular printing, use a higher yield to save on costs. Aside from that, you can avoid changing the cartridge often when using an XL ink.
 
-
-
 ### What is the difference between XL and XXL ink cartridges or toner cartridges?
 
 XXL ink cartridges have more ink compared to the XL ones. It may also mean a higher price, but it is definitely worth it if you do a lot of printing. The more a cartridge can print, the lower the cost per page will be. To give you a concrete idea, you can check our sample table below for the page yield difference of the standard ink vs. XL ink vs. XXL ink.
-
-
 
 Take note that it can be different for other brands or other types of cartridges. The important thing to remember is that the higher the yield, the more pages it can print. On the table below, you will see standard (non-XL), XL (high yield), and XXL (super high yield) ink cartridges. The cartridges may have different ink model numbers, but all of the cartridges below are the same in size and only vary in yield version. Also, all three printer inks can be used for the following printers:
 
@@ -148,8 +124,6 @@ Take note that it can be different for other brands or other types of cartridges
 ## What are the Different Types of Ink Cartridges (condition)?
 
 Did you know that there are different types of ink cartridges you can purchase for your printer? That is right. You have the option to choose what ink type you can use. Printer inks can be expensive, but CompAndSave aims to give you quality alternatives that will not break your budget. We have compiled the different types of printers to can choose the best ink for your printing needs.
-
-
 
 ### What are OEM ink and toner cartridges?
 
@@ -161,8 +135,6 @@ OEM is an abbreviation for 'Original Equipment Manufacturer.' When you see a pro
 
 Remanufactured ink and toner cartridges are simply not refilled cartridges as they have been recycled to meet or exceed OEM (Original Equipment Manufacturer) specifications. The recycling process involves disassembling, inspecting, cleaning, reassembling, filling the product with ink. Then it will undergo a thorough test to make sure that it will work the same way as the original ones, including print quality. Enjoy the benefits of purchasing printer cartridges from CompAndSave that gives nothing but the best remanufactured ink cartridges online! For more information, you can watch this FAQ about [remanufactured ink cartridges](https://www.youtube.com/watch?v=1cgqMXGRmXg). You can get the same quality prints for a much lower price.
 
-
-
 CompAndSave offers the best remanufactured ink cartridges and toners at an affordable cost. You can see below samples of our various products.
 
 [![REMANUFACTURED INK AND TONER CARTRIDGES](/blog/images/8.png "REMANUFACTURED INK ANF TONER CARTRDGES")](/blog/images/8.png)
@@ -171,8 +143,22 @@ CompAndSave offers the best remanufactured ink cartridges and toners at an affor
 
 Compatible ink and toner cartridges are brand new non-OEM new cartridges - not recycled nor refilled. Compatible ink cartridges are manufactured by a third-party factory to the OEM specifications. Each printer cartridge is carefully researched, manufactured, and tested. New compatible cartridges are added regularly.
 
-
-
 CompAndSave manufactures high-quality compatible inks and printer toner cartridges that are cost-efficient. You can see some of our compatible ink and toner cartridges below.
 
 [![compatible ink and toner cartridges?](/blog/images/9.png "compatible ink and toner cartridges?")](/blog/images/9.png)
+
+### What is a printer ink refill kit?
+
+Another great option that does not only save you money but is environmentally friendly as well is refilling your ink cartridges. This is not applicable for toners. You can check our [refill ink/bulk ink](<refill ink/bulk ink>) products. First, you need to make sure if it is compatible with your printer. It is simply refilling your ink. The kit already includes all the necessary items for refilling, such as needles, screwdriver, and drill tool, among others. For an easier refilling process, you can follow our [universal ink refill kit guide](https://www.compandsave.com/assets/instruction_ink_refill_kit_for_inkjet_printer.pdf)
+
+[![](/blog/images/10.png)](/blog/images/10.png)
+
+
+
+
+
+[](https://www.compandsave.com/assets/instruction_ink_refill_kit_for_inkjet_printer.pdf)
+
+[](https://www.compandsave.com/assets/instruction_ink_refill_kit_for_inkjet_printer.pdf)
+
+[](https://www.compandsave.com/assets/instruction_ink_refill_kit_for_inkjet_printer.pdf)
