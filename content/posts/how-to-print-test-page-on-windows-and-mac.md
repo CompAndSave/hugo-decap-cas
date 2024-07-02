@@ -40,3 +40,45 @@ A printer test page shows various details regarding your printer's performance, 
 ## How To Test Print: Step-by-Step Guide
 
 Now, let's talk about how to test print. The process varies slightly depending on the printer brand and model, but typically it involves navigating through your printer's settings menu or launching a print test from your computer.
+
+### How To Print Test Page on Windows
+
+**1. Windows XP**
+
+**Step 1:** Click the **'Start'** button > **'Control Panel'** > **'Printers and Faxes.'**
+
+**Step 2:** Right-click on your printer, then click **'Properties.'**
+
+**Step 3:** From the popup, click on **'Print a Test Page'**; click on **'Okay'** after it's done to close the popup.
+
+**2. Windows Vista**
+
+**Step 1:** Click the **'Start'** button > **'Control Panel'** > double-click on **'Printer.'**
+
+**Step 2:** Right-click on your printer, and then click **'Printer Properties.'**
+
+**Step 3:** Click **'Print a Test Page'** from the popup; click on **'Okay'** after it's done to close the popup.
+
+**3. Windows 7**
+
+**Step 1:** Click the **'Start'** button > **'Control Panel'** > **'Hardware and Sound.'**
+
+**Step 2:** Go to **'Devices and Printers'** > **'Printer Properties'** > right-click the printer icon.
+
+**Step 3:** From the submenu, left-click **'Printer Properties.'**
+
+**Step 4:** Within the Printer Properties window, click on the **'Print Test Page.'**
+
+**4. Windows 8/8.1**
+
+**Step 1:** Press **'Windows'** key on your keyboard > '**View Devices and Printers.'**
+
+**Step 2:** Locate your printer, right-click on it, and click on **'Printer Properties'**
+
+**Step 3:** From the popup, click on **'Print a Test Page'**; click on **'Okay'** after it's done to close the popup.
+
+**5. Windows 10**
+
+**Step 1:** Click on the **'Windows'** icon and select **'Settings.'**
+
+**Step 2:** On the search bar, type **“printer”** and then click **'Printers & scanners.'**
