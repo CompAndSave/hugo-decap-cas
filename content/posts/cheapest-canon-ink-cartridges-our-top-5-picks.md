@@ -9,7 +9,7 @@ description: Tired of pricey ink? Check out our top 5 picks for the cheapest
 tags:
   - compatible ink cartridges
   - Top 5 picks!
-  - Cartridges Ink
+  - Ink Cartridge
   - Cheapest Ink
   - Canon Ink Catridges
   - Canon Ink
@@ -23,8 +23,6 @@ Are you looking for the cheapest Canon ink cartridges to save money without comp
 1. Making Informed Choices: Going Beyond the Basics
 2. Top 5 Cheapest Ink Cartridges for Your Needs
 3. Exploring Third-Party Ink Cartridges for Maximum Savings
-
-
 
 So, let's get started and explore the cost-saving opportunities of Canon ink!
 
@@ -48,7 +46,7 @@ Despite a slightly higher initial cost, they offer a better cost-per-page ratio,
 
 ### 2. [Calculating Cost Per Page](https://www.compandsave.com/how-to-calculate-printing-cost-per-page)
 
-To find out if the ink cartridge is truly cheap based on your printing needs, you need to learn how [to calculate the ink cartridge's cost per page.](https://www.compandsave.com/how-to-calculate-printing-cost-per-page) Understanding the cost per page is essential for efficient print expense management. It enables you to gauge the actual cost of each printed page, considering both the cartridge price and page yield. This knowledge empowers you to make cost-effective ink choices aligned with your budget and printing frequency.
+To find out if the ink cartridge is truly cheap based on your printing needs, you need to learn [how to calculate the ink cartridge's cost per page](https://www.compandsave.com/how-to-calculate-printing-cost-per-page). Understanding the cost per page is essential for efficient print expense management. It enables you to gauge the actual cost of each printed page, considering both the cartridge price and page yield. This knowledge empowers you to make cost-effective ink choices aligned with your budget and printing frequency.
 
 **Here's what you need to consider:**
 
@@ -257,7 +255,7 @@ Finding cartridges for older printer models can be challenging at brand stores. 
 **2. Canon PG-245XL Black, CL-246XL Color High-Yield Ink Cartridge**
 
 * **OEM PRICE: [$56.99](https://www.usa.canon.com/shop/p/pg-245-cl-246-xl-combo?color=Black&type=Kit)**	
-* **COMPANDSAVE PRICE: $39.90**
+* **COMPANDSAVE PRICE: [$39.90](https://www.compandsave.com/canon/245xl-246xl-ink-pg-245xl-cl-246xl-2-combo)**
 
 **3. Canon PGI-250XL Pigment Black Ink, CLI-251BK XL High-Yield color Cartridges**
 
@@ -277,8 +275,6 @@ Finding cartridges for older printer models can be challenging at brand stores. 
 For us to easily check the price difference, let's compare the OEM price versus CompAndSave price side by side.
 
 [![CARTRIDGE MODEL](/blog/images/5.png "CARTRIDGE MODEL")](/blog/images/5.png)
-
-
 
 In the end, third-party ink cartridges are a great option for cost-conscious consumers looking to save money while also helping the environment.
 
