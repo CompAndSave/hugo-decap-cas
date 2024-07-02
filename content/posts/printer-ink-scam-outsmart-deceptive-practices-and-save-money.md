@@ -168,13 +168,12 @@ Original printer ink cartridges are expensive, and the sneaky tactics manufactur
 
 **Some of the most common affordable options are:**
 
-Remanufactured cartridges.
+* [Remanufactured cartridges](https://www.compandsave.com/what-are-remanufactured-ink-cartridges-guide)
 
-They're made from durable OEM cartridge materials, cleaned, inspected, and refilled to match the performance of the new original cartridge. Choosing remanufactured cartridges saves money and reduces landfill waste, promoting sustainability.
+  They're made from durable OEM cartridge materials, cleaned, inspected, and refilled to match the performance of the new original cartridge. Choosing remanufactured cartridges saves money and reduces landfill waste, promoting sustainability.
+* [Compatible cartridges](https://www.compandsave.com/ink-knowledge-base#compatible_cartridge)
 
-* Compatible cartridges
-
-They are made from brand-new parts manufactured by third-party factories to meet OEM specifications. These cartridges undergo meticulous research, production, and testing processes, ensuring quality and performance at par with the original.
+  They are made from brand-new parts manufactured by third-party factories to meet OEM specifications. These cartridges undergo meticulous research, production, and testing processes, ensuring quality and performance at par with the original.
 
 CompAndSave is offering both, as well as ink refill kits. Both our remanufactured and compatible ink cartridges have been filled with ink formulations that replicate the original, ensuring exceptional quality and performance, all at a fraction of what you would pay for OEM cartridges.
 
