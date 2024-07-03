@@ -111,7 +111,7 @@ If you prefer this option, ensure you have the right tools and clear instruction
 
 ✅ DIY approach with potential long-term savings.
 
-*Here's a helpful tip: Us**ing compatible or remanufactured ink cartridges won't void your printer warranty.** It's a win-win situation where you save money and help the environment, all while getting excellent print results*
+*Here's a helpful tip: **Using compatible or remanufactured ink cartridges won't void your printer warranty.** It's a win-win situation where you save money and help the environment, all while getting excellent print results.*
 
 ## How to Find the Right Third-party Ink and Toner Supplier?
 
