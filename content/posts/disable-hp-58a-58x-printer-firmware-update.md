@@ -13,7 +13,7 @@ tags:
   - Device Firmware
   - HP Printer
 ---
-[![](/blog/images/ingoude.-5-.png)](/blog/images/ingoude.-5-.png)
+[![Disable HP 58A/58X Printer Firmware Update](/blog/images/ingoude.-5-.png "Disable HP 58A/58X Printer Firmware Update")](/blog/images/ingoude.-5-.png)
 
 As you may know, HP released a new firmware update, version 2149A, for LaserJet printers recently. New printer firmware versions are released to address bugs, add features, or update apps. However, if you use an aftermarket printer cartridge, this may not be the case as the latest update may cause your printer not to recognize third-party toner cartridges.
 
@@ -21,9 +21,7 @@ As you may know, HP released a new firmware update, version 2149A, for LaserJet 
 
 The good news is that CompAndSave's new batches of ink cartridges have chips that are compatible with the most recent firmware version so there is nothing to worry. Read on for the step-by-step guide on how to disable the "Printer Update" function.
 
-
-
-Which printers are affected by this new HP LaserJet printer firmware update?
+### Which printers are affected by this new HP LaserJet printer firmware update?
 
 Printers using HP 58A/58X toner cartridges
 
