@@ -42,7 +42,7 @@ There is no need to be concerned if you use any of the listed printers because t
 
 To know if your HP LaserJet printer has been updated, we suggest checking your printer's firmware version by printing out a **Printer Status Report** like the photo below.
 
-[![Printer Status Report](/blog/images/16.png "Printer Status Report")](/blog/images/16.png)
+[![Printer Status Report](/blog/images/screenshot-2024-07-03-at-4.06.25 pm.png "Printer Status Report")](/blog/images/screenshot-2024-07-03-at-4.06.25 pm.png)
 
 If it shows that your firmware version is 2149A, this means that your firmware is up-to-date. If not, you can still turn off the **"Printer Update"** function.
 
@@ -74,7 +74,7 @@ We'll show you two ways on how to avoid HP's automated printer firmware updates.
 
 The second way to prevent your printer from being updated automatically is by disabling or turning off the **"Printer Update"** function. If your printer hasn't been updated to the current version yet, then this tip will surely help so you can continue to utilize third-party HP LaserJet toner cartridges. To avoid future auto-printer updates, follow the instructions below.
 
-{{< youtubeLazyload id="ci-ULRl5ONw" title="HOW TO TURN OFF THE PRINTER UPDATE FUNCTION" >}}
+{{< youtubeLazyload id="ci-ULRl5ONw" title="How to disable firmware upgrade for HP 58A 58X printers" >}}
 
 1. To begin, click **"Setup"** on home page.
 
