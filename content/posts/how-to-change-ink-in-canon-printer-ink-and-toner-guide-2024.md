@@ -94,3 +94,21 @@ If you are replacing empty ink cartridges, be sure to remove the old cartridges 
 **STEP 6:** Be careful not to touch the gold contact point, or it may damage the cartridge.
 
 [![printer ink contact point](/blog/images/change-ink-canon-8.png "Printer Ink Contact Point")](/blog/images/change-ink-canon-8.png)
+
+**STEP 7:** Insert the ink cartridge at a slight angle into the ink cartridge holder as shown. Then press the bottom of the ink cartridge down until it clicks into place.
+
+[![ink cartridge insertion](/blog/images/change-ink-canon-9.png "Ink Cartridge Insertion")](/blog/images/change-ink-canon-9.png)
+
+**STEP 8:** If it does not fit in easily, ensure you have it the right way up and insert it into the correct slot. Repeat the same process for installing the other remaining cartridges.
+
+**STEP 9:** Once you've done this, close the scanner bed and printer cover. If the printer is turned on, it should automatically recognize the new cartridges and begin the printing process.
+
+**STEP 10:** Print a test page to check if the installation is correct. If you encounter issues, such as the [ink not being recognized](https://www.compandsave.com/override-canon-printer-not-recognizing-ink-guide), refer to this guide to [troubleshoot ink problems](https://www.compandsave.com/troubleshoot-remanufactured-ink-cartridge-problems-guide).
+
+## How To Change Ink For Canon Printer: Toner Cartridges
+
+Canon also sells toner cartridges. If you own a laser printer, make sure you know how to install a Canon toner cartridge. Most installation processes for toner cartridges are similar across all brands. The initial step is locating the cartridge space since it may vary per printer model. 
+
+If you have a Canon ImageCLASS MF3010 or a similar model, you can follow this step-by-step guide. For other Canon printer models, first locate the toner, then follow the remaining steps. Here are the basic steps to change Canon printer cartridge:
+
+**STEP 1:** Lift the scanning platform, but avoid lifting it forcefully. Check that the glass is closed correctly and that no items are left in the scanner bed.
