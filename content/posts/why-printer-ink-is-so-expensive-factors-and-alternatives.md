@@ -37,7 +37,7 @@ Even paper, something we often use with ink, is much more reasonably priced. A s
 
 Printer ink stands among the priciest liquids on the market, even surpassing the cost of high-end wines. So why is printer ink so pricey? Let's delve into the six main reasons why printer ink is so expensive.
 
-## Sourcing Costs:
+* ### Sourcing Costs:
 
 Printer ink and toner are made up of complex formulations and high-quality pigments that can be expensive to source. The manufacturing process requires precision and quality control to ensure consistent results, which adds to the overall cost of production. These pigments and formulations can be sourced from specialty suppliers worldwide, adding to printer ink and toner costs.
 
