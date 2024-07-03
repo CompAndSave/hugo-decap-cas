@@ -17,8 +17,6 @@ tags:
 
 Do you know how to change ink in Canon printer? What about toner cartridges? Well, you have come to the right place! Whether you're a seasoned printer user or a beginner, knowing how to change ink for Canon printer is essential for maintaining print quality and efficiency. 
 
-
-
 In this guide, we'll show you step-by-step how to change both ink and toner cartridges in your Canon printer. This will help your printer work well and give you the best prints. If you have a Canon Pixma printer, you can also watch this [video to install the cartridges](https://www.compandsave.com/ink-toner-how-to-video) easily!
 
 **This guide will discuss:**
@@ -76,3 +74,23 @@ The [Canon Pixma MG3620](https://www.compandsave.com/canon/pixma/mg3620-ink-cart
 The image above is another Canon Pixma printer. It may look slightly different, but the cartridge space is still behind the printer cover. The [Canon Pixma MG2522](https://www.compandsave.com/canon/pixma/mg2522-ink-cartridges) uses one of the best-selling cartridges, [Canon 245 and 246](https://www.compandsave.com/canon/pixma/mg2522-g-6984/245-246-ink-cartridges-pg-245-cl-246-2-combo-p-11032). This video tutorial about installing [Canon PIXMA MG2522 printer ink cartridges](https://www.youtube.com/watch?v=tnnFlTxdGio) will guide you on how to replace ink cartridge Canon Pixma.
 
 Now that you know where the ink cartridge is, you can continue to follow the guide on how to change ink for Canon printer.
+
+**STEP 3:** Wait for the cartridge holder to stop moving.
+
+[![printer cartridge holder](/blog/images/change-ink-canon-5.png "Printer Cartridge Holder")](/blog/images/change-ink-canon-5.png)
+
+**STEP 4:** Use the cartridge lock lever to release the cartridge. Pull the cartridge towards you.
+
+[![printer cartridge holder](/blog/images/change-ink-canon-6.png "Printer Cartridge Holder")](/blog/images/change-ink-canon-6.png)
+
+If you are installing the ink cartridge on a brand-new printer, be sure to remove the placeholder plastic tabs before you try to install the ink cartridges.
+
+If you are replacing empty ink cartridges, be sure to remove the old cartridges before starting.
+
+**STEP 5:** Remove the ink from the packaging. Then, remove the plastic protective cover and the bright-colored cartridge tape.
+
+[![printer ink cartridge](/blog/images/change-ink-canon-7.png "Printer Ink Cartridge")](/blog/images/change-ink-canon-7.png)
+
+**STEP 6:** Be careful not to touch the gold contact point, or it may damage the cartridge.
+
+[![printer ink contact point](/blog/images/change-ink-canon-8.png "Printer Ink Contact Point")](/blog/images/change-ink-canon-8.png)
