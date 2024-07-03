@@ -17,8 +17,6 @@ tags:
 
 As you may know, HP released a new firmware update, version 2149A, for LaserJet printers recently. New printer firmware versions are released to address bugs, add features, or update apps. However, if you use an aftermarket printer cartridge, this may not be the case as the latest update may cause your printer not to recognize third-party toner cartridges.
 
-
-
 The good news is that CompAndSave's new batches of ink cartridges have chips that are compatible with the most recent firmware version so there is nothing to worry. Read on for the step-by-step guide on how to disable the **"Printer Update"** function.
 
 ## Which printers are affected by this new HP LaserJet printer firmware update?
@@ -36,13 +34,9 @@ The good news is that CompAndSave's new batches of ink cartridges have chips tha
 
 This new HP LaserJet firmware update is for the printers and toner cartridges indicated above. Since printer industries can do this automatically without your consent or prompting, especially if your printer is connected to your WiFi, you may have lately observed a message on your printer screen indicating that your printer's firmware has been updated.
 
-
-
 ## What will happen if my HP printer is affected by this update?
 
 There is no need to be concerned if you use any of the listed printers because the most recent firmware will now recognize the chip in your ink cartridges. In order to prevent future update issues and if you still want to use third-party ink cartridges, we strongly advise you to disable your printer's automatic firmware update feature, which will be covered in more detail in the section below.
-
-
 
 ## How would I know if my printer has been updated?
 
@@ -52,6 +46,16 @@ To know if your HP LaserJet printer has been updated, we suggest checking your p
 
 If it shows that your firmware version is 2149A, this means that your firmware is up-to-date. If not, you can still turn off the **"Printer Update"** function.
 
-
-
 We'll show you two ways on how to avoid HP's automated printer firmware updates. The first one is by turning off the **OEM Cartridge Policy** function on your printer if there is. HP has added an **OEM Cartridge Policy** feature that may prevent compatible cartridges from being used. Follow the steps below to turn off this feature.
+
+## How to disable "OEM Cartridge Policy"
+
+1. Click "**Setup"** on the home page
+
+[![SETUP](/blog/images/1.png "SETUP")](/blog/images/1.png)
+
+2. Select **"System Setup"** from the Setup menu.
+
+[![SYSTEM SETUP](/blog/images/2.png "SYSTEM SETUP")](/blog/images/2.png)
+
+3. Select **"Supply Settings"** under System Setup.
