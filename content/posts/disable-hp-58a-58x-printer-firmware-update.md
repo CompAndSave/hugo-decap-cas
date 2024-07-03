@@ -19,26 +19,31 @@ As you may know, HP released a new firmware update, version 2149A, for LaserJet 
 
 
 
-The good news is that CompAndSave's new batches of ink cartridges have chips that are compatible with the most recent firmware version so there is nothing to worry. Read on for the step-by-step guide on how to disable the "Printer Update" function.
+The good news is that CompAndSave's new batches of ink cartridges have chips that are compatible with the most recent firmware version so there is nothing to worry. Read on for the step-by-step guide on how to disable the **"Printer Update"** function.
 
-### Which printers are affected by this new HP LaserJet printer firmware update?
+## Which printers are affected by this new HP LaserJet printer firmware update?
 
-Printers using HP 58A/58X toner cartridges
+### Printers using HP 58A/58X toner cartridges
 
-HP LaserJet Enterprise M406dn
-
-HP LaserJet Enterprise MFP M430f
-
-HP LaserJet Pro M404dn
-
-HP LaserJet Pro M404dw
-
-HP LaserJet Pro M404n
-
-HP LaserJet Pro MFP M428dw
-
-HP LaserJet Pro MFP M428fdn
-
-HP LaserJet Pro MFP M428fdw
+* HP LaserJet Enterprise M406dn
+* HP LaserJet Enterprise MFP M430f
+* HP LaserJet Pro M404dn
+* HP LaserJet Pro M404dw
+* HP LaserJet Pro M404n
+* HP LaserJet Pro MFP M428dw
+* HP LaserJet Pro MFP M428fdn
+* HP LaserJet Pro MFP M428fdw
 
 This new HP LaserJet firmware update is for the printers and toner cartridges indicated above. Since printer industries can do this automatically without your consent or prompting, especially if your printer is connected to your WiFi, you may have lately observed a message on your printer screen indicating that your printer's firmware has been updated.
+
+
+
+## What will happen if my HP printer is affected by this update?
+
+There is no need to be concerned if you use any of the listed printers because the most recent firmware will now recognize the chip in your ink cartridges. In order to prevent future update issues and if you still want to use third-party ink cartridges, we strongly advise you to disable your printer's automatic firmware update feature, which will be covered in more detail in the section below.
+
+
+
+## How would I know if my printer has been updated?
+
+To know if your HP LaserJet printer has been updated, we suggest checking your printer's firmware version by printing out a **Printer Status Report** like the photo below.
