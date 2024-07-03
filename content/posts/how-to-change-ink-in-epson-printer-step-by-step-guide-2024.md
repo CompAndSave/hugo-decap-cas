@@ -41,4 +41,16 @@ Now that we've figured out which cartridge you will use, let’s now tackle the 
 
 **Step 1:** Make sure your printer is turned on. Lift the scanner bed to open up your printer. If you're setting up ink cartridges on a new printer, remove the placeholder plastic tabs before trying to install the ink cartridges.
 
-[![](/blog/images/change-ink-epson-1.png)](/blog/images/change-ink-epson-1.png)
+[![epson printer](/blog/images/change-ink-epson-1.png "Epson Printer")](/blog/images/change-ink-epson-1.png)
+
+**WARNING:** Don't move the printhead with your hands, as this might harm the printer. Also, avoid touching the flat white cable inside the printer to keep everything safe and working well.
+
+**Step 2:** Open the cover for the cartridges. If you're swapping out an empty cartridge, remove the old one before you begin.
+
+[![epson printer](/blog/images/change-ink-epson-2.png "Epson Printer")](/blog/images/change-ink-epson-2.png)
+
+**A. For Epson Workforce WF-2750**
+
+[![epson printer](/blog/images/change-ink-epson-3.png "Epson Printer")](/blog/images/change-ink-epson-3.png)
+
+The [Epson Workforce WF-2750](https://www.compandsave.com/epson/workforce/wf-2750-ink-cartridges) uses the popular [Epson 220XL cartridges](https://www.compandsave.com/epson/220xl-ink-cartridges). Like many Epson printers, this one keeps the cartridges behind the scanner bed. It's similar to other Epson printers like the [WF-3640](https://www.compandsave.com/epson/workforce/wf-3640-ink-cartridges) and [WF-3620](https://www.compandsave.com/epson/workforce/wf-3620-ink-cartridges). Check out our video tutorial on how to change Epson ink cartridge in Epson Workforce WF-2750 easily.
