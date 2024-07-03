@@ -169,10 +169,10 @@ The Magnuson-Moss Warranty Act ensures that using third-party ink or toner cartr
 
 ## Related articles:
 
-How to Reduce Printing Costs?
+[How to Reduce Printing Costs?](https://www.compandsave.com/how-to-reduce-printing-costs)
 
-Top 10 Tips to Save on Ink
+[Top 10 Tips to Save on Ink](https://www.compandsave.com/top-10-tips-on-how-to-save-on-printer-ink)
 
-Top 5 Best Cheap Printer Ink
+[Top 5 Best Cheap Printer Ink](https://www.compandsave.com/top-5-best-cheap-printer-ink-cartridges)
 
-Top 5 Cheap Toner Cartridges
+[Top 5 Cheap Toner Cartridges](https://www.compandsave.com/top-5-cheap-toner-cartridges)
