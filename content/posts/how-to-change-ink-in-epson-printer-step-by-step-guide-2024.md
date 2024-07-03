@@ -51,6 +51,32 @@ Now that we've figured out which cartridge you will use, let’s now tackle the 
 
 **A. For Epson Workforce WF-2750**
 
-[![epson printer](/blog/images/change-ink-epson-3.png "Epson Printer")](/blog/images/change-ink-epson-3.png)
+[![epson workforce wf-2750 printer](/blog/images/change-ink-epson-3.png "Epson WorkForce WF-2750 Printer")](/blog/images/change-ink-epson-3.png)
 
 The [Epson Workforce WF-2750](https://www.compandsave.com/epson/workforce/wf-2750-ink-cartridges) uses the popular [Epson 220XL cartridges](https://www.compandsave.com/epson/220xl-ink-cartridges). Like many Epson printers, this one keeps the cartridges behind the scanner bed. It's similar to other Epson printers like the [WF-3640](https://www.compandsave.com/epson/workforce/wf-3640-ink-cartridges) and [WF-3620](https://www.compandsave.com/epson/workforce/wf-3620-ink-cartridges). Check out our video tutorial on how to change Epson ink cartridge in Epson Workforce WF-2750 easily.
+
+{{< youtubeLazyload id="N8q2ysxARzc" title="Epson 220 / 220XL Cartridges Installation" >}}
+
+**B. Epson Expression XP-640**
+
+[![epson expression xp-640 printer](/blog/images/change-ink-epson-4.png "Epson Expression XP-640 printer")](/blog/images/change-ink-epson-4.png)
+
+The [Epson Expression XP-640](https://www.compandsave.com/epson/expression/xp-640-ink-cartridges) is another printer with widely used ink cartridges, specifically the [Epson 410XL](https://www.compandsave.com/epson/expression/xp-640-g-6885/410xl-ink-cartridges-s-7414/). Like the Epson Workforce WF-2750, you'll find the cartridges behind the scanner bed. Lift it, and you'll see where the cartridges go. Our video tutorial on Epson Expression XP-640 printer ink cartridge installation makes it easy to learn how to replace Epson ink cartridges.
+
+{{< youtubeLazyload id="i80XSpQi8dM" title="Epson 410 / 410XL Cartridges Installation" >}}
+
+Now that you are familiar with the cartridge space, you can follow our step-by-step instructions on how to insert ink in Epson printer.
+
+**Step 3:** Squeeze the tab on the cartridge and lift the cartridge to remove it.
+
+[![epson cartridge removal](/blog/images/change-ink-epson-5.png "Epson Cartridge Removal")](/blog/images/change-ink-epson-5.png)
+
+**Step 4:** Take your new ink cartridge out of the packaging. Remove the plastic protective case and the cartridge tape, which is usually bright in color.
+
+[![new epson ink cartridge](/blog/images/change-ink-epson-6.png "New Epson Ink Cartridge")](/blog/images/change-ink-epson-6.png)
+
+**Step 5:** Follow the color patterns on your printer when installing.
+
+[![ink cartridge slots](/blog/images/change-ink-epson-7.png "Ink Cartridge Slots")](/blog/images/change-ink-epson-7.png)
+
+**Step 6:** Insert the new cartridge into the holder and push it down until it clicks into place. If it does not fit easily, ensure you have it the right way up and insert it into the correct slot.
