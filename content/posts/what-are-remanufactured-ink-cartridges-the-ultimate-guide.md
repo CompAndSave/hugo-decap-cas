@@ -121,6 +121,30 @@ When it comes to shopping, customers always look for extra perks like free shipp
 
 ### Pick a Company with Good Customer Service
 
+A company's customer service needs to be quick and able to answer your questions. If you're not happy with the ink cartridges you have received, it is important that you can get in touch with them and receive a satisfactory resolution. At CompAndSave, our customer service department is ready to help with any questions or problems that might come up while you're shopping on our website for remanufactured printer cartridges or compatible inks.
+
 ### Be Aware of the Return/Replace Policy
 
+Always check the [return/replacement policy](https://www.compandsave.com/return-policy) of the store before you buy. In case there's something wrong with the product after you've bought it, CompAndSave offers a warranty that lasts for 365 days. So, if the remanufactured printer cartridges are broken or just don't work, let us know within this period. Simply contact us, and we'll refund you or replace the cartridge hassle-free!
+
 ### Learn About the Warranty
+
+Before purchasing, make sure to read the specifications of the ink cartridge online; this will give you a better idea of the product you're purchasing. Some cartridge brands may only offer a 30-day warranty, while others go up to 1 year.
+
+
+
+Second, remember that CompAndSave's refilled cartridges and remanufactured toner come with a 100% satisfaction guarantee. So if, for any reason, you don't see value in your purchase, we will be happy to refund the paid amount or replace the product within the first year of ownership.
+
+## Best Place to Buy Remanufactured Ink Cartridges
+
+We have over 1,500 positive remanufactured [ink cartridges reviews ](https://www.google.com/search?hl=en-PH&gl=ph&q=CompAndSave.com,+33268+Central+Ave,+Union+City,+CA+94587,+United+States&ludocid=3035606077499443297&lsig=AB86z5VQrbhQiuYS2qp1rpyvRgu0#lrd=0x808fbf492037e4e1:0x2a20a3a4e75f0861,1,,)from our customers on Google and on our website that you can check to get an idea of how good our service is. We have a huge selection of high-quality replacement cartridges and the best compatible ink cartridges for all big and small brands, including, but not limited to:
+
+### HP Remanufactured Ink Cartridges
+
+CompAndSave is the solution to all your expensive HP printer cartridge woes. We sell the best remanufactured ink cartridges for [HP](https://www.compandsave.com/hp) without compromising quality or page yield. Our huge collection of HP remanufactured ink cartridges is organized by printer type and cartridge model. Get your best quality remanufactured HP ink cartridges and best remanufactured toner cartridges for HP at our site.
+
+### Epson Remanufactured Ink Cartridges
+
+### Canon Remanufactured Ink Cartridges
+
+### Brother Remanufactured Ink Cartridges
