@@ -96,3 +96,41 @@ Now that you are familiar with the cartridge space, you can follow our step-by-s
 [![epson printer front lcd panel](/blog/images/change-ink-epson-11.png "Epson Printer Front LCD Panel")](/blog/images/change-ink-epson-11.png)
 
 **Step 10:** If the printer is turned on, it should automatically recognize the cartridges in place and start the printing process.
+
+## How to Refill Epson EcoTank?
+
+Here's a guide on changing the ink in EcoTank series printers. These printers use ink bottles to refill their tanks, and you can quickly check the ink levels as the tanks are visible on the front. Follow the Epson printer ink refill instructions below:
+
+**Step 1:** Lift the scanning bed and open the ink tank cover.
+
+[![epson ink tank printer front panel](/blog/images/change-ink-epson-12.png "Epson Ink Tank Printer Front Panel")](/blog/images/change-ink-epson-12.png)
+
+**A. For Epson Expression ET-2750 EcoTank**
+
+[![epson expression et-2750 ecotank printer](/blog/images/change-ink-epson-13.png "Epson Expression ET-2750 EcoTank Printer")](/blog/images/change-ink-epson-13.png)
+
+[Epson Expression ET-2750 EcoTank](https://www.compandsave.com/epson/expression/et-2750-ink-cartridges) uses [Epson 502 ink bottles](https://www.compandsave.com/epson/502-ink-cartridges) to print. You can easily see the ink tank to check if you are running out of ink. Refilling ink has never been this easy, especially if you watch our video guide on changing Epson printer ink for the Expression ET-2750 EcoTank.
+
+{{< youtubeLazyload id="9vHKnuH6uqY" title="Epson Expression ET-2750 EcoTank Printer Ink Refill Instruction" >}}
+
+**B. Epson Expression XP-640**
+
+[![epson expression xp-640 printer](/blog/images/change-ink-epson-14.png "Epson Expression XP-640 Printer")](/blog/images/change-ink-epson-14.png)
+
+Another featured printer that uses ink bottles is the [Epson EcoTank ET-2720](https://www.compandsave.com/epson/ecotank/et-2720-ink-cartridges). It uses a different ink bottle, which is the [Epson T522](https://www.compandsave.com/epson/522-ink-cartridges). Watch the Epson EcoTank ET-2720 printer ink refill instruction video to do the refill smoothly.
+
+{{< youtubeLazyload id="LITwNe5XLY" title="Epson EcoTank ET-2720 Printer Ink Refill Instruction" >}}
+
+**Step 2:** Lift the cap for the black ink tank.
+
+[![printer ink tank caps](/blog/images/change-ink-epson-15.png "Printer Ink Tank Caps")](/blog/images/change-ink-epson-15.png)
+
+**Step 3:** Take the ink out of the packaging. Unpack the bottle and hold it upright. Slowly turn the bottle cap to remove it.
+
+[![epson ink refill bottle](/blog/images/change-ink-epson-16.png "Epson Ink Refill Bottle")](/blog/images/change-ink-epson-16.png)
+
+**Step 4:** Place the top of the ink bottle on the filling port, then slowly stand the bottle upright. Wait for the ink to fill the tank. Do not squeeze the bottle.
+
+[![refilling ink tank with refill bottle](/blog/images/change-ink-epson-17.png "Refilling Ink Tank with Refill Bottle")](/blog/images/change-ink-epson-17.png)
+
+**Step 5:** Remove the ink bottle and securely close it with the bottle cap when the ink tank is full.
