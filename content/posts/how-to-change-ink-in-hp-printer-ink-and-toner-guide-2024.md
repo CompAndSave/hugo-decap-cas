@@ -13,8 +13,6 @@ tags:
   - hp printer cartridges
   - hp printer
 ---
-
-
 [![how to change ink in hp printer](/blog/images/how-to-change-ink-in-hp-printer.png "How to Change Ink in HP Printer")](/blog/images/how-to-change-ink-in-hp-printer.png)
 
 How to replace ink in HP printer? Owning a printer means knowing how to change cartridges. Installing ink and toner cartridges on your HP printer may vary slightly depending on the printer model. If you are looking for a step-by-step guide on how to change ink in HP printer, you have come to the right place. 
@@ -56,3 +54,19 @@ The process for changing a cartridge in an HP printer is the same for all printe
 Check the different HP printers below to locate the space of your ink cartridges. Not all printer models are listed; you can simply check if the sample printer resembles what you are using.
 
 **HP OfficeJet 6700**
+
+[![hp officejet 6700 printer](/blog/images/change-ink-hp-1.png "HP Officejet 6700 Printer")](/blog/images/change-ink-hp-1.png)
+
+Do you have an HP OfficeJet 6700, or does your printer look the same? The ink cartridge access door is at the front if you have an HP OfficeJet 6600 and HP OfficeJet 7612. You can open the access door to locate the cartridge space. Our video will show you [how to put ink in a HP printer OfficeJet 6600](https://youtu.be/Hg3TC1TlFyA)
+
+[](https://youtu.be/Hg3TC1TlFyA).**HP OfficeJet Pro 8720**
+
+[![hp officejet pro 8720 printer](/blog/images/change-ink-hp-2.png "HP Officejet Pro 8720 printer")](/blog/images/change-ink-hp-2.png)
+
+The HP OfficeJet Pro 8720 cartridge space is in the middle part of the printer. You need to push back the access door to locate the cartridges quickly. The design of this printer model is the same as other HP printers in the OfficeJet Pro series, such as HP 8700 and 8730. You can watch [how to put ink in HP printer OfficeJet Pro 8720 video](https://youtu.be/I0AD-Gj_L1M). See for yourself other similar printer models and the easy steps on how to replace ink in HP printer.
+
+**HP Photosmart 6520**
+
+[![hp photosmart 6520 printer](/blog/images/change-ink-hp-3.png "HP Photosmart 6520 Printer")](/blog/images/change-ink-hp-3.png)
+
+Locating the ink cartridge space in your HP Photosmart 6520 is easy as pie. You can simply lift the flatbed scanner, and you will see where the cartridges are. If your HP printer looks the same, check out our [HP Photosmart 6520 printer ink cartridges installation](https://youtu.be/v1awarlq-D8) guide. Our instructional video will be quick and smooth on how to change cartridges in an HP printer.
