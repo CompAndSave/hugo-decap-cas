@@ -112,3 +112,19 @@ Canon also sells toner cartridges. If you own a laser printer, make sure you kno
 If you have a Canon ImageCLASS MF3010 or a similar model, you can follow this step-by-step guide. For other Canon printer models, first locate the toner, then follow the remaining steps. Here are the basic steps to change Canon printer cartridge:
 
 **STEP 1:** Lift the scanning platform, but avoid lifting it forcefully. Check that the glass is closed correctly and that no items are left in the scanner bed.
+
+[![canon imageclass mf3010 printer](/blog/images/change-ink-canon-10.png "Canon imageCLASS MF3010 Printer")](/blog/images/change-ink-canon-10.png)
+
+**STEP 2:** Open the toner cover and remove the old cartridge.
+
+[![canon 125 toner cartridge](/blog/images/change-ink-canon-11.png "Canon 125 Toner Cartridge")](/blog/images/change-ink-canon-11.png)
+
+**STEP 3:** Remove the new toner from the packaging. Gently shake the cartridge to distribute the toner powder evenly.
+
+**STEP 4:** Put the toner cartridge on a flat surface. Lift the tab and pull the sealing tape slowly.
+
+**STEP 5:** Insert the toner cartridge properly in the printer by holding the tab.
+
+**STEP 6:** Close the toner cover and the scanning platform.
+
+**STEP 7:** Print a test page to see if the installation worked. If there is a problem, you can check this [guide to troubleshoot common toner problems](https://www.compandsave.com/troubleshoot-remanufactured-toner-cartridge-problems-guide).
