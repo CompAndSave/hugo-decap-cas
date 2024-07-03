@@ -7,7 +7,7 @@ description: How to print from an Android phone? Learn about these four
   hassle-free printing from Android methods such as using Wi-Fi or USB from our
   guide today!
 tags:
-  - Hassle-free Methods
+  - Hassle-free printing
   - Digital Printing
   - Printing Tips
   - Printing Methods
