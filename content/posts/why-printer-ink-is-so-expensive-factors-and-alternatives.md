@@ -33,7 +33,7 @@ In comparison to other commodities, printer ink is still relatively expensive. I
 
 Even paper, something we often use with ink, is much more reasonably priced. A stack of 500 sheets costs about $8. Even the cheapest printer cartridge at $13 can only print around 250 pages, which is only half of that paper stack.
 
-Why Is Ink So Expensive: The Cost Factors
+## Why Is Ink So Expensive: The Cost Factors
 
 Printer ink stands among the priciest liquids on the market, even surpassing the cost of high-end wines. So why is printer ink so pricey? Let's delve into the six main reasons why printer ink is so expensive.
 
