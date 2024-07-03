@@ -70,3 +70,19 @@ The HP OfficeJet Pro 8720 cartridge space is in the middle part of the printer. 
 [![hp photosmart 6520 printer](/blog/images/change-ink-hp-3.png "HP Photosmart 6520 Printer")](/blog/images/change-ink-hp-3.png)
 
 Locating the ink cartridge space in your HP Photosmart 6520 is easy as pie. You can simply lift the flatbed scanner, and you will see where the cartridges are. If your HP printer looks the same, check out our [HP Photosmart 6520 printer ink cartridges installation](https://youtu.be/v1awarlq-D8) guide. Our instructional video will be quick and smooth on how to change cartridges in an HP printer.
+
+**HP OfficeJet Pro 9015 All-in-One**
+
+[![hp officejet pro 9015 all-in-one](/blog/images/change-ink-hp-4.png "HP Offiejet Pro 9015 All-in-One")](/blog/images/change-ink-hp-4.png)
+
+The HP OfficeJet Pro 9015 All-in-One is a popular printer model. It has the same design as other HP printers in the OfficeJet Pro All-in-One series. The white cover with the HP logo is your gateway to the ink cartridges. Do you need a visual guide on how to install your HP cartridges? If so, our [how to change ink cartridge in HP printer OfficeJet Pro 9015](https://youtu.be/Y_gZxs-jQM0) video is the answer to your needs.
+
+**STEP 3:** If you are installing the ink cartridge on a brand new printer, be sure to remove the black tape found at the top of the cartridge with the label PULL before installing.
+
+[![printer ink cartridge tape](/blog/images/change-ink-hp-5.png "Printer Ink Cartridge Tape")](/blog/images/change-ink-hp-5.png)
+
+**STEP 4:** Take the new ink out of the packaging. Remove the plastic protective case and bright-colored cartridge tape.
+
+[![ink cartridge protective case](/blog/images/change-ink-hp-6.png "Ink Cartridge Protective Case")](/blog/images/change-ink-hp-6.png)
+
+**STEP 5:** If you are replacing empty ink cartridges, be sure to remove the old cartridges before starting. Press the front of the empty cartridge to release it. Remove it from the slot.
