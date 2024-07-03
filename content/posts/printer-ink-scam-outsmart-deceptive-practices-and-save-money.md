@@ -7,7 +7,7 @@ description: Learn about printer ink scams, the secrets printer manufacturers
   don't want you to know, and learn how to save while enjoying quality prints
   today!
 tags:
-  - ink subscriptions
+  - ink subscription
   - laser printer
   - inkjet printer
   - printer ink cartridges
