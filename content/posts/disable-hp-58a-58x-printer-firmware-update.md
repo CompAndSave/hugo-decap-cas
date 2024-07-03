@@ -42,7 +42,7 @@ There is no need to be concerned if you use any of the listed printers because t
 
 To know if your HP LaserJet printer has been updated, we suggest checking your printer's firmware version by printing out a **Printer Status Report** like the photo below.
 
-[![Printer Status Report](/blog/images/5.png "Printer Status Report")](/blog/images/5.png)
+[![Printer Status Report](/blog/images/16.png "Printer Status Report")](/blog/images/16.png)
 
 If it shows that your firmware version is 2149A, this means that your firmware is up-to-date. If not, you can still turn off the **"Printer Update"** function.
 
