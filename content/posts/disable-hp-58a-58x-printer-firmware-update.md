@@ -72,4 +72,8 @@ We'll show you two ways on how to avoid HP's automated printer firmware updates.
 
 ## How to disable automatic "Printer Update"
 
-The second way to prevent your printer from being updated automatically is by disabling or turning off the "Printer Update" function. If your printer hasn't been updated to the current version yet, then this tip will surely help so you can continue to utilize third-party HP LaserJet toner cartridges. To avoid future auto-printer updates, follow the instructions below.
+The second way to prevent your printer from being updated automatically is by disabling or turning off the **"Printer Update"** function. If your printer hasn't been updated to the current version yet, then this tip will surely help so you can continue to utilize third-party HP LaserJet toner cartridges. To avoid future auto-printer updates, follow the instructions below.
+
+
+
+To begin, click **"Setup"** on home page.
