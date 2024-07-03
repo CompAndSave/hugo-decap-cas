@@ -145,6 +145,30 @@ CompAndSave is the solution to all your expensive HP printer cartridge woes. We 
 
 ### Epson Remanufactured Ink Cartridges
 
+We have a massive collection of Epson remanufactured ink. Not to mention, our prices are often lower than those of other brands while still offering the same quality of prints. We also have an expert team to help you choose the best remanufactured ink for [Epson.](https://www.compandsave.com/epson)
+
 ### Canon Remanufactured Ink Cartridges
 
+Without compromising quality or page yield, CompAndSave can help you save a ton of money on your printer cartridge needs. We offer remanufactured [Canon ink](https://www.compandsave.com/canon). Not only that, but our cartridges are backed by a 1-year warranty, so you can be sure you're getting the best remanufactured ink cartridges for Canon printers.
+
 ### Brother Remanufactured Ink Cartridges
+
+CompAndSave offers remanufactured Brother ink cartridges and remanufactured [Brother toner](https://www.compandsave.com/brother). We test each and every cartridge before we sell it to you, ensuring that you're getting the best quality possible for your money. Not only that, but our remanufactured toner cartridges are usually much cheaper than the original ones.
+
+In a nutshell, remanufactured or replacement ink is an affordable option for people who want to save money. If purchased from a reliable business, the product can be of the highest quality as it passes various tests. Most top sellers, like CompAndSave, also offer a warranty on the remanufactured cartridges so that our products can be used confidently.
+
+
+
+As you can see, there are no significant risks in buying remanufactured printer cartridges. Give it a try today if you haven't yet – it might just be your new favorite cost-effective printer ink alternative. If you have more questions about CompAndSave products, feel free to contact our toll-free number: 1-833-465-6888 from Mondays to Fridays from 6am to 6pm PT. We'll be happy to assist you with your inquiries.
+
+## Frequently Asked Questions
+
+In this part, we'll discuss the most common questions consumers have about remanufactured cartridges.
+
+
+
+### Can I use remanufactured ink cartridges (would it void my printer warranty if I use one)?
+
+### Are remanufactured ink cartridges any good?
+
+### What is the lifespan of a remanufactured ink cartridge?
