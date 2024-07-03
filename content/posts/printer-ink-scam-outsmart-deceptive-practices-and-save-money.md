@@ -1,5 +1,5 @@
 ---
-title: Printer Ink Scam:Outsmart Deceptive Practices and Save Money
+title: "Printer Ink Scam: Outsmart Deceptive Practice and Save Money"
 date: 2024-07-02T04:11:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/ingoude.-38-.png
