@@ -6,6 +6,15 @@ featured_image: /blog/images/ingoude.-38-.png
 description: Learn about printer ink scams, the secrets printer manufacturers
   don't want you to know, and learn how to save while enjoying quality prints
   today!
+tags:
+  - ink subscriptions
+  - laser printer
+  - inkjet printer
+  - printer ink cartridges
+  - ink cost
+  - laser toner cartridges
+  - remanufactured ink cartridges
+  - Printer Ink Scam
 ---
 {{< youtubeLazyload id="G-tl6g9i7Pg" title="Printer ink is a scam? Outsmart Deceptive Practices and Save Money" >}}
 
