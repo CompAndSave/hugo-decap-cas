@@ -97,3 +97,5 @@ The second way to prevent your printer from being updated automatically is by di
 [![CHECK AUTOMATICALLY](/blog/images/12.png "CHECK AUTOMATICALLY")](/blog/images/12.png)
 
 6. Select **"Off".**
+
+[![OFF](/blog/images/13.png "OFF")](/blog/images/13.png)
