@@ -80,3 +80,19 @@ Now that you are familiar with the cartridge space, you can follow our step-by-s
 [![ink cartridge slots](/blog/images/change-ink-epson-7.png "Ink Cartridge Slots")](/blog/images/change-ink-epson-7.png)
 
 **Step 6:** Insert the new cartridge into the holder and push it down until it clicks into place. If it does not fit easily, ensure you have it the right way up and insert it into the correct slot.
+
+[![black ink cartridge slot](/blog/images/chaneg-ink-epson-8.png "Black Ink Cartridge Slot")](/blog/images/chaneg-ink-epson-8.png)
+
+**Step 7:** Be careful not to touch the gold contact points, or it may damage the cartridge.
+
+[![ink cartridge contact point](/blog/images/change-ink-epson-9.png "Ink Cartridge Contact Point")](/blog/images/change-ink-epson-9.png)
+
+**Step 8:** Install the other colors like you installed the first one. Close the cartridge cover and push it down until it clicks into place.
+
+[![color ink cartrdige slots](/blog/images/change-ink-epson-10.png "Color Ink Cartridge Slots")](/blog/images/change-ink-epson-10.png)
+
+**Step 9:** Verify on the LCD screen that the cartridge is correctly installed. If it is, close the scanner bed.
+
+[![epson printer front lcd panel](/blog/images/change-ink-epson-11.png "Epson Printer Front LCD Panel")](/blog/images/change-ink-epson-11.png)
+
+**Step 10:** If the printer is turned on, it should automatically recognize the cartridges in place and start the printing process.
