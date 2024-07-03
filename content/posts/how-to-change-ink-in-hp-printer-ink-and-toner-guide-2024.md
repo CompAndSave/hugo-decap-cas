@@ -86,3 +86,19 @@ The HP OfficeJet Pro 9015 All-in-One is a popular printer model. It has the same
 [![ink cartridge protective case](/blog/images/change-ink-hp-6.png "Ink Cartridge Protective Case")](/blog/images/change-ink-hp-6.png)
 
 **STEP 5:** If you are replacing empty ink cartridges, be sure to remove the old cartridges before starting. Press the front of the empty cartridge to release it. Remove it from the slot.
+
+[![removing ink cartridge](/blog/images/change-ink-hp-7.png "Removing Ink Cartridge")](/blog/images/change-ink-hp-7.png)
+
+**STEP 6:** Follow the color patterns when installing the new cartridges. Push it into the correct slot.
+
+[![installing of ink cartridge](/blog/images/change-ink-hp-8.png "Installing of Ink Cartridge")](/blog/images/change-ink-hp-8.png)
+
+**STEP 7:** Do not touch the gold contact points to avoid damaging the cartridge.
+
+[![printer ink cartridge contact point](/blog/images/change-ink-hp-9.png "Printer Ink Cartridge Contact Point")](/blog/images/change-ink-hp-9.png)
+
+**STEP 8:** Repeat the same steps for each ink cartridge.
+
+**STEP 9:** Close the print cartridge access door and cover after changing all the ink cartridges.
+
+**STEP 10:** If turned on, the printer should automatically recognize the cartridges as in place and process them to begin the printing process.
