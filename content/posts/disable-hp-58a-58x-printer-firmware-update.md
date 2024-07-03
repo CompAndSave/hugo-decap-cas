@@ -89,3 +89,11 @@ The second way to prevent your printer from being updated automatically is by di
 [![LASERJET UPDATE](/blog/images/10.png "LASERJET UPDATE")](/blog/images/10.png)
 
 4. Select **"Manage Updates".**
+
+[![MANAGE UPDATES](/blog/images/11.png "MANAGE UPDATES")](/blog/images/11.png)
+
+5. Select **"Check Automatically".**
+
+[![CHECK AUTOMATICALLY](/blog/images/12.png "CHECK AUTOMATICALLY")](/blog/images/12.png)
+
+6. Select **"Off".**
