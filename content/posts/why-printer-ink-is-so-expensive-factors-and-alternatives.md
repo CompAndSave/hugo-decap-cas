@@ -81,7 +81,7 @@ Compatible ink cartridges are made of brand-new parts designed to fit specific p
 
 * ### **Remanufactured Ink Cartridges**
 
-[Remanufactured cartridge](https://www.compandsave.com/what-are-remanufactured-ink-cartridges-guide)s are created from previously used original equipment manufacturer (OEM) cartridges. The materials of the original ink cartridges are durable, rendering them suitable for recycling.
+[Remanufactured cartridges](https://www.compandsave.com/what-are-remanufactured-ink-cartridges-guide) are created from previously used original equipment manufacturer (OEM) cartridges. The materials of the original ink cartridges are durable, rendering them suitable for recycling.
 
 After a thorough cleaning, inspection, and refilling process, these cartridges provide the same level of performance and quality as new cartridges but at a much lesser cost. Opting for remanufactured cartridges not only brings about financial savings but also actively contributes to [environmental sustainability by minimizing landfill waste.](https://www.compandsave.com/environmentally-friendly-ink-cartridges)
 
