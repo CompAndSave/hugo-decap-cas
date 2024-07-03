@@ -106,6 +106,6 @@ The second way to prevent your printer from being updated automatically is by di
 
 8. Select **"No"** and then press the **"Home"** button to return to the home page.
 
-[![NO, HOME](/blog/images/15.png "NO, HOME")](/blog/images/15.png)
+[![updates](/blog/images/15.png "updates")](/blog/images/15.png)
 
 I hope this helps. If you require assistance, please feel free to contact us at 1-833-465-6888 between 6am-4pm PT Monday through Friday, and one of our friendly Customer Service Representatives will be happy to assist you.
