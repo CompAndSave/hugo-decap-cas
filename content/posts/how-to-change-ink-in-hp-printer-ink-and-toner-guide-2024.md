@@ -123,7 +123,7 @@ If you found this guide helpful, share it with others who might benefit from it,
 * Check your printer's ink levels regularly using its software or display. This helps you know when to replace cartridges before they run out during important print jobs. 
 * When installing ink cartridges, follow the instructions carefully to keep your printer in good shape and get good prints. Each printer may have slightly different steps, so check the manual or packaging for guidance. You can also follow the steps above.
 
-For your printing supplies, CompAndSave offers affordable HP ink. You can get high-quality cartridges without breaking your budget. Save more with our products that are 100% satisfaction guaranteed. If you need further help, our customer service department will gladly assist you. You can call our toll-free number: 1-833-465-6888 (Monday to Friday, 6am-4pm PT). We are more than happy to help!
+For your printing supplies, CompAndSave offers [affordable HP ink](https://www.compandsave.com/hp). You can get high-quality cartridges without breaking your budget. Save more with our products that are 100% satisfaction guaranteed. If you need further help, our customer service department will gladly assist you. You can call our toll-free number: 1-833-465-6888 (Monday to Friday, 6am-4pm PT). We are more than happy to help!
 
 ## Frequently Asked Questions
 
