@@ -152,154 +152,154 @@ Check the following for more details:
 * [Low Ink Level Troubleshooting Guide for Inkjet Printers](https://www.compandsave.com/troubleshoot-remanufactured-ink-cartridge-problems-guide#indexF)
 * [Toner Life End Troubleshooting Guide for Laser Printers](https://www.compandsave.com/troubleshoot-remanufactured-toner-cartridge-problems-guide#indexD)
 
-Blocked Print Heads
+
+
+### 8. Blocked Print Heads
 
 Clogged or blocked print heads can result in poor print quality or no printing at all because print heads are responsible for dispensing ink onto the paper. When they become clogged, the ink flow is disrupted, affecting the quality of the prints or preventing any ink from being applied to the paper.
 
 If your printer has not been used for a while, the ink in the print heads can dry up and cause blockages. When you try to print, the ink may not flow properly, leading to faded or streaky prints. In some cases, severe clogs can prevent ink from reaching the paper, resulting in blank pages. 
 
-Troubleshooting Steps:
+**Troubleshooting Steps:**
 
-Step 1: Printer Cleaning Utility: Use your printer's built-in cleaning utility to clear blockages in the print heads.
+* **Step 1: Printer Cleaning Utility:** Use your printer's built-in cleaning utility to clear blockages in the print heads.
+* **Step 2: Manual Cleaning:** If the utility doesn't resolve the issue, you may need to clean the print heads manually. Refer to your printer's manual for specific instructions on safely doing this.
+* **Step 3: Use Appropriate Cleaning Solution:** If manual cleaning is necessary, use the appropriate cleaning solution recommended by the printer manufacturer.
+* **Step 4: Avoid Touching Print Heads:** Never touch the print heads with fingers or abrasive materials.
+* **Step 5: Test Print:** After cleaning, perform a test print to check if the blockage is resolved.
 
-Step 2: Manual Cleaning: If the utility doesn't resolve the issue, you may need to clean the print heads manually. Refer to your printer's manual for specific instructions on safely doing this.
 
-Step 3: Use Appropriate Cleaning Solution: If manual cleaning is necessary, use the appropriate cleaning solution recommended by the printer manufacturer.
 
-Step 4: Avoid Touching Print Heads: Never touch the print heads with fingers or abrasive materials.
-
-Step 5: Test Print: After cleaning, perform a test print to check if the blockage is resolved.
-
-Driver Issues
+### 9. Driver Issues
 
 Outdated or corrupted printer drivers can cause printing problems because they are essential software components that facilitate communication between your computer and printer hardware.
 
 If your printer drivers are outdated, incompatible with recent changes, or corrupted due to software issues like viruses, your printer may malfunction. This can result in problems such as print jobs getting stuck, incomplete prints, or error messages. 
 
-Troubleshooting Steps:
+**Troubleshooting Steps:**
 
-Step 1: Update Drivers: Ensure you have the latest printer drivers from the manufacturer's website.
+* **Step 1: Update Drivers:** Ensure you have the latest printer drivers from the manufacturer's website.
+* **Step 2: Reinstall Driver:** If needed, uninstall and reinstall the driver.
+* **Step 3: Restart Devices:** Restart your computer and printer.
+* **Step 4: Check Connections:** Verify proper connections.
 
-Step 2: Reinstall Driver: If needed, uninstall and reinstall the driver.
 
-Step 3: Restart Devices: Restart your computer and printer.
 
-Step 4: Check Connections: Verify proper connections.
-
-How to Fix When My Epson Printer is not Printing and in Offline Mode
+## How to Fix When My Epson Printer is not Printing and in Offline Mode
 
 If your Epson printer is showing as offline on a Mac or Windows computer, or you want to troubleshoot it directly on the printer, here are steps for each method:
 
-Fixing Steps For Mac:
+### **Fixing Steps For Mac:**
 
-1. Check Physical Connections:
+**1. Check Physical Connections:**
 
 Ensure your Epson printer is powered on and connected to your Mac via a USB cable or Wi-Fi.
 
-2. Verify Printer Status:
+**2. Verify Printer Status:**
 
-On your Mac, go to "Apple Menu" > "System Preferences" > "Printers & Scanners."
+* On your Mac, go to "Apple Menu" > "System Preferences" > "Printers & Scanners."
+* Look for your Epson printer in the list on the left. If it shows as "Offline" or "Paused," select it.
 
-Look for your Epson printer in the list on the left. If it shows as "Offline" or "Paused," select it.
-
-3. Reset Printing System (Mac):
+**3. Reset Printing System (Mac):**
 
 If the printer is still offline, you can try resetting the printing system:
 
-In "Printers & Scanners," right-click (or Control-click) in the list of printers.
+* In "Printers & Scanners," right-click (or Control-click) in the list of printers.
+* Choose "Reset printing system."
+* This will remove all your printers. Re-add your Epson printer and see if it comes online.
 
-Choose "Reset printing system."
 
-This will remove all your printers. Re-add your Epson printer and see if it comes online.
 
-Fixing Steps For Windows:
+### Fixing Steps For Windows:
 
-1. Check Physical Connections:
+**1. Check Physical Connections:**
 
 Ensure your Epson printer is powered on and connected to your Windows computer via a USB cable or Wi-Fi.
 
-2. Use Windows Troubleshooter:
+**2. Use Windows Troubleshooter:**
 
-Go to "Settings" > "Devices" > "Printers & scanners."
+* Go to "Settings" > "Devices" > "Printers & scanners."
+* Click on your Epson printer and then click "Manage."
+* Click on "Run the troubleshooter" and follow the on-screen instructions to diagnose and fix printer issues.
 
-Click on your Epson printer and then click "Manage."
-
-Click on "Run the troubleshooter" and follow the on-screen instructions to diagnose and fix printer issues.
-
-3. Restart Print Spooler Service:
+**3. Restart Print Spooler Service:**
 
 Sometimes, restarting the Print Spooler service can help:
 
-Press "Windows + R" to open the Run dialog.
+* Press "Windows + R" to open the Run dialog.
+* Type "services.msc" and press Enter.
+* Locate "Print Spooler" in the list, right-click it, and choose "Restart."
 
-Type "services.msc" and press Enter.
 
-Locate "Print Spooler" in the list, right-click it, and choose "Restart."
 
-Fixing Steps For Printer (via Printer Display):
+### Fixing Steps For Printer (via Printer Display):
 
-1. Check for Error Messages:
+**1. Check for Error Messages:**
 
 On the printer's display, look for any error messages or warnings. Follow the on-screen instructions to resolve issues.
 
-2. Reconnect to Wi-Fi (if applicable):
+**2. Reconnect to Wi-Fi (if applicable):**
 
 If your Epson printer is wireless, navigate to the Wi-Fi settings on the printer's display and ensure it's connected to the correct network.
 
-3. Update Firmware (if applicable):
+**3. Update Firmware (if applicable):**
 
 Check if there's a firmware update available for your Epson printer on the Epson website. Updating firmware can resolve connectivity issues.
 
-4. Reboot Printer:
+**4. Reboot Printer:**
 
 Turn off the printer, unplug it from the power source, wait for a minute, and then plug it back in and turn it on.
 
-5. Factory Reset (as a last resort):
+**5. Factory Reset (as a last resort):**
 
 If none of the above steps work, consult your printer's manual for factory reset instructions. This should be a last resort, as it will reset all settings.
 
 By following these steps for Mac, Windows, or via the printer's display, you should be able to troubleshoot and resolve the issue of your Epson printer being offline.
 
-Conclusion
+
+
+## Conclusion
 
 Dealing with a non-printing Epson printer can be frustrating. However, following the steps in this guide, you can simply answer why is my Epson printer not printing anything and troubleshoot it yourself. Remember that printer problems can differ, so use the best solutions that match your situation.
 
-Key takeaways:
+**Key takeaways:**
 
-Common causes of Epson printers not printing include empty or low ink cartridges, paper jams, incorrect paper size/type, driver issues, network connection problems, printer offline status, print queue issues, USB/cable connection problems, and firmware updates needed.
-
-Troubleshooting steps when asking yourself why my Epson printer is not printing include checking for error messages, verifying physical connections and paper and ink/toner levels, clearing the print queue, restarting the printer, updating/reinstalling printer drivers (for network printers), resetting ink cartridges, printing a test page and updating firmware.
-
-If an Epson printer is set to “offline” mode on a Mac or Windows computer (or directly on the printer), specific steps can be taken to resolve this issue.
+* Common causes of Epson printers not printing include empty or low ink cartridges, paper jams, incorrect paper size/type, driver issues, network connection problems, printer offline status, print queue issues, USB/cable connection problems, and firmware updates needed.
+* Troubleshooting steps when asking yourself why my Epson printer is not printing include checking for error messages, verifying physical connections and paper and ink/toner levels, clearing the print queue, restarting the printer, updating/reinstalling printer drivers (for network printers), resetting ink cartridges, printing a test page and updating firmware.
+* If an Epson printer is set to “offline” mode on a Mac or Windows computer (or directly on the printer), specific steps can be taken to resolve this issue.
 
 If you require assistance ordering ink or have any questions, please don't hesitate to contact our toll-free helpline at 1-833-465-6888. Our dedicated support team is available Monday to Friday from 6 a.m. to 4 p.m. PT to help you ensure a pleasant printing experience. Feel free to reach out for any ink-related inquiries!
 
-Frequently Asked Questions (accordion)
 
-Why is my Epson printer black not printing?
+
+## Frequently Asked Questions
+
+### 1. Why is my Epson printer black not printing?
 
 If your Epson printer isn't printing black, check the ink levels and replace the low or empty black ink cartridge. Run a print head cleaning cycle to clear any clogs. Verify that your print settings are correctly configured for black-and-white printing. If the issue continues, contact Epson support or a professional technician.
 
-Why is my Epson printer printing blank pages?
+### 2. Why is my Epson printer printing blank pages?
 
 To troubleshoot blank pages when printing with an Epson printer, follow these steps: Check ink levels, run nozzle check or print head cleaning, review print settings, check for paper jams, and perform a test print. If the problem persists, contact Epson support or a technician for further assistance.
 
-What causes paper jams in my Epson printer, and how can I resolve them?
+### 3. What causes paper jams in my Epson printer, and how can I resolve them?
 
 Paper jams can result from misaligned paper or debris. Refer to your printer manual for guidance on clearing jams.
 
-Why is my Epson printer not printing color properly?
+### 4. Why is my Epson printer not printing color properly?
 
 If your Epson printer is not printing color correctly, it may be due to clogged nozzles in the color ink cartridges. Running a nozzle cleaning cycle through your printer's software can often resolve this issue by clearing the clogs and restoring proper color printing.
 
-Why is my Epson printer connected but not printing?
+### 5. Why is my Epson printer connected but not printing?
 
 If your Epson printer is connected but not printing, it may be due to issues with the print queue. Clearing the print queue on your computer resolves this problem and allows your printer to resume printing.
 
-Related Articles
 
-Troubleshoot Epson Printer
 
-Why is My Printer Offline?
+## Related Articles
 
-Connect Printer to Wi-Fi Guide
+[Troubleshoot Epson Printer](https://www.compandsave.com/epson-printer-troubleshooting-guide/)
+
+[Why is My Printer Offline?](https://www.compandsave.com/why-is-my-printer-offline-how-to-troubleshoot-common-printer-problems-guide/)
+
+[Connect Printer to Wi-Fi Guide](https://www.compandsave.com/how-to-connect-printer-to-wifi/)
