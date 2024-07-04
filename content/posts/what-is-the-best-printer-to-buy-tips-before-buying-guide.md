@@ -87,3 +87,27 @@ If you are looking for the best printer for photo printing, the Canon TR8620 is 
 [![canon tr8620 printer specifications table](/blog/images/best-printer-6.png "Canon TR8620 Printer Specifications Table")](/blog/images/best-printer-6.png)
 
 Our compatible [Canon TR8620 ink cartridges](https://www.compandsave.com/canon/pixma/tr8620-ink-cartridges) will give you the same amount of pages and print quality as the original but at a much lower price. You can save even more with our popular [bundles](https://www.compandsave.com/canon/bci-6-ink-cartridges/bci-6-10-combo).
+
+**Best Home Office Inkjet Printers**
+
+\- A printer for your home office or small business should be able to fulfill the required tasks. What type of documents do you print? Do you need a printer that can accommodate all types and sizes of paper? Do you need to print high-resolution graphics or photos? These questions will help you decide on the best home office printer.
+
+**1. HP OfficeJet Pro 9015e**
+
+[![hp officejet pro 9015e printer](/blog/images/best-printer-7.png "HP OfficeJet Pro 9015e Printer")](/blog/images/best-printer-7.png)
+
+The best small business printer should be flexible and fast to complete tasks at the required time. The HP OfficeJet Pro 9015e is both. When it comes to the best All-in-One inkjet printer, this is the winner with its extra features. Aside from printing, scanning, copying, and faxing, it can do jobs on voice commands and scan via email. Its two-sided printing and scanning can definitely save time if you are working in a hurry. Be ready for extra space since the HP OfficeJet Pro 9015e is a bit bulky. When it comes to printing quality, this inkjet printer performs like a laser printer for texts and fonts. It can be a great choice if your small business requires loads of printing for documents. As for photo quality, it may not be an excellent choice, but it can still deliver good images.
+
+[![hp officejet pro 9015e printer specifications table](/blog/images/best-printer-8.png "HP OfficeJet Pro 9015e Printer Specifications Table")](/blog/images/best-printer-8.png)
+
+Get the best value for your money when shopping for CompAndSave’s [HP OfficeJet Pro 9015e replacement ink cartridges](https://www.compandsave.com/hp/officejet/pro-9015e-all-in-one-ink-cartridges). Your home office can definitely enjoy excellent quality printing at a lower budget.
+
+**2. Canon PIXMA G6020**
+
+[![canon pixma g6020 printer](/blog/images/best-printer-9.png "Canon PIXMA G6020 Printer")](/blog/images/best-printer-9.png)
+
+If the primary goal of your home office is to get good printing results while keeping a tight budget, then the Canon PIXMA G6020 answers your needs! It uses ink bottles that can be as low as [$5.99](https://www.compandsave.com/canon/pixma/g6020-ink-cartridges). With its tank, you can quickly check the ink levels. As for its features, this best small office printer can also scan, fax and has wireless connectivity options. The Canon PIXMA G6020 has two trays with up to 350 paper capacity. Printing quality is overall excellent; however, it is not the best option for vibrancy and color accuracy.
+
+[![canon pixma g6020 printer specifications table](/blog/images/best-printer-10.png "Canon PIXMA G6020 Printer Specifications Table")](/blog/images/best-printer-10.png)
+
+You can save even more with CompAndSave’s compatible [Canon GI-20 ink bottles](https://www.compandsave.com/canon/pixma/g6020-ink-cartridges). These ink bottles will not disappoint in quality while allowing you to keep a tight budget.
