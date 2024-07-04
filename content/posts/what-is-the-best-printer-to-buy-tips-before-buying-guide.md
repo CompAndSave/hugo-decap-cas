@@ -111,3 +111,13 @@ If the primary goal of your home office is to get good printing results while ke
 [![canon pixma g6020 printer specifications table](/blog/images/best-printer-10.png "Canon PIXMA G6020 Printer Specifications Table")](/blog/images/best-printer-10.png)
 
 You can save even more with CompAndSave’s compatible [Canon GI-20 ink bottles](https://www.compandsave.com/canon/pixma/g6020-ink-cartridges). These ink bottles will not disappoint in quality while allowing you to keep a tight budget.
+
+**3. Brother MFC-J995DW**
+
+[![brother mfc-j995dw printer](/blog/images/best-printer-11.png "Brother MFC-J995DW Printer")](/blog/images/best-printer-11.png)
+
+Extensive connectivity options are not available for all types of printers. However, it is what the Brother MFC-J995DW does best. It gives you a wide variety of wireless connectivity. There will be no problem printing emails remotely. No WiFi? No problem. The Brother MFC-J995DW has a near-field communication feature to print from your gadget even without an internet connection. You can simply click the printer’s hotspot. Your co-workers can even upload files to Google Drive, and you can print them through [Brother Cloud Connect](https://www.brother-usa.com/brother-web-connect). Perfect printer for small offices that are working in different areas. Regarding print quality, text documents are sharp, and photos come out great.
+
+[![brother mfc-j995dw printer specifications table](/blog/images/best-printer-12.png "Brother MFC-J995DW Printer Specifications Table")](/blog/images/best-printer-12.png)
+
+CompAndSave’s compatible [Brother MFC-J995DW ink cartridges](https://www.compandsave.com/brother/mfc/mfc-j995dw-ink-cartridges) perform the same as the original ones. Achieve cheaper running costs for your home office when using our quality cartridges.
