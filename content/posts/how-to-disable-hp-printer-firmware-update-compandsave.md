@@ -14,8 +14,6 @@ tags:
 ---
 Recently, HP released a new firmware update to Inkjet printers. These new versions are firmware 2151A for printers using HP 962/962XL ink and firmware 2151B for printers using HP 910/910XL ink cartridges.
 
-
-
 Printer industries regularly release new versions of printer firmware to fix bug issues, enhancements, or app updates. However, if you are using an aftermarket printer cartridge, this might not be the case as the new update will also make your printer not recognize third-party ink. But the good news is that CompAndSave’s ink cartridge chip for these models is now compatible with the latest firmware version.
 
 ## Which printers and printer cartridges are affected by this new HP firmware update?
@@ -52,3 +50,23 @@ If your printer firmware has been updated, your firmware version should be 2151A
 [![printer control panel printer status report icon](/blog/images/disable-hp-3.png "Printer Control Panel Printer Status Report Icon")](/blog/images/disable-hp-3.png)
 
 **STEP 4:** You will get the Printer Status Report's Page after following the instructions above. Product Information #7 will show your printer's current firmware version. In the photo below, the printer's firmware version is 2147C.
+
+[![printer status report sheet](/blog/images/disable-hp-4.png "Printer Status Report Sheet")](/blog/images/disable-hp-4.png)
+
+## How can I avoid this update?
+
+Disable or turn off the "Printer Update" function on your printer so you can continue to use third-party ink cartridges without problems by following the instructions below.
+
+{{< youtubeLazyload id="SbGhEJSIdi4" title="How to Turn Off the Firmware Update" >}}
+
+**STEP 1:** Swipe down and then select the setup icon.
+
+[![printer control panel setup icon](/blog/images/disable-hp-5.png "Printer Control Panel Setup Icon")](/blog/images/disable-hp-5.png)
+
+**STEP 2:** Select "Printer Maintenance"
+
+[![printer control panel printer maintenance icon](/blog/images/disable-hp-6.png "Printer Control Panel Printer Maintenance Icon")](/blog/images/disable-hp-6.png)
+
+**STEP 3:** Select "Update the Printer"
+
+[![printer control panel update printer icon](/blog/images/disable-hp-7.png "Printer Control Panel Update Printer Icon")](/blog/images/disable-hp-7.png)
