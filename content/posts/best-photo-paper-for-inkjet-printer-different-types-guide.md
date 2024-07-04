@@ -302,3 +302,84 @@ Dark transferable paper is great for black or colored fabrics, even white. But i
 * Requires precise application for optimal results, which may be challenging for some users.
 
 [SHOP TRANSFER PAPER HERE!](https://www.compandsave.com/paper/transfer-paper)
+
+### 3. Magnet Sheets
+
+You can create your own fridge magnets at home using your printer, our printable magnet sheets, and some creativity! The whole sheet is magnetic, allowing you to make various designs. Unlike photo sticker papers, you can easily remove and change the printable magnet sheets. We offer two types: glossy for a shiny finish and matte for a more subtle look. Check the detailed description above to understand the difference between the two.
+
+**BEST FOR**
+
+* Printing Customized Fridge Magnets for Yourself
+* Creating Unique Gifts
+* Designing Promotional Business Swag
+
+**PROS**
+
+* Perfect for adding color and life to a wide range of items.
+* Provides a quick and easy way to create customized items.
+* An economical choice for various applications.
+
+**CONS**
+
+* The material may melt in LaserJet printers, making them unsuitable.
+* For Inkjet printers, ensure the printing tray doesn't push out flat to prevent deformation of the printed photo.
+* Exposure to water or sunlight may make the sheet brittle and affect its magnetic properties.
+* Prolonged use may cause the printer to heat up, potentially leading to damage.
+
+[SHOP MAGNET SHEETS HERE!](https://www.compandsave.com/paper/magnet-sheets)
+
+### 4. Printable Fabric
+
+Printable fabric sheets are super easy to use! You can print directly on them, just like regular photo paper. They're lightweight, so you can roll them up, fold them, store them, or ship them with no problem. We have three types of printable fabric for you to pick from. Let's quickly review them to help you choose the perfect one for your project.
+
+**PROS**
+
+* You can print on it just like regular paper, making it simple to use.
+* Gives you the freedom to print your creations directly onto the fabric.
+* Easy to store due to its lightweight and flexible nature.
+
+**CONS**
+
+* Some printers may not handle printable fabric well, affecting print quality.
+* Care must be taken during Inkjet printing to avoid deformation of the printed photo.
+* Exposure to water may make the fabric brittle and affect its properties.
+* Careful handling is needed during printing and stretching, especially with textured surfaces like canvas.
+
+#### **A. Cotton Canvas Fabrics**
+
+The cotton canvas fabric would be the best pick if you want your printed photos to look 'realistic.' This type of printable fabric is exceptional for high-end portraits, photography, and print work. It also gives true color reproduction, making your photos look so real. Our cotton canvas fabric features a white coating and lightly textured matte finish, giving you that same look and feel of canvases used by artists for watercolor or painting with oils.
+
+**BEST FOR**
+
+* Unique Works of Art
+* Printing Fine Art Reproductions
+* Portraits
+* Still Life Photos
+* Landscapes
+* Special Events like Anniversaries, Engagements, Weddings, and More
+
+[SHOP PRINTABLE COTTON CANVAS HERE!](https://www.compandsave.com/paper/printable-fabric/cotton-canvas)
+
+#### **B. Oil Canvas Fabrics**
+
+Our oil canvas fabrics, known as poly-cotton fabrics, feature a white coating and are made of cotton and polyester fiber. It's light, and there will be no shrinkage or bubbles when printing.
+
+**BEST FOR**
+
+* Photo Albums
+* Display Behind a Glass Frame
+* Indoor Decorations
+* Commercial Area Decor
+
+[SHOP PRINTABLE OIL CANVAS HERE!](https://www.compandsave.com/paper/printable-fabric/oil-canvas)
+
+#### **C. Sail Canvas Fabrics**
+
+Print high-quality photographs and art reproductions with our premium printable sail canvas fabric. Our sail canvas features a white coating and is made primarily of cotton and polyester, which helps make your photos more personalized and professional-looking. Our sail canvas weighs 150g each, which can be used in most inkjet printers on the market.
+
+**BEST FOR**
+
+* Printing High-Quality Fine Art Reproductions
+* Photographs
+
+[SHOP PRINTABLE  SAIL CANVAS HERE!](https://www.compandsave.com/paper/printable-fabric/sail-canvas)
