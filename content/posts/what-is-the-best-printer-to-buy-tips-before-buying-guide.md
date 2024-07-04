@@ -182,7 +182,7 @@ If your small business has gotten busier and you need a sturdier laser printer t
 
 [![brother hl-l8360cdw printer specifications table](/blog/images/best-printer-22.png "Brother HL-L8360CDW Printer Specifications Table")](/blog/images/best-printer-22.png)
 
-Pair your Brother HL-L8360CDW with CompAndSave’s [affordable high-yield compatible toner cartridges](https://www.compandsave.com/brother/hl/hl-l8360cdw-toner-cartridges). Guaranteed quality like the original while saving on costs.
+Pair your Brother HL-L8360CDW with CompAndSave’s affordable [high-yield compatible toner cartridges](https://www.compandsave.com/brother/hl/hl-l8360cdw-toner-cartridges). Guaranteed quality like the original while saving on costs.
 
 **3. Canon imageCLASS MF743Cdw**
 
