@@ -96,7 +96,7 @@ Print on a budget with your Canon student printer when you purchase CompAndSave'
 
 Cheap and fast document printing - If that's your main printing need, go for a monochrome laser printer. Not just any laser printer, but we recommend the best Brother printer for students, which is the Brother HL-L2390DW. It can print, copy, and scan, so it's one of our recommended printers for students. It's bigger than inkjets but smaller than other laser printers. You can still find a space for it at home or in your dorm.
 
-In a hurry for another class? The Brother HL-L2390DW can give you 32 pages per minute. People usually think that printer toner is expensive, but you have the option to [buy cheap toner cartridges ](https://www.compandsave.com/top-5-cheap-toner-cartridges)that won't break your budget. You'll be surprised that this homework printer has low running costs as well. Check out the table for more information on this best laser printer for students.
+In a hurry for another class? The Brother HL-L2390DW can give you 32 pages per minute. People usually think that printer toner is expensive, but you have the option to [buy cheap toner cartridges](https://www.compandsave.com/top-5-cheap-toner-cartridges) that won't break your budget. You'll be surprised that this homework printer has low running costs as well. Check out the table for more information on this best laser printer for students.
 
 
 
