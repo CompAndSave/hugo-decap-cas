@@ -224,3 +224,81 @@ Textured photographic paper is the perfect kind of paper to use if you want a mo
 * Textured paper might be more expensive than regular photo paper.
 
 [SHOP TEXTURED PHOTO PAPER HERE!](https://www.compandsave.com/paper/photo-paper/textured)
+
+## Photo Paper: Other Types Available
+
+Haven't picked the right paper for your photos yet? No worries! Check out these other options: [sticker paper, transferable paper, magnet sheets, and printable fabric](https://youtu.be/FdesIY3f-1E). Let's look at each one to see how they're different.
+
+{{< youtubeLazyload id="FdesIY3f-1E" title="How to Choose the Best Inkjet Sticker Paper, Transferable Paper, Magnet Sheets and Printable Fabric" >}}
+
+### 1. Sticker Paper
+
+Sticker photo paper is like regular photo paper but has glue on the back. Unlike other sticker papers with set shapes, our paper lets you make any sticker you want! You can design without limits. We have two types: glossy for bright and eye-catching stickers and matte for a more subtle look. Check the description for glossy and matte photo paper above for more details.
+
+**BEST FOR**
+
+* School and DIY Craft Projects
+* Labels
+* Name Tags
+* Decorative Stickers
+
+**PROS**
+
+* The adhesive backing makes it simple to stick your creations wherever you want.
+* Ideal for DIY craft projects, school activities, and creative endeavors.
+* You can confidently design your stickers without limitations on shapes and sizes.
+* You can choose based on your preferred finish in glossy and matte options.
+
+**CONS**
+
+* Stickers may not be as durable as other materials, especially in outdoor or high-wear situations.
+* The adhesive may leave a residue when stickers are removed, affecting surfaces.
+* Stickers may lose their adhesive properties if exposed to water.
+* Some printers may not handle sticker paper well, affecting print quality.
+
+[SHOP STICKER PAPER HERE!](https://www.compandsave.com/paper/sticker-paper)
+
+### 2. Transferable Paper
+
+Iron-on transferable paper transfers texts, images, etc., to cotton fabrics through a heat press or home iron. There are two types of iron-on transfer paper for Inkjet printers - light and dark transfer paper.
+
+#### **A. Light Transfer Paper**
+
+This type of transfer paper's material is different from the dark one due to its translucent background, so it is highly recommended to use only on white or very light-colored cotton fabrics like cream, pale shades of pink, pale pastels, and the like, as long as it is not too dark.
+
+**BEST FOR**
+
+* White, Light, or Pale-Colored Cotton Fabrics
+
+**PROS**
+
+* Helps you achieve the desired result, especially when trimming the edges.
+* Does a good job when you want a mirror image, making it look nice on the fabric.
+* Lets you be creative and make designs on light fabrics for different projects.
+
+**CONS**
+
+* Light iron-on transfer papers are not advisable to be used on synthetic fabric as they tend to be more sensitive to heat and might cause issues on your prints.
+* The transferred design may not be as durable, especially in high-wear or frequent washing situations.
+
+#### **B. Dark Transfer Paper**
+
+Dark transferable paper is great for black or colored fabrics, even white. But it's better to use light transfer paper for the best results for light fabrics. Dark paper is made so the fabric's color won't show in the background, and it won't affect the images you transfer.
+
+**BEST FOR**
+
+* Black, Dark, or Colored Cotton Fabrics
+* Printing Pictures or Words on T-shirts, Pillows, Tote Bags, and Others
+
+**PROS**
+
+* Allows for creating personalized designs on various items.
+* Produces clear and vibrant images on dark backgrounds.
+* Provides durability for designs, especially when properly applied and cared for.
+
+**CONS**
+
+* Dark iron-on transfer papers are not recommended for synthetics as they are more heat-sensitive and may cause issues.
+* Requires precise application for optimal results, which may be challenging for some users.
+
+[SHOP TRANSFER PAPER HERE!](https://www.compandsave.com/paper/transfer-paper)
