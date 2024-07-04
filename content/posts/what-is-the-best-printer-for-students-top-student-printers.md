@@ -14,13 +14,9 @@ tags:
 ---
 [![best-printer-for-students](/blog/images/what_is_the_best_printer_for_students.png "What is the Best Printer for Students")](/blog/images/what_is_the_best_printer_for_students.png)
 
-
-
 Tons of essays, projects, documents, and a lot more homework, no wonder why printers are important for students. It's not surprising that finding the right printer can be a daunting task. So many options out there but it all boils down to your priorities. Getting the best student printer for school work will largely depend on what suits your budget and printing needs.
 
 So, what is the best printer for students? We'd like to share some tips with you that will make it as easy as possible to select the printer you require. This comprehensive guide will help you decide which printer can cater to the demands of your school work. Read on to find out which printer models we think are a good investment for students.
-
-
 
 ## Top 5 Best Student Printers to Buy
 
@@ -38,8 +34,6 @@ Another great feature of this best HP printer for students is the 35 sheet autom
 
 In need of ink for your HP student printer? Save more on your running costs by using [cheap HP ink cartridges](https://www.compandsave.com/hp). CompAndSave's remanufactured and compatible HP ink cartridges deliver high-quality prints at an economical price.
 
-
-
 ### Best Student Printer for High-Volume Printing
 
 [![epson-workforce-wf-7210](/blog/images/epson_workforce_wf-7210.png "Epson Workforce WF-7210")](/blog/images/epson_workforce_wf-7210.png)
@@ -53,3 +47,21 @@ In need of ink for your HP student printer? Save more on your running costs by u
 This best Epson printer for students is quite bulky with its printing capacity, so you need to make room for it. The Epson Workforce WF-7210 should be your top choice if you print in bulk or on a daily basis. However, the printer price may need a bigger budget, but it's compensated by the low cost per page. It can also be the best home printer for students if you need a printer that can be shared by the whole family. Still can't decide? Take a look at the table below.
 
 [![](/blog/images/screenshot-2024-07-04-at-10.09.38 pm.png)](/blog/images/screenshot-2024-07-04-at-10.09.38 pm.png)
+
+
+
+### Best Affordable Printer for Students
+
+[![epson-ecotank-et-2850](/blog/images/epson_ecotank_et-2850.png "Epson EcoTank ET-2850")](/blog/images/epson_ecotank_et-2850.png)
+
+[Epson EcoTank ET-2850](https://www.compandsave.com/epson/ecotank/et-2850-wireless-color-all-in-one-ink-bottles)
+
+**Best Value Printer Ink:** Compatible [Epson 502 black, cyan, magenta, and yellow ink bottles](https://www.compandsave.com/epson/502-ink-cartridges)
+
+The best cheap printer for students doesn't just mean that the printer is affordable; it also means that the running costs are low. What could be cheaper than a cost per page of 0.1 cent? Another best Epson printer for students is the Epson EcoTank ET-2850. You may splurge on the price of the printer a bit, but you will save more in the long run. .
+
+This EcoTank can print a thousand pages without the need to change your printer ink often. Plus, the easy to refill ink tanks are so convenient for students. Anyone can refill it with the Epson ink bottles quickly. It can also be the best printer for dorm room due to its compact size. However, it can be a bit slower compared to its competitors. Take a look at the table below to see if the EcoTank is the best budget printer for students that you should purchase.
+
+[![](/blog/images/screenshot-2024-07-04-at-10.26.09 pm.png)](/blog/images/screenshot-2024-07-04-at-10.26.09 pm.png)
+
+If you already have an Epson student printer, we already have the cartridges and ink bottles for you. Save more from your allowance when you purchase cheap [Epson ink](https://www.compandsave.com/epson). Your schoolwork will still be of top quality with CompAndSave's remanufactured and compatible printer inks.
