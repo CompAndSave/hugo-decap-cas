@@ -66,7 +66,7 @@ When it comes to cost-saving printers perfect for home printing, the Epson EcoTa
 
 [![epson ecotank et-2720 printer specifications table](/blog/images/best-printer-2.png "Epson EcoTank ET-2720 Printer Specifications Table")](/blog/images/best-printer-2.png)
 
-CompAndSave offers high-quality but affordable ink bottles for Epson [EcoTank ET-2720](https://www.compandsave.com/epson/ecotank/et-2720-ink-cartridges) printers starting at $6.99. Our ink bottles will save you more money without compromising the printing quality!
+CompAndSave offers high-quality but affordable ink bottles for [Epson EcoTank ET-2720](https://www.compandsave.com/epson/ecotank/et-2720-ink-cartridges) printers starting at $6.99. Our ink bottles will save you more money without compromising the printing quality!
 
 **2. HP ENVY Pro 6420**
 
