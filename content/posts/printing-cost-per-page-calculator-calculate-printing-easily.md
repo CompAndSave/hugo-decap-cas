@@ -129,3 +129,37 @@ The page yield for 206A colored cartridges is 1,250, while the [remanufactured 2
 This is our total cost per page for remanufactured HP 206A black and colored toner cartridges, which is 15.3 cents.
 
 Printing in color can be pricey, but if you know some tips and tricks, like buying a combo set, you can save even more. The remanufactured [HP 206A toner set of 4](https://www.compandsave.com/hp/206a-toner-cartridges/w2110a-w2111a-w2112a-w2113a-4-combo) already has black, cyan, magenta, and yellow for the price of $183.80. Here’s how to calculate the printing cost per page for the combo set.
+
+**STEP 1:** Add all individual page yields.
+
+Cyan: 1,250 
+
+Yellow: 1,250 
+
+Magenta: 1,250 
+
+Black: 1,350
+
+TOTAL: 5,100 pages
+
+**STEP 2:** Apply the formula: Cost Per Page = Cartridge Price / Cartridge Page Yield
+
+$183.80/5,100 = 3.6 cents cost per page
+
+For only 3.6 cents printing price per page, you can save so much more when you opt for combo sets!
+
+## Page Yield Calculator: Different Ink Cost Comparison
+
+Now that you understand how ink costs can vary based on page yields, let's make a detailed comparison of ink costs using different page yields.
+
+### Standard vs. High-yield
+
+The word "yield" means how many pages you can print with ink cartridges. If you have a standard-yield cartridge and a high-yield one, the high-yield cartridge will print more pages. This is because it holds more ink compared to the standard yield. 
+
+Similarly, an extra-high or jumbo-yield option can print even more pages than the higher-yield version because it has a larger ink tank. But what does this mean for cost savings? Let's compare the cost per page of these cartridges side by side.
+
+For this table, we are taking HP 61 cartridges in standard ([HP 61 black](https://www.compandsave.com/hp/61-ink-cartridges/ch561wn-black?queryID=bd2ccbba45bb00ff8000841754b441ba&objectID=7693&indexName=magento2_cas_en_products) and [HP 61 tricolor](https://www.compandsave.com/hp/61-ink-cartridges/ch562wn-color)) and high-yield ([HP 61XL black](https://www.compandsave.com/hp/61xl-ink-cartridges/ch563wn-black) and [HP 61XL tricolor](https://www.compandsave.com/hp/61xl-ink-cartridges/ch564wn-color)) variants:
+
+[![price and cost per page comparison table](/blog/images/cost-per-page-5.png "Price and Cost Per Page Comparison Table")](/blog/images/cost-per-page-5.png)
+
+So, if you print often, using the high-yield variant will definitely give you more savings in the long run. The best cost-per-page printer is the one that accepts higher cartridge yields. CompAndSave also offers combo sets for remanufactured HP 61 black and tri-color ink cartridges, which offer even bigger savings on printing charges per page.
