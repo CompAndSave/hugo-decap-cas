@@ -13,8 +13,6 @@ tags:
   - laser printers
   - inkjet printers
 ---
-
-
 [![what is the best printer to buy](/blog/images/what-is-the-best-printer-to-buy.png "What is The Best Printer to Buy")](/blog/images/what-is-the-best-printer-to-buy.png)
 
 Want to buy a new printer but don’t know the best one to pick? Well, the answer is here! Let’s find out in this guide what is the best printer to buy and some questions to ask yourself before deciding. Is it for the home or office? Should I pick an inkjet or laser printer? Let's explore the answers together and know which printer is best for your needs!
@@ -66,6 +64,26 @@ Inkjet printers are pretty famous for home use since they are more affordable th
 
 When it comes to cost-saving printers perfect for home printing, the Epson EcoTank ET-2720 is highly recommended! This inkjet printer has an ink tank that uses ink bottles for refills instead of cartridges. The pages it can print per ink bottle are estimated to be 4,500-7,500. Most ink cartridges have a page yield ranging from 300-800 only. The printer itself is a bit pricey at $316, but it helps you save money on ink. So, if you're looking for the best printer for home use with affordable ink, the Epson EcoTank ET-2720 is the ideal option!
 
-[![epson ecotank et-2720 specification table](/blog/images/best-printer-2.png "Epson EcoTank ET-2720 Specification Table")](/blog/images/best-printer-2.png)
+[![epson ecotank et-2720 printer specifications table](/blog/images/best-printer-2.png "Epson EcoTank ET-2720 Printer Specifications Table")](/blog/images/best-printer-2.png)
 
 CompAndSave offers high-quality but affordable ink bottles for Epson [EcoTank ET-2720](https://www.compandsave.com/epson/ecotank/et-2720-ink-cartridges) printers starting at $6.99. Our ink bottles will save you more money without compromising the printing quality!
+
+**2. HP ENVY Pro 6420**
+
+[![hp envy pro 6420 printer](/blog/images/best-printer-3.png "HP ENVY Pro 6420 Printer")](/blog/images/best-printer-3.png)
+
+What is the best printer to buy than an All-in-One printer? The HP ENVY Pro 6420 All-in-One can do color printing, faxing, and scanning. Its modern and compact design is a plus since it does not take up a lot of space. The lack of LCD can be an advantage since there are no complicated commands to learn. Aside from the simple buttons, you can use it to make it function. You can download the [HP Smart App](https://www.hpsmart.com/gb/en) to help with printing tasks. Just [download the app on your smartphone](https://support.hp.com/us-en/document/ish_1716406-1413451-16), and it can do the printing jobs for you, even on voice commands. It is also the best student printer for those always connected to smartphones.
+
+[![hp envy pro 6420 printer specifications table](/blog/images/best-printer-4.png "HP Envy Pro 6420 Printer Specifications Table")](/blog/images/best-printer-4.png)
+
+CompAndSave offers cheap ink cartridges for [HP ENVY Pro 6420](https://www.compandsave.com/hp/envy/6420e-all-in-one-ink-cartridges). Our replacement cartridges are proven and tested to work like the original ones. Rest assured that you will get the same print quality and performance.
+
+**3. Canon TR8620**
+
+[![Canon TR8620 printer](/blog/images/best-printer-5.png "Canon TR8620 Printer")](/blog/images/best-printer-5.png)
+
+If you are looking for the best printer for photo printing, the Canon TR8620 is your best bet. Aside from great quality photos, black and white documents also appear clear. It uses pigment black ink that makes printouts stand out. This All-in-One printer can fax, scan, and print. Its auto two-sided printing feature can save you time. Accessibility is one of the best home printer must-have traits, and the Canon TR8620 is pretty easy to operate. People at home can download the [Canon Print App](https://www.canon.com.cy/apps/canon-print-inkjet-selphy-app/) or use the LCD screen for smooth navigation. When you download the [Canon Creative Park app](https://creativepark.canon/en/index.html), you can show your creativity to help with photo editing.
+
+[![canon tr8620 printer specifications table](/blog/images/best-printer-6.png "Canon TR8620 Printer Specifications Table")](/blog/images/best-printer-6.png)
+
+Our compatible [Canon TR8620 ink cartridges](https://www.compandsave.com/canon/pixma/tr8620-ink-cartridges) will give you the same amount of pages and print quality as the original but at a much lower price. You can save even more with our popular [bundles](https://www.compandsave.com/canon/bci-6-ink-cartridges/bci-6-10-combo).
