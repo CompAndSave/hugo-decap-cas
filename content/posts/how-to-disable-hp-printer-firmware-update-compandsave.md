@@ -70,3 +70,15 @@ Disable or turn off the "Printer Update" function on your printer so you can con
 **STEP 3:** Select "Update the Printer"
 
 [![printer control panel update printer icon](/blog/images/disable-hp-7.png "Printer Control Panel Update Printer Icon")](/blog/images/disable-hp-7.png)
+
+**STEP 4:** Select "Printer Update Options"
+
+[![printer control panel printer update options icon](/blog/images/disable-hp-8.png "Printer Control Panel Printer Update Options Icon")](/blog/images/disable-hp-8.png)
+
+**STEP 5:** Select "Do Not Check"
+
+[![printer control panel do not check icon](/blog/images/disable-hp-9.png "Printer Control Panel Do Not Check Icon")](/blog/images/disable-hp-9.png)
+
+**STEP 6:** Select "No" to turn off printer updates
+
+[![printer control panel select no option](/blog/images/disable-hp-10.png "Printer Control Panel Select No Option")](/blog/images/disable-hp-10.png)
