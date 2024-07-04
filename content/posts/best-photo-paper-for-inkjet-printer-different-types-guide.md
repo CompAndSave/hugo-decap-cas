@@ -246,7 +246,7 @@ Sticker photo paper is like regular photo paper but has glue on the back. Unlike
 
 * The adhesive backing makes it simple to stick your creations wherever you want.
 * Ideal for DIY craft projects, school activities, and creative endeavors.
-* You can confidently design your stickers without limitations on shapes and sizes.
+* You can [confidently design your stickers](https://www.compandsave.com/how-to-make-stickers-with-thermal-printer-guide) without limitations on shapes and sizes.
 * You can choose based on your preferred finish in glossy and matte options.
 
 **CONS**
@@ -305,7 +305,7 @@ Dark transferable paper is great for black or colored fabrics, even white. But i
 
 ### 3. Magnet Sheets
 
-You can create your own fridge magnets at home using your printer, our printable magnet sheets, and some creativity! The whole sheet is magnetic, allowing you to make various designs. Unlike photo sticker papers, you can easily remove and change the printable magnet sheets. We offer two types: glossy for a shiny finish and matte for a more subtle look. Check the detailed description above to understand the difference between the two.
+You can [create your own fridge magnets at home using your printer](https://www.compandsave.com/what-is-the-best-printer-for-magnetic-sheets-guide), our printable magnet sheets, and some creativity! The whole sheet is magnetic, allowing you to make various designs. Unlike photo sticker papers, you can easily remove and change the printable magnet sheets. We offer two types: glossy for a shiny finish and matte for a more subtle look. Check the detailed description above to understand the difference between the two.
 
 **BEST FOR**
 
