@@ -325,27 +325,27 @@ It's common to have HP printer offline error with corrupted printer drivers. So,
 
 ***For Windows***
 
-**Step 1:** Open the run box by pressing the Window key+ R.
+**Step 1:** Open the run box by pressing the **Window** key+ **R.**
 
-**Step 2:** Type "devmgmt.msc" and press Enter for Device Manager.
+**Step 2:** Type **"devmgmt.msc"** and press Enter for Device Manager.
 
 **Step 3:** Now, click printers or print queues.
 
-Step 4: Right-click on the printer to pick update driver.
+**Step 4:** Right-click on the printer to pick update driver.
 
-Step 5: Select automatic search for drivers and check if the printer is listed.
+**Step 5:** Select automatic search for drivers and check if the printer is listed.
 
-Step 6: If listed, click Update to install drivers.
+**Step 6:** If listed, click Update to install drivers.
 
-For Mac
+***For Mac***
 
-Step 1: Go to the Apple menu and select "System Preferences."
+**Step 1:** Go to the **Apple** menu and select **"System Preferences."**
 
-Step 2: Then, click Software Update.
+**Step 2:** Then, click **Software Update.**
 
-Step 3: Check the printer's list for updates.
+**Step 3:** Check the printer's list for updates.
 
-Step 4: If listed, click Update to install drivers.
+**Step 4:** If listed, click Update to install drivers.
 
 ## Wrapping Up
 
