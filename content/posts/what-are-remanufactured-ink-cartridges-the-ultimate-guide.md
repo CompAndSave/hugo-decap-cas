@@ -28,9 +28,7 @@ But first, let's discuss the different types of cartridges you can use so you'll
 When it comes to ink cartridges, there are three main types:
 
 1. **Original equipment manufacturer (OEM)** printer ink cartridges
-
 2. **Compatible** ink cartridges
-
 3. **Remanufactured/Replacement** ink cartridges
 
 Let's see what they are.
@@ -98,7 +96,7 @@ Before buying a remanufactured ink cartridge, price is one of the most important
 
 This way, you can be certain that you are getting good value for your money. CompAndSave offers up to 50% savings on remanufactured ink cartridges, so feel free to check out our collection.
 
-### Check the Better Business Bureau Profile
+### 3. Check the Better Business Bureau Profile
 
 Before purchasing anything online, it is always wise to check the Better Business Bureau profile of the company and read the reviews. This way, you can know how reputable the business is and whether any complaints have been raised about them.
 
@@ -106,19 +104,19 @@ They should have over a 4 star rating and at least a B+ rating. This will help y
 
 They should have over a 4 star rating and at least a B+ rating. This will help you avoid any scams or bad deals that might look like real ones.
 
-### Look for the Perks
+### 4. Look for the Perks
 
 When it comes to shopping, customers always look for extra perks like free shipping for maximum value out of their purchase. Fortunately, we have you covered! Not only do we offer free shipping on orders over $50 worth of replacement printer ink, but we also offer [discount coupons](https://www.compandsave.com/coupon) so you can save even more money.
 
-### Pick a Company with Good Customer Service
+### 5. Pick a Company with Good Customer Service
 
 A company's customer service needs to be quick and able to answer your questions. If you're not happy with the ink cartridges you have received, it is important that you can get in touch with them and receive a satisfactory resolution. At CompAndSave, our customer service department is ready to help with any questions or problems that might come up while you're shopping on our website for remanufactured printer cartridges or compatible inks.
 
-### Be Aware of the Return/Replace Policy
+### 6. Be Aware of the Return/Replace Policy
 
 Always check the [return/replacement policy](https://www.compandsave.com/return-policy) of the store before you buy. In case there's something wrong with the product after you've bought it, CompAndSave offers a warranty that lasts for 365 days. So, if the remanufactured printer cartridges are broken or just don't work, let us know within this period. Simply contact us, and we'll refund you or replace the cartridge hassle-free!
 
-### Learn About the Warranty
+### 7. Learn About the Warranty
 
 Before purchasing, make sure to read the specifications of the ink cartridge online; this will give you a better idea of the product you're purchasing. Some cartridge brands may only offer a 30-day warranty, while others go up to 1 year.
 
