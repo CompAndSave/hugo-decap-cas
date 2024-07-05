@@ -120,3 +120,27 @@ Now that you've got the list of cheap HP cartridges, you'll need to learn [how t
 However, if you're looking for other cheap ink cartridges besides HP, you can check our [list of cheap printer ink cartridges](https://www.compandsave.com/top-5-best-cheap-printer-ink-cartridges) featuring other brands.
 
 Hopefully, this list of the top 5 best prices on HP ink has helped you decide which cheap HP printer ink cartridges for your printing needs. For more help with cheap HP printer cartridges, don't hesitate to reach out to our customer support staff at our toll-free number 1-833-465-6888 from Mondays to Fridays from 6am-4pm PT.
+
+Can I use other ink cartridges in my HP printer?
+
+The short answer is yes! CompAndSave's compatible and remanufactured ink cartridges are not only meant to save customers money but are also made to meet OEM requirements. It means you will receive the same print quality and quantity without paying as much as you would for the originals. Contrary to popular belief, generic cartridges won't void your printer's warranty. You can shop and use our cheap HP printer cartridges with confidence.
+
+## Frequently Asked Questions
+
+Can I use only black ink in my HP printer?
+
+It's possible to print using only black ink, but doing so may result in lower-quality prints. The other ink colors are designed to help produce deeper blacks and more vibrant colors. As a result, using all four ink colors will typically produce superior results.
+
+
+
+Since black is often used in printing, CompAndSave has combo packs with more black cartridges than colored ones. If you buy these HP printer ink cartridges at a discount, you'll save more money without having to sacrifice print quality.
+
+
+
+Can HP ink cartridges be refilled?
+
+You can refill genuine HP ink cartridges. However, there are a few things to keep in mind before attempting to refill your cartridge. Before beginning the refill process, you will need the proper tools and supplies, such as a syringe and funnel.
+
+
+
+If you don't want to go through the hassle of refilling your cartridges, the best option is to purchase lowest price HP ink cartridges. You'll still get superb prints while saving time and money.
