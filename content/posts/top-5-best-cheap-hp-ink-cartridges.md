@@ -58,3 +58,11 @@ The cheap HP 910 ink is designed to produce high-quality prints. CompAndSave off
 [![HP 910 ink comparison table](/blog/images/screenshot-2024-07-05-at-7.52.07 pm.png "HP 910 ink comparison table")](/blog/images/screenshot-2024-07-05-at-7.52.07 pm.png)
 
 [![HP 910 compatible printers](/blog/images/screenshot-2024-07-05-at-7.55.14 pm.png "HP 910 compatible printers")](/blog/images/screenshot-2024-07-05-at-7.55.14 pm.png)
+
+**Where to buy HP 910 ink cartridges?**
+
+CompAndSave offers a wide selection of cheap HP 910 ink. You can try the HP 910XL combo pack of [four](https://www.compandsave.com/hp/910xl-ink-cartridges/910xl-4-combo) or [ten](https://www.compandsave.com/hp/910xl-ink-cartridges/910xl-10-combo).
+
+### Top 3: [Cheap HP 962 Ink Cartridges](https://www.compandsave.com/hp/962xl-ink-cartridges/962xl-4-combo)
+
+[![Cheap HP 962 Ink Cartridges](/blog/images/screenshot-2024-07-05-at-7.56.49 pm.png "Cheap HP 962 Ink Cartridges")](/blog/images/screenshot-2024-07-05-at-7.56.49 pm.png)
