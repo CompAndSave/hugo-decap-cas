@@ -7,10 +7,11 @@ description: What are remanufactured ink cartridges? If you want to save on
   printing costs but are unsure if replacement ink cartridges are worth it, read
   our guide now!
 tags:
+  - PRINTER INK
   - Ink Cartridge Quality
   - Compatible Ink Cartridges
   - Eco-friendly Printing
-  - Remanufactured vs. Original Cartridges
+  - Remanufactured vs. OEM Cartridges
   - Ink Cartridges Guide
   - Remanufactured Ink Cartridges
 ---
