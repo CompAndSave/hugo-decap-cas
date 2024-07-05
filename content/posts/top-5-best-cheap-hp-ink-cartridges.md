@@ -121,10 +121,6 @@ However, if you're looking for other cheap ink cartridges besides HP, you can ch
 
 Hopefully, this list of the top 5 best prices on HP ink has helped you decide which cheap HP printer ink cartridges for your printing needs. For more help with cheap HP printer cartridges, don't hesitate to reach out to our customer support staff at our toll-free number 1-833-465-6888 from Mondays to Fridays from 6am-4pm PT.
 
-Can I use other ink cartridges in my HP printer?
-
-The short answer is yes! CompAndSave's compatible and remanufactured ink cartridges are not only meant to save customers money but are also made to meet OEM requirements. It means you will receive the same print quality and quantity without paying as much as you would for the originals. Contrary to popular belief, generic cartridges won't void your printer's warranty. You can shop and use our cheap HP printer cartridges with confidence.
-
 ## Frequently Asked Questions
 
 ### 1. Can I use other ink cartridges in my HP printer?
