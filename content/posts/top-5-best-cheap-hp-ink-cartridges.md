@@ -92,3 +92,9 @@ What could be cheaper than paying less than 1 cent per page? It's the HP 952 ink
 In addition, the cartridges are easy to replace, making them an excellent choice for those who frequently need to change printer ink. The HP 952 printer ink cartridges have the lowest cost per page, especially when using the high-yield HP 952XL. Get a glimpse of your printing costs when using cheap HP 952 ink by checking the table.
 
 [![HP 952XL ink comparison table](/blog/images/screenshot-2024-07-05-at-8.02.57 pm.png "HP 952XL ink comparison table")](/blog/images/screenshot-2024-07-05-at-8.02.57 pm.png)
+
+**Where to buy HP 952 ink cartridges?**
+
+CompAndSave offers [HP 952XL combo pack of 10](https://www.compandsave.com/hp/952xl-ink-cartridges-s-7290/952xl-10-combo-p-9894). You can also take advantage of the [HP 952XL combo pack best price for 4 cartridges](https://www.compandsave.com/hp/952xl-ink-cartridges-s-7290/952xl-4-combo-p-9895).
+
+### Top 1: Cheap HP 940 Ink Cartridges
