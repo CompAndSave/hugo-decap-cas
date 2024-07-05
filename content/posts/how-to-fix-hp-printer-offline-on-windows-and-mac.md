@@ -74,49 +74,41 @@ It's a good idea to start using tools like "Diagnose & Fix" or "HP Print and Sca
 
 **Run HP Diagnose and Fix**
 
-[![RUN DIAGNOSE AND FIX](/blog/images/2.png "RUN DIAGNOSE AND FIX")](/blog/images/2.png)
+[![RUN DIAGNOSE AND FIX](/blog/images/screenshot-2024-07-05-at-8.29.29 pm.png "RUN DIAGNOSE AND FIX")](/blog/images/screenshot-2024-07-05-at-8.29.29 pm.png)
 
 The steps below will apply to both **Windows** and **Mac.**
 
 **Step 1: Install HP Smart App (Windows, macOS):**
 
-Install the HP Smart app on your Windows or macOS computer and set up the printer.
+* Install the HP Smart app on your Windows or macOS computer and set up the printer.
 
 **Step 2: Setting Up on Wi-Fi Network:**
 
-Place printer and computer near Wi-Fi router.
-
-Turn on Wi-Fi on the computer and connect to your network.
-
-If using Ethernet, temporarily disconnect it and use Wi-Fi for setup.
-
-Enable Bluetooth on the computer for printer detection during setup.
+* Place printer and computer near Wi-Fi router.
+* Turn on Wi-Fi on the computer and connect to your network.
+* If using Ethernet, temporarily disconnect it and use Wi-Fi for setup.
+* Enable Bluetooth on the computer for printer detection during setup.
 
 **Step 3: Download HP Smart App:**
 
-Get the HP Smart app from Microsoft Store (Windows) or Mac App Store (macOS).
-
-Sign in with Microsoft if prompted, or continue without signing in.
+* Get the HP Smart app from Microsoft Store (Windows) or Mac App Store (macOS).
+* Sign in with Microsoft if prompted, or continue without signing in.
 
 **Step 4: Creating/Signing in to HP Account:**
 
-If using HP Smart for the first time, create or sign in to an HP account.
+* If using HP Smart for the first time, create or sign in to an HP account.
 
 **Step 5: Adding Printer:**
 
-From app home screen, click **"Add Printer"** or the Add icon.
-
-Follow the prompts to set up your printer.
+* From app home screen, click **"Add Printer"** or the Add icon.
+* Follow the prompts to set up your printer.
 
 **Step 6: Troubleshooting with Diagnose & Fix:**
 
-Find and run **"Diagnose & Fix"** within HP Smart app.
-
-In Windows click, **Diagnose & Fix** icon. In macOS, open **Diagnose & Fix** from printer menu.
-
-Click **"Start"** to run the troubleshooter.
-
-Follow provided instructions for any detected issues.
+* Find and run **"Diagnose & Fix"** within HP Smart app.
+* In Windows click, **Diagnose & Fix** icon. In macOS, open **Diagnose & Fix** from printer menu.
+* Click **"Start"** to run the troubleshooter.
+* Follow provided instructions for any detected issues.
 
 If the problem isn't solved, explore additional resources or visit HP Customer Support to search for specific issues or error messages.
 
