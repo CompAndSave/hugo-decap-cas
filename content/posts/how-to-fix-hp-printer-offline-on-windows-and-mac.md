@@ -256,7 +256,7 @@ Stuck print jobs can make a printer go offline by causing a traffic jam in the p
 
 **Step 4:** To clear the queue, either press **"Command + A"** to select all and **"Command + delete"** to cancel, or click **"Printer"** in the menu bar and select **"Cancel All Documents."**
 
-### Reset Printing Queue Manager:
+**B. Reset Printing Queue Manager**
 
 Windows and Mac have a service that manages the print queue, which can have issues and cause printer offline problems. Resetting this service can help fix it.
 
@@ -278,9 +278,9 @@ Windows and Mac have a service that manages the print queue, which can have issu
 
 **Step 4:** Once the printing system is reset, you can re-add your printers by clicking the "+" button in the Printers & Scanners window and following the instructions on the screen.
 
-## 4. Update Printer Drivers
+### 4. Update Printer Drivers
 
-### Disable Use Printer Offline Mode
+**Disable Use Printer Offline Mode**
 
 It's common to have HP printer offline error with corrupted printer drivers. So, if your printer has out-of-date drivers, it may be a reason for poor printing experience. In this case, the above method will not work. You will need to get new and updated printer drivers.
 
@@ -316,21 +316,21 @@ Still asking, "Why is my HP printer offline?" even after following our shared ti
 
 For more articles and useful tips, visit our website. For concerns and inquiries, call our toll-free number: 1-833-465-6888. Our support is available Monday to Friday, 6am-4pm PT. Happy printing!
 
-## FAQs
+## Frequently Asked Questions
 
-### How do I switch my HP printer from offline to online?
+### 1. How do I switch my HP printer from offline to online?
 
 You can switch your HP printer from offline to online by simply setting it as the default printer.
 
-### How do I get my HP printer back online?
+### 2. How do I get my HP printer back online?
 
 To get your HP printer back online, find the cause for its offline status and fix it with the help of our steps shared in the above guide.
 
-### How do I fix my HP printer offline?
+### 3. How do I fix my HP printer offline?
 
 It can be fixed by reconnecting the power cord with your HP printer and wall outlet.
 
-### Why does my computer say my printer is offline, but it's not?
+### 4. Why does my computer say my printer is offline, but it's not?
 
 A possible reason can be out-of-dated printer drivers. It can also be offline due to a lack of compatibility and voltage fluctuations.
 
