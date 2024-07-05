@@ -37,9 +37,7 @@ Do you need HP inks for home use, such as printing homework and office documents
 
 How much is HP 61 ink cartridge, you ask? Check out the table below and see how much you can save when using OEM HP 61 cartridges vs. cheap HP 61 ink. The table can also help you decide whether you need the standard variant or the one with a higher yield when purchasing cheap HP 61 printer ink cartridges.
 
-[![HP 61 Ink comparison table](/blog/images/screenshot-2024-07-05-at-7.46.14 pm.png "HP 61 ink comparison table")](/blog/images/screenshot-2024-07-05-at-7.46.14 pm.png)
-
-[![HP 61 compatible printers](/blog/images/screenshot-2024-07-05-at-7.46.57 pm.png "HP 61 compatible printers")](/blog/images/screenshot-2024-07-05-at-7.46.57 pm.png)
+[![HP 61 Ink comparison table](/blog/images/screenshot-2024-07-05-at-8.16.15 pm.png "HP 61 ink comparison table")](/blog/images/screenshot-2024-07-05-at-8.16.15 pm.png)
 
 **Where to buy HP 61 ink cartridges?**
 
