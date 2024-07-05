@@ -115,12 +115,8 @@ Not only does this create a high-quality print, but it also means you'll save th
 
 You can check out the [combo pack of 4](https://www.compandsave.com/hp/940xl-ink-cartridges/940xl-4-combo). If you need more black ink, we offer an [HP 940XL combo pack of 5](https://www.compandsave.com/hp/940xl-ink-cartridges/940xl-5-combo) that has 2 black cartridges and a [combo pack of 10](https://www.compandsave.com/hp/940xl-ink-cartridges/940xl-10-combo), which has 4 black cartridges and 2 of each color.
 
-Now that you've got the list of cheap HP cartridges, you'll need to learn how to change the ink in your HP printer properly. HP ink cartridges are easy to install, especially with step-by-step instructions. Also, knowing how to troubleshoot common HP printer problems is a must. With our guide, resolving minor printing issues on your own has never been easier.
+Now that you've got the list of cheap HP cartridges, you'll need to learn [how to change the ink in your HP printer](https://www.compandsave.com/how-to-change-ink-in-hp-printer-guide) properly. HP ink cartridges are easy to install, especially with step-by-step instructions. Also, knowing [how to troubleshoot common HP printer problems](https://www.compandsave.com/hp-printer-troubleshooting-guide) is a must. With our guide, resolving minor printing issues on your own has never been easier.
 
-
-
-However, if you're looking for other cheap ink cartridges besides HP, you can check our list of cheap printer ink cartridges featuring other brands.
-
-
+However, if you're looking for other cheap ink cartridges besides HP, you can check our [list of cheap printer ink cartridges](https://www.compandsave.com/top-5-best-cheap-printer-ink-cartridges) featuring other brands.
 
 Hopefully, this list of the top 5 best prices on HP ink has helped you decide which cheap HP printer ink cartridges for your printing needs. For more help with cheap HP printer cartridges, don't hesitate to reach out to our customer support staff at our toll-free number 1-833-465-6888 from Mondays to Fridays from 6am-4pm PT.
