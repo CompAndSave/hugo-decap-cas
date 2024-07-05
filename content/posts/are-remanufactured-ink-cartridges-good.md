@@ -1,5 +1,5 @@
 ---
-title: Are Remanufactured Ink Cartridges Good?
+title: Are Remanufactured Ink Cartridges Good? Common Misconceptions
 date: 2024-07-02T03:58:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/screenshot-2024-07-02-at-3.58.51 pm.png
