@@ -6,12 +6,12 @@ featured_image: /blog/images/ingoude.-10-.png
 description: How to save on printer ink? Printing doesn't have to be expensive.
   Use these top 10 tips on how to save money on printer ink now!
 tags:
-  - PrinterInk
-  - CostSavingTips
-  - InkSavingTips
-  - PrinterTips
-  - EcoFriendlyPrinting
-  - ReduceInkUsage
+  - Printer Ink
+  - Cost Saving Tips
+  - Ink Saving
+  - Printer Tips
+  - Eco Friendly Printing
+  - Reduce Ink cost
 ---
 [![TOP 10 TIPS ON HOW TO SAVE ON PRINTER INK](/blog/images/ingoude.-10-.png "TOP 10 TIPS ON HOW TO SAVE ON PRINTER INK")](/blog/images/ingoude.-10-.png)
 
