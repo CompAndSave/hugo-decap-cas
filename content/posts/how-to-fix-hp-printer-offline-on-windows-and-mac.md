@@ -291,26 +291,70 @@ Step 3: In the print queue, pick the job to cancel and click the close button **
 
 Step 4: To clear the queue, either press **"Command + A"** to select all and **"Command + delete"** to cancel, or click **"Printer"** in the menu bar and select **"Cancel All Documents."**
 
-Reset Printing Queue Manager:
+### Reset Printing Queue Manager:
 
 Windows and Mac have a service that manages the print queue, which can have issues and cause printer offline problems. Resetting this service can help fix it.
 
 
 
-For Windows
+***For Windows***
 
-Step 1: Search "services" in Windows' search taskbar and select "Services."
+**Step 1:** Search **"services"** in Windows' search taskbar and select **"Services."**
 
-Step 2: Scroll to "Print Spooler," click it, and look for "Restart the service options". Alternatively, right-cick "Print Spooler" and choose the "Restart" option.
+**Step 2:** Scroll to **"Print Spooler,"** click it, and look for **"Restart the service options"**. Alternatively, right-cick **"Print Spooler"** and choose the **"Restart"** option.
+
+***For Mac***
+
+**Step 1:** Click **Apple** menu, select **"System Settings,"** then choose **"Printers & Scanners."**
+
+**Step 2:** Right-click an empty space, and choose **"Reset printing system."**
+
+**Step 3:** A confirmation pop-up will appear, letting you know that resetting the printing system will remove all printers. To continue, click the **"Reset"** button.
+
+***Note:** If prompted, enter your administrator password and click the **"OK"** button.*
+
+**Step 4:** Once the printing system is reset, you can re-add your printers by clicking the "+" button in the Printers & Scanners window and following the instructions on the screen.
+
+## 4. Update Printer Drivers
+
+### Disable Use Printer Offline Mode
+
+It's common to have HP printer offline error with corrupted printer drivers. So, if your printer has out-of-date drivers, it may be a reason for poor printing experience. In this case, the above method will not work. You will need to get new and updated printer drivers.
+
+
+
+***For Windows***
+
+**Step 1:** Open the run box by pressing the Window key+ R.
+
+**Step 2:** Type "devmgmt.msc" and press Enter for Device Manager.
+
+**Step 3:** Now, click printers or print queues.
+
+Step 4: Right-click on the printer to pick update driver.
+
+Step 5: Select automatic search for drivers and check if the printer is listed.
+
+Step 6: If listed, click Update to install drivers.
 
 For Mac
 
-Step 1: Click Apple menu, select "System Settings," then choose "Printers & Scanners."
+Step 1: Go to the Apple menu and select "System Preferences."
 
-Step 2: Right-click an empty space, and choose "Reset printing system."
+Step 2: Then, click Software Update.
 
-Step 3: A confirmation pop-up will appear, letting you know that resetting the printing system will remove all printers. To continue, click the "Reset" button.
+Step 3: Check the printer's list for updates.
 
-Note: If prompted, enter your administrator password and click the "OK" button.
+Step 4: If listed, click Update to install drivers.
 
-Step 4: Once the printing system is reset, you can re-add your printers by clicking the "+" button in the Printers & Scanners window and following the instructions on the screen.
+## Wrapping Up
+
+In summary, this detailed guide offers solutions on how to fix HP printer offline issues. It covers basic checks for cable and network problems, as well as situations where the printer shows as offline while being connected to the correct WiFi network.
+
+
+
+Still asking, "Why is my HP printer offline?" even after following our shared tips above, don't hesitate to seek help from your printer's manufacturer or knowledgeable experts. They can help further if our tips haven't done the trick.
+
+
+
+For more articles and useful tips, visit our website. For concerns and inquiries, call our toll-free number: 1-833-465-6888. Our support is available Monday to Friday, 6am-4pm PT. Happy printing!
