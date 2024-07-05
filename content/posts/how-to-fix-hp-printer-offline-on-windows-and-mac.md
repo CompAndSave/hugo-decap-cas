@@ -160,3 +160,157 @@ For now, **"HP Print and Scan Doctor"** is for Windows only, macOS users can use
 **Step 5:** Now, choose the printer from the given product list and run the diagnostic.
 
 **Step 6:** If there is no printer option on the product list, choose **"My product is not listed"** and follow the on-screen guidelines to resolve it.
+
+### 2. Printer Configuration Issues
+
+If the settings are not right, your printer might go offline. Here are various types of setup issues and easy steps to fix your HP printer on Windows or macOS.
+
+
+
+### Set the Default Printer
+
+Check if your printer is set as the default printer. If your preferred printer isn't set as the default, it might appear as offline.
+
+[![SET THE DEFAULT PRINTER](/blog/images/4.png "SET THE DEFAULT PRINTER")](/blog/images/4.png)
+
+***For Windows***
+
+**Step 1:** Go to the taskbar, search for "Printers & Scanners", and open it.
+
+**Step 2:** Next, make sure that your default printer option is toggled off.
+
+**Step 3:** If there is a green check mark, you already have set the default printer.
+
+**Step 4:** If there is no green mark, click the printer icon on the list to get the main menu.
+
+**Step 5:** Now, choose the "Set as Default" option to set your HP printer as default.
+
+**Step 6:** As it is now online, you will no longer have the "My HP printer is offline" statement.
+
+***For Mac***
+
+**Step 1:** Go to the Apple menu and select **"System Preferences."**
+
+**Step 2:** Then, click on **"Printers & Scanners."**
+
+**Step 3:** Choose the printer to designate as the default.
+
+**Step 4:** Now, choose the **"Set Default Printer"** option to set your HP printer as default.
+
+### Disable Use Printer Offline Mode
+
+***For Windows***
+
+**Step 1:** Open the Windows search bar, type **"control panel,"** and from the results, click **"Control Panel."**
+
+**Step 2:** In the Control Panel, select **"Hardware and Sound"** or **"Devices and Printers."**
+
+**Step 3:** Find your printer in the list of devices and right-click on it.
+
+**Step 4:** Choose **"See what's printing"** or **"Open print queue."**
+
+**Step 5:** In the print queue window, click the **"Printer"** menu at the top.
+
+**Step 6:** If the printer is offline, there will be a checkmark next to **"Use Printer Offline."** Click it to disable offline mode.
+
+**Step 7:** Your printer will switch to online mode and should be ready for printing.
+
+***For Mac***
+
+**Step 1:** Click the Apple menu in the top-left corner.
+
+**Step 2:** Select System Preferences from the drop-down menu.
+
+**Step 3:** In System Preferences, click on **"Printers & Scanners"** or **"Print & Scan."**
+
+**Step 4:** Choose your printer from the list on the left.
+
+**Step 5:** Click **"Options & Supplies"** or **"Open Print Queue."**
+
+**Step 6:** In the open print queue window, click the **"Printer"** menu at the top.
+
+**Step 7:** If your printer is in offline mode, you'll see an option to **"Resume"** or **"Unpause"** printing. Click it to disable offline mode.
+
+Disable SNMP Function (Simple Network Management Protocol)
+
+SNMP is typically used in networks to monitor and manage devices centrally. For everyday home users, turning on SNMP might not be needed. However, you might need permission from those in charge if you're at work and dealing with a work printer. If you need to disable SNMP, follow these steps:
+
+
+
+For Windows
+
+Step 1: Go to the Apple menu and select "System Preferences."
+
+Step 2: Then, click on "Print & Scan."
+
+Step 3: Choose the printer from the left-side list.
+
+Step 4: Click "Options & Supplies," find "Enable SNMP" and disable it.
+
+Step 5: Now, close the Printer window and restart your Mac.
+
+For Mac
+
+Step 1: Go to the Apple menu in the top-left corner and select "System Preferences."
+
+Step 2: Then, click on "Printers & Scanners" or "Print & Scan."
+
+Step 3: Select your printer from the list on the left-hand side.
+
+Step 4: Click the "Options & Supplies" or "Open Print Queue."
+
+Step 5: In the Options tab, look for an option related to SNMP or "Enable SNMP" and uncheck or disable it.
+
+Step 6: Close the Printer Options window.
+
+Step 7: Restart your Mac for the changes to take effect.
+
+3. Print Queue Problems
+
+Disable Use Printer Offline Mode
+
+Stuck print jobs can make a printer go offline by causing a traffic jam in the print queue. Clearing these jobs can fix the problem and restore regular printing.
+
+
+
+For Windows
+
+Step 1: Search "printer" in the Windows search bar and select "Printer & scanners."
+
+Step 2: Pick your printer from the list, click on it, and choose "Open print queue."
+
+Step 3: Find the documents in the print queue window. Select each, click "Document," and choose "Cancel" to remove them.
+
+For Mac
+
+Step 1: Click Apple menu, choose "System Settings", then "Printers & Scanners."
+
+Step 2: Choose the active printer and click "Open Print Queue."
+
+Step 3: In the print queue, pick the job to cancel and click the close button (X) next to it.
+
+Step 4: To clear the queue, either press "Command + A" to select all and "Command + delete" to cancel, or click "Printer" in the menu bar and select "Cancel All Documents."
+
+Reset Printing Queue Manager:
+
+Windows and Mac have a service that manages the print queue, which can have issues and cause printer offline problems. Resetting this service can help fix it.
+
+
+
+For Windows
+
+Step 1: Search "services" in Windows' search taskbar and select "Services."
+
+Step 2: Scroll to "Print Spooler," click it, and look for "Restart the service options". Alternatively, right-cick "Print Spooler" and choose the "Restart" option.
+
+For Mac
+
+Step 1: Click Apple menu, select "System Settings," then choose "Printers & Scanners."
+
+Step 2: Right-click an empty space, and choose "Reset printing system."
+
+Step 3: A confirmation pop-up will appear, letting you know that resetting the printing system will remove all printers. To continue, click the "Reset" button.
+
+Note: If prompted, enter your administrator password and click the "OK" button.
+
+Step 4: Once the printing system is reset, you can re-add your printers by clicking the "+" button in the Printers & Scanners window and following the instructions on the screen.
