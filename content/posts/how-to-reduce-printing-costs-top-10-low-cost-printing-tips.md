@@ -117,3 +117,15 @@ Moreover, high-quality generic printer ink tends to be less prone to leakage. Wh
 CompAndSave's generic cartridges have a 1-year 100% satisfaction guarantee. Our budget-friendly ink and toner cartridges have the highest standards for performance and quality. You'll get excellent replacements for [HP Ink](https://www.compandsave.com/hp), [Epson Ink](https://www.compandsave.com/epson), [Canon Ink](https://www.compandsave.com/canon), [Brother Ink](https://www.compandsave.com/brother), [Lexmark Ink](https://www.compandsave.com/lexmark), and other brand name printer inks.
 
 Using printers can become affordable, quick, and effective if you're a little careful and creative with the usage. So make sure to try these low-cost printing tips that can save you hundreds of dollars in the long run.
+
+## Parting Thoughts
+
+Remember that inexpensive printing is not just about saving money but also about reducing waste! When your business becomes eco-friendly, you can proudly market yourself as an eco-conscious business, attracting more customers. So stay innovative and think green while getting the lowest printing cost.
+
+CompAndSave is with you on learning how to reduce printing costs and how to be more eco-friendly. Talk to us if you have more inquiries at our toll-free number: 1-833-465-6888 from Mondays to Fridays from 6am-4pm PT.
+
+## Related articles:
+
+Top 5 Best Cheap Printer Ink Cartridges
+
+Top 5 Cheap Toner Cartridges
