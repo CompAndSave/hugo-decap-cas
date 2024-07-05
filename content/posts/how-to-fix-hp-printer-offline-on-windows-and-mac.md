@@ -144,3 +144,19 @@ If the problem isn't solved, explore additional resources or visit HP Customer S
 ### Use HP Print and Scan Doctor
 
 For now, **"HP Print and Scan Doctor"** is for Windows only, macOS users can use the **"Diagnose & Fix"** feature in the HP Smart app for similar printer issue diagnostics and solutions.
+
+[![USE PH PRINT AND SCAN DOCTOR](/blog/images/3.png "USE PH PRINT AND SCAN DOCTOR")](/blog/images/3.png)
+
+**For Windows Only**
+
+**Step 1:** First, check that you have loaded papers in the primary tray.
+
+**Step 2:** Then, make your HP printer turn on.
+
+**Step 3:** Go to the taskbar, search for **"HP Print and Scan Detector,"** and open it (it will come as preinstalled application on HP computers).
+
+**Step 4:** The next step is to click the **"Start"** button on the welcome screen.
+
+**Step 5:** Now, choose the printer from the given product list and run the diagnostic.
+
+**Step 6:** If there is no printer option on the product list, choose **"My product is not listed"** and follow the on-screen guidelines to resolve it.
