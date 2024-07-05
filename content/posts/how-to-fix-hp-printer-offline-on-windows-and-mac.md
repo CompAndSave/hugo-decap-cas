@@ -83,7 +83,7 @@ After restarting, try printing a test page to check if the issue is resolved.
 
 If your device is connected to the correct network and the USB cable is good, but it's still showing as offline, the problem might be old drivers or wrong settings. To fix this, follow the tips below that match your situation.
 
-### 1. Run HP Diagnostic Tools
+## 1. Run HP Diagnostic Tools
 
 It's a good idea to start using tools like "Diagnose & Fix" or "HP Print and Scan Doctor" to quickly find common problems and might be able to fix them quickly. It's like checking for simple solutions first, which can save you time and effort.
 
@@ -161,7 +161,7 @@ For now, **"HP Print and Scan Doctor"** is for Windows only, macOS users can use
 
 **Step 6:** If there is no printer option on the product list, choose **"My product is not listed"** and follow the on-screen guidelines to resolve it.
 
-### 2. Printer Configuration Issues
+## 2. Printer Configuration Issues
 
 If the settings are not right, your printer might go offline. Here are various types of setup issues and easy steps to fix your HP printer on Windows or macOS.
 
@@ -231,65 +231,65 @@ Check if your printer is set as the default printer. If your preferred printer i
 
 **Step 7:** If your printer is in offline mode, you'll see an option to **"Resume"** or **"Unpause"** printing. Click it to disable offline mode.
 
-Disable SNMP Function (Simple Network Management Protocol)
+### Disable SNMP Function (Simple Network Management Protocol)
 
 SNMP is typically used in networks to monitor and manage devices centrally. For everyday home users, turning on SNMP might not be needed. However, you might need permission from those in charge if you're at work and dealing with a work printer. If you need to disable SNMP, follow these steps:
 
 
 
-For Windows
+***For Windows***
 
-Step 1: Go to the Apple menu and select "System Preferences."
+**Step 1:** Go to the Apple menu and select **"System Preferences."**
 
-Step 2: Then, click on "Print & Scan."
+**Step 2:** Then, click on **"Print & Scan."**
 
-Step 3: Choose the printer from the left-side list.
+**Step 3:** Choose the printer from the left-side list.
 
-Step 4: Click "Options & Supplies," find "Enable SNMP" and disable it.
+**Step 4:** Click **"Options & Supplies,"** find **"Enable SNMP"** and disable it.
 
-Step 5: Now, close the Printer window and restart your Mac.
+**Step 5:** Now, close the Printer window and restart your Mac.
 
-For Mac
+***For Mac***
 
-Step 1: Go to the Apple menu in the top-left corner and select "System Preferences."
+**Step 1:** Go to the Apple menu in the top-left corner and select **"System Preferences."**
 
-Step 2: Then, click on "Printers & Scanners" or "Print & Scan."
+**Step 2:** Then, click on **"Printers & Scanners"** or **"Print & Scan."**
 
-Step 3: Select your printer from the list on the left-hand side.
+**Step 3:** Select your printer from the list on the left-hand side.
 
-Step 4: Click the "Options & Supplies" or "Open Print Queue."
+**Step 4:** Click the **"Options & Supplies"** or **"Open Print Queue."**
 
-Step 5: In the Options tab, look for an option related to SNMP or "Enable SNMP" and uncheck or disable it.
+**Step 5:** In the Options tab, look for an option related to SNMP or **"Enable SNMP"** and uncheck or disable it.
 
-Step 6: Close the Printer Options window.
+**Step 6:** Close the Printer Options window.
 
-Step 7: Restart your Mac for the changes to take effect.
+**Step 7:** Restart your Mac for the changes to take effect.
 
-3. Print Queue Problems
+## 3. Print Queue Problems
 
-Disable Use Printer Offline Mode
+### Disable Use Printer Offline Mode
 
 Stuck print jobs can make a printer go offline by causing a traffic jam in the print queue. Clearing these jobs can fix the problem and restore regular printing.
 
 
 
-For Windows
+***For Windows***
 
-Step 1: Search "printer" in the Windows search bar and select "Printer & scanners."
+Step 1: Search **"printer"** in the Windows search bar and select **"Printer & scanners."**
 
-Step 2: Pick your printer from the list, click on it, and choose "Open print queue."
+Step 2: Pick your printer from the list, click on it, and choose **"Open print queue."**
 
-Step 3: Find the documents in the print queue window. Select each, click "Document," and choose "Cancel" to remove them.
+Step 3: Find the documents in the print queue window. Select each, click **"Document,"** and choose **"Cancel"** to remove them.
 
 For Mac
 
-Step 1: Click Apple menu, choose "System Settings", then "Printers & Scanners."
+Step 1: Click Apple menu, choose **"System Settings"**, then **"Printers & Scanners."**
 
-Step 2: Choose the active printer and click "Open Print Queue."
+Step 2: Choose the active printer and click **"Open Print Queue."**
 
-Step 3: In the print queue, pick the job to cancel and click the close button (X) next to it.
+Step 3: In the print queue, pick the job to cancel and click the close button **(X)** next to it.
 
-Step 4: To clear the queue, either press "Command + A" to select all and "Command + delete" to cancel, or click "Printer" in the menu bar and select "Cancel All Documents."
+Step 4: To clear the queue, either press **"Command + A"** to select all and **"Command + delete"** to cancel, or click **"Printer"** in the menu bar and select **"Cancel All Documents."**
 
 Reset Printing Queue Manager:
 
