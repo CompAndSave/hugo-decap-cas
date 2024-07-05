@@ -27,11 +27,11 @@ But first, let's discuss the different types of cartridges you can use so you'll
 
 When it comes to ink cartridges, there are three main types:
 
-Original equipment manufacturer (OEM) printer ink cartridges
+1. **Original equipment manufacturer (OEM)** printer ink cartridges
 
-Compatible ink cartridges
+2. **Compatible** ink cartridges
 
-Remanufactured/Replacement ink cartridges
+3. **Remanufactured/Replacement** ink cartridges
 
 Let's see what they are.
 
@@ -62,31 +62,19 @@ Remanufactured printer ink cartridges, which are also called replacement ink car
 * Enjoy more savings since they're price is only a fraction of the OEM ink cost.
 * Will not void printer warranty so you can use it with confidence.
 
-
-
-
-
 ## OEM vs. Remanufactured Ink Cartridges
 
 If you're wondering whether or not you'll get the same value out of replacement ink cartridges as their OEM counterparts, then the good news is that you'll get better value! Let's see the difference between remanufactured ink cartridges vs new printer ink.
-
-
 
 ## Print Quality
 
 Do remanufactured ink cartridges work like the originals? Yes, as long as you purchase from a trusted supplier. There's no doubt that remanufactured cartridges offer consumers huge savings over OEM cartridges. However, just like any other printer-related product, there are bad eggs everywhere, even in the OEM ones.
 
-
-
 This is why it's essential to go with a seller with a rigorous quality testing process and a warranty like CompAndSave. You can get high-quality remanufactured toner cartridges and replacement ink cartridges for a reasonable price, and you won't have to worry about them breaking or leaking while you're printing.
-
-
 
 ## Page Yield
 
 Yes, you will get the same page yield as an original brand cartridge-unless you are using a badly made replacement printer ink. Reputable brands' remanufactured cartridges come with a warranty in case something goes wrong, so you're still covered if your cartridge breaks down. However, make sure to purchase your ink cartridges from a reputable source—not just any online store.
-
-
 
 ## Cost
 
@@ -110,19 +98,13 @@ When it comes to remanufactured ink cartridges, you need to be sure that you are
 
 Before buying a remanufactured ink cartridge, price is one of the most important things to think about. Always compare the prices of different sellers and make sure that there is at least a 20-30% difference between OEM (original equipment manufacturer) and remanufactured products.
 
-
-
 This way, you can be certain that you are getting good value for your money. CompAndSave offers up to 50% savings on remanufactured ink cartridges, so feel free to check out our collection.
 
 ### Check the Better Business Bureau Profile
 
 Before purchasing anything online, it is always wise to check the Better Business Bureau profile of the company and read the reviews. This way, you can know how reputable the business is and whether any complaints have been raised about them.
 
-
-
 They should have over a 4 star rating and at least a B+ rating. This will help you avoid any scams or bad deals that might look like real ones.
-
-
 
 They should have over a 4 star rating and at least a B+ rating. This will help you avoid any scams or bad deals that might look like real ones.
 
@@ -141,8 +123,6 @@ Always check the [return/replacement policy](https://www.compandsave.com/return-
 ### Learn About the Warranty
 
 Before purchasing, make sure to read the specifications of the ink cartridge online; this will give you a better idea of the product you're purchasing. Some cartridge brands may only offer a 30-day warranty, while others go up to 1 year.
-
-
 
 Second, remember that CompAndSave's refilled cartridges and remanufactured toner come with a 100% satisfaction guarantee. So if, for any reason, you don't see value in your purchase, we will be happy to refund the paid amount or replace the product within the first year of ownership.
 
@@ -168,25 +148,17 @@ CompAndSave offers remanufactured Brother ink cartridges and remanufactured [Bro
 
 In a nutshell, remanufactured or replacement ink is an affordable option for people who want to save money. If purchased from a reliable business, the product can be of the highest quality as it passes various tests. Most top sellers, like CompAndSave, also offer a warranty on the remanufactured cartridges so that our products can be used confidently.
 
-
-
 As you can see, there are no significant risks in buying remanufactured printer cartridges. Give it a try today if you haven't yet – it might just be your new favorite cost-effective printer ink alternative. If you have more questions about CompAndSave products, feel free to contact our toll-free number: 1-833-465-6888 from Mondays to Fridays from 6am to 6pm PT. We'll be happy to assist you with your inquiries.
 
 ## Frequently Asked Questions
 
 In this part, we'll discuss the most common questions consumers have about remanufactured cartridges.
 
-
-
 ### Can I use remanufactured ink cartridges (would it void my printer warranty if I use one)?
 
 The answer is no! No such regulation says that printer users of a specific brand cannot use replacement cartridges. Even though printer companies don't want you to do this for obvious reasons, they can't stop you.
 
-
-
 In the same way, using remanufactured inks does not invalidate a warranty or a refund that could be given if the printer breaks. In fact, there's a law that protects you in such cases called the [Magnuson Moss Warranty Improvement Act.](https://www.ftc.gov/business-guidance/resources/businesspersons-guide-federal-warranty-law)
-
-
 
 This law allows third-party cartridge use, which means that you are not limited to using ink cartridges from the printer manufacturer. With that being said, you can use remanufactured and compatible ink cartridges with ease!
 
@@ -194,19 +166,13 @@ This law allows third-party cartridge use, which means that you are not limited 
 
 Are remanufactured toner cartridges any good? How about replacement ink cartridges? The answer is a definite yes! In fact, remanufactured ink cartridges are just as reliable as the original ones.
 
-
-
 However, if you buy from an ill-reputed brand, the cartridge or ink quality might not be as good. So, make sure to thoroughly research online sellers before purchasing remanufactured printer ink cartridges.
-
-
 
 In addition to being reliable, replacement cartridges are also cheaper than OEM ink cartridges. So, if the budget is a little tight and you want to save some money, they are the way to go!
 
 ### What is the lifespan of a remanufactured ink cartridge?
 
 Ink cartridges have a lifespan of about 2 years, which is about 3–4 refills. Furthermore, if you choose to go DIY, you could get 1-3 refills out of it because you purchased it remanufactured, so it's been filled once already.
-
-
 
 So, in the end, remanufactured ink cartridges are a great choice because they're cost-effective, environmentally friendly, and provide quality printing output. Hopefully, this answers your top question: what are remanufactured ink cartridges. Next, let's compare it to OEM ink.
 
