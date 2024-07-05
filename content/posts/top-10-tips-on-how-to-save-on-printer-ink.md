@@ -35,7 +35,7 @@ The prices vary, with the standard being the cheapest. Take note that not all ty
 
 Check out the Canon 240 and 241 ink cartridges that have standard, high-yield, and extra high-yield variants. Look at the printer ink savings you can have by purchasing the higher yield.
 
-[![CARTRIDGE](/blog/images/screenshot-2024-07-05-at-9.00.50 pm.png "CARTRIDGE")](/blog/images/screenshot-2024-07-05-at-9.00.50 pm.png)
+[![Canon 240 and 241 ink cartridge comparison table](/blog/images/screenshot-2024-07-05-at-9.00.50 pm.png "Canon 240 and 241 ink cartridge comparison table")](/blog/images/screenshot-2024-07-05-at-9.00.50 pm.png)
 
 ### Tip #2: Buy Ink in Bulk
 
