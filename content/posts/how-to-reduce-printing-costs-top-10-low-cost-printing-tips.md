@@ -25,3 +25,18 @@ With the right tips and tricks, you can significantly reduce your printing costs
 ### TIP #1 - Use Grayscale Printing Mode
 
 The first tip on our top ten list to reduce the cost of printing is to use grayscale when you want to print something in black and white. This is because the printer uses various inks to create black color instead of directly using black ink. So, use grayscale to lower printing costs, and use the black cartridge in the first place. Here's how to do it:
+
+1. Go to **Devices and Printers** from your Windows **Control Panel**
+2. Select your printer and right-click on it
+3. Go to **Printing Preferences.**
+4. Click on the **Color** tab
+5. Click on **Print in Grayscale.**
+6. Click **Apply.** Your printer should use grayscale mode now.
+
+### Tip #2 - Set Lower Print Density
+
+Reducing print density is an excellent way to save money on printing. Print density is how dark you want your printouts to be. Unless necessary, you can lower the settings so it won't use more ink. The print density settings can be adjusted on both the inkjet and laser printers.
+
+
+
+Here's how to reduce print density to save money on printer ink:
