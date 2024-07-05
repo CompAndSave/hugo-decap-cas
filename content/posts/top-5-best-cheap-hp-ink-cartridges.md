@@ -110,3 +110,17 @@ Just when you thought the printing costs couldn't be any cheaper, here they are 
 Not only does this create a high-quality print, but it also means you'll save the most per page of printing due to the ink's resistance to smudging. You can refer to the table below to see why these cartridges are on top when it comes to the best price HP ink cartridges.
 
 [![HP 940XL ink comparison table](/blog/images/screenshot-2024-07-05-at-8.06.05 pm.png "HP 940XL ink comparison table")](/blog/images/screenshot-2024-07-05-at-8.06.05 pm.png)
+
+**Where to buy HP 940 ink?**
+
+You can check out the [combo pack of 4](https://www.compandsave.com/hp/940xl-ink-cartridges/940xl-4-combo). If you need more black ink, we offer an [HP 940XL combo pack of 5](https://www.compandsave.com/hp/940xl-ink-cartridges/940xl-5-combo) that has 2 black cartridges and a [combo pack of 10](https://www.compandsave.com/hp/940xl-ink-cartridges/940xl-10-combo), which has 4 black cartridges and 2 of each color.
+
+Now that you've got the list of cheap HP cartridges, you'll need to learn how to change the ink in your HP printer properly. HP ink cartridges are easy to install, especially with step-by-step instructions. Also, knowing how to troubleshoot common HP printer problems is a must. With our guide, resolving minor printing issues on your own has never been easier.
+
+
+
+However, if you're looking for other cheap ink cartridges besides HP, you can check our list of cheap printer ink cartridges featuring other brands.
+
+
+
+Hopefully, this list of the top 5 best prices on HP ink has helped you decide which cheap HP printer ink cartridges for your printing needs. For more help with cheap HP printer cartridges, don't hesitate to reach out to our customer support staff at our toll-free number 1-833-465-6888 from Mondays to Fridays from 6am-4pm PT.
