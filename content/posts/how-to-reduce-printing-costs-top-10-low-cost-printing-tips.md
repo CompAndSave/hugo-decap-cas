@@ -37,6 +37,12 @@ The first tip on our top ten list to reduce the cost of printing is to use grays
 
 Reducing print density is an excellent way to save money on printing. Print density is how dark you want your printouts to be. Unless necessary, you can lower the settings so it won't use more ink. The print density settings can be adjusted on both the inkjet and laser printers.
 
-
-
 Here's how to reduce print density to save money on printer ink:
+
+1. Go to the application's print menu (MS Word, PowerPoint, Excel, Photoshop, etc.)
+2. Select the device you are using and then click **Preferences**
+3. You will see **Quality Settings** of the printed sheet. Click on **Advanced Settings.**
+4. Select **Settings List** in the **Advanced Settings** dialog box, then go to **Toner Density**, choose **Adjust**, and click **Details.**
+5. Adjust the density of each color and click **OK** when done.
+
+Play around with different density settings until you find one that results in low price printing while still producing high quality or at least acceptable quality prints.
