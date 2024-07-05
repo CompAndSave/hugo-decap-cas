@@ -114,6 +114,6 @@ Make sure to do your research first. Read reviews of the generic cartridges. Che
 
 Moreover, high-quality generic printer ink tends to be less prone to leakage. When shopping around for deals, it's often best to find them online rather than in stores. This way; you get the best possible cost of printer ink in minutes without any extra hassle!
 
-CompAndSave's generic cartridges have a 1-year 100% satisfaction guarantee. Our budget-friendly ink and toner cartridges have the highest standards for performance and quality. You'll get excellent replacements for [HP Ink](https://www.compandsave.com/hp), [Epson Ink](https://www.compandsave.com/epson), Canon Ink, Brother Ink, Lexmark Ink, and other brand name printer inks.
+CompAndSave's generic cartridges have a 1-year 100% satisfaction guarantee. Our budget-friendly ink and toner cartridges have the highest standards for performance and quality. You'll get excellent replacements for [HP Ink](https://www.compandsave.com/hp), [Epson Ink](https://www.compandsave.com/epson), [Canon Ink](https://www.compandsave.com/canon), [Brother Ink](https://www.compandsave.com/brother), [Lexmark Ink](https://www.compandsave.com/lexmark), and other brand name printer inks.
 
 Using printers can become affordable, quick, and effective if you're a little careful and creative with the usage. So make sure to try these low-cost printing tips that can save you hundreds of dollars in the long run.
