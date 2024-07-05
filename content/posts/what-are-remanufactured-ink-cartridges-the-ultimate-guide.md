@@ -66,21 +66,21 @@ Remanufactured printer ink cartridges, which are also called replacement ink car
 
 If you're wondering whether or not you'll get the same value out of replacement ink cartridges as their OEM counterparts, then the good news is that you'll get better value! Let's see the difference between remanufactured ink cartridges vs new printer ink.
 
-## Print Quality
+### Print Quality
 
 Do remanufactured ink cartridges work like the originals? Yes, as long as you purchase from a trusted supplier. There's no doubt that remanufactured cartridges offer consumers huge savings over OEM cartridges. However, just like any other printer-related product, there are bad eggs everywhere, even in the OEM ones.
 
 This is why it's essential to go with a seller with a rigorous quality testing process and a warranty like CompAndSave. You can get high-quality remanufactured toner cartridges and replacement ink cartridges for a reasonable price, and you won't have to worry about them breaking or leaking while you're printing.
 
-## Page Yield
+### Page Yield
 
 Yes, you will get the same page yield as an original brand cartridge-unless you are using a badly made replacement printer ink. Reputable brands' remanufactured cartridges come with a warranty in case something goes wrong, so you're still covered if your cartridge breaks down. However, make sure to purchase your ink cartridges from a reputable source—not just any online store.
 
-## Cost
+### Cost
 
 Remanufactured ink cartridges are typically over 50% less expensive than OEM (original equipment manufacturer) cartridges. A lower cartridge price means a [lower cost per page.](https://www.compandsave.com/how-to-calculate-printing-cost-per-page) You can definitely have great savings on your printing costs, especially when purchasing the higher yield cartridges. You can check out the sample table below of one of the best-selling cartridges for a more specific comparison.
 
-[![SPECIFICATIONS](/blog/images/1.png "SPECIFICATIONS")](/blog/images/1.png)
+[![cost table](/blog/images/screenshot-2024-07-05-at-6.33.29 pm.png "cost table")](/blog/images/screenshot-2024-07-05-at-6.33.29 pm.png)
 
 ## 7 Tips for Buying Best Remanufactured Printer Ink Cartridges
 
