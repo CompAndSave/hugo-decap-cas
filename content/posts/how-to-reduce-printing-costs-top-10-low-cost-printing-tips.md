@@ -126,6 +126,6 @@ CompAndSave is with you on learning how to reduce printing costs and how to be m
 
 ## Related articles:
 
-Top 5 Best Cheap Printer Ink Cartridges
+[Top 5 Best Cheap Printer Ink Cartridges](https://www.compandsave.com/top-5-best-cheap-printer-ink-cartridges)
 
-Top 5 Cheap Toner Cartridges
+[Top 5 Cheap Toner Cartridges](https://www.compandsave.com/top-5-cheap-toner-cartridges)
