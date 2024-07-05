@@ -74,3 +74,11 @@ CompAndSave offers a wide selection of cheap HP 910 ink. You can try the HP 910X
 Next on our list are the [HP 962 ink cartridges](https://www.compandsave.com/hp/962-ink-cartridges) when it comes to the best deals on HP ink cartridges. These inexpensive HP ink cartridges are made to print high-quality documents with clear text and bright colors. In addition, they are easy to install and provide reliable printing performance. Take a look at the table so you can see why the HP 962 ink cartridges made it on our list of cheap HP printer ink cartridges.
 
 [![HP 962 ink comparison table](/blog/images/screenshot-2024-07-05-at-7.59.39 pm.png "HP 962 ink comparison table")](/blog/images/screenshot-2024-07-05-at-7.59.39 pm.png)
+
+**Where to buy HP 962 ink cartridges?**
+
+You're on the right page if you're looking for the cheapest place to buy HP 962XL ink cartridges. The most popular discount HP ink cartridges include our collection of [ten 962XL ink cartridges](https://www.compandsave.com/hp/962-ink-cartridges-s-11331/962-10-combo-p-11338) and [4 pack](https://www.compandsave.com/hp/962-ink-cartridges-s-11331/962-4-combo-p-11337).
+
+### Top 2: [Cheap HP 952 Ink Cartridges](https://www.compandsave.com/hp/952xl-ink-cartridges)
+
+[![Cheap HP 952 Ink Cartridges](/blog/images/screenshot-2024-07-05-at-8.01.03 pm.png "Cheap HP 952 Ink Cartridges")](/blog/images/screenshot-2024-07-05-at-8.01.03 pm.png)
