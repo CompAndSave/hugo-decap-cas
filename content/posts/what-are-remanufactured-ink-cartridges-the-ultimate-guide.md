@@ -102,8 +102,6 @@ Before purchasing anything online, it is always wise to check the Better Busines
 
 They should have over a 4 star rating and at least a B+ rating. This will help you avoid any scams or bad deals that might look like real ones.
 
-They should have over a 4 star rating and at least a B+ rating. This will help you avoid any scams or bad deals that might look like real ones.
-
 ### 4. Look for the Perks
 
 When it comes to shopping, customers always look for extra perks like free shipping for maximum value out of their purchase. Fortunately, we have you covered! Not only do we offer free shipping on orders over $50 worth of replacement printer ink, but we also offer [discount coupons](https://www.compandsave.com/coupon) so you can save even more money.
