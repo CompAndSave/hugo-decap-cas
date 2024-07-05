@@ -55,9 +55,7 @@ Get the cheapest HP 61 ink cartridges of the best quality here at CompAndSave. C
 
 The cheap HP 910 ink is designed to produce high-quality prints. CompAndSave offers both standard and high-yield variants for the HP 910 ink cartridges. You might be surprised that you're spending less even if you're using four cartridges. The table below will show the cartridge's price and page cost for each color, featuring the high-yield variants since they're more cost-efficient.
 
-[![HP 910 ink comparison table](/blog/images/screenshot-2024-07-05-at-7.52.07 pm.png "HP 910 ink comparison table")](/blog/images/screenshot-2024-07-05-at-7.52.07 pm.png)
-
-[![HP 910 compatible printers](/blog/images/screenshot-2024-07-05-at-7.55.14 pm.png "HP 910 compatible printers")](/blog/images/screenshot-2024-07-05-at-7.55.14 pm.png)
+[![HP 910 ink comparison table](/blog/images/screenshot-2024-07-05-at-8.13.52 pm.png "HP 910 ink comparison table")](/blog/images/screenshot-2024-07-05-at-8.13.52 pm.png)
 
 **Where to buy HP 910 ink cartridges?**
 
@@ -99,7 +97,7 @@ CompAndSave offers [HP 952XL combo pack of 10](https://www.compandsave.com/hp/95
 
 ### Top 1: [Cheap HP 940 Ink Cartridges](ttps://www.CompAndSave.com/hp/940xl-ink-cartridges)
 
-[![](/blog/images/screenshot-2024-07-05-at-8.04.51 pm.png)](/blog/images/screenshot-2024-07-05-at-8.04.51 pm.png)
+[![Cheap HP 940 Ink Cartridges](/blog/images/screenshot-2024-07-05-at-8.04.51 pm.png "Cheap HP 940 Ink Cartridges")](/blog/images/screenshot-2024-07-05-at-8.04.51 pm.png)
 
 **Best for:** High-quality printouts
 
