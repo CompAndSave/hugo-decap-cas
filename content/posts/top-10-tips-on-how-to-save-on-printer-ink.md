@@ -79,7 +79,7 @@ How to save money on ink cartridges? Purchase them online! The upkeep of a physi
 
 You can also save time and money by not going to the store. Major brands like [HP](https://www.compandsave.com/hp), [Canon,](https://www.compandsave.com/canon) [Epson](https://www.compandsave.com/epson), and [Brother](https://www.compandsave.com/brother) sell products online. Aside from their official websites, you can get ink from Amazon and other stores.
 
-CompAndSave has [monthly coupons ](https://www.compandsave.com/coupon)where you can get discounts on your cartridge purchase. Check it monthly to save money on ink cartridges. Plus, you'll get free shipping if your order is over $50. You can make online payments via our secure checkout so you can get your orders right away. Savings plus convenience!
+CompAndSave has [monthly coupons](https://www.compandsave.com/coupon) where you can get discounts on your cartridge purchase. Check it monthly to save money on ink cartridges. Plus, you'll get free shipping if your order is over $50. You can make online payments via our secure checkout so you can get your orders right away. Savings plus convenience!
 
 ### Tip #8: Scan or Share Online
 
