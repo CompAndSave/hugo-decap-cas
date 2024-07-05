@@ -68,11 +68,11 @@ After restarting, try printing a test page to check if the issue is resolved.
 
 If your device is connected to the correct network and the USB cable is good, but it's still showing as offline, the problem might be old drivers or wrong settings. To fix this, follow the tips below that match your situation.
 
-## 1. Run HP Diagnostic Tools
+### 1. Run HP Diagnostic Tools
 
 It's a good idea to start using tools like "Diagnose & Fix" or "HP Print and Scan Doctor" to quickly find common problems and might be able to fix them quickly. It's like checking for simple solutions first, which can save you time and effort.
 
-### Run HP Diagnose and Fix
+**Run HP Diagnose and Fix**
 
 [![RUN DIAGNOSE AND FIX](/blog/images/2.png "RUN DIAGNOSE AND FIX")](/blog/images/2.png)
 
