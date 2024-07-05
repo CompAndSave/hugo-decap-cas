@@ -82,3 +82,65 @@ After restarting, try printing a test page to check if the issue is resolved.
 ## HP Printer Offline but Connected to Wi-Fi: Troubleshooting Major Concerns
 
 If your device is connected to the correct network and the USB cable is good, but it's still showing as offline, the problem might be old drivers or wrong settings. To fix this, follow the tips below that match your situation.
+
+### 1. Run HP Diagnostic Tools
+
+It's a good idea to start using tools like "Diagnose & Fix" or "HP Print and Scan Doctor" to quickly find common problems and might be able to fix them quickly. It's like checking for simple solutions first, which can save you time and effort.
+
+
+
+### Run HP Diagnose and Fix
+
+[![RUN DIAGNOSE AND FIX](/blog/images/2.png "RUN DIAGNOSE AND FIX")](/blog/images/2.png)
+
+The steps below will apply to both **Windows** and **Mac.**
+
+
+
+Step 1: Install HP Smart App (Windows, macOS):
+
+Install the HP Smart app on your Windows or macOS computer and set up the printer.
+
+Step 2: Setting Up on Wi-Fi Network:
+
+Place printer and computer near Wi-Fi router.
+
+Turn on Wi-Fi on the computer and connect to your network.
+
+If using Ethernet, temporarily disconnect it and use Wi-Fi for setup.
+
+Enable Bluetooth on the computer for printer detection during setup.
+
+Step 3: Download HP Smart App:
+
+Get the HP Smart app from Microsoft Store (Windows) or Mac App Store (macOS).
+
+Sign in with Microsoft if prompted, or continue without signing in.
+
+Step 4: Creating/Signing in to HP Account:
+
+If using HP Smart for the first time, create or sign in to an HP account.
+
+Step 5: Adding Printer:
+
+From app home screen, click "Add Printer" or the Add icon.
+
+Follow the prompts to set up your printer.
+
+Step 6: Troubleshooting with Diagnose & Fix:
+
+Find and run "Diagnose & Fix" within HP Smart app.
+
+In Windows click, Diagnose & Fix icon. In macOS, open Diagnose & Fix from printer menu.
+
+Click "Start" to run the troubleshooter.
+
+Follow provided instructions for any detected issues.
+
+If the problem isn't solved, explore additional resources or visit HP Customer Support to search for specific issues or error messages.
+
+
+
+Use HP Print and Scan Doctor
+
+For now, "HP Print and Scan Doctor" is for Windows only, macOS users can use the "Diagnose & Fix" feature in the HP Smart app for similar printer issue diagnostics and solutions.
