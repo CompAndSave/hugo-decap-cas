@@ -338,7 +338,7 @@ A possible reason can be out-of-dated printer drivers. It can also be offline du
 
 [Troubleshoot HP Printer](https://www.compandsave.com/hp-printer-troubleshooting-guide/)
 
-[Change Ink in HP Printer](<Change Ink in HP Printer>)
+[Change Ink in HP Printer](https://www.compandsave.com/blog/posts/how-to-change-ink-in-hp-printer-ink-and-toner-guide-2024.html)
 
 [HP Firmware Downgrade](https://www.compandsave.com/hp-printer-firmware-downgrade/)
 
