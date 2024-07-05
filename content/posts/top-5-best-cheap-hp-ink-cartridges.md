@@ -145,10 +145,10 @@ If you don't want to go through the hassle of refilling your cartridges, the bes
 
 ## Related articles:
 
-HP Printer Firmware Downgrade Instructions
+[HP Printer Firmware Downgrade Instructions](https://www.compandsave.com/hp-printer-firmware-downgrade)
 
-How to Disable HP Printer Firmware Update
+[How to Disable HP Printer Firmware Update](https://www.compandsave.com/how-to-disable-hp-printer-firmware-update-guide)
 
-How to Change Ink in HP Printer?
+[How to Change Ink in HP Printer?](https://www.compandsave.com/how-to-change-ink-in-hp-printer-guide)
 
-HP Printer Troubleshooting
+[HP Printer Troubleshooting](https://www.compandsave.com/hp-printer-troubleshooting-guide)
