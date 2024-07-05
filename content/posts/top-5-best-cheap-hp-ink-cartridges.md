@@ -40,3 +40,7 @@ How much is HP 61 ink cartridge, you ask? Check out the table below and see how 
 [![](/blog/images/screenshot-2024-07-05-at-7.46.14 pm.png)](/blog/images/screenshot-2024-07-05-at-7.46.14 pm.png)
 
 [![](/blog/images/screenshot-2024-07-05-at-7.46.57 pm.png)](/blog/images/screenshot-2024-07-05-at-7.46.57 pm.png)
+
+**Where to buy HP 61 ink cartridges?**
+
+Get the cheapest HP 61 ink cartridges of the best quality here at CompAndSave. Choose from our high-yield combo pack of [two](https://www.compandsave.com/hp/61xl-ink-cartridges/ch563wn-ch564wn-2-combo), [three](https://www.compandsave.com/hp/61xl-ink-cartridges-s-7302/ch263wn-ch264wn-3-combo-p-9856), or [five](https://www.compandsave.com/hp/61xl-ink-cartridges-s-7302/ch263wn-ch264wn-5-combo-p-9857).
