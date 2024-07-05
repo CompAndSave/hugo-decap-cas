@@ -37,7 +37,7 @@ Let's see what they are.
 
 ## What is OEM Printer Ink Cartridge?
 
-These cartridges come from the original equipment manufacturer (OEM) of the printer they're for, like those made by HP for HP printers. However, they're much more expensive than remanufactured or compatible cartridges.
+These cartridges come from the original equipment manufacturer (OEM) of the printer they're for, like those made by [HP](https://www.compandsave.com/hp) for HP printers. However, they're much more expensive than remanufactured or compatible cartridges.
 
 OEM printer ink cartridges cost more than remanufactured ones because OEMs invest heavily in research and development (R&D) of new printer models and their specific cartridges, which requires a lot of money. These cartridges are reliable and sometimes the only option for specific models of printers.
 
@@ -51,14 +51,14 @@ What does remanufactured ink mean? The word remanufactured means restoring a use
 
 CompAndSave's remanufactured printer inks are refilled with ink that have the same formula as the original, so the quality of the prints is the same or at par but at a much lesser cost. We have cheap ink cartridges for major printer brands like HP, Canon, and Epson that work like the original ones.
 
-## Pros of Using Replacement Ink Cartridges
+### Pros of Using Replacement Ink Cartridges
 
 Remanufactured printer ink cartridges, which are also called replacement ink cartridges, are very popular. But why should you choose it over the original ones? Here are the pros of using remanufactured ink and toner cartridges:
 
 **✔️ PROS**
 
-* Enjoy the same quality in prints snf number of printouts.
-* Help save the environment since they're eco-friendly.
+* Enjoy the same quality in prints and number of printouts.
+* Help save the environment since they're [eco-friendly](https://www.compandsave.com/environmentally-friendly-ink-cartridges).
 * Enjoy more savings since they're price is only a fraction of the OEM ink cost.
 * Will not void printer warranty so you can use it with confidence.
 
