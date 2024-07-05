@@ -97,4 +97,16 @@ In addition, the cartridges are easy to replace, making them an excellent choice
 
 CompAndSave offers [HP 952XL combo pack of 10](https://www.compandsave.com/hp/952xl-ink-cartridges-s-7290/952xl-10-combo-p-9894). You can also take advantage of the [HP 952XL combo pack best price for 4 cartridges](https://www.compandsave.com/hp/952xl-ink-cartridges-s-7290/952xl-4-combo-p-9895).
 
-### Top 1: Cheap HP 940 Ink Cartridges
+### Top 1: [Cheap HP 940 Ink Cartridges](ttps://www.CompAndSave.com/hp/940xl-ink-cartridges)
+
+[![](/blog/images/screenshot-2024-07-05-at-8.04.51 pm.png)](/blog/images/screenshot-2024-07-05-at-8.04.51 pm.png)
+
+**Best for:** High-quality printouts
+
+**Ink Type:** Pigment-based
+
+Just when you thought the printing costs couldn't be any cheaper, here they are at the top of our list. The HP 940XL ink cartridges have an unbelievable cost per page. These HP 940 cartridges don't smudge or fade, so you can print materials that look great and last a long time.
+
+Not only does this create a high-quality print, but it also means you'll save the most per page of printing due to the ink's resistance to smudging. You can refer to the table below to see why these cartridges are on top when it comes to the best price HP ink cartridges.
+
+[![HP 940XL ink comparison table](/blog/images/screenshot-2024-07-05-at-8.06.05 pm.png "HP 940XL ink comparison table")](/blog/images/screenshot-2024-07-05-at-8.06.05 pm.png)
