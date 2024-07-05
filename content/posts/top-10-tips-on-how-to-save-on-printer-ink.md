@@ -19,13 +19,11 @@ Saving on printer ink is quick and easy when you know the right ways. We've narr
 
 How to save money on printer ink cartridges? Buy high-yield variants. This is one of the most crucial things to keep in mind to save the ink. Cartridges typically come in three types:
 
-Standard Cartridges
+1. Standard Cartridges
+2. High-yield Cartridges
+3. Extra High-yield Cartridges
 
-High-yield Cartridges
-
-Extra High-yield Cartridges
-
-The prices vary, with the standard being the cheapest. Take note that not all types of ink cartridges have variants with higher yields. Those who use less printer ink can go for standard cartridges, but if you print on a regular basis, go for high or extra high yield, depending on your needs. The higher yield may be expensive up front, but its cost per page is lower compared to standard yield cartridges, so you can get more savings if you print regularly.
+The prices vary, with the standard being the cheapest. Take note that not all types of ink cartridges have variants with higher yields. Those who use less printer ink can go for standard cartridges, but if you print on a regular basis, go for high or extra high yield, depending on your needs. The higher yield may be expensive up front, but its [cost per page](https://www.compandsave.com/how-to-calculate-printing-cost-per-page) is lower compared to standard yield cartridges, so you can get more savings if you print regularly.
 
 Check out the Canon 240 and 241 ink cartridges that have standard, high-yield, and extra high-yield variants. Look at the printer ink savings you can have by purchasing the higher yield.
 
@@ -123,3 +121,34 @@ Fonts make up a lot of your printouts, so it's important to choose them wisely. 
 * Century Gothic
 * Times New Roman
 * Baskerville Old Face
+
+### Tip #10: Care for Cartridges
+
+It's important to take care of your cartridges to make them last a long time. If your aim is to learn how to save on printer ink, you should prioritize proper cartridge use and storage. Here are a few useful ink saving tips:
+
+
+
+* Store the cartridge in a zip-lock plastic or airtight bag to prevent the ink from drying.
+* Keep the cartridges in a dry and cool place, away from heat or sunlight. Recommended room temperature: 15 to 35 degrees Celsius (5 to 95 degrees Fahrenheit)
+* Keep the heads of your cartridges down to keep the ink moist and prevent colors from mixing.
+* Do not touch any electronic parts on your cartridge, as this can damage or disrupt its connection with the printer.
+* Even if you only use black ink, you should keep a full set of ink cartridges in your printer if it has more than one color ink slot. This is because an empty area can cause air to flow freely, which can dry out your ink cartridges.
+* To avoid drying out the ink, run a test print once a week or a cleaning cycle if you don't use your printer often.
+
+By now, it's clear that you don't need to be a slave to high-priced ink to print documents. You can also find other ways to keep your [printing costs low](https://www.compandsave.com/how-to-reduce-printing-costs) as long as you know these tips on how to save money on printer ink. Printing doesn't have to be expensive!
+
+
+
+If you're just starting out on your printing journey, we've got you covered. Learn about [the best ink saving printers and discount ink cartridges](https://www.compandsave.com/top-5-best-cheap-printer-ink-cartridges) you can use. To save ink, know your options before you start purchasing your printing needs.
+
+
+
+When it comes to being economical with your printing jobs, CompAndSave is with you. If you have questions about [remanufactured cartridges](https://www.compandsave.com/what-are-remanufactured-ink-cartridges-guide) and how you can even have bigger savings by buying bulk, call our toll-free number: 1-833-465-6888. We'll be happy to take your call from Monday to Friday, 6am-4pm PT.
+
+## Related articles:
+
+[How to Reduce Printing Costs? Top 10 Low-cost Printing Tips](https://www.compandsave.com/how-to-reduce-printing-costs)
+
+[How to Fix Ink Cartridge Not Recognized](https://www.compandsave.com/how-to-fix-ink-cartridge-not-recognized)
+
+[Top 5 Cheap Toner Cartridges](https://www.compandsave.com/top-5-cheap-toner-cartridges)
