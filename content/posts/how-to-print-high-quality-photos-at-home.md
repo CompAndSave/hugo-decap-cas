@@ -353,3 +353,25 @@ High-quality photo printing at home is a rewarding journey that combines technol
 * Different types of photo paper (glossy, matte, lustre, canvas, woven, textured) create varied effects. Choose the one that suits your project for the best results.
 
 If you have any inquiries about ink or your orders, no need to worry! Our approachable team is here to assist. Call us at 1-833-465-6888, Monday to Friday, from 6am-4pm PT. Ensuring your printing experience is seamless and enjoyable is our primary focus. Your satisfaction is our utmost priority, addressing any questions or concerns you may have. Call us, and we'll gladly help you out!
+
+## Frequently Asked Questions
+
+### 1. What is the ideal resolution for high-quality photo printing?
+
+Try to have at least 300 dots per inch (DPI) in your images for good print quality. DPI is like the number of tiny dots in every inch of your picture. The more dots you have, the higher your print will be clearer and sharper. So, if you want your photos or pictures to look their best when you print them, make sure they have a resolution of 300 DPI or more. This way, your prints will have lots of detail and look nice.
+
+### 2. What are some cost-effective solutions for home photo printing?
+
+To save money on home photo printing, consider two cost-effective options: compatible ink cartridges and buying photo paper in bulk. Compatible ink cartridges are often more affordable than brand-name ones and work well with many printers. Buying photo paper in bulk gives you a lower cost per sheet, making each print more economical. These choices can help you maintain print quality while keeping expenses down, ensuring your home photo printing is budget-friendly.
+
+### 3. How can I ensure the longevity of my printed photos?
+
+Avoid exposing your prints to direct sunlight for long-lasting prints, as it can cause fading over time. Opt for archival materials, like acid-free matting and backing, when framing to prevent deterioration. Store your prints in controlled temperature and humidity environments to safeguard them from damage and ensure their longevity. These simple steps will help preserve the quality and appearance of your prints for years to come.
+
+### 4. Is it necessary to calibrate my monitor for photo printing?
+
+Yes, calibrating your monitor is crucial to ensure that the colors you see on the screen accurately match the final print. This alignment guarantees that the colors in your printed materials closely correspond to your visual expectations, resulting in a more dependable and satisfying outcome. To do this, follow the simple steps above to calibrate Windows and Mac.
+
+### 5. How can I choose the right type of photo paper for my printer?
+
+Selecting the correct type of photo paper for your printer involves a few key considerations. First, consult your printer's manual or online specifications to identify the recommended paper types compatible with your device. Next, decide on the finish you prefer – choose from the options above. Pay attention to the paperweight, measured in grams per square meter (gsm), as heavier paper often produces higher-quality prints. Additionally, ensure that the chosen paper is compatible with your printer's ink type, whether dye-based or pigment-based.
