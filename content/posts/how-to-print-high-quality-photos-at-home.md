@@ -210,20 +210,32 @@ Are you in need of photo paper for high-quality photo projects? Get CompAndSave'
 
 Shop for [textured photo paper](https://www.compandsave.com/paper/photo-paper/textured) for your business needs. CompAndSave's selection has the correct size, whether printing a menu or an invite.
 
-3. Calibrate Your Monitor
+### 3. Calibrate Your Monitor
 
 Adjust your computer monitor to display accurate colors. This ensures that what you see on the screen closely matches the final print, enhancing color accuracy.
 
+**Calibrating Your Monitor on Windows:**
 
+**Step 1: Open Display Settings:** Right-click on the desktop and select "Display settings". Scroll down and click on "Advanced display settings".
 
-Calibrating Your Monitor on Windows:
+**Step 2: Access Color Calibration:** Click "Color calibration" at the bottom. Follow the on-screen instructions to start the color calibration process.
 
-Step 1: Open Display Settings: Right-click on the desktop and select "Display settings". Scroll down and click on "Advanced display settings".
+**Step 3: Adjust Gamma and Brightness:** Adjust the gamma and brightness settings to achieve the desired balance. Follow the instructions to set the correct contrast and color balance.
 
-Step 2: Access Color Calibration: Click "Color calibration" at the bottom. Follow the on-screen instructions to start the color calibration process.
+**Step 4: Set Color Profile:** Choose or create a color profile that suits your preferences or is recommended for your monitor.
 
-Step 3: Adjust Gamma and Brightness: Adjust the gamma and brightness settings to achieve the desired balance. Follow the instructions to set the correct contrast and color balance.
+**Step 5: Complete the Calibration:** Follow the remaining instructions to complete the calibration process. Once finished, your monitor should display more accurate colors.
 
-Step 4: Set Color Profile: Choose or create a color profile that suits your preferences or is recommended for your monitor.
+**Calibrating Your Monitor on Mac:**
 
-Step 5: Complete the Calibration: Follow the remaining instructions to complete the calibration process. Once finished, your monitor should display more accurate colors.
+**Step 1: Open Display Preferences:** Click on the Apple logo and go to "System Preferences". Select "Displays".
+
+**Step 2: Access Color Calibration:** Click the "Color" tab. Choose the display you want to calibrate.
+
+**Step 3: Initiate Calibration:** Click "Calibrate" and follow the on-screen instructions.
+
+**Step 4: Adjust Settings:** Adjust settings like gamma, brightness, and contrast during calibration.
+
+**Step 5: Create or Choose a Color Profile:** You can create a new color profile or choose an existing one that fits your preferences.
+
+**Step 6: Complete Calibration:** Follow the prompts to complete the calibration process. Once done, your monitor should display colors more accurately.
