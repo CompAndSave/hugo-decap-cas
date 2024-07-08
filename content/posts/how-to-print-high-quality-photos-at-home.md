@@ -142,21 +142,19 @@ CompAndSave's selection of [matte photo papers](https://www.compandsave.com/pape
 
 **C. Lustre Photo Paper**
 
-BEST FOR
+**BEST FOR**
 
-Wedding or family photos in a frame or a photo album.
+* Wedding or family photos in a frame or a photo album.
 
-PROS
+**PROS**
 
-It's the perfect choice if you're deciding between glossy and matte. Lustre photo paper has a delicate, pearl-like sheen.
+* It's the perfect choice if you're deciding between glossy and matte. Lustre photo paper has a delicate, pearl-like sheen.
+* This type of paper gives images a deeper saturation.
 
-This type of paper gives images a deeper saturation.
+**CONS**
 
-CONS
-
-Some images may appear darker than expected.
-
-It can be pricey compared to other photo paper types.
+* Some images may appear darker than expected.
+* It can be pricey compared to other photo paper types.
 
 Get the best value for your money when shopping for CompAndSave's [lustre photo paper](https://www.compandsave.com/paper/photo-paper/lustre). Inexpensive but with excellent quality.
 
