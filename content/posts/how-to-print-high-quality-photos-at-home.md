@@ -99,3 +99,125 @@ With the use of [HP 64 XL ink cartridges](https://www.compandsave.com/hp/envy/in
 
 * **Limited Noise Control:** The printer may be noisy, especially during active printing, which could be distracting in quiet settings where you want to enjoy a peaceful atmosphere.
 * **Temperature and Humidity Concerns:** This printer might not work well in places that are too hot or humid.
+
+### 2. Get the Right Photo Paper Type
+
+The correct type of paper is the next must-have on how to print high-quality photos. Many photo papers are available, and each type can have a specific effect on the image you want to print. It's best to learn more about each kind of photo paper to achieve your top-quality photo prints. Here's an overview of the types of photo paper:
+
+**A. Glossy Photo Paper**
+
+**BEST FOR**
+
+* Photo projects you can hang on string lights or in a bedroom without too much sunlight.
+
+**PROS**
+
+* Easily the most popular option for photo printing. Its shine and gloss give photos vibrant colors and look.
+* It's great for displaying images without frames since it's reflective.
+
+**CONS**
+
+* The glass on frames can make photos look unclear.
+* Holding glossy photo paper for a long time will leave smudges and imprints.
+
+Check out CompAndSave's variety of [glossy photo papers](https://www.compandsave.com/paper/photo-paper/glossy) in different sizes. Perfect for any everyday shots that you want to remember.
+
+**B. Matte Photo Paper**
+
+**BEST FOR**
+
+* Matte photo paper is the choice for marketing projects.
+* It's also great for framed photos.
+
+**PROS**
+
+* With its lower contrast and non-glare surface, matte photo paper provides an enhanced, smooth texture.
+* It's also not prone to smudging when held for a long time. Photos will look refined and elegant.
+
+**CONS**
+
+* The color of your images may be muted. Vibrant colors may not appear as bright.
+
+CompAndSave's selection of [matte photo papers](https://www.compandsave.com/paper/photo-paper/matte) can cater to any marketing or home projects you need.
+
+**C. Lustre Photo Paper**
+
+BEST FOR
+
+Wedding or family photos in a frame or a photo album.
+
+PROS
+
+It's the perfect choice if you're deciding between glossy and matte. Lustre photo paper has a delicate, pearl-like sheen.
+
+This type of paper gives images a deeper saturation.
+
+CONS
+
+Some images may appear darker than expected.
+
+It can be pricey compared to other photo paper types.
+
+Get the best value for your money when shopping for CompAndSave's [lustre photo paper](https://www.compandsave.com/paper/photo-paper/lustre). Inexpensive but with excellent quality.
+
+
+
+D. Canvas Photo Paper
+
+BEST FOR
+
+Displaying photo artworks such as landscapes or sceneries.
+
+It's also great for scrapbooking and other similar projects.
+
+PROS
+
+Canvas photo paper has a fabric-like texture. Therefore, image colors look more accurate.
+
+It can provide better color efficiency than matte photo paper and has no glare like the glossy ones.
+
+CONS
+
+Since canvas photo paper is textured, photo imperfections can easily be seen under particular lighting and angles.
+
+Planning to hang works of art in your home? Choose the perfect canvas paper for your next photo printing at home.
+
+
+
+E. Woven Photo Paper
+
+BEST FOR
+
+Woven photo paper is popular for portraits, professional photos, and wedding pictures.
+
+PROS
+
+Woven photo paper features a resin coat and glossy finish.
+
+It has a waterproof surface and a high-quality texture.
+
+CONS
+
+Photo colors may not appear as vibrant as they ought to be.
+
+Are you in need of photo paper for high-quality photo projects? Get CompAndSave's woven paper for a price you can't refuse!
+
+
+
+F. Textured Photo Paper
+
+BEST FOR
+
+Textured photo papers are best used for business needs such as menus, invites, letterheads, stationary, etc.
+
+PROS
+
+This water-resistant and smudge-free photo paper is unique and embossed with different textures.
+
+Printouts will have a 3D-like appearance.
+
+CONS
+
+Photos will look less eye-catching or vibrant.
+
+Shop for textured photo paper for your business needs. CompAndSave's selection has the correct size, whether printing a menu or an invite.
