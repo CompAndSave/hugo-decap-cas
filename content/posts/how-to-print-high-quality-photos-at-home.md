@@ -52,7 +52,7 @@ These printers stand out for their reliability and ability to produce stunning p
 
 [![Canon Pixma TR8620](/blog/images/screenshot-2024-07-08-at-2.26.21 pm.png "Canon Pixma TR8620")](/blog/images/screenshot-2024-07-08-at-2.26.21 pm.png)
 
-The Canon Pixma TR8620 uses pigment-based Canon 280 black and 281 cyan, magenta, and yellow ink cartridges that provide great-quality photos. Here are some of its pros and cons:
+The [Canon Pixma TR8620](https://www.compandsave.com/canon/pixma/tr8620-ink-cartridges) uses pigment-based [Canon 280 black and 281 cyan, magenta, and yellow ink cartridges](https://www.compandsave.com/canon/pixma/tr8620-g-11217/280-281-xxl-ink-cartridges-s-7362/) that provide great-quality photos. Here are some of its pros and cons:
 
 **PROS**
 
@@ -62,6 +62,6 @@ The Canon Pixma TR8620 uses pigment-based Canon 280 black and 281 cyan, magenta,
 
 **CONS**
 
-* **Ink Replacement Costs:** Replacing ink cartridges, especially pigment-based ones, can be higher than other ink types. The good thing is that you can choose compatible ink cartridges for Canon Pixma TR8620 that are cheaper than the original ones.
+* **Ink Replacement Costs:** Replacing ink cartridges, especially pigment-based ones, can be higher than other ink types. The good thing is that you can choose [compatible ink cartridges for Canon Pixma TR8620](https://www.compandsave.com/canon/pixma/tr8620-ink-cartridges) that are cheaper than the original ones.
 * **Print Speed:** The print speed of the Canon Pixma TR8620 may be slower than that of some other printers.
 * **Limited Paper Handling:** This printer may have limitations regarding paper handling capacity, which could be considered if you often print large batches of photos or documents.
