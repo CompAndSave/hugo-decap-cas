@@ -65,3 +65,7 @@ The [Canon Pixma TR8620](https://www.compandsave.com/canon/pixma/tr8620-ink-cart
 * **Ink Replacement Costs:** Replacing ink cartridges, especially pigment-based ones, can be higher than other ink types. The good thing is that you can choose [compatible ink cartridges for Canon Pixma TR8620](https://www.compandsave.com/canon/pixma/tr8620-ink-cartridges) that are cheaper than the original ones.
 * **Print Speed:** The print speed of the Canon Pixma TR8620 may be slower than that of some other printers.
 * **Limited Paper Handling:** This printer may have limitations regarding paper handling capacity, which could be considered if you often print large batches of photos or documents.
+
+**2. Epson Expression Photo HD XP-15000**
+
+[![Epson Expression Photo HD XP-15000](/blog/images/screenshot-2024-07-08-at-2.28.57 pm.png "Epson Expression Photo HD XP-15000")](/blog/images/screenshot-2024-07-08-at-2.28.57 pm.png)
