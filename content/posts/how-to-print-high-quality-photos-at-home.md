@@ -176,42 +176,54 @@ Get the best value for your money when shopping for CompAndSave's [lustre photo 
 
 Planning to hang works of art in your home? Choose the perfect [canvas paper](https://www.compandsave.com/paper/photo-paper/canvas) for your next photo printing at home.
 
+**E. Woven Photo Paper**
+
+**BEST FOR**
+
+* Woven photo paper is popular for portraits, professional photos, and wedding pictures.
+
+**PROS**
+
+* Woven photo paper features a resin coat and glossy finish.
+* It has a waterproof surface and a high-quality texture.
+
+**CONS**
+
+* Photo colors may not appear as vibrant as they ought to be.
+
+Are you in need of photo paper for high-quality photo projects? Get CompAndSave's [woven paper](https://www.compandsave.com/paper/photo-paper/woven) for a price you can't refuse!
+
+**F. Textured Photo Paper**
+
+**BEST FOR**
+
+* Textured photo papers are best used for business needs such as menus, invites, letterheads, stationary, etc.
+
+**PROS**
+
+* This water-resistant and smudge-free photo paper is unique and embossed with different textures.
+* Printouts will have a 3D-like appearance.
+
+**CONS**
+
+* Photos will look less eye-catching or vibrant.
+
+Shop for [textured photo paper](https://www.compandsave.com/paper/photo-paper/textured) for your business needs. CompAndSave's selection has the correct size, whether printing a menu or an invite.
+
+3. Calibrate Your Monitor
+
+Adjust your computer monitor to display accurate colors. This ensures that what you see on the screen closely matches the final print, enhancing color accuracy.
 
 
-E. Woven Photo Paper
 
-BEST FOR
+Calibrating Your Monitor on Windows:
 
-Woven photo paper is popular for portraits, professional photos, and wedding pictures.
+Step 1: Open Display Settings: Right-click on the desktop and select "Display settings". Scroll down and click on "Advanced display settings".
 
-PROS
+Step 2: Access Color Calibration: Click "Color calibration" at the bottom. Follow the on-screen instructions to start the color calibration process.
 
-Woven photo paper features a resin coat and glossy finish.
+Step 3: Adjust Gamma and Brightness: Adjust the gamma and brightness settings to achieve the desired balance. Follow the instructions to set the correct contrast and color balance.
 
-It has a waterproof surface and a high-quality texture.
+Step 4: Set Color Profile: Choose or create a color profile that suits your preferences or is recommended for your monitor.
 
-CONS
-
-Photo colors may not appear as vibrant as they ought to be.
-
-Are you in need of photo paper for high-quality photo projects? Get CompAndSave's woven paper for a price you can't refuse!
-
-
-
-F. Textured Photo Paper
-
-BEST FOR
-
-Textured photo papers are best used for business needs such as menus, invites, letterheads, stationary, etc.
-
-PROS
-
-This water-resistant and smudge-free photo paper is unique and embossed with different textures.
-
-Printouts will have a 3D-like appearance.
-
-CONS
-
-Photos will look less eye-catching or vibrant.
-
-Shop for textured photo paper for your business needs. CompAndSave's selection has the correct size, whether printing a menu or an invite.
+Step 5: Complete the Calibration: Follow the remaining instructions to complete the calibration process. Once finished, your monitor should display more accurate colors.
