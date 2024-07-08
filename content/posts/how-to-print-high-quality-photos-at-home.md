@@ -158,27 +158,23 @@ CompAndSave's selection of [matte photo papers](https://www.compandsave.com/pape
 
 Get the best value for your money when shopping for CompAndSave's [lustre photo paper](https://www.compandsave.com/paper/photo-paper/lustre). Inexpensive but with excellent quality.
 
+**D. Canvas Photo Paper**
 
+**BEST FOR**
 
-D. Canvas Photo Paper
+* Displaying photo artworks such as landscapes or sceneries.
+* It's also great for scrapbooking and other similar projects.
 
-BEST FOR
+**PROS**
 
-Displaying photo artworks such as landscapes or sceneries.
+* Canvas photo paper has a fabric-like texture. Therefore, image colors look more accurate.
+* It can provide better color efficiency than matte photo paper and has no glare like the glossy ones.
 
-It's also great for scrapbooking and other similar projects.
+**CONS**
 
-PROS
+* Since canvas photo paper is textured, photo imperfections can easily be seen under particular lighting and angles.
 
-Canvas photo paper has a fabric-like texture. Therefore, image colors look more accurate.
-
-It can provide better color efficiency than matte photo paper and has no glare like the glossy ones.
-
-CONS
-
-Since canvas photo paper is textured, photo imperfections can easily be seen under particular lighting and angles.
-
-Planning to hang works of art in your home? Choose the perfect canvas paper for your next photo printing at home.
+Planning to hang works of art in your home? Choose the perfect [canvas paper](https://www.compandsave.com/paper/photo-paper/canvas) for your next photo printing at home.
 
 
 
