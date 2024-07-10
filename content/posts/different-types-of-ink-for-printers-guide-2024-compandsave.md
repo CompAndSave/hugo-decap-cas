@@ -115,4 +115,10 @@ UV ink is used in printers to cure the ink using ultraviolet light. Process UV i
 
 Conductive ink is used in printed electronics to conduct electricity. Conductive ink contains materials like silver or carbon, allowing it to conduct electricity when printed. This ink type is ideal for creating sensors and photovoltaics, where electrical conductivity is required.
 
-[![conductive ink pros and cons table](/blog/images/types-of-ink-11.png "Cinductive Ink Pros and Cons Table")](/blog/images/types-of-ink-11.png)
+[![conductive ink pros and cons table](/blog/images/types-of-ink-11.png "Conductive Ink Pros and Cons Table")](/blog/images/types-of-ink-11.png)
+
+#### **1.5 - 3D Printing Ink**
+
+3D printing ink, often resin, is used in 3D printers to create three-dimensional objects. 3D printing ink is typically made from resin, which is hardened layer by layer to form objects. It is best for prototyping and creating custom parts, offering versatility and precision.
+
+[![3d printing ink pros and cons table](/blog/images/types-of-ink-12.png "3D Printing Ink Pros and Cons Table")](/blog/images/types-of-ink-12.png)
