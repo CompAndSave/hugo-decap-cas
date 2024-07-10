@@ -98,3 +98,21 @@ Alternative printer inks offer unique advantages and are suited for specific pri
 Solid ink is a wax-based ink used in specific types of printers. This ink is composed of wax-like blocks that melt inside the printer to produce images and text on paper. This ink is ideal for high-volume printing and colorful graphics. Its minimal packaging waste makes it an eco-friendly option.
 
 [![solid ink pros and cons table](/blog/images/types-of-ink-8.png "Solid Ink Pros and Cons Table")](/blog/images/types-of-ink-8.png)
+
+#### **1.2 - Ribbon Ink**
+
+Ribbon ink is commonly used in impact and thermal transfer printers. This ink involves a long, ink-soaked ribbon that transfers ink to paper through impact or heat. It is best for printing receipts and multi-part forms, where durability and reliability are essential.
+
+[![ribbon ink pros and cons table](/blog/images/types-of-ink-9.png "Ribbon Ink Pros and Cons Table")](/blog/images/types-of-ink-9.png)
+
+#### **1.3 - UV Ink**
+
+UV ink is used in printers to cure the ink using ultraviolet light. Process UV ink cures instantly when exposed to UV light, making it highly durable and quick-drying. This ink is perfect for high-quality labels and packaging, offering quick production and excellent durability.
+
+[![uv ink pros and cons table](/blog/images/types-of-ink-10.png "UV Ink Pros and Cons Table")](/blog/images/types-of-ink-10.png)
+
+#### **1.4 - Conductive Ink**
+
+Conductive ink is used in printed electronics to conduct electricity. Conductive ink contains materials like silver or carbon, allowing it to conduct electricity when printed. This ink type is ideal for creating sensors and photovoltaics, where electrical conductivity is required.
+
+[![conductive ink pros and cons table](/blog/images/types-of-ink-11.png "Cinductive Ink Pros and Cons Table")](/blog/images/types-of-ink-11.png)
