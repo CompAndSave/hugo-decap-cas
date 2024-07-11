@@ -93,7 +93,7 @@ When a printer has the word photo in its model name, it's evident that it was cr
 
 [![HP Envy Inspire 7925e](/blog/images/screenshot-2024-07-12-at-12.55.20 am.png "HP Envy Inspire 7925e")](/blog/images/screenshot-2024-07-12-at-12.55.20 am.png)
 
-The Canon PIXMA G620 MegaTank Photo Printer is the perfect choice for producing high-quality photos at home. Its efficient ink usage (Canon GI-23 MegaTank ink bottles), superior color reproduction, and convenient connectivity features make it a top-tier option for photo enthusiasts and home users. Enjoy the freedom of printing beautiful, lasting memories right from the comfort of your home. To help you decide if this is the best for your printing needs, here are some of its pros and cons:
+The Canon PIXMA G620 MegaTank Photo Printer is the perfect choice for producing high-quality photos at home. Its efficient ink usage ([Canon GI-23 MegaTank ink bottles](https://www.compandsave.com/canon/gi-23-ink-bottles/gi-23-14-combo)), superior color reproduction, and convenient connectivity features make it a top-tier option for photo enthusiasts and home users. Enjoy the freedom of printing beautiful, lasting memories right from the comfort of your home. To help you decide if this is the best for your printing needs, here are some of its pros and cons:
 
 **PROS**
 
