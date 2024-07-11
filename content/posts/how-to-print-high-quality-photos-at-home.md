@@ -82,29 +82,33 @@ When a printer has the word photo in its model name, it's evident that it was cr
 
 * **Professional Ultra HD Photo Quality:** It can print photos up to 13 inches by 19 inches. It's like having professional-quality pictures at home.
 * **Lots of Colors:** This printer uses six different ink colors, including special ones like red and gray. This means your pictures will have many colors, and black and white photos will look extra good.
-* **Easy to Use:** It has features like a tray for different kinds of paper, can print on both sides of the paper automatically, and can hold a good amount of paper at once.
+* **Easy to Use:** It can print on both sides of the paper automatically, and has a large paper tray. 
 
 **CONS**
 
 * **Noise Level:** The printer's noise level, mentioned as 49 dB(A), might be loud for some users during printing.
 * **Limited Mobility:** The printer might be less portable or easy to move around, especially if you frequently change its location.
 
-**3. HP Envy Inspire 7925e**
+**3. [Canon PIXMA G620](https://www.compandsave.com/canon/pixma/g620-wireless-megatank-ink-bottles)**
 
-[![HP Envy Inspire 7925e](/blog/images/screenshot-2024-07-08-at-2.30.37 pm.png "HP Envy Inspire 7925e")](/blog/images/screenshot-2024-07-08-at-2.30.37 pm.png)
+[![HP Envy Inspire 7925e](/blog/images/screenshot-2024-07-12-at-12.55.20 am.png "HP Envy Inspire 7925e")](/blog/images/screenshot-2024-07-12-at-12.55.20 am.png)
 
-With the use of [HP 64 XL ink cartridges](https://www.compandsave.com/hp/envy/inspire-7925e-all-in-one-g-12015/64xl-ink-cartridges-s-7306/) in black and tri-color, the HP Envy Inspire 7925e creates images with vibrant colors and no grainy effect. This photo printer for home has advanced features compared to other printers, such as printing panoramas, Instagram 5x5 pictures, and custom messages. If you are not intimidated by technology and are fond of new features, this high-quality photo printer is for you. Here are some of its pros and cons:
+The Canon PIXMA G620 MegaTank Photo Printer is the perfect choice for producing high-quality photos at home. Its efficient ink usage (Canon GI-23 MegaTank ink bottles), superior color reproduction, and convenient connectivity features make it a top-tier option for photo enthusiasts and home users. Enjoy the freedom of printing beautiful, lasting memories right from the comfort of your home. To help you decide if this is the best for your printing needs, here are some of its pros and cons:
 
 **PROS**
 
-* **Wireless Printing Capability:** The built-in dual-band Wi-Fi provides convenient wireless connectivity, enabling easy printing of photos directly from devices without cables.
-* **High Resolution:** The copier settings support a copy resolution of up to 600 dpi, ensuring that copies of photos maintain good detail and clarity.
-* **User-Friendly Copy Options:** It offers simple choices like making your photo lighter or darker and resizing it the way you want.
+* **High Page Yield:** The MegaTank system allows you to print up to 3,800 4” x 6” color photos with a full set of ink, reducing the frequency of ink replacements and lowering overall printing costs.
+* **Exceptional Color Quality:** The 6-color dye-based ink system, including Red and Gray inks, provides a wider color gamut, resulting in richer and more vibrant photos.
+* **Long-Lasting Prints:** The ChromaLife 100 system ensures your photos are durable and long-lasting, preserving the quality of your prints over time.
+* **Wireless Connectivity:** Wi-Fi and USB connectivity and Alexa integration offer convenient and seamless printing from multiple devices.
 
 **CONS**
 
-* **Limited Noise Control:** The printer may be noisy, especially during active printing, which could be distracting in quiet settings where you want to enjoy a peaceful atmosphere.
-* **Temperature and Humidity Concerns:** This printer might not work well in places that are too hot or humid.
+* **Slow Print Speed:** With a maximum print speed of 3.9 ppm for both color and monochrome, this printer is slower compared to some other printer models.
+* **Limited Paper Capacity:** The paper tray capacity might be limited, requiring more frequent refills during large printing tasks.
+* **No Duplex Printing:** The printer does not support automatic duplex printing, which can be a drawback for users who need to print double-sided documents regularly.
+
+
 
 ### 2. Get the Right Photo Paper Type
 
