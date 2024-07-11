@@ -150,8 +150,6 @@ Check out CompAndSave's variety of [glossy photo papers](https://www.compandsave
 
 CompAndSave's selection of [matte photo papers](https://www.compandsave.com/paper/photo-paper/matte) can cater to any marketing or home projects you need. You can also check this guide to learn more about the difference between [glossy vs. matte photo paper.](https://www.compandsave.com/blog/posts/glossy-vs-matte-photo-paper-which-is-better.html) 
 
-
-
 **C. Lustre Photo Paper**
 
 **BEST FOR**
@@ -226,7 +224,7 @@ Shop for [textured photo paper](https://www.compandsave.com/paper/photo-paper/te
 
 Adjust your computer monitor to display accurate colors. This ensures that what you see on the screen closely matches the final print, enhancing color accuracy.
 
-**Calibrating Your Monitor on Windows:**
+**A. Calibrating Your Monitor on Windows**
 
 **Step 1: Open Display Settings:** Right-click on the desktop and select "Display settings". Scroll down and click on "Advanced display settings".
 
@@ -238,7 +236,7 @@ Adjust your computer monitor to display accurate colors. This ensures that what 
 
 **Step 5: Complete the Calibration:** Follow the remaining instructions to complete the calibration process. Once finished, your monitor should display more accurate colors.
 
-**Calibrating Your Monitor on Mac:**
+**B. Calibrating Your Monitor on Mac**
 
 **Step 1: Open Display Preferences:** Click on the Apple logo and go to "System Preferences". Select "Displays".
 
