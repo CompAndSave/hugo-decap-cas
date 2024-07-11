@@ -91,7 +91,7 @@ When a printer has the word photo in its model name, it's evident that it was cr
 
 **3. [Canon PIXMA G620](https://www.compandsave.com/canon/pixma/g620-wireless-megatank-ink-bottles)**
 
-[![HP Envy Inspire 7925e](/blog/images/screenshot-2024-07-12-at-12.55.20 am.png "HP Envy Inspire 7925e")](/blog/images/screenshot-2024-07-12-at-12.55.20 am.png)
+[![Canon PIXMA G620](/blog/images/screenshot-2024-07-12-at-12.55.20 am.png "Canon PIXMA G620")](/blog/images/screenshot-2024-07-12-at-12.55.20 am.png)
 
 The Canon PIXMA G620 MegaTank Photo Printer is the perfect choice for producing high-quality photos at home. Its efficient ink usage ([Canon GI-23 MegaTank ink bottles](https://www.compandsave.com/canon/gi-23-ink-bottles/gi-23-14-combo)), superior color reproduction, and convenient connectivity features make it a top-tier option for photo enthusiasts and home users. Enjoy the freedom of printing beautiful, lasting memories right from the comfort of your home. To help you decide if this is the best for your printing needs, here are some of its pros and cons:
 
@@ -130,7 +130,7 @@ The correct type of paper is the next must-have on how to print high-quality pho
 * The glass on frames can make photos look unclear.
 * Holding glossy photo paper for a long time will leave smudges and imprints.
 
-Check out CompAndSave's variety of [glossy photo papers](https://www.compandsave.com/paper/photo-paper/glossy) in different sizes. Perfect for any everyday shots that you want to remember.
+Check out CompAndSave's variety of [glossy photo papers](https://www.compandsave.com/paper/photo-paper/glossy) in different sizes. They're perfect for everyday shots that you want to remember.
 
 **B. Matte Photo Paper**
 
@@ -148,7 +148,9 @@ Check out CompAndSave's variety of [glossy photo papers](https://www.compandsave
 
 * The color of your images may be muted. Vibrant colors may not appear as bright.
 
-CompAndSave's selection of [matte photo papers](https://www.compandsave.com/paper/photo-paper/matte) can cater to any marketing or home projects you need.
+CompAndSave's selection of [matte photo papers](https://www.compandsave.com/paper/photo-paper/matte) can cater to any marketing or home projects you need. You can also check this guide to learn more about the difference between [glossy vs. matte photo paper.](https://www.compandsave.com/blog/posts/glossy-vs-matte-photo-paper-which-is-better.html) 
+
+
 
 **C. Lustre Photo Paper**
 
