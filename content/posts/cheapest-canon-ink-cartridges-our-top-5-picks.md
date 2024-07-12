@@ -300,8 +300,12 @@ Using compatible or remanufactured ink cartridges does not void your Canon print
 
 [Top 5 Cheapest Toner Cartridges](https://www.compandsave.com/top-5-cheap-toner-cartridges)
 
-[How to Reduce Printing Costs?](https://www.compandsave.com/how-to-reduce-printing-costs/)
+[Cheapest Place to Buy Printer Ink Online](https://www.compandsave.com/blog/posts/cheapest-place-to-buy-printer-ink-online-for-affordable-deals.html)
 
-[Top 10 Tips to Save on Ink](https://www.compandsave.com/top-10-tips-on-how-to-save-on-printer-ink/)[](https://www.compandsave.com/top-5-cheapest-canon-ink-cartridges-guide#)
+[Cheap HP Ink Cartridges](https://www.compandsave.com/blog/posts/top-5-best-cheap-hp-ink-cartridges.html)
+
+[](https://www.compandsave.com/blog/posts/top-5-best-cheap-hp-ink-cartridges.html)[](https://www.compandsave.com/how-to-reduce-printing-costs/)
+
+[](https://www.compandsave.com/how-to-reduce-printing-costs/)[](https://www.compandsave.com/top-10-tips-on-how-to-save-on-printer-ink/)[](https://www.compandsave.com/top-5-cheapest-canon-ink-cartridges-guide#)
 
 [](https://www.compandsave.com/top-5-cheapest-canon-ink-cartridges-guide#)
