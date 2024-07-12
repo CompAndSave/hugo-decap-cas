@@ -115,6 +115,18 @@ At this point, you might already know which type of cheap printer ink Canon is t
 
 [![Canon PG-245 Black, CL-246 Tri-Color Ink Cartridge](/blog/images/screenshot-2024-07-12-at-11.46.31 pm.png "Canon PG-245 Black, CL-246 Tri-Color Ink Cartridge")](/blog/images/screenshot-2024-07-12-at-11.46.31 pm.png)
 
+* **Price:** $45.98
+* **Ink Type:** Pigment-based black and dye-based tricolor
+* **Page Yield:** 180 pages black and 180 pages tricolor
+* **Cost per Page:** $0.128
+* **Best For:** Home use, black and white documents, color documents, or photos.
+
+**[4. Canon PG-240 Black, CL-241 Tri-Color Ink Cartridge](https://www.usa.canon.com/shop/p/pg-240-black-ink-cartridge?color=Black&type=New)**
+
+[![]()]()
+
+
+
 
 
 
