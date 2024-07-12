@@ -153,45 +153,29 @@ At this point, you might already know which type of cheap printer ink Canon is t
 * **Ink Type:** Pigment ink for black PGI-280 and dye-based for the CLI-281 combo
 * **Page Yield:** 600 pages for black pigment, 4,590 pages (regular black), 830 pages (cyan), 747 pages (magenta), 1,660 pages (photo blue), 830 pages (yellow)
 * **Cost per Page:** $0.063 for black pigment, $0.0065 for regular black, $0.036 for cyan, $0.040 for magenta, $0.018 for photo blue, and $0.036 for yellow.
-* **Best For:** Home office, black and white text documents, and business documents.
+* **Best For:** Home office, black and white text, and business documents.
 
-**2. High Yield [Canon PG-245XL Black, CL-246XL (CMY) Color Ink](https://www.usa.canon.com/shop/p/pg-245-cl-246-xl-combo?color=Black&type=Kit)**
+**2. High Yield: [Canon PGI-250XL Pigment Black Ink](https://www.usa.canon.com/shop/p/pgi-250-pgbk-xl-black-ink-tank?color=Black&type=New), [CLI-251XL (CMY) Color Ink](https://www.usa.canon.com/shop/p/cli-251-xl-ink-tank?color=Yellow&type=New)**
 
-**Price:** $56.99
+[![Canon PGI-250XL Pigment Black Ink, CLI-251XL (CMY) Color Ink](/blog/images/screenshot-2024-07-12-at-11.55.47 pm.png "Canon PGI-250XL Pigment Black Ink, CLI-251XL (CMY) Color Ink")](/blog/images/screenshot-2024-07-12-at-11.55.47 pm.png)
 
-**Ink Type:** Pigment-based for black, dye-based for color
+* **Price:** $27.99 for black pigment and $21.99 for each color
+* **Ink Type:** Pigment ink for black and dye-based for color
+* **Page Yield:** 500 pages for black pigment, 5000 pages (black), 705 pages (cyan), 690 pages (magenta), 675 pages (yellow), and 660 pages (gray)
+* **Cost per Page:** $0.056 for black pigment, $0.0043 for black, $0.031 for cyan, $0.031 for magenta, $0.032 for yellow and $0.033 for gray
+* **Best For:** Home or home office, black and white text documents, business documents, color documents, and photos
 
-**Page Yield:** 300 pages for black and 300 pages for color
+**3. High Yield: [Canon PG-245XL Black, CL-246XL (CMY) Color Ink](https://www.usa.canon.com/shop/p/pg-245-cl-246-xl-combo?color=Black&type=Kit)**
 
-**Cost per Page:** $0.094
+[![Canon PG-245XL Black, CL-246XL (CMY) Color Ink](/blog/images/screenshot-2024-07-12-at-11.57.42 pm.png "Canon PG-245XL Black, CL-246XL (CMY) Color Ink")](/blog/images/screenshot-2024-07-12-at-11.57.42 pm.png)
 
-**Best For:** Home office, black and white text documents, education materials, color documents, and photos
+* **Price:** $61.99
+* **Ink Type:** Pigment-based for black, dye-based for color
+* **Page Yield:** 300 pages for black and 300 pages for color
+* **Cost per Page:** $0.103
+* **Best For:** Home office, black and white text documents, education materials, color documents, and photos
 
-**3. High Yield** Canon PGI-250XL Pigment Black Ink, CLI-251 (CMY) Color Ink
-
-**Price:** $27.99 for black pigment and $21.99 for each color
-
-**Ink Type:** Pigment ink for black and dye-based for color
-
-**Page Yield:** 500 pages for black pigment, 5000 pages (black), 705 pages (cyan), 690 pages (magenta), 675 pages (yellow), and 660 pages (gray)
-
-**Cost per Page:** $0.056 for black pigment, $0.0043 for black, $0.031 for cyan, $0.031 for magenta, $0.032 for yellow and $0.033 for gray
-
-**Best For:** Home or home office, black and white text documents, business documents, color documents, and photos
-
-**4. High Yield [Canon PG-260XL CLI-261XL Value Pack](https://www.usa.canon.com/shop/p/pg-260-xl-cli-261-xl-value-pack?color=Black&type=Kit)**
-
-**Price:** $58.99
-
-**Ink Type:** Pigment-based for black, dye-based for color
-
-**Page Yield:** 400 pages for black and 400 pages for color
-
-**Cost per Page:** $0.0562
-
-**Best For:** Home, black and white text documents, education materials, color documents, and photos
-
-**5. High Yield [Canon PG-240XL CL-241XL Value Pack](https://www.usa.canon.com/shop/p/pg-240-xl-cl-241-xl-value-pack?color=Colour&type=Kit)**
+**4. High Yield [Canon PG-240XL CL-241XL Value Pack](https://www.usa.canon.com/shop/p/pg-240-xl-cl-241-xl-value-pack?color=Colour&type=Kit)**
 
 **Price:** $58.98
 
@@ -202,6 +186,18 @@ At this point, you might already know which type of cheap printer ink Canon is t
 **Cost per Page:** $0.0628
 
 **Best For:** Home, black and white text documents, education materials, color documents, and photos.
+
+**5. High Yield [Canon PG-260XL CLI-261XL Value Pack](https://www.usa.canon.com/shop/p/pg-260-xl-cli-261-xl-value-pack?color=Black&type=Kit)**
+
+**Price:** $58.99
+
+**Ink Type:** Pigment-based for black, dye-based for color
+
+**Page Yield:** 400 pages for black and 400 pages for color
+
+**Cost per Page:** $0.0562
+
+**Best For:** Home, black and white text documents, education materials, color documents, and photos
 
 ## Exploring Third-Party Ink Cartridges for Maximum Savings
 
