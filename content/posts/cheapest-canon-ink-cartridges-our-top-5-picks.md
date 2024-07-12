@@ -131,7 +131,13 @@ At this point, you might already know which type of cheap printer ink Canon is t
 * **Cost per Page:** $0.11 for black and $0.144 for tri-color
 * **Best For:** Home and home-office use for black and white documents, color documents, and photos.
 
-5. Canon PG-40/CL-41 Combo Ink Pack
+**[5. Canon PG-40/CL-41 Combo Ink Pack](https://www.usa.canon.com/shop/p/pg-40-cl-41-combo-ink-pack-with-photo-paper-glossy-50-sheets-4-x6?color=Black&type=Kit)**
+
+
+
+[![Canon PG-40/CL-41 Combo Ink Pack](/blog/images/screenshot-2024-07-12-at-11.50.03 pm.png "Canon PG-40/CL-41 Combo Ink Pack")](/blog/images/screenshot-2024-07-12-at-11.50.03 pm.png)
+
+
 
 
 
