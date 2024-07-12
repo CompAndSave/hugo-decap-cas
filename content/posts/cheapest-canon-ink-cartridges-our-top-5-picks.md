@@ -67,21 +67,23 @@ Let's use standard HP 60 black ink, for example, to see the cost per page differ
 
 Think about how you use your printer and what aligns with your budget. As you ponder these aspects, keep these five essential factors in mind:
 
-1. **Printing Frequency**
+* **Printing Frequency**
 
-   Reflect on how often you print—daily, weekly, or monthly. If your printing is frequent, high-yield cartridges could save you more money in the long run. If you print less often, standard ink might suit you better.
-2. **Print Volume**
+  Reflect on how often you print—daily, weekly, or monthly. If your printing is frequent, high-yield cartridges could save you more money in the long run. If you print less often, standard ink might suit you better.
+* **Print Volume**
 
-   Monitor how much you print each time you use your printer. If you often print many pages at once, it's smart to go for high-yield cartridges. These cartridges have more ink and are better for large print tasks, offering efficiency and cost savings compared to cartridges with less ink.
-3. **Color vs. Monochrome Printing**
+  Monitor how much you print each time you use your printer. If you often print many pages at once, it's smart to go for high-yield cartridges. These cartridges have more ink and are better for large print tasks, offering efficiency and cost savings compared to cartridges with less ink.
+* **Color vs. Monochrome Printing**
 
-   If your printing involves a lot of black and white with occasional color, consider choosing tricolor cartridges instead of individual ones. This choice can lead to more cost-effective use.
-4. **Types of Documents**
+  If your printing involves a lot of black and white with occasional color, consider choosing tricolor cartridges instead of individual ones. This choice can lead to more cost-effective use.
+* **Types of Documents**
 
-   Know what you primarily print—documents, photos, or graphics. If your printing includes high-quality images, leaning towards high-yield cartridges could be a great way to save on costs.
-5. **Quality Requirements**
+  Know what you primarily print—documents, photos, or graphics. If your printing includes high-quality images, leaning towards high-yield cartridges could be a great way to save on costs.
+* **Quality Requirements**
 
-   Consider the level of print quality you need. If quality matters, even if it means a slightly higher cost, a high-yield option might give you better value in the end.
+  Consider the level of print quality you need. If quality matters, a high-yield option might give you better value, even if it means a slightly higher cost.
+
+
 
 ## So, What are the Top 5 Cheap Ink for Canon Printer?
 
