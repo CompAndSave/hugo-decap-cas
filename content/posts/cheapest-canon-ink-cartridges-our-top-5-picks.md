@@ -250,15 +250,15 @@ To show you how much you can save with third-party ink cartridges, we've compare
 
 [![Canon PG-260 XL / CLI-261 XL Value Pack](/blog/images/screenshot-2024-07-13-at-12.14.25 am.png "Canon PG-260 XL / CLI-261 XL Value Pack")](/blog/images/screenshot-2024-07-13-at-12.14.25 am.png)
 
-* **OEM Price:** $66.99
-* **CompAndSave Price:** $44.98
-
-
+* **OEM Price:** [$66.99](https://www.usa.canon.com/shop/p/pg-260-xl-cli-261-xl-value-pack?color=Black&type=Kit)
+* **CompAndSave Price:** [$44.98](https://www.compandsave.com/canon/260xl-261xl-ink-pg-260xl-cl-261xl-2-combo)
 
 **5. Canon PG-240 XL / CL-241 XL Value Pack**
 
-* **OEM PRICE: [$58.98](https://www.usa.canon.com/shop/p/pg-240-xl-cl-241-xl-value-pack?color=Colour&type=Kit)**
-* **COMPANDSAVE PRICE: [$43.98](https://www.compandsave.com/canon/240xl-241xl-ink-pg-240xl-cl-241xl-2-combo)**
+[![Canon PG-240 XL / CL-241 XL Value Pack](/blog/images/screenshot-2024-07-13-at-12.15.40 am.png "Canon PG-240 XL / CL-241 XL Value Pack")](/blog/images/screenshot-2024-07-13-at-12.15.40 am.png)
+
+* OEM Price: $64.98
+* CompAndSave Price: $43.98
 
 For us to easily check the price difference, let's compare the OEM price versus CompAndSave price side by side.
 
