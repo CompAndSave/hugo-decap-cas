@@ -93,9 +93,9 @@ You can disable the auto HP printer firmware update from your printer homepage v
 
 [![Wi-Fi buttons](/blog/images/screenshot-2024-07-13-at-12.39.44 am.png "Wi-Fi buttons")](/blog/images/screenshot-2024-07-13-at-12.39.44 am.png)
 
-2. Once your printer is connected to the network, you can print out your “Printer's Status Report” by pressing both "i" and "Wi-Fi" buttons for at least three seconds. On your printed report, you should be able to find your printer's Wi-Fi name and password, along with the printer's IP Address.
+**Step 2:** Once your printer is connected to the network, you can print out your **“Printer’s Status Report”** by pressing both **“i”** and **“Wi-Fi”** buttons for at least three seconds. In your printed report, you should be able to find your printer’s Wi-Fi name and password, along with the printer’s IP address.
 
-[![Printer's Status Report](/blog/images/screenshot-2024-07-01-at-11.54.55 pm.png "Printer's Status Report")](/blog/images/screenshot-2024-07-01-at-11.54.55 pm.png)
+[![Printer's Status Report](/blog/images/screenshot-2024-07-13-at-12.40.53 am.png "Printer's Status Report")](/blog/images/screenshot-2024-07-13-at-12.40.53 am.png)
 
 3. Enter your printer's IP address on your web browser address bar (web address bar is where a website's link is usually located). You should be able to see your printer homepage once it's loaded.
 
