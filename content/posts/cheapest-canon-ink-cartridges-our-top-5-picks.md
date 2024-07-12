@@ -290,19 +290,9 @@ Yes, empty ink cartridges can be refilled and reused, provided they have not bee
 
 Many local and online ink retailers offer [ink-refill kits](https://www.compandsave.com/ink-refill-bulk-ink) or refilling services. However, refilling cartridges more than a few times may decrease the print quality and overall performance of the cartridge.[](https://www.compandsave.com/top-5-cheapest-canon-ink-cartridges-guide#)
 
-### 4. Will using cheap or compatible ink cartridges void my Canon printer's warranty?
+### 3. Will using cheap or compatible ink cartridges void my Canon printer's warranty?
 
-Using compatible or remanufactured ink cartridges does not void your Canon printer's warranty. The warranty should remain valid as long as the cartridges do not cause damage to your printer. Nonetheless, it's essential to choose high-quality, compatible cartridges from a reliable supplier, as low-quality ink and cartridges can potentially harm your printer or use up more ink, eventually costing you more in repairs or replacements.[](https://www.compandsave.com/top-5-cheapest-canon-ink-cartridges-guide#)
-
-### 5. How can I find the cheapest Canon ink cartridges without compromising quality?
-
-To find the cheapest Canon ink cartridges without sacrificing quality, consider the following:
-
-* Compare prices online and at local retailers to find the best deals.
-* Look for discounts, promotions, or bulk prices on compatible or remanufactured cartridges from reputable suppliers. CompAndSave offers various discounts found at out [coupon page here.](https://www.compandsave.com/coupon)
-* Consider purchasing high-quality third-party compatible cartridges that are designed to work with your specific Canon printer model.
-* If you print frequently, opt for high-yield cartridges that offer more ink volume at a relatively lower cost per printed page.
-* Lastly, always read reviews and ensure that the supplier offers a satisfaction guarantee or return policy if the cartridges do not meet your expectations.[](https://www.compandsave.com/top-5-cheapest-canon-ink-cartridges-guide#)
+Using compatible or remanufactured ink cartridges does not void your Canon printer's warranty. The warranty should remain valid as long as the cartridges do not cause damage to your printer. Nonetheless, it's essential to choose high-quality, compatible cartridges from a reliable supplier, as low-quality ink and cartridges can potentially harm your printer or use up more ink, eventually costing you more in repairs or replacements.[](https://www.compandsave.com/top-5-cheapest-canon-ink-cartridges-guide#)[](https://www.compandsave.com/top-5-cheapest-canon-ink-cartridges-guide#)
 
 ## Related articles:
 
