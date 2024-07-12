@@ -83,7 +83,7 @@ This method will work on HP network-capable printers and Wi-Fi Direct Printers. 
 
 **Step 5:** You may also confirm the **“Automatic Firmware Update”** status by pressing the **“i”** button on your printer’s control panel. This will print out your **“Printer Information Page,”** which shows the status of your auto-update setting.
 
-[![Printer Information Page](/blog/images/screenshot-2024-07-01-at-11.50.47 pm.png "Printer Information Page")](/blog/images/screenshot-2024-07-01-at-11.50.47 pm.png)
+[![Printer Information Page](/blog/images/screenshot-2024-07-13-at-12.38.37 am.png "Printer Information Page")](/blog/images/screenshot-2024-07-13-at-12.38.37 am.png)
 
 ## For Printers without Touchscreen Control Panel
 
