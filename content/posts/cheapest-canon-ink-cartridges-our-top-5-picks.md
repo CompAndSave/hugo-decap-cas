@@ -87,7 +87,7 @@ Think about how you use your printer and what aligns with your budget. As you po
 
 At this point, you might already know which type of cheap printer ink Canon is the right fit for your printing needs. Now, let’s move forward and discuss the five most affordable Canon ink cartridges based on your printing needs.
 
-***Price Disclaimer:** Please note that prices for original Canon ink may change over time.*
+**\*Price Disclaimer:** Please note that prices for original Canon ink may change over time.*
 
 ### Standard: Top 5 Cheapest Canon Printer Ink
 
@@ -132,8 +132,6 @@ At this point, you might already know which type of cheap printer ink Canon is t
 * **Best For:** Home and home-office use for black and white documents, color documents, and photos.
 
 **[5. Canon PG-40/CL-41 Combo Ink Pack](https://www.usa.canon.com/shop/p/pg-40-cl-41-combo-ink-pack-with-photo-paper-glossy-50-sheets-4-x6?color=Black&type=Kit)**
-
-
 
 [![Canon PG-40/CL-41 Combo Ink Pack](/blog/images/screenshot-2024-07-12-at-11.50.03 pm.png "Canon PG-40/CL-41 Combo Ink Pack")](/blog/images/screenshot-2024-07-12-at-11.50.03 pm.png)
 
@@ -219,7 +217,7 @@ These cheap Canon ink cartridges offer the same quality as original cartridges b
 
   Finding cartridges for older printer models at brand stores can be challenging. Fortunately, many third-party ink suppliers offer cartridges that are no longer available elsewhere, ensuring you can continue using your trusted printer.
 
-***NOTE:** The quality and performance of third-party ink cartridges can vary depending on the supplier, so it’s advisable to research and choose a reputable supplier to ensure a satisfactory printing experience.*
+**\*NOTE:** The quality and performance of third-party ink cartridges can vary depending on the supplier, so it’s advisable to research and choose a reputable supplier to ensure a satisfactory printing experience.*
 
 ## Cheapest Canon Cartridges: OEM vs. CompAndSave Price
 
@@ -236,10 +234,10 @@ To show you how much you can save with third-party ink cartridges, we've compare
 
 [](https://www.compandsave.com/canon/280-281-xxl-ink-cartridges/pgi-280xxl-cli-281xxl-6-combo)[](https://www.compandsave.com/canon/280-281-xxl-ink-cartridges/pgi-280xxl-cli-281xxl-6-combo)**2. Canon PG-245XL Black, CL-246XL Color High-Yield Ink Cartridge**
 
+[![Canon PG-245XL Black, CL-246XL Color High-Yield Ink Cartridge](/blog/images/screenshot-2024-07-13-at-12.08.01 am.png "Canon PG-245XL Black, CL-246XL Color High-Yield Ink Cartridge")](/blog/images/screenshot-2024-07-13-at-12.08.01 am.png)
 
-
-* **OEM PRICE: [$56.99](https://www.usa.canon.com/shop/p/pg-245-cl-246-xl-combo?color=Black&type=Kit)**	
-* **COMPANDSAVE PRICE: [$39.90](https://www.compandsave.com/canon/245xl-246xl-ink-pg-245xl-cl-246xl-2-combo)**
+* **OEM Price:** [$61.99](https://www.usa.canon.com/shop/p/pg-245-cl-246-xl-combo?color=Black&type=Kit)
+* **CompAndSave Price:** [$39.90](https://www.compandsave.com/canon/245xl-246xl-ink-pg-245xl-cl-246xl-2-combo)
 
 [](https://www.compandsave.com/canon/245xl-246xl-ink-pg-245xl-cl-246xl-2-combo)**3. Canon PGI-250XL Pigment Black Ink, CLI-251BK XL High-Yield color Cartridges**
 
