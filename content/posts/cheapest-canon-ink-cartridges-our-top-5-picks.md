@@ -137,35 +137,23 @@ At this point, you might already know which type of cheap printer ink Canon is t
 
 [![Canon PG-40/CL-41 Combo Ink Pack](/blog/images/screenshot-2024-07-12-at-11.50.03 pm.png "Canon PG-40/CL-41 Combo Ink Pack")](/blog/images/screenshot-2024-07-12-at-11.50.03 pm.png)
 
+* **Price:** $60.99
+* **Ink Type:** Pigment for black and dye-based for tri-color
+* **Page Yield:** 329 pages for black and 312 pages for tri-color
+* **Cost per Page:** $0.09
+* **Best For:** Home and home-office use for black and white documents, color documents and photos.
 
+## High-Yield: Top 5 Cheap Ink for Canon Printer
 
+**1. Extra High-Yield: [Canon PGI-280XXL Black, CLI-281XXL (CMYK) Ink](https://www.usa.canon.com/shop/p/cli-281-xxl-dye-based-individual-ink-tank?color=Black&type=New)**
 
+[![Canon PGI-280XXL Black, CLI-281XXL (CMYK) Ink](/blog/images/screenshot-2024-07-12-at-11.51.33 pm.png "Canon PGI-280XXL Black, CLI-281XXL (CMYK) Ink")](/blog/images/screenshot-2024-07-12-at-11.51.33 pm.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-### High-Yield: Top 5 Cheap Ink for Canon Printer
-
-**1. Extra High-Yield [Canon PGI-280XXL Black, CLI-281XXL (CMYK) Ink](https://www.usa.canon.com/shop/p/cli-281-xxl-dye-based-individual-ink-tank?color=Black&type=New)**
-
-**Price:** $37.99 for black and $30 for each color
-
-**Ink Type:** Pigment ink for black PGI-280 and dye-based for the CLI-281 combo
-
-**Page Yield:** 600 pages for black pigment, 4,590 pages (regular black), 830 pages (cyan), 747 pages (magenta), 1,660 pages (photo blue), 830 pages (yellow)
-
-**Cost per Page:** $0.063 for black pigment, $0.0065 for regular black, $0.036 for cyan, $0.040 for magenta, $0.018 for photo blue and $0.036 for yellow.
-
-**Best For:** Home office, black and white text documents, and business documents.
+* **Price:** $37.99 for black pigment and $29.99 for CMYK
+* **Ink Type:** Pigment ink for black PGI-280 and dye-based for the CLI-281 combo
+* **Page Yield:** 600 pages for black pigment, 4,590 pages (regular black), 830 pages (cyan), 747 pages (magenta), 1,660 pages (photo blue), 830 pages (yellow)
+* **Cost per Page:** $0.063 for black pigment, $0.0065 for regular black, $0.036 for cyan, $0.040 for magenta, $0.018 for photo blue, and $0.036 for yellow.
+* **Best For:** Home office, black and white text documents, and business documents.
 
 **2. High Yield [Canon PG-245XL Black, CL-246XL (CMY) Color Ink](https://www.usa.canon.com/shop/p/pg-245-cl-246-xl-combo?color=Black&type=Kit)**
 
