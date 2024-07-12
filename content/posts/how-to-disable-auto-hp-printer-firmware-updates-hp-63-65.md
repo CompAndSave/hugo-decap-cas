@@ -85,11 +85,11 @@ This method will work on HP network-capable printers and Wi-Fi Direct Printers. 
 
 [![Printer Information Page](/blog/images/screenshot-2024-07-13-at-12.38.37 am.png "Printer Information Page")](/blog/images/screenshot-2024-07-13-at-12.38.37 am.png)
 
-## For Printers without Touchscreen Control Panel
+### B. For Printers Without Touchscreen Control Panel
 
-You can disable the auto update from your printer homepage via web browser. To do so, you would need to print out your “Printer's Status Report” first to obtain the IP address.
+You can disable the auto HP printer firmware update from your printer homepage via a web browser. To do so, you must print out your **“Printer’s Status Report”** first to obtain the IP address.
 
-1. Make sure your printer is connected to the network by pressing "Wi-Fi" and "Wi-Fi Direct" buttons on your printer control panel. For printers without the "Wi-Fi Direct" button, you may press on the "Wi-Fi" button only.
+**Step 1:** Make sure your printer is connected to the network by pressing the **“Wi-Fi”** and **“Wi-Fi Direct”** buttons on your printer control panel. You may press the “Wi-Fi Direct” button only for printers without the “Wi-Fi” button.
 
 [![Wi-Fi buttons](/blog/images/screenshot-2024-07-01-at-11.52.58 pm.png "Wi-Fi buttons")](/blog/images/screenshot-2024-07-01-at-11.52.58 pm.png)
 
