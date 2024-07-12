@@ -18,7 +18,7 @@ tags:
 
 Why did your HP printer not recognize ink cartridges when it was working fine the first time? This issue is likely due to an HP printer firmware update if you use a third-party, generic, or remanufactured ink cartridge. If you haven't made any changes to your printer, the firmware might have been automatically updated, especially if your printer is connected to Wi-Fi.
 
-In this guide, we will show you how to disable your printer's HP auto update firmware feature. This will allow you to avoid these issues and the hassle of downgrading the HP printer firmware in the future. Print again without any delay!
+In this guide, we will show you how to disable your printer's HP auto update firmware feature. This will allow you to avoid these issues and the hassle of [downgrading the HP printer firmware](https://www.compandsave.com/hp-printer-firmware-downgrade) in the future. Print again without any delay!
 
 **In this guide, we will discuss:**
 
