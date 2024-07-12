@@ -57,9 +57,7 @@ You can choose from the two methods below on how to turn off firmware on HP prin
 
 **Step 3:** Choose **“Do Not Check”** from the **“Printer Update Options”** display.
 
-
-
-[![Printer's Control Panel](/blog/images/screenshot-2024-07-01-at-11.43.01 pm.png "Do Not Check")](/blog/images/screenshot-2024-07-01-at-11.43.01 pm.png)
+[![Printer's Control Panel](/blog/images/screenshot-2024-07-13-at-12.33.43 am.png "Do Not Check")](/blog/images/screenshot-2024-07-13-at-12.33.43 am.png)
 
 ### Procedure 2: From Printer Homepage via Browser
 
