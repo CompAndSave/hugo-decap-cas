@@ -149,8 +149,8 @@ Yes, you can. Here are the steps to re-enable automatic firmware updates on your
 
 ## Related Articles:
 
-How to Downgrade HP Printer Firmware?
+[How to Downgrade HP Printer Firmware?](https://www.compandsave.com/hp-printer-firmware-downgrade)
 
-How to Disable HP Printer Firmware Update: HP 962/910
+[How to Disable HP Printer Firmware Update: HP 962/910](https://www.compandsave.com/how-to-disable-hp-printer-firmware-update-guide/)
 
-Disable HP 58A/58X Printer Firmware Update
+[Disable HP 58A/58X Printer Firmware Update](https://www.compandsave.com/blog/posts/disable-hp-58a-58x-printer-firmware-update.html)
