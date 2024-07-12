@@ -61,7 +61,7 @@ Now, let's figure out the cost per page using this formula:
 
 Let's use standard HP 60 black ink, for example, to see the cost per page difference between this standard yield and its higher yield counterpart HP 60XL black ink cartridge:
 
-[![ink cartridge type](/blog/images/screenshot-2024-07-02-at-1.36.19 pm.png "ink cartridge type")](/blog/images/screenshot-2024-07-02-at-1.36.19 pm.png)
+[![ink cartridge type](/blog/images/screenshot-2024-07-13-at-12.21.36 am.png "ink cartridge type")](/blog/images/screenshot-2024-07-13-at-12.21.36 am.png)
 
 ### 3. Choosing the Most Cost-Effective Ink for Your Needs
 
