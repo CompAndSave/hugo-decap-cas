@@ -37,11 +37,17 @@ However, as you may already know, the HP automatic updates of printer firmware w
 
 So, if you wish to continue using cheaper third-party [HP 65](https://www.compandsave.com/hp/65-ink-cartridges/n9k02an-n9k01an-2-combo)/[HP 63](https://www.compandsave.com/hp/63-ink-cartridges/f6u62an-f6u61an-2-combo) ink cartridges or [HP 65XL](https://www.compandsave.com/hp/65xl-ink-cartridges/n9k04an-black)/[HP 63XL](https://www.compandsave.com/hp/63xl-ink-cartridges/f6u64an-black) ink cartridges, we will show you the steps to disable HP firmware update and make your ink cartridges work again.
 
-## For Printers with Touchscreen Control Panel
+## HP Auto Update: Steps On How To Disable In HP 63/65
 
-### **Procedure 1: From Printer's Control Panel**
+To stop your HP printer from updating automatically, follow these steps to disable your printer's HP auto update feature. We have listed the steps for both printers with touch screen control and those without.
 
-1. Select **"Setup"** icon on your printer's control panel. From the list of options, choose **"Tools".**
+### A. For Printers with Touchscreen Control Panel
+
+You can choose from the two methods below on how to turn off firmware on HP printer automatically if it has a touchscreen control panel.
+
+**METHOD 1: From the Printer’s Control Panel**
+
+**Step 1:** Select the **“Setup”** icon on your printer’s control panel. From the list of options, choose **“Tools.”**
 
 [![envy 5000 series](/blog/images/screenshot-2024-07-01-at-11.40.55 pm.png "envy 5000 series")](/blog/images/screenshot-2024-07-01-at-11.40.55 pm.png)
 
