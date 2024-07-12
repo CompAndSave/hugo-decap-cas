@@ -75,9 +75,9 @@ This method will work on HP network-capable printers and Wi-Fi Direct Printers. 
 
 **Step 3:** Click the **“Printer Update”** option from the home dashboard.
 
-[![Printer Update](/blog/images/screenshot-2024-07-01-at-11.47.58 pm.png "home dashboard")](/blog/images/screenshot-2024-07-01-at-11.47.58 pm.png)
+[![Printer Update](/blog/images/screenshot-2024-07-13-at-12.36.32 am.png "home dashboard")](/blog/images/screenshot-2024-07-13-at-12.36.32 am.png)
 
-4. Next, you want to make sure that the checkbox for "Install updates automatically (recommended)" on the “Printer Update Options” section is unchecked. This will disable the auto firmware update feature on your printer. Once you're done, click the "Apply" button to save the settings.
+**Step 4:** Next, make sure that the checkbox for **“Install updates automatically (recommended)”** in the **“Printer Update Options”** section is unchecked. This will disable your printer's auto firmware update feature. Once done, click the **“Apply”** button to save the settings.
 
 [![Printer Update Options](/blog/images/screenshot-2024-07-01-at-11.49.00 pm.png "Printer Update Options")](/blog/images/screenshot-2024-07-01-at-11.49.00 pm.png)
 
