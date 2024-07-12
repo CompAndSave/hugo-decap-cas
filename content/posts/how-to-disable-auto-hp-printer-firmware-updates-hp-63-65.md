@@ -59,13 +59,13 @@ You can choose from the two methods below on how to turn off firmware on HP prin
 
 [![Printer's Control Panel](/blog/images/screenshot-2024-07-13-at-12.33.43 am.png "Do Not Check")](/blog/images/screenshot-2024-07-13-at-12.33.43 am.png)
 
-### Procedure 2: From Printer Homepage via Browser
+**METHOD 2: From Printer Homepage via Browser**
 
-This method will work on HP network-capable printers and Wi-Fi Direct Printers. To access the printer homepage, you would first need to obtain the printer IP address, and enter it to a web browser address bar. IP address is the unique identification number assigned to the printer, depending on the network.
+This method will work on HP network-capable printers and Wi-Fi Direct Printers. To access the printer homepage, you must first obtain the printer IP address and enter it into a web browser address bar. IP address is the unique identification number assigned to the printer, depending on the network.
 
-1. While your printer is connected to the network, select "**Setup**" icon from your printer's control panel. From the list of options, choose "**Network Setup**". You should be able to see your printer's IP address on the top of the display screen.
+**Step 1:** Select the **“Setup”** icon from your printer’s control panel while your printer is connected to the network. From the list of options, choose **“Network Setup.”** You should be able to see your printer’s IP address on the top of the display screen.
 
-**NOTE:** The IP address is unique for every printer depending on your network. The address shown on the photo below is for sample purposes only.
+***NOTE:** Every printer's IP address is unique, depending on your network. The address shown in the photo below is for sample purposes only.*
 
 [![Printer Homepage](/blog/images/screenshot-2024-07-01-at-11.45.41 pm.png "Printer Homepage")](/blog/images/screenshot-2024-07-01-at-11.45.41 pm.png)
 
