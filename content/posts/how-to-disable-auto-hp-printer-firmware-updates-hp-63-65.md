@@ -97,9 +97,9 @@ You can disable the auto HP printer firmware update from your printer homepage v
 
 [![Printer's Status Report](/blog/images/screenshot-2024-07-13-at-12.40.53 am.png "Printer's Status Report")](/blog/images/screenshot-2024-07-13-at-12.40.53 am.png)
 
-3. Enter your printer's IP address on your web browser address bar (web address bar is where a website's link is usually located). You should be able to see your printer homepage once it's loaded.
+**Step 3:** Enter your printer’s IP address on your web browser address bar (the web address bar is where a website’s link is usually located). You should be able to see your printer homepage once it’s loaded.
 
-[![printer's IP address](/blog/images/screenshot-2024-07-01-at-11.58.11 pm.png "printer's IP address")](/blog/images/screenshot-2024-07-01-at-11.58.11 pm.png)
+[![printer's IP address](/blog/images/screenshot-2024-07-13-at-12.41.40 am.png "printer's IP address")](/blog/images/screenshot-2024-07-13-at-12.41.40 am.png)
 
 4. Click on "**Printer Update**" option from the home dashboard.
 
