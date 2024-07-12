@@ -241,8 +241,10 @@ To show you how much you can save with third-party ink cartridges, we've compare
 
 [](https://www.compandsave.com/canon/245xl-246xl-ink-pg-245xl-cl-246xl-2-combo)**3. Canon PGI-250XL Pigment Black Ink, CLI-251BK XL High-Yield color Cartridges**
 
-* **OEM PRICE: [$27.99 for Black Pigment](https://www.usa.canon.com/shop/p/pgi-250-pgbk-xl-black-ink-tank?color=Black&type=New) +[ $21.99 each of the 5 Colors ($109.99 total)](https://www.usa.canon.com/shop/p/cli-251-xl-ink-tank?color=Black&type=New)**
-* **COMPANDSAVE PRICE:[ $28.50 for the whole set of 6](https://www.compandsave.com/canon/250-251-xl-ink-cartridges/pgi-250xl-cli-251xl-6-combo)**
+[![Canon PGI-250XL Pigment Black Ink, CLI-251BK XL High-Yield color Cartridges](/blog/images/screenshot-2024-07-13-at-12.11.05 am.png "Canon PGI-250XL Pigment Black Ink, CLI-251BK XL High-Yield color Cartridges")](/blog/images/screenshot-2024-07-13-at-12.11.05 am.png)
+
+* OEM Price: $27.99 for Black Pigment + $21.99 each of the 5 Colors ($109.99 total)
+* CompAndSave Price: $28.50 for the whole set of 6
 
 **4. Canon PG-260 XL / CLI-261 XL Value Pack**
 
@@ -255,8 +257,6 @@ To show you how much you can save with third-party ink cartridges, we've compare
 * **COMPANDSAVE PRICE: [$43.98](https://www.compandsave.com/canon/240xl-241xl-ink-pg-240xl-cl-241xl-2-combo)**
 
 For us to easily check the price difference, let's compare the OEM price versus CompAndSave price side by side.
-
-[![CARTRIDGE MODEL](/blog/images/screenshot-2024-07-02-at-2.42.23 pm.png "CARTRIDGE MODEL")](/blog/images/screenshot-2024-07-02-at-2.42.23 pm.png)
 
 In the end, third-party ink cartridges are a great option for cost-conscious consumers looking to save money while also helping the environment.
 
