@@ -123,31 +123,31 @@ Does disabling the HP auto update firmware feature on your printer seem easy? It
 * Knowing how to access and navigate your printer's settings through the control panel or a web browser is essential for managing updates.
 * You maintain compatibility with third-party ink cartridges by knowing how to stop firmware update, allowing for more affordable printing options.
 
-Frequently Asked Questions
+## Frequently Asked Questions
 
-1. Will disabling automatic firmware updates affect my printer’s performance?
+### 1. Will disabling automatic firmware updates affect my printer’s performance?
 
 Disabling automatic firmware updates means your printer won't get new features or bug fixes, and it may also miss performance improvements from HP. However, this helps you keep using cheaper third-party ink cartridges without problems. Your printer will still work fine for regular printing tasks. If you face any issues, you can always check for HP printer updates and turn updates back on.
 
-2. Why does my HP printer stop recognizing third-party ink cartridges after an update?
+### 2. Why does my HP printer stop recognizing third-party ink cartridges after an update?
 
 Your HP printer may stop recognizing third-party ink cartridges after an update because HP often changes its software only to accept original HP cartridges. These updates are designed to ensure printer performance and reliability with HP's products. Using third-party cartridges might conflict with these updates, leading to recognition issues. Disabling automatic updates can help you avoid this problem and allow you to continue using cheaper third-party cartridges.
 
-3. Can I re-enable automatic firmware updates if needed?
+### 3. Can I re-enable automatic firmware updates if needed?
 
 Yes, you can. Here are the steps to re-enable automatic firmware updates on your HP printer:
 
-Step 1: Navigate to your HP printer’s control panel or open a web browser and enter the printer’s IP address to access its homepage.
+**Step 1:** Navigate to your HP printer’s control panel or open a web browser and enter the printer’s IP address to access its homepage.
 
-Step 2: Look for the option labeled "Printer Update" or similar in the printer settings menu or homepage dashboard.
+**Step 2:** Look for the option labeled **"Printer Update"** or similar in the printer settings menu or homepage dashboard.
 
-Step 3: Find the checkbox for "Install updates automatically" or similar in the "Printer Update Options" section.
+**Step 3:** Find the checkbox for **"Install updates automatically"** or similar in the **"Printer Update Options"** section.
 
-Step 4: Click the checkbox to enable automatic firmware updates. This action will allow your printer to receive and install updates as they become available.
+**Step 4:** Click the checkbox to enable automatic firmware updates. This action will allow your printer to receive and install updates as they become available.
 
-Step 5: After enabling automatic updates, save the changes by clicking the "Apply" or "Save" button in the settings menu or homepage dashboard.
+**Step 5:** After enabling automatic updates, save the changes by clicking the **"Apply"** or **"Save"** button in the settings menu or homepage dashboard.
 
-Related Articles:
+## Related Articles:
 
 How to Downgrade HP Printer Firmware?
 
