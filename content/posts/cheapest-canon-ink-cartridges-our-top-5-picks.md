@@ -42,16 +42,18 @@ Understanding the different ink cartridge options is essential for finding the c
 
   Also known as XL or XXL cartridges (for extra higher yield ink cartridges), these high-yield cartridges contain more ink and are specifically designed for frequent and high-volume printing. Despite a slightly higher initial cost, they offer a better cost-per-page ratio, making them cost-effective in the long run—especially valuable for businesses with regular printing needs.
 
+### 2. Calculating Cost Per Page
 
-
-### 2. [Calculating Cost Per Page](https://www.compandsave.com/how-to-calculate-printing-cost-per-page)
-
-To find out if the ink cartridge is truly cheap based on your printing needs, you need to learn [how to calculate the ink cartridge's cost per page](https://www.compandsave.com/how-to-calculate-printing-cost-per-page). Understanding the cost per page is essential for efficient print expense management. It enables you to gauge the actual cost of each printed page, considering both the cartridge price and page yield. This knowledge empowers you to make cost-effective ink choices aligned with your budget and printing frequency.
+To determine if the ink cartridge is truly cheap based on your printing needs, you must learn how to calculate the ink cartridge’s cost per page. Knowing the cost per page helps you manage your printing expenses better. It shows you the real cost of each printed page, considering both the cartridge price and how many pages it can print. This knowledge helps you choose ink that fits your budget and printing habits.
 
 **Here's what you need to consider:**
 
-* **Cost:** The cost of the ink cartridge is the upfront price you pay to purchase it. Depending on your printing needs, you might opt for the lower upfront cost if you don't print frequently, or you may prefer to invest in a cartridge with a slightly higher initial cost for long-term savings if you print often.
-* **Page Yield:** This tells you how many pages an ink cartridge can print before you need a new one. While cartridges with higher page yields cost a bit more upfront, they're a better deal for businesses overall because they print more pages before running out. If you don't print a lot, standard ink cartridges will be the best choice for you.
+* **Cost**
+
+  The cost of the ink cartridge is the upfront price you pay to purchase it. Depending on your printing needs, you might opt for the lower upfront cost if you don't print frequently, or you may prefer to invest in a cartridge with a slightly higher initial cost for long-term savings if you print often.
+* **Page Yield**
+
+  This tells you how many pages an ink cartridge can print before you need a new one. While cartridges with higher page yields cost a bit more upfront, they're a better deal for businesses overall because they print more pages before running out. If you don't print a lot, standard ink cartridges will be the best choice for you.
 
 Now, let's figure out the cost per page using this formula:
 
