@@ -67,9 +67,9 @@ This method will work on HP network-capable printers and Wi-Fi Direct Printers. 
 
 ***NOTE:** Every printer's IP address is unique, depending on your network. The address shown in the photo below is for sample purposes only.*
 
-[![Printer Homepage](/blog/images/screenshot-2024-07-01-at-11.45.41 pm.png "Printer Homepage")](/blog/images/screenshot-2024-07-01-at-11.45.41 pm.png)
+[![Printer Homepage](/blog/images/screenshot-2024-07-13-at-12.34.54 am.png "Printer Homepage")](/blog/images/screenshot-2024-07-13-at-12.34.54 am.png)
 
-2. Enter your printer's IP address on your web browser address bar (web address bar is where a website's link is usually located). You should be able to see your printer homepage once it's loaded.
+**Step 2:** Update HP printer firmware over network by entering your printer’s IP address in your web browser's address bar (the address bar is where a website’s link is usually located, like the photo below). Once it's loaded, you should be able to see your printer’s homepage.
 
 [![printer's IP address](/blog/images/screenshot-2024-07-01-at-11.47.12 pm.png "printer's IP address")](/blog/images/screenshot-2024-07-01-at-11.47.12 pm.png)
 
