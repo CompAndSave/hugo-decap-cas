@@ -29,7 +29,13 @@ In this guide, we will show you how to disable your printer's HP auto update fir
 
   B. For Printers Without Touchscreen Control Panel
 
+## HP Printer Firmware Update: Why Do This Happen?
 
+HP printers sometimes need firmware updates to fix bugs, add new features, and improve performance. These updates are like software upgrades for your printer, helping it run smoothly and stay compatible with other devices and software.
+
+However, as you may already know, the HP automatic updates of printer firmware will cause cartridge chip lock-outs, making HP remanufactured ink cartridges unrecognizable. Once the firmware is updated, the HP printer will now only accept original or genuine ink cartridges.
+
+So, if you wish to continue using cheaper third-party [HP 65](https://www.compandsave.com/hp/65-ink-cartridges/n9k02an-n9k01an-2-combo)/[HP 63](https://www.compandsave.com/hp/63-ink-cartridges/f6u62an-f6u61an-2-combo) ink cartridges or [HP 65XL](https://www.compandsave.com/hp/65xl-ink-cartridges/n9k04an-black)/[HP 63XL](https://www.compandsave.com/hp/63xl-ink-cartridges/f6u64an-black) ink cartridges, we will show you the steps to disable HP firmware update and make your ink cartridges work again.
 
 ## For Printers with Touchscreen Control Panel
 
