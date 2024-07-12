@@ -49,9 +49,9 @@ You can choose from the two methods below on how to turn off firmware on HP prin
 
 **Step 1:** Select the **“Setup”** icon on your printer’s control panel. From the list of options, choose **“Tools.”**
 
-[![envy 5000 series](/blog/images/screenshot-2024-07-01-at-11.40.55 pm.png "envy 5000 series")](/blog/images/screenshot-2024-07-01-at-11.40.55 pm.png)
+[![envy 5000 series](/blog/images/screenshot-2024-07-13-at-12.31.00 am.png "envy 5000 series")](/blog/images/screenshot-2024-07-13-at-12.31.00 am.png)
 
-2. Next, select "**Update the Printer**" on Tools display, and then choose "**Printer Update Options**".
+**Step 2:** On the Tools display, select **“Update the Printer”** and then choose **“Printer Update Options.”**
 
 [![Printer's Control Panel](/blog/images/screenshot-2024-07-01-at-11.41.41 pm.png "Update the Printer")](/blog/images/screenshot-2024-07-01-at-11.41.41 pm.png)
 
