@@ -35,7 +35,7 @@ HP printers sometimes need firmware updates to fix bugs, add new features, and i
 
 However, as you may already know, the HP automatic updates of printer firmware will cause cartridge chip lock-outs, making HP remanufactured ink cartridges unrecognizable. Once the firmware is updated, the HP printer will now only accept original or genuine ink cartridges.
 
-So, if you wish to continue using cheaper third-party [HP 65](https://www.compandsave.com/hp/65-ink-cartridges/n9k02an-n9k01an-2-combo)/[HP 63](https://www.compandsave.com/hp/63-ink-cartridges/f6u62an-f6u61an-2-combo) ink cartridges or [HP 65XL](https://www.compandsave.com/hp/65xl-ink-cartridges/n9k04an-black)/[HP 63XL](https://www.compandsave.com/hp/63xl-ink-cartridges/f6u64an-black) ink cartridges, we will show you the steps to disable HP firmware update and make your ink cartridges work again.
+So, if you wish to continue using cheaper third-party [HP 65](https://www.compandsave.com/hp/65-ink-cartridges/n9k02an-n9k01an-2-combo)/[HP 63](https://www.compandsave.com/hp/63-ink-cartridges/f6u62an-f6u61an-2-combo) ink cartridges or [HP 65XL](https://www.compandsave.com/hp/65xl-ink-cartridges/n9k04an-n9k03an-2-combo)/[HP 63XL](https://www.compandsave.com/hp/63xl-ink-cartridges/f6u64an-f6u63an-2-combo) ink cartridges, we will show you the steps to disable HP firmware update and make your ink cartridges work again.
 
 ## HP Auto Update: Steps On How To Disable In HP 63/65
 
@@ -65,7 +65,7 @@ This method will work on HP network-capable printers and Wi-Fi Direct Printers. 
 
 **Step 1:** Select the **“Setup”** icon from your printer’s control panel while your printer is connected to the network. From the list of options, choose **“Network Setup.”** You should be able to see your printer’s IP address on the top of the display screen.
 
-***NOTE:** Every printer's IP address is unique, depending on your network. The address shown in the photo below is for sample purposes only.*
+**\*NOTE:** Every printer's IP address is unique, depending on your network. The address shown in the photo below is for sample purposes only.*
 
 [![Printer Homepage](/blog/images/screenshot-2024-07-13-at-12.34.54 am.png "Printer Homepage")](/blog/images/screenshot-2024-07-13-at-12.34.54 am.png)
 
