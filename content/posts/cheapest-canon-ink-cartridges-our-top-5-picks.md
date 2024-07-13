@@ -40,11 +40,11 @@ Understanding the different ink cartridge options is essential for finding the c
   These ink cartridges are the cheaper option upfront but may not be the best fit for heavy users. For example, a standard ink cartridge might be ideal if your household has a printer primarily used to print out school assignments.
 * **High-Yield Ink Cartridges**
 
-  Also known as XL or XXL cartridges (for extra higher yield ink cartridges), these high-yield cartridges contain more ink and are specifically designed for frequent and high-volume printing. Despite a slightly higher initial cost, they offer a better cost-per-page ratio, making them cost-effective in the long run—especially valuable for businesses with regular printing needs.
+  Also known as XL or XXL (for extra higher yield ink cartridges), these high-yield cartridges contain more ink and are specifically designed for frequent and high-volume printing. Despite a slightly higher initial cost, they offer a better cost-per-page ratio, making them cost-effective in the long run—especially valuable for businesses with regular printing needs.
 
 ### 2. Calculating Cost Per Page
 
-To determine if the ink cartridge is truly cheap based on your printing needs, you must learn how to calculate the ink cartridge’s cost per page. Knowing the cost per page helps you manage your printing expenses better. It shows you the real cost of each printed page, considering both the cartridge price and how many pages it can print. This knowledge helps you choose ink that fits your budget and printing habits.
+To determine if the ink cartridge is truly cheap based on your printing needs, you must learn [how to calculate the ink cartridge’s cost per page](https://www.compandsave.com/how-to-calculate-printing-cost-per-page). Knowing the cost per page helps you manage your printing expenses better. It shows you the real cost of each printed page, considering both the cartridge price and how many pages it can print. This knowledge helps you choose ink that fits your budget and printing habits.
 
 **Here's what you need to consider:**
 
