@@ -172,7 +172,7 @@ If you're concerned about the potential increase in your electricity bill, you c
 
 If you use cheaper third-party ink or intend to use non-OEM ink cartridges, disable printer firmware updates so you can continue using non-OEM cartridges without any issues. 
 
-For those HP printer users who use these ink cartridges, you can check these guides to disable your printer firmware: HP 962/910, HP 58A/X, and HP 63/65.
+For those HP printer users who use these ink cartridges, you can check these guides to disable your printer firmware: [HP 962/910](https://www.compandsave.com/how-to-disable-hp-printer-firmware-update-guide/), [HP 58A/X](https://www.compandsave.com/disable-hp-58a-58x-printer-firmware-update/), and [HP 63/65](https://www.compandsave.com/disable-auto-hp-printer-firmware-update/).
 
 ### 9. Consider Refilling Your Ink Cartridges
 
