@@ -247,7 +247,7 @@ A printer ink scam involves deceptive practices by printer manufacturers or sell
 
 ### 2. Can I use third-party ink cartridges without voiding my printer's warranty?
 
-Using third-party cartridges should not void your printer's warranty. It is strictly ILLEGAL for printer manufacturers to do so. Use of remanufactured or compatible cartridges does not void your warranty as stated in the MAGNUSON-MOSS WARRANTY IMPROVEMENT ACT, United States Code Annotated Title 15 Commerce Trade Chapter 50, Consumer Product Warranties 15 Sections 2302.
+Using third-party cartridges should not void your printer's warranty. It is strictly ILLEGAL for printer manufacturers to do so. **Use of remanufactured or compatible cartridges does not void your warranty** as stated in the MAGNUSON-MOSS WARRANTY IMPROVEMENT ACT, United States Code Annotated Title 15 Commerce Trade Chapter 50, Consumer Product Warranties 15 Sections 2302.
 
 ### 3. What should I do with empty ink cartridges?
 
@@ -255,12 +255,12 @@ You can refill them, which is cheaper than buying new ones. If you are not up fo
 
 ## Related Articles:
 
-Why Printer Ink is So Expensive?
+[Why Printer Ink is So Expensive?](https://www.compandsave.com/blog/posts/why-printer-ink-is-so-expensive-factors-and-alternatives.html)
 
-HP+ Program: How to Check If It’s Activated On Your Printer?
+[HP+ Program: How to Check If It’s Activated On Your Printer?](https://www.compandsave.com/blog/posts/hp-program-how-to-check-if-its-activated-on-your-printer.html)
 
-What is HP Instant Ink Program: Is It Worth It?
+[What is HP Instant Ink Program: Is It Worth It?](https://www.compandsave.com/blog/posts/what-is-hp-instant-ink-program-is-it-worth-it.html)
 
-Cheapest Place to Buy Printer Ink Online
+[Cheapest Place to Buy Printer Ink Online](https://www.compandsave.com/blog/posts/cheapest-place-to-buy-printer-ink-online-for-affordable-deals.html)
 
-Ink Cartridge Hack: A Strategy to Boost HP's Subscriptions?
+[Ink Cartridge Hack: A Strategy to Boost HP's Subscriptions?](https://www.compandsave.com/blog/posts/ink-cartridge-hack-a-strategy-to-boost-hps-subscriptions.html)
