@@ -148,17 +148,19 @@ Keeping your printers in a cool, shaded location is also essential. Exposure to 
 
 ### 4. Manually Clean the Printhead
 
-Cleaning the printhead manually when you experience [clogged printhead issues](https://www.compandsave.com/printhead-cleaning-guide) or [dried ink cartridges](https://www.compandsave.com/does-printer-ink-dry-out) helps you save a lot of ink. Follow the steps in our [printhead cleaning guide](https://www.compandsave.com/printhead-cleaning-guide#indexC) for more information.
+Cleaning the printhead manually when you experience clogged printhead issues or dried ink cartridges helps save a lot of ink. Follow the steps in our [printhead cleaning guide](https://www.compandsave.com/printhead-cleaning-guide#indexC) for more information on how to do it quickly.
 
 ### 5. Monitor Ink Usage
 
-Don't rely solely on the printer's indicator to determine when to replace cartridges. Physically check the cartridge itself to assess if it truly needs replacement.
+Don't rely solely on the printer's indicator to decide when to replace cartridges. Instead, physically check the cartridge to see if it really needs replacement. 
+
+Sometimes, the printer may give a false low ink alert even when there is still ink in the cartridges. In such cases, you can reset the ink cartridges to continue using them. If you have an Epson printer, you can refer to this guide on [how to reset Epson ink cartridge without resetter](https://www.compandsave.com/how-to-reset-epson-ink-cartridge-guide).
 
 ### 6. Subscription Considerations
 
-Before you commit to a subscription, take a moment to think about the downsides. These drawbacks aren't usually highlighted as much as the benefits. To get a better understanding, just check out what people are saying on the internet.
+Before you commit to a subscription, consider the downsides. These drawbacks are usually highlighted less than the benefits. To get a better understanding, just check out what people are saying on the internet. 
 
-To know more, check '[What is HP Instant Ink Program – Is It Worth It?](https://www.compandsave.com/what-is-hp-instant-ink-program)' and '[What is HP+ Program? Everything You Need To Know](https://www.compandsave.com/what-is-hp-plus-program-the-pros-and-cons)'.
+If you plan to consider an HP ink subscription, check this guide to learn more: '[What is HP+ Program? Everything You Need To Know](https://www.compandsave.com/what-is-hp-plus-program-the-pros-and-cons)'.
 
 ### 7. Power Management
 
