@@ -90,19 +90,21 @@ But if you have updated your printer firmware, you can still use your cheaper in
 * *In 2018, HP had to pay $1.5 million in a court settlement because their printer updates caused fake error messages when people used third-party ink cartridges.*
 * *In October 2019, Epson faced a class action lawsuit because their printer firmware updates blocked the use of compatible cartridges.*
 
-### **4. Intentional Product Aging**
+### 4. Intentional Product Aging
 
-Another concerning aspect of the printer ink scam is planned product aging. Below are some of them:
+Another reason why printer ink is a scam is planned product aging. Below are some of them:
 
-* **Printers Built to Fail**
+**A. Printers Built to Fail**
 
-  Imagine purchasing a printer with the expectation that it will serve you well for several years. However, it starts experiencing frequent breakdowns after some time and becomes incompatible with the latest devices. This forces you to replace the printer or invest in a new one, rendering the previously purchased ink cartridges worthless and resulting in additional expenses.
-* **Forced Printer Halt**
+Imagine buying a printer, thinking it will last for years. But it starts breaking down often after a while and stops working with the latest devices. This makes you buy a new printer or invest in repairs, making the ink cartridges you already bought useless and costing you more money.
 
-  Chips on the cartridges can force the printer to stop operating when any color runs out, even if other colors are available. Your printer will not work until you replace the empty cartridges.
-* **False Low Ink Warnings**
+**B. Forced Printer Halt**
 
-  Have you ever received an error message from your printer, claiming that you're low on ink, only to replace the cartridge and find that it still has plenty of ink left? This happens because some printers intentionally provide inaccurate low ink warnings, prompting premature cartridge replacements. To learn how to bypass this, check our [low ink level error](https://www.compandsave.com/troubleshoot-remanufactured-ink-cartridge-problems-guide#indexF) guide.
+Chips on the cartridges can force the printer to stop operating when any color runs out, even if other colors are available. Your printer will only work once you replace the empty cartridges.
+
+**C. False Low Ink Warnings**
+
+Have you ever received an error message from your printer claiming that you're low on ink, only to replace the cartridge and find that it still has plenty of ink left? This happens because some printers intentionally provide inaccurate low ink warnings, prompting premature cartridge replacements. But is there a solution to this issue? Absolutely! Learn how to bypass this by checking our [low ink level error](https://www.compandsave.com/troubleshoot-remanufactured-ink-cartridge-problems-guide#indexF) guide.
 
 ***Interesting Fact:***
 
@@ -110,19 +112,25 @@ Another concerning aspect of the printer ink scam is planned product aging. Belo
 * *Back in 2006, Epson found itself in a similar situation with a class action lawsuit. This time, it was about their inkjet printers and cartridges causing printer functions to halt due to incorrect "empty cartridge" notifications. Epson resolved the case by providing $45 e-coupons to people who had purchased their inkjet printers and cartridges between 1999 and 2006.*
 * *In 2017, several major companies, including Brother, Canon, Epson, and HP, faced allegations of Planned Obsolescence in France. This practice intentionally shortens the lifespan of both printers and ink cartridges, essentially pushing consumers to spend more on their products. While these companies received a relatively modest fine of €15,000, but it was considered a small victory in a long journey.*
 
-### **5. Ink Subscription Services: Value or Waste?**
+### 5. Ink Subscription Services: Value or Waste?
 
-In the world of printers, a recent development is the rise of subscription-based ink services like the [HP Instant Ink](https://www.compandsave.com/what-is-hp-instant-ink-program).
+Is HP instant ink a scam? A recent development in the world of printers is the rise of subscription-based ink services like [HP Instant Ink](https://www.compandsave.com/what-is-hp-instant-ink-program). HP claims [ink cartridges can be hacked](https://www.compandsave.com/blog/posts/ink-cartridge-hack-a-strategy-to-boost-hps-subscriptions.html), so using ink subscriptions is safer.
 
-Here's how HP Instant Ink subscription works: you pay a monthly fee for a set number of pages. While it can be convenient for heavy printers, it might seem like you're spending on ink you don't need if you print infrequently. It's a fine line between assistance and quietly emptying your wallet.
+**Here's how HP Instant Ink subscription works:** you pay a monthly fee for a set number of pages. While it can be convenient for heavy printers, it might seem like you spend on ink you don't need if you print infrequently. It's a fine line between assistance and quietly emptying your wallet.
 
-For instance, imagine subscribing to a $20-per-month service that covers 200 pages. If you regularly print close to or exceed this limit, it's a good deal. However, if you only print 50 pages monthly, you might be paying for unused ink, making it less cost-effective.
+For instance, imagine subscribing to a $20-per-month service that covers 200 pages. If you regularly print close to or exceed this limit, it's a good deal. However, if you only print 50 pages monthly, you might pay for unused ink, making it less cost-effective.
 
-What's surprising is that if you cancel your subscription, HP disables the cartridges, even if they're full. Some users liken this to needing HP's permission to use their own printer.
+What's surprising is that if you cancel your subscription, HP disables the cartridges, even if they're full. Some users liken this to needing HP's permission to use their own printer. So, isn’t this another printer scam?
 
 ### 6. Ink-Based Scanning
 
-The scanning feature on some printers may refuse to operate if ink levels are low or empty. Imagine needing to make copies of important documents, and your printer decides to take a break because it claims it's out of ink—even though you only want to scan. Louis Rossmann's video, '[HP sued over scanner that requires ink](https://www.youtube.com/watch?v=J_XiaMzzZUo)', talks about this.
+Some printers won't let you use their scanning features if the ink levels are low or empty. Louis Rossmann talks about this problem in his YouTube video, "[HP sued over scanner that requires ink](https://www.youtube.com/watch?v=J_XiaMzzZUo)." Imagine needing to scan important documents, but your printer refuses because it says it's out of ink, even though scanning doesn't require ink. This frustrating situation is a sad reality for many printer users, and it might even happen to you.
+
+## Printer Cartridge Scam: Tips To Protect Yourself 
+
+Now that we know about these printer ink scams, how can we protect ourselves from falling victim to them? While avoiding these sneaky tactics entirely is hard, you can still make your printer more efficient and save on ink costs. Here are some practical tips to reduce ink consumption and improve printing experience. 
+
+
 
 ## Tips on How to Protect Yourself from Printer Ink Scams
 
