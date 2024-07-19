@@ -222,27 +222,27 @@ If you're planning on printing your business cards at home, it's essential to do
 
 ***TIP:** Test the printer before printing your cards to ensure it is exactly the one you need for your DIY business card making. With a little effort, printing business cards at home can be a breeze!*
 
-
-
-
-
-### 1. [Canon Pixma iX6820](https://www.compandsave.com/canon/pixma/ix6820-ink-cartridges)
+**[1. Canon Pixma iX6820](https://www.compandsave.com/canon/pixma/ix6820-ink-cartridges)**[](https://www.compandsave.com/canon/pixma/ix6820-ink-cartridges)
 
 [![Canon Pixma iX6820](/blog/images/screenshot-2024-07-02-at-12.38.02 am.png "Canon Pixma iX6820")](/blog/images/screenshot-2024-07-02-at-12.38.02 am.png)
 
-The Canon PIXMA iX6820 is an excellent home photo printer. This printer is suitable for both families and students. It comes with a large input tray for a wide range of paper sizes. You can achieve low-cost printing but with great photo quality as well. The perfect printer if you aim to use graphics when printing business cards at home.
+The Canon PIXMA iX6820 is an excellent home photo printer that can also print business cards. It is suitable for both families and students. It comes with a large input tray for various paper sizes. You can achieve low-cost printing but with excellent photo quality as well. This is the perfect printer if you aim to use graphics when printing business cards at home.
 
 [![Canon Pixma iX6820 table](/blog/images/screenshot-2024-07-02-at-12.45.00 am.png "Canon Pixma iX6820 table")](/blog/images/screenshot-2024-07-02-at-12.45.00 am.png)
 
-### 2. [HP OfficeJet 3830](https://www.compandsave.com/hp/officejet/3830-all-in-one-ink-cartridges)
+
+
+**[2. HP OfficeJet 3830](https://www.compandsave.com/hp/officejet/3830-all-in-one-ink-cartridges)**
 
 [![HP OfficeJet 3830](/blog/images/screenshot-2024-07-02-at-12.41.53 am.png "HP OfficeJet 3830")](/blog/images/screenshot-2024-07-02-at-12.41.53 am.png)
 
-The HP OfficeJet 3830 has superb printing quality both for photos and documents. It accepts a wide variety of paper sizes. If you're looking for a small printer that's easy to navigate so you can print your own business cards at home, this should be your top choice. However, the printing cost is a little higher compared to other printers that are best for business cards.
+The HP OfficeJet 3830 has superb printing quality for photos and documents and accepts a wide variety of paper sizes. If you're looking for a small printer that's easy to navigate so you can print your business cards at home, this should be your top choice. However, the printing cost is a little higher compared to other printers that are best for business cards.
 
 [![HP OfficeJet 3830 table](/blog/images/screenshot-2024-07-02-at-12.44.07 am.png "HP OfficeJet 3830 table")](/blog/images/screenshot-2024-07-02-at-12.44.07 am.png)
 
-### 3. [Epson EcoTank ET-4760](https://www.compandsave.com/epson/ecotank/et-4760-all-in-one-ink-bottles)
+
+
+**[3. Epson EcoTank ET-4760](https://www.compandsave.com/epson/ecotank/et-4760-all-in-one-ink-bottles)**[](https://www.compandsave.com/epson/ecotank/et-4760-all-in-one-ink-bottles)[](https://www.compandsave.com/epson/ecotank/et-4760-all-in-one-ink-bottles)
 
 [![Epson EcoTank ET-4760](/blog/images/screenshot-2024-07-02-at-12.46.34 am.png "Epson EcoTank ET-4760")](/blog/images/screenshot-2024-07-02-at-12.46.34 am.png)
 
