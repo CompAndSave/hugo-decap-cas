@@ -22,19 +22,20 @@ tags:
 
 In today's busy world, printers have always been our companion, either for personal or professional use. But do you know that printer companies use some hidden practices you might not know of? For instance, have you seen your prints having colors when printing black text only? Or does your printer give you low ink warnings when the cartridges are not truly empty? These examples make many people question whether ink cartridges are a scam.
 
-So today, let’s tackle all about printer ink scams to help you avoid falling for them in the future. We'll also provide helpful tips on how to protect yourself and save on printer ink costs. Now, let’s begin!
+So today, let’s tackle all about printer ink scams to help you avoid falling for them in the future. We'll also provide helpful tips on how to protect yourself and [save on printer ink costs](https://www.compandsave.com/blog/posts/how-to-save-on-printer-ink-save-more-with-compandsave.html). Now, let’s begin!
 
 **In this article, we will discuss:**
 
-* Printer Ink Scams: The Dark Side of Printing
+1. Printer Ink Scams: The Dark Side of Printing
 
-  * Low-cost Printers, High-cost ink
-  * Printer Ink Consumption: What You Didn't Know
-  * Tactics to Limit Ink Choices
-  * Intentional Product Aging
-  * Ink Subscription Services: Value or Waste?
-  * Ink-Based Scanning
-* Printer Cartridge Scam: Tips To Protect Yourself
+* Low-cost Printers, High-cost ink
+* Printer Ink Consumption: What You Didn't Know
+* Tactics to Limit Ink Choices
+* Intentional Product Aging
+* Ink Subscription Services: Value or Waste?
+* Ink-Based Scanning
+
+2. Printer Cartridge Scam: Tips To Protect Yourself
 
 ## How Printer Ink is a Scam: The Dark Side of Printing
 
