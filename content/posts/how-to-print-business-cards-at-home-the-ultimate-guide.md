@@ -79,9 +79,7 @@ There are two main types of paper used to print business cards at home. You can 
 
 Are you going to print on one side or both sides? Regular cardstock is fine for printing on one side. However, for double-sided printing, you need special cardstock that isn't see-through and prevents ink from bleeding through.
 
-***TIP:** If you want to go the extra mile on the fanciness meter, try exploring linen or textured cardstock. Also, explore different kinds of paper for your printing projects.*
-
-
+***TIP:** If you want to go the extra mile on the fanciness meter, try exploring linen or [textured cardstock](https://www.compandsave.com/paper/photo-paper/textured). Also, explore [different kinds of paper](https://www.compandsave.com/photography-paper-for-inkjet-printer-guide) for your printing projects.*
 
 ### STEP 2: Deciding on Business Card Information Layout
 
