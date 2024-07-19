@@ -55,7 +55,7 @@ In Austin McConnell's YouTube video '[Ink Cartridges Are A Scam](https://www.you
 
 Did you know that you might be getting less than you bargained for when it comes to ink? Printers have a surprising ink consumption pattern. Yes, they use ink for printing documents and images – that's the obvious part. But there are some aspects that many people aren't even aware of.
 
-**Printer Maintenance Cycle**
+**A. Printer Maintenance Cycle**
 
 We all know that keeping our printers in good shape is essential, but most people miss how much ink these necessary tasks can use. According to Rich Sulin, who leads CR's printer-testing program, most people aren't really aware of the maintenance needs of inkjets. What might surprise you is that it's pretty typical for an inkjet printer to use as much ink during maintenance as it does for actual printing, as revealed in the Consumer Reports investigation.
 
@@ -63,7 +63,7 @@ In addition, some printers initiate printhead cleaning when you power them off a
 
 These maintenance actions contribute to higher ink consumption, even if you don't use your printer often.
 
-**Color Mixing in Black and White Prints**
+**B. Color Mixing in Black and White Prints**
 
 [![Color Mixing in Black and White Prints](/blog/images/screenshot-2024-07-19-at-10.51.29 pm.png "Color Mixing in Black and White Prints")](/blog/images/screenshot-2024-07-19-at-10.51.29 pm.png)
 
@@ -76,28 +76,6 @@ As we can see in the picture above, the print was meant to be black and white, b
 Manufacturers claim this technique enhances the quality of black prints, but YouTuber Fstoppers conducted a test and debunked this claim in their YouTube video 'Printer Ink Scam Myths Tested.'
 
 The result? Your cyan ink runs out faster, and you get fewer pages from your cartridges.
-
-### 2. Printer Ink Consumption: What You Didn't Know
-
-Did you know that you might be getting less than you bargained for when it comes to ink? Printers have a rather surprising ink consumption pattern. Yes, they use ink for printing documents and images – that's the obvious part. But there are some aspects that many people aren't even aware of.
-
-**• Printer Maintenance Cycle**
-
-We all know that keeping our printers in good shape is important, but what most people miss is how much ink these necessary tasks can actually use.
-
-According to Rich Sulin, who leads CR's printer-testing program, most people aren't really aware of the maintenance needs of inkjets. What might surprise you is that it's pretty typical for an inkjet printer to use as much ink during maintenance as it does for actual printing, as revealed in [Consumer Reports investigation](https://www.consumerreports.org/printers/the-high-cost-of-wasted-printer-ink).
-
-On top of it, some printers initiate printhead cleaning when you power them off and on, and in some instances, they run a cleaning cycle for every single page you print. This has been tested and confirmed in Fstoppers' YouTube video, '[Printer Ink Scam Myths Tested](https://www.youtube.com/watch?v=y1B71C6BV7k&t=17s)'.
-
-These maintenance actions contribute to higher ink consumption, even if you don't use your printer very often.
-
-**• Color Mixing in Black and White Prints**
-
-One reason you may receive fewer pages than the advertised yield is the deliberate use of "cyan color mixing" by printers, even when printing in black and white.
-
-Manufacturers claim this technique enhances the quality of black prints, but YouTuber Fstoppers conducted a test and debunked this claim in their YouTube video '[Printer Ink Scam Myths Tested](https://www.youtube.com/watch?v=y1B71C6BV7k&t=116s)'.
-
-The result? You might get fewer printed pages than advertised and have to replace your cartridges sooner than planned.
 
 ### **3. Tactics to Limit Ink Choices**
 
