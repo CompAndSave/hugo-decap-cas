@@ -208,21 +208,19 @@ If you're planning on printing your business cards at home, it's essential to do
 
 **1. Compatibility:** Ensure your printer can handle heavier paper weights typically used for business cards (200-340 GSM), as standard printers are designed for lighter 80 GSM paper.
 
-2. Print Quality: To achieve high-quality prints, your printer should have a minimum resolution of 300 dpi (dots per inch).
+**2. Print Quality:** To achieve high-quality prints, your printer should have a minimum resolution of 300 dpi (dots per inch).
 
-3. Print Speed: Printers vary in speed, especially with higher DPI settings (300-600). Faster printers reduce the time spent waiting for prints.
+**3. Print Speed:** Printers vary in speed, especially with higher DPI settings (300-600). Faster printers reduce the time spent waiting for prints.
 
-4. Paper Type: Most business card paper has a synthetic coating that helps reduce glare and keeps the colors on the card accurate. Some printers are not compatible with this type of paper, so be sure to choose one that is before buying.
+**4. Paper Type:** Most business card paper has a synthetic coating that helps reduce glare and keeps the colors on the card accurate. Some printers are not compatible with this type of paper, so be sure to choose one that is before buying.
 
-5. Size: Since you'll be printing business cards at home, you need a smaller printer than the giants in the commercial printing business.
+**5. Size:** Since you'll be printing business cards at home, you need a smaller printer than the giants in the commercial printing business.
 
-6. Laser or Inkjet: Both inkjet and laser printers can print business cards, but inkjets are preferable for color printing and versatility with paper types. Laser printers may curl cards due to heat, requiring flattening with heavy objects.
+**6. Laser or Inkjet:** Both inkjet and laser printers can print business cards, but inkjets are preferable for color printing and versatility with paper types. Laser printers may curl cards due to heat, requiring flattening with heavy objects.
 
-7. Connectivity: For convenience, consider printers with wireless or mobile printing capabilities, which allow you to print remotely and directly from mobile devices.
+**7. Connectivity:** For convenience, consider printers with wireless or mobile printing capabilities, which allow you to print remotely and directly from mobile devices.
 
-
-
-TIP: Test the printer before printing your cards to ensure it is exactly the one you need for your DIY business card making. With a little effort, printing business cards at home can be a breeze!
+***TIP:** Test the printer before printing your cards to ensure it is exactly the one you need for your DIY business card making. With a little effort, printing business cards at home can be a breeze!*
 
 
 
