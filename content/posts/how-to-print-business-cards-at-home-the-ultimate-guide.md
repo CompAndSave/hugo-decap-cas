@@ -135,47 +135,42 @@ Decide on a layout for your cards. You can go with a classic design or something
 
 ***TIP:** Take inspiration from various business cards in your industry. Keep your card sleek and modern while still reflecting your brand. Lastly, ensure all the text on your cards is legible and easy enough for people to read at a distance.*
 
-### STEP 4: Choosing the Designing App
+### STEP 4: Choose The Designing App
 
-[![Choosing the Designing App](/blog/images/screenshot-2024-07-02-at-12.26.52 am.png "Choosing the Designing App")](/blog/images/screenshot-2024-07-02-at-12.26.52 am.png)
+Now, there are tools that you can use to design your business cards creatively. You can start from scratch or get free templates. If you have the skills to create your graphics, feel free to use software that will allow you to do so.
 
-Now, there are tools that you can use to creatively design your business cards. You can start from scratch or get free templates. If you have the skills to create your own graphics, feel free to use software that will allow you to do so.
-
-**DIY Business Cards From Scratch**
+**A. DIY Business Cards From Scratch**
 
 Here are some tools you can use to make business cards from scratch:
 
-**1. Microsoft Word**
+* **Microsoft Word**
 
-How to print business cards in Word? It's super easy just by utilizing the different fonts or inserting images and shapes. It's best for non-tech-savvy people as it has limited but simple controls.
+  How do you print business cards in Word? It's super easy. You can utilize the different fonts or insert images and shapes. Word is best for non-tech-savvy people as it has limited but simple controls.
+* **Adobe Illustrator**
 
-**2. Adobe Illustrator**
+  This is perfect for people with little knowledge of graphic design and those who can make cards with software. You have the freedom to design your card however you want.
 
-Perfect for people with a little knowledge of graphic design and those who can make cards with software. You have the freedom to design your card however you want.
+***TIP:** You can also view YouTube tutorials for business card making for the specific designing software you're using.*
 
-**\*TIP:** You can also view YouTube tutorials for business card making for the specific designing software you're using.*
+**B. Free Business Card Maker**
 
-**Free Business Card Maker**
+Learning how to print business cards at home can be a cost-effective way to get the cards you need without breaking the bank. On the other hand, if you want to save time, there are free templates that you can use. There are a ton of places on the internet where you can find free business card templates to print, such as:
 
-Learning how to print business cards at home can be a cost-effective way to get the cards you need without breaking the bank. On the other hand, if you want to save time, there are free templates that you can use. Where to get free business cards templates to print at home? There are a ton of places on the internet where you can find free business card templates to print, such as:
+* **Canva**
 
-**1. Canva**
+  Simply choose or type business cards in the search bar. Canva offers various design options and allows you to create creative and professional cards. With many templates and designs, it's easy to find one that suits your needs perfectly.
+* **Freepik**
 
-How to print business cards from Canva at home? Simply choose or type business cards in the search bar. Canva offers various design options and allows you to create creative and professional cards. With many templates and designs to choose from, it's easy to find one that suits your needs perfectly.
+  Another free template you can try is Freepik. It has millions of stock images you can use without spending a cent. As you start to create your business cards, get inspired by various designs.
+* **Adobe Express**
 
-**2. Freepik**
+  This is a free online version of Adobe Photoshop—best for those who don't have the software installed. It has thousands of templates from which you can choose. It's the best choice if you're not yet confident with your Photoshop skills.
 
-Another free template you can try is Freepik. It has millions of stock images that you can use without spending a cent. Get inspired by various designs as you start to create your own business cards.
+***TIP:** Before downloading free business card templates, check the quality and printing specifications to ensure the custom business cards will print correctly and look how you want them to. Also, ensure they're royalty-free and can be used for commercial purposes, as you don't want a lawsuit filed for copyright later.*
 
-**3. Adobe Express**
+**C. Have a Graphic Designer Do It**
 
-This is a free online version of Adobe Photoshop—best for those who don't have the software installed. It has thousands of templates you can choose from. It's the best choice if you're not yet confident with your Photoshop skills.
-
-**\*TIP:** Before downloading free business card templates, check the quality and printing specifications to ensure the custom business cards will print correctly and look how you want them to. Also, make sure they're royalty-free and can be used for commercial purposes, as you don't want a lawsuit filed for copyright later.*
-
-**Have a Graphic Designer Do It**
-
-Alternatively, you can outsource the designing bit to someone professional, like a graphic designer with skills in business card design. A skilled person can make custom business cards that look polished and professional and don't cost an arm and a leg. Plus, they'll likely have access to more premium templates and designs than you will at home. Try searching for graphic designers on Fiverr, Design Crowd, People Per Hour, or Upwork. You can discuss what you want with the artist, and they can send you the design so you can make your own business cards at home.
+Alternatively, you can hire a professional graphic designer to create your business cards. A skilled designer can make custom cards that look polished and professional without costing too much. They also have access to premium templates and designs. You can find graphic designers on websites like Fiverr, Design Crowd, People Per Hour, or Upwork. Discuss your ideas with the designer, and they can send you the design so you can print your business cards at home.
 
 ### STEP 5: Printing Business Cards at Home
 
