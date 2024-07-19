@@ -37,17 +37,23 @@ So today, let’s tackle all about printer ink scams to help you avoid falling f
 
 2. Printer Cartridge Scam: Tips To Protect Yourself
 
-## How Printer Ink is a Scam: The Dark Side of Printing
+## Printer Ink Scams: The Dark Side of Printing
 
-### 1. Low-cost Printers High-cost ink
+A printer ink scam occurs when printer manufacturers or sellers use dishonest tactics to make you spend more money on ink. These tactics include selling low-price printers but high-cost ink, limiting the use of cheaper compatible or remanufactured cartridges, and even ink subscription programs. These scams take advantage of consumers, leading to unnecessary expenses and frustration. So, let’s discuss each of these printer ink cartridge scams so we can know how to avoid them.
 
-Printer manufacturers often attract customers with low printer prices. But here's the twist: the real cost lies in those ink cartridges. This 'razor and blades' business strategy involves selling printers at a low upfront cost while generating profits from selling expensive ink cartridges.
+### 1. Low-cost Printers, High-cost ink
+
+Printer manufacturers often attract customers with low printer prices. But here's the twist: t**he real cost lies in those ink cartridges.** This 'razor and blades' business strategy involves selling printers at a low upfront cost while generating profits from selling expensive ink cartridges.
 
 ***So, how expensive are printer ink cartridges?***
 
-These [ink cartridges can be shockingly expensive](https://www.compandsave.com/why-printer-ink-is-so-expensive-guide), sometimes costing more than luxury items like Russian caviar when you think about their weight. In fact, they can even surpass the price per gallon of a bottle of 1985 Krug vintage champagne.
+These ink cartridges can be shockingly expensive, sometimes costing more than luxury items like Russian caviar when you think about their weight. In fact, they can even surpass the price per gallon of a bottle of 1985 Krug vintage champagne.
 
-In Austin McConnell's YouTube video '[Ink Cartridges Are A Scam](https://www.youtube.com/watch?v=AHX6tHdQGiQ)', he shared his experiences from his previous job in technical support. He pointed out that a set of ink cartridges used to be priced at $59.95, while it only cost about $0.23 to produce one ounce of ink. This shows that printer ink cartridges have been sold to consumers at a much higher price than they're actually worth.
+
+
+In Austin McConnell's YouTube video 'Ink Cartridges Are A Scam', he shared his experiences from his previous job in technical support. He pointed out that a set of ink cartridges used to be priced at $59.95, while it only cost about $0.23 to produce one ounce of ink. This shows that printer ink cartridges have been sold to consumers at a much higher price than they're actually worth.
+
+
 
 ### 2. Printer Ink Consumption: What You Didn't Know
 
