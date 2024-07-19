@@ -47,13 +47,35 @@ Printer manufacturers often attract customers with low printer prices. But here'
 
 ***So, how expensive are printer ink cartridges?***
 
-These ink cartridges can be shockingly expensive, sometimes costing more than luxury items like Russian caviar when you think about their weight. In fact, they can even surpass the price per gallon of a bottle of 1985 Krug vintage champagne.
+These [ink cartridges can be shockingly expensive](https://www.compandsave.com/why-printer-ink-is-so-expensive-guide), sometimes costing more than luxury items like Russian caviar when you think about their weight. In fact, they can even surpass the price per gallon of a bottle of 1985 Krug vintage champagne.
 
+In Austin McConnell's YouTube video '[Ink Cartridges Are A Scam](https://www.youtube.com/watch?v=AHX6tHdQGiQ),' he shared his experiences from his previous job in technical support. He pointed out that a set of ink cartridges used to be priced at $59.95, while it only cost about $0.23 to produce one ounce of ink. This shows that printer ink cartridges have been sold to consumers at a much higher price than they're actually worth.
 
+### 2. Printer Ink Consumption: What You Didn't Know
 
-In Austin McConnell's YouTube video 'Ink Cartridges Are A Scam', he shared his experiences from his previous job in technical support. He pointed out that a set of ink cartridges used to be priced at $59.95, while it only cost about $0.23 to produce one ounce of ink. This shows that printer ink cartridges have been sold to consumers at a much higher price than they're actually worth.
+Did you know that you might be getting less than you bargained for when it comes to ink? Printers have a surprising ink consumption pattern. Yes, they use ink for printing documents and images – that's the obvious part. But there are some aspects that many people aren't even aware of.
 
+**Printer Maintenance Cycle**
 
+We all know that keeping our printers in good shape is essential, but most people miss how much ink these necessary tasks can use. According to Rich Sulin, who leads CR's printer-testing program, most people aren't really aware of the maintenance needs of inkjets. What might surprise you is that it's pretty typical for an inkjet printer to use as much ink during maintenance as it does for actual printing, as revealed in the Consumer Reports investigation.
+
+In addition, some printers initiate printhead cleaning when you power them off and on, and in some instances, they run a cleaning cycle for every single page you print. This has been tested and confirmed in Fstoppers' YouTube video, 'Printer Ink Scam Myths Tested.'
+
+These maintenance actions contribute to higher ink consumption, even if you don't use your printer often.
+
+**Color Mixing in Black and White Prints**
+
+[![Color Mixing in Black and White Prints](/blog/images/screenshot-2024-07-19-at-10.51.29 pm.png "Color Mixing in Black and White Prints")](/blog/images/screenshot-2024-07-19-at-10.51.29 pm.png)
+
+*(**Image Source:** YouTube Video “[Printer Ink Scam Myths Tested](https://www.youtube.com/watch?v=y1B71C6BV7k&t=116s)”)*
+
+One reason you may receive fewer pages than the advertised yield is the deliberate use of "cyan color mixing" by printers, even when printing in black and white. This technique involves adding a small amount of cyan ink to enhance the print quality, resulting in deeper and more defined black text. However, this also means that your cyan ink is being used up even when you think you only print with black ink.
+
+As we can see in the picture above, the print was meant to be black and white, but you can see a blueish color that looks like a shadow behind the letters. This happens because the printer uses some cyan ink along with the black ink. 
+
+Manufacturers claim this technique enhances the quality of black prints, but YouTuber Fstoppers conducted a test and debunked this claim in their YouTube video 'Printer Ink Scam Myths Tested.'
+
+The result? Your cyan ink runs out faster, and you get fewer pages from your cartridges.
 
 ### 2. Printer Ink Consumption: What You Didn't Know
 
