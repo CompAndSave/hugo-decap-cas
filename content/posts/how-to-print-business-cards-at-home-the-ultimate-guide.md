@@ -234,11 +234,13 @@ The Canon PIXMA iX6820 is an excellent home photo printer that can also print bu
 
 **[2. HP OfficeJet 3830](https://www.compandsave.com/hp/officejet/3830-all-in-one-ink-cartridges)**
 
-[![HP OfficeJet 3830](/blog/images/screenshot-2024-07-02-at-12.41.53 am.png "HP OfficeJet 3830")](/blog/images/screenshot-2024-07-02-at-12.41.53 am.png)
+[![HP OfficeJet 3830](/blog/images/screenshot-2024-07-19-at-11.58.32 pm.png "HP OfficeJet 3830")](/blog/images/screenshot-2024-07-19-at-11.58.32 pm.png)
 
 The HP OfficeJet 3830 has superb printing quality for photos and documents and accepts a wide variety of paper sizes. If you're looking for a small printer that's easy to navigate so you can print your business cards at home, this should be your top choice. However, the printing cost is a little higher compared to other printers that are best for business cards.
 
-[![HP OfficeJet 3830 table](/blog/images/screenshot-2024-07-02-at-12.44.07 am.png "HP OfficeJet 3830 table")](/blog/images/screenshot-2024-07-02-at-12.44.07 am.png)
+[![HP OfficeJet 3830 table](/blog/images/screenshot-2024-07-20-at-12.01.43 am.png "HP OfficeJet 3830 table")](/blog/images/screenshot-2024-07-20-at-12.01.43 am.png)
+
+
 
 **[3. Epson EcoTank ET-4760](https://www.compandsave.com/epson/ecotank/et-4760-all-in-one-ink-bottles)**[](https://www.compandsave.com/epson/ecotank/et-4760-all-in-one-ink-bottles)[](https://www.compandsave.com/epson/ecotank/et-4760-all-in-one-ink-bottles)
 
