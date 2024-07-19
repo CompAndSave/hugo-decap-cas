@@ -51,7 +51,7 @@ With the right tools and instructions, you'll print your first card in no time. 
 
 ### STEP 1: Select The Right Paper For Business Cards
 
-[![Paper for Business Cards](/blog/images/screenshot-2024-07-02-at-12.19.20 am.png "Paper for Business Cards")](/blog/images/screenshot-2024-07-02-at-12.19.20 am.png)
+[![Paper for Business Cards](/blog/images/screenshot-2024-07-19-at-11.54.53 pm.png "Paper for Business Cards")](/blog/images/screenshot-2024-07-19-at-11.54.53 pm.png)
 
 Choosing the right paper for business card printing is essential for a professional look. Before making your choice, you need to consider some crucial things, such as the type of paper and card size. Let's discuss them below.
 
@@ -224,11 +224,13 @@ If you're planning on printing your business cards at home, it's essential to do
 
 **[1. Canon Pixma iX6820](https://www.compandsave.com/canon/pixma/ix6820-ink-cartridges)**[](https://www.compandsave.com/canon/pixma/ix6820-ink-cartridges)
 
-[![Canon Pixma iX6820](/blog/images/screenshot-2024-07-02-at-12.38.02 am.png "Canon Pixma iX6820")](/blog/images/screenshot-2024-07-02-at-12.38.02 am.png)
+[![Canon Pixma iX6820](/blog/images/screenshot-2024-07-19-at-11.55.38 pm.png "Canon Pixma iX6820")](/blog/images/screenshot-2024-07-19-at-11.55.38 pm.png)
 
 The Canon PIXMA iX6820 is an excellent home photo printer that can also print business cards. It is suitable for both families and students. It comes with a large input tray for various paper sizes. You can achieve low-cost printing but with excellent photo quality as well. This is the perfect printer if you aim to use graphics when printing business cards at home.
 
-[![Canon Pixma iX6820 table](/blog/images/screenshot-2024-07-02-at-12.45.00 am.png "Canon Pixma iX6820 table")](/blog/images/screenshot-2024-07-02-at-12.45.00 am.png)
+[![Canon Pixma iX6820 table](/blog/images/screenshot-2024-07-19-at-11.57.23 pm.png "Canon Pixma iX6820 table")](/blog/images/screenshot-2024-07-19-at-11.57.23 pm.png)
+
+
 
 **[2. HP OfficeJet 3830](https://www.compandsave.com/hp/officejet/3830-all-in-one-ink-cartridges)**
 
