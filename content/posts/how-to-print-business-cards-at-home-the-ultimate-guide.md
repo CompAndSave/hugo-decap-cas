@@ -244,11 +244,11 @@ The HP OfficeJet 3830 has superb printing quality for photos and documents and a
 
 **[3. Epson EcoTank ET-4760](https://www.compandsave.com/epson/ecotank/et-4760-all-in-one-ink-bottles)**[](https://www.compandsave.com/epson/ecotank/et-4760-all-in-one-ink-bottles)[](https://www.compandsave.com/epson/ecotank/et-4760-all-in-one-ink-bottles)
 
-[![Epson EcoTank ET-4760](/blog/images/screenshot-2024-07-02-at-12.46.34 am.png "Epson EcoTank ET-4760")](/blog/images/screenshot-2024-07-02-at-12.46.34 am.png)
+[![Epson EcoTank ET-4760](/blog/images/screenshot-2024-07-20-at-12.02.35 am.png "Epson EcoTank ET-4760")](/blog/images/screenshot-2024-07-20-at-12.02.35 am.png)
 
 If you're looking for the most budget-friendly printer to make cheap business cards, the Epson EcoTank ET-4760 takes the cake. Its incredible cost per page will help you save on printing costs. This printer is the right choice if your goal is to print thousands of business cards with basic colors and a minimal design.
 
-[![Epson EcoTank ET-4760 table](/blog/images/screenshot-2024-07-02-at-12.55.57 am.png "Epson EcoTank ET-4760 table")](/blog/images/screenshot-2024-07-02-at-12.55.57 am.png)
+[![Epson EcoTank ET-4760 table](/blog/images/screenshot-2024-07-20-at-12.03.52 am.png "Epson EcoTank ET-4760 table")](/blog/images/screenshot-2024-07-20-at-12.03.52 am.png)
 
 [](https://www.compandsave.com/brother/mfc/mfc-j895dw-ink-cartridges)
 
