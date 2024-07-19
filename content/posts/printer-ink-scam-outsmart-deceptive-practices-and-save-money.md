@@ -176,9 +176,11 @@ For those HP printer users who use these ink cartridges, you can check these gui
 
 ### 9. Consider Refilling Your Ink Cartridges
 
-Take advantage of ink cartridge refilling services offered by businesses like Costco or Walgreens.
+Take advantage of ink cartridge refilling services offered by businesses like Costco or Walgreens. Alternatively, you can opt for a DIY approach by refilling them yourself. 
 
-Alternatively, you can opt for a DIY approach by refilling them yourself. Just ensure you are refilling an original empty cartridge, using a [refill kit from a trustworthy supplier](https://www.compandsave.com/ink-refill-bulk-ink), and that you have a clear manual on [how to refill ink cartridges](https://www.compandsave.com/how-to-refill-ink-cartridges-guide). This eco-friendly practice not only helps reduce waste but can also lead to significant savings compared to purchasing brand-new cartridges.
+Just ensure you are refilling an original empty cartridge, using a [universal refill kit](https://www.compandsave.com/ink-refill-bulk-ink) from a trustworthy supplier, and have a guide on [how to refill ink cartridges](https://www.compandsave.com/how-to-refill-ink-cartridges-guide). This eco-friendly practice helps reduce waste and can lead to significant savings compared to purchasing brand-new cartridges.
+
+
 
 ### 10. Check for Third-Party Alternatives
 
