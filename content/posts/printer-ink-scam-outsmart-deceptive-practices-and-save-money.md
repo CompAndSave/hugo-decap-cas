@@ -251,7 +251,7 @@ Using third-party cartridges should not void your printer's warranty. It is stri
 
 ### 3. What should I do with empty ink cartridges?
 
-You can refill them, which is cheaper than buying new ones. If you are not up for it, consider recycling your ink cartridges. Many office supply stores and manufacturers offer recycling programs to reduce environmental impact. You can also check this guide on where to recycle ink cartridges based on brands. 
+You can refill them, which is cheaper than buying new ones. If you are not up for it, consider recycling your ink cartridges. Many office supply stores and manufacturers offer recycling programs to reduce environmental impact. You can also check this guide on [where to recycle ink cartridges based on brands](https://www.compandsave.com/blog/posts/where-is-the-best-place-to-recycle-ink-cartridges.html). 
 
 ## Related Articles:
 
