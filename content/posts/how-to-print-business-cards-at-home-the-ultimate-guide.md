@@ -81,59 +81,59 @@ Are you going to print on one side or both sides? Regular cardstock is fine for 
 
 ***TIP:** If you want to go the extra mile on the fanciness meter, try exploring linen or [textured cardstock](https://www.compandsave.com/paper/photo-paper/textured). Also, explore [different kinds of paper](https://www.compandsave.com/photography-paper-for-inkjet-printer-guide) for your printing projects.*
 
-### STEP 2: Deciding on Business Card Information Layout
+### STEP 2: Decide On Business Card Information Layout
 
-[![Business Card Information Layout](/blog/images/screenshot-2024-07-02-at-12.22.30 am.png "Business Card Information Layout")](/blog/images/screenshot-2024-07-02-at-12.22.30 am.png)
+[![Business Card Information Layout](/blog/images/screenshot-2024-07-19-at-11.32.24 pm.png "Business Card Information Layout")](/blog/images/screenshot-2024-07-19-at-11.32.24 pm.png)
 
 When designing a business card, the first thing that needs to be done is to decide what information should be in it. Here are a few things to consider:
 
-**Name**
+**A. Name**
 
 This is an essential part of your card and should be in a large, easy-to-read font.
 
-**Job Title**
+**B. Job Title**
 
 Your business card is a way to introduce yourself to many people, so make sure to put what you do on it.
 
-**Contact Info**
+**C. Contact Info**
 
 Include your business phone number and email address. Feel free to include the website URL of your brand as well.
 
-**Social Media Links**
+**D. Social Media Links**
 
-If you're active on social media platforms such as Twitter or Facebook, consider including their handles at the bottom or at the back. You can also add QR codes for your social media handles at the back of your card.
+If you're active on social media platforms such as Twitter or Facebook, consider including their handles at the bottom or the back. You can also add QR codes for your social media handles at the back of your card.
 
-**Personalization**
+**E. Personalization**
 
-If you're looking to stand out from your coworkers or just have a unique card in general, consider adding a small headshot, a slogan, or even a quote from you when designing a business card..
+If you want to stand out from your coworkers or just have a unique card, consider adding a small headshot, a slogan, or even a quote from you when designing a business card.
 
-### STEP 3: Designing a Business Card
+### STEP 3: Design A Business Card
 
-[![Designing a Business Card](/blog/images/screenshot-2024-07-02-at-12.24.27 am.png "Designing a Business Card")](/blog/images/screenshot-2024-07-02-at-12.24.27 am.png)
+[![Designing a Business Card](/blog/images/screenshot-2024-07-19-at-11.33.47 pm.png "Designing a Business Card")](/blog/images/screenshot-2024-07-19-at-11.33.47 pm.png)
 
 Business cards made at home can look high-quality with suitable designs. Now you'll need to choose the elements for your business card printing. This includes fonts, colors, graphics, etc. Let's discuss them below.
 
-**Decide on a Logo**
+**A. Decide On A Logo**
 
-A good logo should be fairly easy to spot and recognize, look modern and elegant, and reflect your brand. If you don't have the resources or time to design a logo, consider getting help from a professional graphic designer.
+A good logo should be pretty easy to spot and recognize, look modern and elegant, and reflect your brand. If you don't have the resources or time to design a logo, consider getting help from a professional graphic designer.
 
-**Pick a Color Scheme**
+**B. Pick a Color Scheme**
 
-First, pick a color scheme that will be the dominant one on the cards. For example, you might go for a light blue as the base color, with different shades of purple or green used sparingly. Furthermore, you can go with bold colors or less saturated versions so that they'll look more natural on different printers. To help you decide, you can check out color palette generators, such as [Canva business cards](https://www.canva.com/colors/color-palette-generator/) and [Coolors](https://coolors.co/). And lastly, consider using textures or patterns to add some extra visual interest.
+First, pick a color scheme that will be the dominant one on the cards. For example, you might use light blue as the base color, with different shades of purple or green used sparingly. Furthermore, you can use bold colors or less saturated versions to look more natural on different printers. To help you decide, you can check out color palette generators, such as Canva business cards and Coolors. Lastly, consider using textures or patterns to add extra visual interest.
 
-**Choose a Font(s)**
+**C. Choose a Font(s)**
 
 Next, it's important to choose a font that is both legible and eye-catching. We recommend using a typeface such as Arial or Verdana, which are ideal for printing business card information.
 
-**Graphics**
+**D. Graphics**
 
 You can use photos, graphics files, or even handwritten notes for your cards. However, be sure to choose high-resolution files so that they'll print nicely without any errors.
 
-**Layout**
+**E. Layout**
 
-Finally, decide on a layout for your cards. You can go with a classic design or something more creative and unique. Consider the overall look of your card—do you want it simple and minimalistic or flashy? The choice is yours!
+Decide on a layout for your cards. You can go with a classic design or something more creative and unique. Consider the overall look of your card—do you want it simple and minimalistic or flashy? The choice is yours!
 
-**\*TIP:** Take inspiration from various business cards in your industry. Make sure to keep your card sleek and modern while still reflecting your brand. Lastly, ensure all the text on your cards is legible and easy enough for people to read at a distance.*
+***TIP:** Take inspiration from various business cards in your industry. Keep your card sleek and modern while still reflecting your brand. Lastly, ensure all the text on your cards is legible and easy enough for people to read at a distance.*
 
 ### STEP 4: Choosing the Designing App
 
