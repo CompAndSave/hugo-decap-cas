@@ -204,15 +204,15 @@ To know more about how much you can save with CompAndSAve, check the table below
 
 [![OEM vs. CompAndSave Prices](/blog/images/screenshot-2024-07-02-at-4.42.09 pm.png "OEM vs. CompAndSave Prices")](/blog/images/screenshot-2024-07-02-at-4.42.09 pm.png)
 
-*\* Please note that prices mentioned are subject to change without notice.*
+***Note:** Prices mentioned are subject to change without notice.*
 
 The choice between OEM and CompAndSave ink ultimately depends on your priorities. If you're environmentally conscious, budget-minded, and unwilling to compromise on quality, CompAndSave offers a more cost-effective alternative. When making this decision, it's crucial to consider your requirements and budget.
 
-## So, Are Ink Cartridges A Scam?
+## Parting Words
 
-Based on what we have uncovered above, the printer ink industry can be seen as a scam because of its high prices and tricky practices by manufacturers.
+So, is printer cartridge scam? Based on what we have uncovered above, the printer ink industry can be seen as a scam because of its high prices and tricky practices by manufacturers.
 
-**Some of the sneaky tactics we have discussed, highlighting why printer ink is a scam, include the following:**
+**Some of the sneaky tactics involved in printer ink scams include:**
 
 * Printers are cheap upfront, but profits come from overpriced ink.
 * Printer maintenance uses a lot of ink, giving you less than the advertised page yield.
@@ -224,7 +224,7 @@ Based on what we have uncovered above, the printer ink industry can be seen as a
 * Subscription may help save money for heavy printers, but infrequent users may pay for unused ink. Canceling the subscription can disable cartridges.
 * Some printers won't scan if ink levels are low or empty, which can be frustrating when you only need to scan documents.
 
-**To help you make the most out of your money, remember to do the following:**
+**To help you make the most out of your money, remember to:**
 
 * Research before buying to find printers with efficient ink usage during maintenance.
 * Keep your printer in a cool, shaded location to prevent issues.
@@ -235,9 +235,9 @@ Based on what we have uncovered above, the printer ink industry can be seen as a
 * Use grayscale printing and high-quality paper when appropriate.
 * Choose between OEM and budget-friendly ink based on your needs and budget.
 
-These strategies can extend your printer's lifespan, reduce ink consumption, and save money. Don't let printer manufacturers take advantage of you; take control of your printing costs today.
+Following these strategies can extend your printer's lifespan, reduce ink consumption, and save money. Don't let printer manufacturers take advantage of you; take control of your printing costs today!
 
-Need help with ordering ink? Have questions or need assistance? Reach out to our toll-free helpline at 1-833-465-6888! Our dedicated support team is available Monday to Friday, 6am-4pm PT. Get the support you need for a happy printing experience.
+Need help with ordering ink? Have questions or need assistance? Reach out to our toll-free helpline at 1-833-465-6888! Our dedicated support team is available Monday to Friday, 6 am-4 pm PT. Get the support you need for a happy printing experience.
 
 ## Frequently Asked Questions
 
