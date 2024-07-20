@@ -59,9 +59,9 @@ Did you know that you might be getting less than you bargained for when it comes
 
 **A. Printer Maintenance Cycle**
 
-We all know that keeping our printers in good shape is essential, but most people miss how much ink these necessary tasks can use. According to Rich Sulin, who leads CR's printer-testing program, most people aren't really aware of the maintenance needs of inkjets. What might surprise you is that it's pretty typical for an inkjet printer to use as much ink during maintenance as it does for actual printing, as revealed in the Consumer Reports investigation.
+We all know that keeping our printers in good shape is essential, but most people miss how much ink these necessary tasks can use. According to Rich Sulin, who leads CR's printer-testing program, most people aren't really aware of the maintenance needs of inkjets. What might surprise you is that it's pretty typical for an inkjet printer to use as much ink during maintenance as it does for actual printing, as revealed in the [Consumer Reports investigation](https://www.consumerreports.org/printers/the-high-cost-of-wasted-printer-ink).
 
-In addition, some printers initiate printhead cleaning when you power them off and on, and in some instances, they run a cleaning cycle for every single page you print. This has been tested and confirmed in Fstoppers' YouTube video, 'Printer Ink Scam Myths Tested.'
+In addition, some printers initiate printhead cleaning when you power them off and on, and in some instances, they run a cleaning cycle for every single page you print. This has been tested and confirmed in Fstoppers' YouTube video, '[Printer Ink Scam Myths Tested](https://www.youtube.com/watch?v=y1B71C6BV7k&t=17s).'
 
 These maintenance actions contribute to higher ink consumption, even if you don't use your printer often.
 
@@ -75,7 +75,7 @@ One reason you may receive fewer pages than the advertised yield is the delibera
 
 As we can see in the picture above, the print was meant to be black and white, but you can see a blueish color that looks like a shadow behind the letters. This happens because the printer uses some cyan ink along with the black ink. 
 
-Manufacturers claim this technique enhances the quality of black prints, but YouTuber Fstoppers conducted a test and debunked this claim in their YouTube video 'Printer Ink Scam Myths Tested.'
+Manufacturers claim this technique enhances the quality of black prints, but YouTuber Fstoppers conducted a test and debunked this claim in their YouTube video '[Printer Ink Scam Myths Tested](https://www.youtube.com/watch?v=y1B71C6BV7k&t=116s).'
 
 The result? Your cyan ink runs out faster, and you get fewer pages from your cartridges.
 
@@ -128,7 +128,7 @@ What's surprising is that if you cancel your subscription, HP disables the cartr
 
 Some printers won't let you use their scanning features if the ink levels are low or empty. Louis Rossmann talks about this problem in his YouTube video, "[HP sued over scanner that requires ink](https://www.youtube.com/watch?v=J_XiaMzzZUo)." Imagine needing to scan important documents, but your printer refuses because it says it's out of ink, even though scanning doesn't require ink. This frustrating situation is a sad reality for many printer users, and it might even happen to you.
 
-## Printer Cartridge Scam: Tips To Protect Yourself 
+## Printer Cartridge Scam: Tips To Protect Yourself
 
 Now that we know about these printer ink scams, how can we protect ourselves from falling victim to them? While avoiding these sneaky tactics entirely is hard, you can still make your printer more efficient and save on ink costs. Here are some practical tips to reduce ink consumption and improve printing experience. 
 
@@ -184,7 +184,7 @@ Just ensure you are refilling an original empty cartridge, using a [universal re
 
 ### 10. Check for Third-Party Alternatives
 
-Consider trying third-party ink cartridges; they are more reasonably priced, eco-friendly, and work like the original ones.
+Consider trying [third-party ink cartridges](https://www.compandsave.com/blog/posts/truth-behind-third-party-ink-cartridges-cheaper-alternative.html); they are more reasonably priced, eco-friendly, and work like the original ones.
 
 Some of the most common affordable options are:
 
@@ -202,11 +202,9 @@ To know more about how much you can save with CompAndSAve, check the table below
 
 **OEM vs. CompAndSave Prices**
 
-
-
 [![OEM vs. CompAndSave Prices](/blog/images/screenshot-2024-07-02-at-4.42.09 pm.png "OEM vs. CompAndSave Prices")](/blog/images/screenshot-2024-07-02-at-4.42.09 pm.png)
 
-***Note:** Prices mentioned are subject to change without notice.*
+**\*Note:** Prices mentioned are subject to change without notice.*
 
 The choice between OEM and CompAndSave ink ultimately depends on your priorities. If you're environmentally conscious, budget-minded, and unwilling to compromise on quality, CompAndSave offers a more cost-effective alternative. When making this decision, it's crucial to consider your requirements and budget.
 
