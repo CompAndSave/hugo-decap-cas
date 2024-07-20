@@ -119,7 +119,7 @@ A good logo should be pretty easy to spot and recognize, look modern and elegant
 
 **B. Pick a Color Scheme**
 
-First, pick a color scheme that will be the dominant one on the cards. For example, you might use light blue as the base color, with different shades of purple or green used sparingly. Furthermore, you can use bold colors or less saturated versions to look more natural on different printers. To help you decide, you can check out color palette generators, such as Canva business cards and Coolors. Lastly, consider using textures or patterns to add extra visual interest.
+First, pick a color scheme that will be the dominant one on the cards. For example, you might use light blue as the base color, with different shades of purple or green used sparingly. Furthermore, you can use bold colors or less saturated versions to look more natural on different printers. To help you decide, you can check out color palette generators, such as [Canva business](https://www.canva.com/colors/color-palette-generator/) cards and [Coolors](https://www.canva.com/create/business-cards/). Lastly, consider using textures or patterns to add extra visual interest.
 
 **C. Choose a Font(s)**
 
@@ -158,7 +158,7 @@ Learning how to print business cards at home can be a cost-effective way to get 
 
 * **Canva**
 
-  Simply choose or type business cards in the search bar. Canva offers various design options and allows you to create creative and professional cards. With many templates and designs, it's easy to find one that suits your needs perfectly.
+  Simply choose or type business cards in the search bar. [Canva](https://www.canva.com/create/business-cards/) offers various design options and allows you to create creative and professional cards. With many templates and designs, it's easy to find one that suits your needs perfectly.
 * **Freepik**
 
   Another free template you can try is Freepik. It has millions of stock images you can use without spending a cent. As you start to create your business cards, get inspired by various designs.
@@ -230,8 +230,6 @@ The Canon PIXMA iX6820 is an excellent home photo printer that can also print bu
 
 [![Canon Pixma iX6820 table](/blog/images/screenshot-2024-07-19-at-11.57.23 pm.png "Canon Pixma iX6820 table")](/blog/images/screenshot-2024-07-19-at-11.57.23 pm.png)
 
-
-
 **[2. HP OfficeJet 3830](https://www.compandsave.com/hp/officejet/3830-all-in-one-ink-cartridges)**
 
 [![HP OfficeJet 3830](/blog/images/screenshot-2024-07-19-at-11.58.32 pm.png "HP OfficeJet 3830")](/blog/images/screenshot-2024-07-19-at-11.58.32 pm.png)
@@ -239,8 +237,6 @@ The Canon PIXMA iX6820 is an excellent home photo printer that can also print bu
 The HP OfficeJet 3830 has superb printing quality for photos and documents and accepts a wide variety of paper sizes. If you're looking for a small printer that's easy to navigate so you can print your business cards at home, this should be your top choice. However, the printing cost is a little higher compared to other printers that are best for business cards.
 
 [![HP OfficeJet 3830 table](/blog/images/screenshot-2024-07-20-at-12.01.43 am.png "HP OfficeJet 3830 table")](/blog/images/screenshot-2024-07-20-at-12.01.43 am.png)
-
-
 
 **[3. Epson EcoTank ET-4760](https://www.compandsave.com/epson/ecotank/et-4760-all-in-one-ink-bottles)**[](https://www.compandsave.com/epson/ecotank/et-4760-all-in-one-ink-bottles)[](https://www.compandsave.com/epson/ecotank/et-4760-all-in-one-ink-bottles)
 
