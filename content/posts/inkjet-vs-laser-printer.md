@@ -99,7 +99,7 @@ Toner cartridges are used for laser printers. It holds the powdered color agents
 
 These two tools work together so your printer can work. Some printers like HP incorporate the drum unit into the toner. For most of the Brother printers, the toner cartridge and drum unit are separated. You can see a sample below of a drum unit, toner cartridge, and the toner installed into the drum unit.
 
-[![TONER CARTRIDGES AND DRUM UNIT](/blog/images/5.png "TONER CARTRIDGES AND DRUM UNIT")](/blog/images/5.png)
+[![TONER CARTRIDGES AND DRUM UNIT](/blog/images/screenshot-2024-07-24-at-7.18.31 pm.png "TONER CARTRIDGES AND DRUM UNIT")](/blog/images/screenshot-2024-07-24-at-7.18.31 pm.png)
 
 ## What are the Different Yields of Cartridges?
 
@@ -119,7 +119,9 @@ XXL ink cartridges have more ink compared to the XL ones. It may also mean a hig
 
 Take note that it can be different for other brands or other types of cartridges. The important thing to remember is that the higher the yield, the more pages it can print. On the table below, you will see standard (non-XL), XL (high yield), and XXL (super high yield) ink cartridges. The cartridges may have different ink model numbers, but all of the cartridges below are the same in size and only vary in yield version. Also, all three printer inks can be used for the following printers:
 
-[![Brother Ink Cartridges](/blog/images/6.png "Brother Ink Cartridges")](/blog/images/6.png)
+[![Brother Printers](/blog/images/screenshot-2024-07-24-at-7.19.29 pm.png "Brother Printers")](/blog/images/screenshot-2024-07-24-at-7.19.29 pm.png)
+
+[![brother ink cartridges](/blog/images/screenshot-2024-07-24-at-7.22.37 pm.png "brother ink cartridges")](/blog/images/screenshot-2024-07-24-at-7.22.37 pm.png)
 
 ## What are the Different Types of Ink Cartridges (condition)?
 
