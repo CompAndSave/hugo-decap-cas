@@ -131,7 +131,7 @@ Did you know that there are different types of ink cartridges you can purchase f
 
 OEM is an abbreviation for 'Original Equipment Manufacturer.' When you see a product on our site that says OEM, it is one of the "name-brand" cartridges from Canon, Hewlett Packard, Lexmark, etc. These are original or genuine ink/toner cartridges or bottles made by the major companies for their printers.
 
-[![OEM INK AND TONER CARTRIDGES](/blog/images/7.png "OEM INK AND TONER CARTRIDGES")](/blog/images/7.png)
+[![OEM INK AND TONER CARTRIDGES](/blog/images/screenshot-2024-07-24-at-7.23.42 pm.png "OEM INK AND TONER CARTRIDGES")](/blog/images/screenshot-2024-07-24-at-7.23.42 pm.png)
 
 ### What are remanufactured ink and toner cartridges?
 
@@ -139,7 +139,9 @@ Remanufactured ink and toner cartridges are simply not refilled cartridges as th
 
 CompAndSave offers the best remanufactured ink cartridges and toners at an affordable cost. You can see below samples of our various products.
 
-[![REMANUFACTURED INK AND TONER CARTRIDGES](/blog/images/8.png "REMANUFACTURED INK ANF TONER CARTRDGES")](/blog/images/8.png)
+[![REMANUFACTURED INK AND TONER CARTRIDGES](/blog/images/screenshot-2024-07-24-at-7.24.15 pm.png "REMANUFACTURED INK AND TONER CARTRDGES")](/blog/images/screenshot-2024-07-24-at-7.24.15 pm.png)
+
+[![remanufactured ink cartridges](/blog/images/screenshot-2024-07-24-at-7.25.06 pm.png "remanufactured ink cartridges")](/blog/images/screenshot-2024-07-24-at-7.25.06 pm.png)
 
 ### What are compatible ink and toner cartridges?
 
@@ -147,13 +149,13 @@ Compatible ink and toner cartridges are brand new non-OEM new cartridges - not r
 
 CompAndSave manufactures high-quality compatible inks and printer toner cartridges that are cost-efficient. You can see some of our compatible ink and toner cartridges below.
 
-[![compatible ink and toner cartridges](/blog/images/9.png "compatible ink and toner cartridges")](/blog/images/9.png)
+[![compatible ink and toner cartridges](/blog/images/screenshot-2024-07-24-at-7.26.25 pm.png "compatible ink and toner cartridges")](/blog/images/screenshot-2024-07-24-at-7.26.25 pm.png)
 
 ### What is a printer ink refill kit?
 
 Another great option that does not only save you money but is environmentally friendly as well is refilling your ink cartridges. This is not applicable for toners. You can check our [refill ink/bulk ink](https://www.compandsave.com/ink-refill-bulk-ink) products. First, you need to make sure if it is compatible with your printer. It is simply refilling your ink. The kit already includes all the necessary items for refilling, such as needles, screwdriver, and drill tool, among others. For an easier refilling process, you can follow our [universal ink refill kit guide](https://www.compandsave.com/assets/instruction_ink_refill_kit_for_inkjet_printer.pdf).
 
-[![printer ink refill kit](/blog/images/10.png "printer ink refill kit")](/blog/images/10.png)
+[![printer ink refill kit](/blog/images/screenshot-2024-07-24-at-7.27.04 pm.png "printer ink refill kit")](/blog/images/screenshot-2024-07-24-at-7.27.04 pm.png)
 
 ## Price
 
