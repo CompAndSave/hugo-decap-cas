@@ -69,15 +69,15 @@ Since there are two types of printers, they also use different printing cartridg
 
 Ink cartridges are used for inkjet printers. Liquid inks are filled into containers called cartridges that enable your printer to print out texts or images. The cartridges are either refillable, or you buy a new one to install and use. You can not just install any type of ink cartridge because each cartridge is designed to work only for a specific printer. Though some cartridges look the same in physical attributes, each cartridge actually has chips in them that are designed only to let them work for printers compatible with it. You can see different kinds of ink cartridges below.
 
-[![Compatible Canon ink cartridge](/blog/images/1.png "Compatible Canon")](/blog/images/1.png)
+[![Compatible Canon ink cartridge](/blog/images/screenshot-2024-07-24-at-7.14.35 pm.png "Compatible Canon")](/blog/images/screenshot-2024-07-24-at-7.14.35 pm.png)
 
-[![replacement ink cartridges](/blog/images/2.png "Replacement Ink cartridges")](/blog/images/2.png)
+[![replacement ink cartridges](/blog/images/screenshot-2024-07-24-at-7.16.03 pm.png "Replacement Ink cartridges")](/blog/images/screenshot-2024-07-24-at-7.16.03 pm.png)
 
 ### What is an inkjet printer refills/ink refill bottle?
 
 Ink bottles/ink refill bottles are needed if your printer has an ink tank. An ink tank is a built-in part of the printer that holds the ink. To refill the ink tanks, you need to purchase printer ink bottles. Epson EcoTank series was the first company to manufacture printers with ink tanks. Thus, they also produced the first ink bottles for Epson eco tank ink refill.
 
-[![Compatible Epson Expression ](/blog/images/3.png "Compatible Epson Expression")](/blog/images/3.png)
+[![Compatible Epson Expression ](/blog/images/screenshot-2024-07-24-at-7.16.44 pm.png "Compatible Epson Expression")](/blog/images/screenshot-2024-07-24-at-7.16.44 pm.png)
 
 ### Dye-based ink vs. pigment-based ink
 
@@ -85,7 +85,7 @@ Dye-based ink and pigment-based ink are the two types of ink. Another factor to 
 
 To know the type of ink your printer uses, you can find this information in the printer manual. For CompAndSave products, the ink type is listed on the Product Specifications.
 
-[![HP 63KL COLOR INK CARTRIDGE PRODUCT SPECIFICATIONS](/blog/images/4.png "HP 63XL COLOR INK CARTRIDGES PRODUCT SPECIFICATIONS")](/blog/images/4.png)
+[![HP 63KL COLOR INK CARTRIDGE PRODUCT SPECIFICATIONS](/blog/images/screenshot-2024-07-24-at-7.17.43 pm.png "HP 63XL COLOR INK CARTRIDGES PRODUCT SPECIFICATIONS")](/blog/images/screenshot-2024-07-24-at-7.17.43 pm.png)
 
 **Dye-based inks** use coloring agents dissolved in liquid to produce prints. This type of ink is usually used for documents and sharper prints as it gives off more vibrant colors. Dye ink is best used for indoor documents since it may fade quicker when under sunlight.
 
