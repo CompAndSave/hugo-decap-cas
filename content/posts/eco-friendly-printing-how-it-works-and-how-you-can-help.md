@@ -2,7 +2,7 @@
 title: "Eco-Friendly Printing: How It Works and How You Can Help"
 date: 2023-10-28T13:33:18.841Z
 authors: Trisha Olivar
-featured_image: /blog/images/ingoude.-8-.png
+featured_image: /blog/images/eco-friendly-printing.png
 description: >
   What is eco-friendly printing, and how is it changing how we print? Learn
   about its benefits here in this guide. Start your sustainable printing journey
