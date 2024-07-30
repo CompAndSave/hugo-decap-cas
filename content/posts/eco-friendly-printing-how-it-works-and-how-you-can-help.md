@@ -16,7 +16,7 @@ tags:
   - Recycled Materials
   - Sustainable Printing
 ---
-[![Eco Friendly Printing](/blog/images/ingoude.-8-.png "Eco-Friendly Printing: How It Works and How You Can Help")](/blog/images/ingoude.-8-.png)
+[![Eco Friendly Printing](/blog/images/eco-friendly-printing.png "Eco-Friendly Printing: How It Works and How You Can Help")](/blog/images/eco-friendly-printing.png)
 
 Have you ever wondered how much waste the printing industry generates each year? Are you ready to start with eco-friendly printing and do your part for the environment? Well, get ready to embark on a journey to discover the incredible power of sustainable printing and how it works. Read on to learn tips on how to print with a purpose and make a difference! 
 
