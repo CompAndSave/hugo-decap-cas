@@ -2,7 +2,7 @@
 title: Common Toner Cartridge Problems and How to Solve Them
 date: 2023-11-22T09:00:45.124Z
 authors: Trisha Olivar
-featured_image: /blog/images/ingoude.-31-.png
+featured_image: /blog/images/common-toner-cartridge-problems.png
 description: >
   Is your toner not working? Don't worry! Here are some helpful tips to fix
   common toner issues. Read on to find out how and get back to printing easily!
@@ -16,7 +16,7 @@ tags:
   - Toner Cartridge Troubleshooting
   - Printer Issues
 ---
-[![toner cartridge problems](/blog/images/ingoude.-31-.png "Common Toner Cartridge Problems and How to Solve Them")](/blog/images/ingoude.-31-.png)
+[![toner cartridge problems](/blog/images/common-toner-cartridge-problems.png "Common Toner Cartridge Problems and How to Solve Them")](/blog/images/common-toner-cartridge-problems.png)
 
 Have you ever been in the middle of an important print job, only to have your printer suddenly stop working because of toner cartridge problems? It can be incredibly frustrating! In this guide, we'll discuss common toner issues and provide simple solutions to help you keep your printer running smoothly. So, the next time you face a laser toner not working problem, you'll know what to do. Let’s find out how!
 
