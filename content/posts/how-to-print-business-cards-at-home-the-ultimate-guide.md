@@ -119,7 +119,7 @@ A good logo should be pretty easy to spot and recognize, look modern and elegant
 
 **B. Pick a Color Scheme**
 
-First, pick a color scheme that will be the dominant one on the cards. For example, you might use light blue as the base color, with different shades of purple or green used sparingly. Furthermore, you can use bold colors or less saturated versions to look more natural on different printers. To help you decide, you can check out color palette generators, such as [Canva business](https://www.canva.com/colors/color-palette-generator/) cards and [Coolors](https://www.canva.com/create/business-cards/). Lastly, consider using textures or patterns to add extra visual interest.
+First, pick a color scheme that will be the dominant one on the cards. For example, you might use light blue as the base color, with different shades of purple or green used sparingly. Furthermore, you can use bold colors or less saturated versions to look more natural on different printers. To help you decide, you can check out color palette generators, such as [Canva business](https://www.canva.com/colors/color-palette-generator/) cards and [Colors](https://www.canva.com/create/business-cards/). Lastly, consider using textures or patterns to add extra visual interest.
 
 **C. Choose a Font(s)**
 
