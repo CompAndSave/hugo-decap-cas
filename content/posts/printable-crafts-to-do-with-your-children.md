@@ -14,7 +14,7 @@ tags:
 ---
 Summer vacation from school is well underway. Keeping your kids occupied all summer can be a daunting task–especially on rainy days when going outside isn't an option. Instead of popping in a movie, turn on your household printer! There are a ton of crafts you can do using your printer that will keep your kids busy and encourage creativity. We have put together a list of our favorites to get you started.
 
-* Printable puppets- Using these [printouts](https://www.abcteach.com), your kids can create their own puppets and put on their very own show. The print outs allow them to color their characters and then bring them to life by gluing them onto paper bags.
+* Printable puppets- Using these printouts, your kids can create their own puppets and put on their very own show. The print outs allow them to color their characters and then bring them to life by gluing them onto paper bags.
 
   [![](/blog/images/animalmasks-mainpic2.jpg)](/blog/images/animalmasks-mainpic2.jpg)
 * Printed animal mask- Kids love to play pretend! Let them expand their imagination by printing out an [animal mask](https://www.firstpalette.com/craft/printable-animal-masks.html) for them. They can color and decorate the mask however they choose! When they are finished, help them cut out the mask, and attach an elastic string! Ta da!
