@@ -1,13 +1,16 @@
 ---
 title: "Spring Recipes: Light and Easy Meals for Anyone On the Go"
 date: 2017-03-28T19:00:00.000Z
-slug: spring-recipes-light-and-easy-meals-for-anyone-on-the-go
-description: "Spring Recipes: Light and Easy Meals for Anyone On the Go"
-featured_image: /blog/images/archive/2017/03/pastasalad.jpg
 authors: Katy S
-tags: [recipes,heart healthy,food,Spring]
+slug: spring-recipes-light-and-easy-meals-for-anyone-on-the-go
+featured_image: /blog/images/archive/2017/03/pastasalad.jpg
+description: "Spring Recipes: Light and Easy Meals for Anyone On the Go"
+tags:
+  - recipes
+  - heart healthy
+  - food
+  - Spring
 ---
-
 ![spring recipes](/blog/images/pastasalad.jpg "pasta salad")
 
 Spring is here! Days are longer and getting warmer (well in most parts of the country) so who wants to be [stuck inside preparing food](https://blog.compandsave.com/2016/12/comfort-food-for-mind-body-and-soul.html) when the spring air outside is calling. If you're constantly on the go working and shuttling kids to sports practices and other extracurricular activities, you need quick yet delicious meals that the whole family will love. Get some inspiration for meal planning and cooking with our top spring recipes that are light on calories and big on flavor.  
@@ -40,7 +43,7 @@ This Italian-flavored pasta salad is a hit with adults and children. Cook your p
 
 Now that it's spring, fresh asparagus is abundant and usually cheap. Quick to make, this asparagus salad only requires [four ingredients](https://www.cookingclassy.com/asparagus-tomato-feta-salad-balsamic-vinaigrette/) aside from the dressing. Eat it alone for lunch or pair it with grilled chicken for a healthy dinner.
 
-Another healthy salad variation is the chickpea/garbanzo bean salad. You can use either two cups (dried) cooked beans or, to speed up the process, one can of beans. If you choose canned, make sure you rinse and drain the beans. Combine the beans, two finely chopped garlic cloves, one diced tomato, quarter cup chopped red onion, and handful of chopped cilantro or parsley with salt, pepper, lemon juice, and extra virgin olive oil (all to taste). For extra flavor, include the optional ingredients [here](https://www.whfoods.com/genpage.php?dbid=246&tname=recipe).
+Another healthy salad variation is the chickpea/garbanzo bean salad. You can use either two cups (dried) cooked beans or, to speed up the process, one can of beans. If you choose canned, make sure you rinse and drain the beans. Combine the beans, two finely chopped garlic cloves, one diced tomato, quarter cup chopped red onion, and handful of chopped cilantro or parsley with salt, pepper, lemon juice, and extra virgin olive oil (all to taste). For extra flavor, include the optional ingredients here.
 
 ### Cold Soups
 
@@ -50,4 +53,4 @@ Cucumbers work well in many different cold soups. If you like a little kick in y
 
 If your life is regularly hectic, light and easy meals are a no brainer. Try one of the spring recipes above or create your own version.
 
-_What other recipes are you making this season? Let us know below or share your favorite spring recipe on our [Facebook page](https://www.facebook.com/compandsave.ink/)._
+*What other recipes are you making this season? Let us know below or share your favorite spring recipe on our [Facebook page](https://www.facebook.com/compandsave.ink/).*
