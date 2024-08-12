@@ -34,9 +34,9 @@ It uses solvent-based ink in inkjet printers to produce high-quality prints on v
 
 Solvent printer ink is composed of pigments or dyes dissolved in organic solvents. The primary components include:
 
-* Colorants: Provide the ink with its vibrant colors.
-* Solvents: Help the ink adhere to non-porous surfaces by softening the material.
-* Resins: Enhance the durability and adhesion of the ink to the substrate.
+* **Colorants:** Provide the ink with its vibrant colors.
+* **Solvents:** Help the ink adhere to non-porous surfaces by softening the material.
+* **Resins:** Enhance the durability and adhesion of the ink to the substrate.
 
 ## 3 Main Types of Solvent-Based Ink
 
