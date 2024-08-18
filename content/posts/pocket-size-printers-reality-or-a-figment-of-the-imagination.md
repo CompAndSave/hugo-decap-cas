@@ -105,10 +105,10 @@ Consider the cost per page when printing and the long-term expenses. Inkless poc
 
 Maintaining your pocket-size printers is essential for ensuring long-term functionality and high-quality prints. Here are some tips and common issues to be aware of:
 
-* Achieving High-Quality Prints: For sharp and vibrant prints, use the recommended thermal paper or the best photo paper compatible with your printer. If prints look faded or streaky, clean the print head following the manufacturer's instructions to restore print quality.
-* Resolving Connectivity Issues: If you're having trouble connecting your printer, first check that your printer's firmware and companion app are up to date. Restart both your printer and device and ensure your Wi-Fi or Bluetooth settings are correct. Re-pairing the printer and device can often fix connectivity issues.
-* Maximizing Printer Lifespan: To keep your pocket printing machine in top shape, store it in a cool, dry place. Regularly charge the battery and use the printer often to prevent mechanical issues.
-* Keeping Your Printer Clean: Dust and debris can impact print quality. Gently clean your printer with a soft, dry cloth to remove dust. Check the paper feed for obstructions regularly to prevent jams. Regular cleaning will ensure smooth operation and extend the life of your device.
+* **Achieving High-Quality Prints:** For sharp and vibrant prints, use the recommended thermal paper or the best photo paper compatible with your printer. If prints look faded or streaky, clean the print head following the manufacturer's instructions to restore print quality.
+* **Resolving Connectivity Issues:** If you're having trouble connecting your printer, first check that your printer's firmware and companion app are up to date. Restart both your printer and device and ensure your Wi-Fi or Bluetooth settings are correct. Re-pairing the printer and device can often fix connectivity issues.
+* **Maximizing Printer Lifespan:** To keep your pocket printing machine in top shape, store it in a cool, dry place. Regularly charge the battery and use the printer often to prevent mechanical issues.
+* **Keeping Your Printer Clean:** Dust and debris can impact print quality. Gently clean your printer with a soft, dry cloth to remove dust. Check the paper feed for obstructions regularly to prevent jams. Regular cleaning will ensure smooth operation and extend the life of your device.
 
 ## Final Words
 
