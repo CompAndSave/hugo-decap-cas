@@ -93,15 +93,15 @@ Here are some steps you can follow for Windows printer test page printing accord
 
 **Step 4:** Within the Printer Properties window, click on the **'Print Test Page.'**
 
-**4. Windows 8/8.1**
+**D. Windows 8/8.1**
 
-**Step 1:** Press **'Windows'** key on your keyboard > '**View Devices and Printers.'**
+**Step 1:** Press the **'Windows'** key on your keyboard > '**View Devices and Printers.'**
 
 **Step 2:** Locate your printer, right-click on it, and click on **'Printer Properties'**
 
 **Step 3:** From the popup, click on **'Print a Test Page'**; click on **'Okay'** after it's done to close the popup.
 
-**5. Windows 10**
+**E. Windows 10**
 
 **Step 1:** Click on the **'Windows'** icon and select **'Settings.'**
 
@@ -115,7 +115,7 @@ Here are some steps you can follow for Windows printer test page printing accord
 
 **Step 4:** Once in, click on the **'Print a test page.'**
 
-**6. Windows 11**
+**F. Windows 11**
 
 **Step 1:** Left-click on the **Windows** icon and select **'Settings'** from the list of options.
 
