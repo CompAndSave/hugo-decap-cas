@@ -129,9 +129,11 @@ Here are some steps you can follow for Windows printer test page printing accord
 
 [![print test page](/blog/images/screenshot-2024-07-02-at-3.16.28 pm.png "print test page")](/blog/images/screenshot-2024-07-02-at-3.16.28 pm.png)
 
-### How to Print Test Page on Mac?
+### How To Print A Test Page On Mac?
 
-**1. Mac OS Version 1**
+If you are using the Mac operating system, here are the steps to print a test page.
+
+**A. Mac OS Version 1**
 
 **Step 1:** Click on the **Apple menu.**
 
@@ -141,11 +143,11 @@ Here are some steps you can follow for Windows printer test page printing accord
 
 [![System Preferences](/blog/images/screenshot-2024-07-02-at-3.21.38 pm.png "System Preferences")](/blog/images/screenshot-2024-07-02-at-3.21.38 pm.png)
 
-**Step 3:** Hover over to **Print & Fax**, or it might be **Print & Scan** or **Printers & Scanners**, depending on your Mac OS X version.
+**Step 3:** Go to Print & Fax, or it might be **‘Print & Scan’** or **‘Printers & Scanners,’** depending on your version of macOS.
 
 [![Printers & Scanners](/blog/images/screenshot-2024-07-02-at-3.23.12 pm.png "Printers & Scanners")](/blog/images/screenshot-2024-07-02-at-3.23.12 pm.png)
 
-**Step 4:** You'll see a printer listing on the life side window; **select your printer.**
+**Step 4:** You'll see a printer listing on the window; **select your printer.**
 
 [![select your printer](/blog/images/screenshot-2024-07-02-at-3.24.25 pm.png "select your printer")](/blog/images/screenshot-2024-07-02-at-3.24.25 pm.png)
 
@@ -153,7 +155,7 @@ Here are some steps you can follow for Windows printer test page printing accord
 
 [![Print Queue](/blog/images/screenshot-2024-07-02-at-3.25.32 pm.png "Print Queue")](/blog/images/screenshot-2024-07-02-at-3.25.32 pm.png)
 
-**Step 6:** Now click on the **Printer menu** at the top and then select Print Test Page
+**Step 6:** Now click on the **Printer menu** at the top and then select **Print Test Page**
 
 **2. Mac OS X**
 
@@ -165,11 +167,11 @@ Here are some steps you can follow for Windows printer test page printing accord
 
 [![System Preferences](/blog/images/screenshot-2024-07-02-at-3.28.48 pm.png "System Preferences")](/blog/images/screenshot-2024-07-02-at-3.28.48 pm.png)
 
-**Step 3:** Hover over to **Print & Scan** or **Printers & Scanners,** depending on your Mac OS X version.
+**Step 3:** Go to **‘Print & Scan’** or **‘Printers & Scanners,’** depending on your Mac OS X version.
 
 [![Printers & Scanners](/blog/images/screenshot-2024-07-02-at-3.29.51 pm.png "Printers & Scanners")](/blog/images/screenshot-2024-07-02-at-3.29.51 pm.png)
 
-**Step 4:** You'll see a printer listing on the life side window; **select your printer.**
+**Step 4:** You'll see a printer listing on the window; **select your printer.**
 
 [![select your printer](/blog/images/screenshot-2024-07-02-at-3.30.52 pm.png "select your printer")](/blog/images/screenshot-2024-07-02-at-3.30.52 pm.png)
 
@@ -177,27 +179,40 @@ Here are some steps you can follow for Windows printer test page printing accord
 
 **Step 6:** In the new window, go to the **'Utility'** tab and click on **'Print Test Page'.**
 
-## Test Print Guidelines for Color and Greyscale Printing
+## Test Print Guidelines For Color And Grayscale Printing
 
-These guidelines help assess color accuracy, ink coverage, image details, and text clarity. The process for printing a color printer test page or getting a black-and-white text page is the same as provided above, depending on your operating system and printer brand.
+These guidelines help you check color accuracy, ink coverage, image details, and text clarity. Whether you print color test page or a black-and-white test page, the process is the same as described above, depending on your operating system and printer brand.
 
-### Color Printer test pages must include the following:
+### Color printer test pages must include the following:
 
-* **Printer color test:** A section that includes a color gradient or color wheel is essential to evaluate the accurate reproduction of different colors and shades.
-* **Printer ink test:** A test area with varying percentages of ink coverage (for example, from 10% to 100%) to check if the printer can consistently print different ink densities.
+* **Printer color test:** A section that includes a color gradient or color wheel is essential to evaluate the accurate reproduction of different colors and shades. See the sample picture below.
+
+[![Printer color test](/blog/images/screenshot-2024-08-23-at-5.54.45 pm.png "Printer color test")](/blog/images/screenshot-2024-08-23-at-5.54.45 pm.png)
+
+*Image Source: [Color Test Page](https://colortest.page/printer-color-test-page/)*
+
+* **Printer ink test:** A test area with varying percentages of ink coverage (for example, from 10% to 100%) to check if the printer can consistently print different ink densities. 
+
+[![Printer ink test](/blog/images/screenshot-2024-08-23-at-5.56.02 pm.png "Printer ink test")](/blog/images/screenshot-2024-08-23-at-5.56.02 pm.png)
+
+*Image Source: [Internet Ink](https://www.internet-ink.com/colour-test-page)*
+
 * **Image quality assessment:** A high-resolution image or a complex pattern demonstrating the printer's capability to accurately reproduce intricate details and sharp lines.
 * **Text quality evaluation:** Text in various font sizes and styles must be present to test the printer's ability to render text clearly and legibly across different settings.
 
-### Greyscale Printer test pages must include the following:
+### Grayscale printer test pages must include the following:
 
-* **Black and white test print:** A section that includes a greyscale gradient, ranging from pure black to pure white, allowing users to assess the printer's ability to reproduce various shades of grey.
+* **Black and white test print:** A section that includes a grayscale gradient, ranging from pure black to pure white, allowing users to assess the printer's ability to reproduce various shades of gray. 
+
+[![Black and white test print](/blog/images/screenshot-2024-08-23-at-5.58.30 pm.png "Black and white test print")](/blog/images/screenshot-2024-08-23-at-5.58.30 pm.png)
+
 * **Black print test:** A section containing solid black shapes or patterns to evaluate the printer's ability to produce consistent and uniform black coverage.
-* **Printer test pattern:** Geometric shapes, lines, and grids must be present on the greyscale test page, testing the printer's precision in both printing straight lines and maintaining alignment.
-* **Text quality evaluation:** Similar to the color printer test page, text in various font sizes and styles should be included to examine how well the greyscale printer renders text with good contrast and clarity.
+* **Printer test pattern:** Geometric shapes, lines, and grids must be present on the grayscale test page, testing the printer's precision in both printing straight lines and maintaining alignment.
+* **Text quality evaluation:** Similar to the color printer test page, text in various font sizes and styles should be included to examine how well the grayscale printer renders text with good contrast and clarity.
 
 ## Printer Test Page Result and Solution
 
-After you finish the test prints, you need to inspect the page and see if any issues need fixing. The most commonly reported issues are given below:
+After you finish the test print page, you need to inspect the page and see if any issues need fixing. The most commonly reported issues are given below:
 
 1. No print on the test page.
 2. Ink smudging or color discrepancies.
