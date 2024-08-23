@@ -49,15 +49,25 @@ A test print shows several important things about your printer’s performance. 
 * **Alignment:** It checks if the text and images are correctly aligned on the page, helping to spot any misalignment issues.
 * **Printer Functionality:** It ensures that all the printer’s features are working correctly, from the paper feed to the print head.
 
+## Print Test Page: What To Check First Before Printing?
 
+Before doing test page print, it's essential to ensure everything is in order to avoid wasting time, paper, and [expensive ink](https://www.compandsave.com/blog/posts/why-printer-ink-is-so-expensive-factors-and-alternatives.html). So, here's a guide on what to check before printing:
 
-## How To Test Print: Step-by-Step Guide
+* **Paper Type and Size:** Ensure the correct paper type and size are loaded in the printer.
+* **Printer Connection:** Ensure your printer is properly connected to your computer or network, whether via USB, Wi-Fi, or Ethernet. Verify that the connection is stable and that the printer is turned on.
+* **Printer Status:** Check for warning lights or error messages that may affect the printing process. Ensure to resolve any existing issues before printing the test page.
+* **Ink or Toner Levels:** Check the ink or toner levels to ensure a sufficient supply for a high-quality test page. Avoid printing if ink levels are critically low or empty, as it can damage printheads and produce poor print quality.
+* **Print Queue:** Verify that no other print jobs in the queue may interfere with or delay the test page printing.
 
-Now, let's talk about how to test print. The process varies slightly depending on the printer brand and model, but typically it involves navigating through your printer's settings menu or launching a print test from your computer.
+## Printer Test Page: Guide for Windows & Mac
 
-### How To Print Test Page on Windows?
+Now, let's talk about how to test print. Printing a test page slightly differs depending on your printer's brand and model, but it usually involves a few simple steps. You can go through your printer's settings menu or start a print test from your computer. We will cover the steps for both Windows and Mac here.
 
-**1. Windows XP**
+### How To Print A Test Page On Windows?
+
+Here are some steps you can follow for Windows printer test page printing according to your operating system version:
+
+**A. Windows XP**
 
 **Step 1:** Click the **'Start'** button > **'Control Panel'** > **'Printers and Faxes.'**
 
@@ -65,7 +75,7 @@ Now, let's talk about how to test print. The process varies slightly depending o
 
 **Step 3:** From the popup, click on **'Print a Test Page'**; click on **'Okay'** after it's done to close the popup.
 
-**2. Windows Vista**
+**B. Windows Vista**
 
 **Step 1:** Click the **'Start'** button > **'Control Panel'** > double-click on **'Printer.'**
 
@@ -73,7 +83,7 @@ Now, let's talk about how to test print. The process varies slightly depending o
 
 **Step 3:** Click **'Print a Test Page'** from the popup; click on **'Okay'** after it's done to close the popup.
 
-**3. Windows 7**
+**C. Windows 7**
 
 **Step 1:** Click the **'Start'** button > **'Control Panel'** > **'Hardware and Sound.'**
 
