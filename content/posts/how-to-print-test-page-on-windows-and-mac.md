@@ -1,5 +1,5 @@
 ---
-title: How to Print Test Page on Windows and Mac?
+title: "Printer Test Page Done Right: How-to Guide for Windows & Mac"
 date: 2024-08-23T05:41:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/ingoude.-presentation-6-.png
