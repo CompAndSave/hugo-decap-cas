@@ -132,24 +132,24 @@ Second, remember that CompAndSave's refilled cartridges and remanufactured toner
 
 ## Remanufactured Cartridges: Where To Buy Cheap Ones?
 
-Now that we know what is remanufactured ink cartridge, where can we find cheap but reliable ones? Third-party websites like CompAndSave can significantly reduce your costs on printer cartridges without sacrificing quality or page yield. We have over 1,500 positive reviews of our customers remanufactured ink cartridges on Google and our website, which you can check to get an idea of how good our service is. 
+Now that we know what is remanufactured ink cartridge, where can we find cheap but reliable ones? Third-party websites like [CompAndSave](https://www.compandsave.com/) can significantly reduce your costs on printer cartridges without sacrificing quality or page yield. We have over 1,500 positive reviews of our customers remanufactured ink cartridges on Google and our website, which you can check to get an idea of how good our service is. 
 
 We also have a massive selection of high-quality replacement cartridges and the best compatible ink cartridges for all big and small brands, including, but not limited to:
 
-HP Remanufactured Ink Cartridges
+### HP Remanufactured Ink Cartridges
 
-CompAndSave is the answer to your expensive HP printer cartridge problems. We offer top-quality remanufactured ink cartridges for HP printers. Our large selection is organized by printer type and cartridge model, making it easy to find what you need. You can get cheap remanufactured HP ink and toner cartridges on our site starting from $4.99.
+CompAndSave is the answer to your expensive HP printer cartridge problems. We offer top-quality remanufactured ink cartridges for HP printers. Our large selection is organized by printer type and cartridge model, making it easy to find what you need. You can get [cheap remanufactured HP ink and toner cartridges](https://www.compandsave.com/hp) on our site starting from $4.99.
 
-Epson Remanufactured Ink Cartridges
+### Epson Remanufactured Ink Cartridges
 
-We have a vast collection of Epson remanufactured ink cartridges, offering high-quality prints at prices often lower than those of other brands. Our prices start from as low as $2.99, making it an affordable option for all your printing needs. 
+We have a vast collection of [Epson remanufactured ink cartridges](https://www.compandsave.com/epson), offering high-quality prints at prices often lower than those of other brands. Our prices start from as low as $2.99, making it an affordable option for all your printing needs. 
 
-Canon Remanufactured Ink Cartridges
+### Canon Remanufactured Ink Cartridges
 
-We offer remanufactured Canon ink cartridges starting from as low as $2.99. Our cartridges are backed by a 1-year warranty, ensuring you get the best remanufactured ink cartridges for your Canon printers.
+We offer [remanufactured Canon ink cartridges](https://www.compandsave.com/canon) starting from as low as $2.99. Our cartridges are backed by a 1-year warranty, ensuring you get the best remanufactured ink cartridges for your Canon printers.
 
-Brother Remanufactured Ink Cartridges
+### Brother Remanufactured Ink Cartridges
 
-CompAndSave offers remanufactured Brother ink and toner cartridges. We test each cartridge before we sell it to you, ensuring that you're getting the best quality possible for your money. Additionally, our remanufactured toner cartridges are significantly cheaper than the original ones, offering a cost-effective solution without compromising quality.
+CompAndSave offers [remanufactured Brother ink and toner cartridges](https://www.compandsave.com/brother). We test each cartridge before we sell it to you, ensuring that you're getting the best quality possible for your money. Additionally, our remanufactured toner cartridges are significantly cheaper than the original ones, offering a cost-effective solution without compromising quality.
 
 [](https://www.compandsave.com/top-10-tips-on-how-to-save-on-printer-ink)
