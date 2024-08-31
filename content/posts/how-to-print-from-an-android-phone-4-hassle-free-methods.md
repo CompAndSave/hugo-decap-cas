@@ -251,3 +251,30 @@ Once you've adjusted the settings, tap the print icon to send the print job to t
 (Image Source: [NokoPrint](https://www.nokoprint.com/?lang=en))
 
 *If you prefer, you can use a third-party app like NokoPrint to select and print your photos directly. These apps often simplify the process by integrating the print function within the app.*
+
+### How To Print Text Messages From Android?
+
+To print text messages from an Android phone, you can use two main methods: taking screenshots or using a third-party backup app. Here are the steps for both methods:
+
+* **Screenshots:** It's easy but comes with a hassle depending on how many texts you want to print.
+* **Super Backup app:** It is convenient and quick but requires downloading a 3rd party app.
+
+So let's discuss both:
+
+**Method 1: Using Screenshots to Print Texts from Android**
+
+**Step 1:** Open your SMS or messaging app on your Android device.
+
+**Step 2:** Go to the messages you want to print.
+
+**Step 3:** Press and hold the Power and Volume Down buttons simultaneously to take a screenshot of the messages. You can also use the "scrolling screenshots" feature if available on your device to capture more content.
+
+**Step 4:** Go to your Photos app and navigate to the Screenshots folder. Select the screenshots of the text messages you want to print.
+
+**Step 5:** Tap the share icon and select "Print" from the options.
+
+**Step 6:** Choose your printer from the list of available printers. Adjust any print settings if necessary and tap the print button to send the job to the printer.
+
+**Method 2: Using the Super Backup App**
+
+[![Super Backup App](/blog/images/screenshot-2024-08-31-at-1.39.04 pm.png "Super Backup App")](/blog/images/screenshot-2024-08-31-at-1.39.04 pm.png)
