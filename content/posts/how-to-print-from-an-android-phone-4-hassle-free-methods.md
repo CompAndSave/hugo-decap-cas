@@ -84,4 +84,72 @@ Open the document or file you want to print on your Android device. Select the p
 
 *NFC Connection: Some printers also feature an NFC connection (Near Field Communication), which makes it even easier and faster to connect Android to Bluetooth. Look for an NFC mark on the front or side of your printer if it supports an NFC connection. If you find it, turn on **NFC** on your phone and tap it on the printer where the NFC mark is. This should automatically connect the Android phone to the printer via Bluetooth.*
 
-[](https://www.compandsave.com/how-to-connect-printer-to-wifi)[](https://www.compandsave.com/how-to-connect-printer-to-wifi)
+### [](https://www.compandsave.com/how-to-connect-printer-to-wifi)[](https://www.compandsave.com/how-to-connect-printer-to-wifi)Method #2 - Print Using Wi-Fi
+
+How to print from Android phone to wireless printer? This one is done in a number of ways, but we'll focus on two: Android Default Print Service and Printer's Mobile App
+
+**Add Printer to Android Via Wi-Fi - Default Print Service**
+
+Almost all major printer brands, like Brother, HP, Dell, Canon, and Epson, offer wireless printing for Android phones. You can use Android's default print function or the printer's app. 
+
+Here's how to print from phone using Wi-Fi:
+
+**Step 1: Ensure Same Wi-Fi Network**
+
+Connect both your Android device and the printer to the same Wi-Fi network. If you have multiple Wi-Fi connections, your device may automatically connect to the one with the best signal strength, while your printer may be connected to a different one. Ensure they are connected to the same network.
+
+**Step 2: Access Settings**
+
+Go to your Android phone's settings menu. Use the search bar in the settings menu to find "Printing" and select it from the suggestions.
+
+**Step 3: Enable Default Print Service**
+
+Select "Default Print Service" (or "System Printing Service" on some devices) and turn it on. This will activate the service to scan for compatible printers on the network.
+
+**Step 4: Select Your Printer**
+
+A list of compatible printers connected to the same Wi-Fi network should appear. Select your printer model from this list. If your printer does not appear in the list, you can manually add it by tapping the three-dot menu icon or plus button and selecting "Add Printer." You can then choose to add the printer via Wi-Fi Direct or by entering its IP address.
+
+**Step 5: Confirm Connection**
+
+Once you've selected your printer, ensure it is correctly connected and ready for use. You can now print documents, photos, and web pages directly from your Android device.
+
+**What If It Doesn't Detect the Printer? Add Printer to Android Using Printer's Mobile App:**
+
+If your Android device does not detect your printer, you can use the printer's mobile app to connect and print. Here are the steps to follow:
+
+**Step 1: Access Printing Settings**
+
+Go to your Android device's settings menu. Search for "Printing" and select it from the results.
+
+**Step 2: Navigate to Default Print Service**
+
+Select "Default Print Service" or "System Printing Service" and toggle the switch to "On" if it's not already enabled.
+
+**Step 3: Check for Available Printers**
+
+If your printer is not listed, tap the three-dot menu icon or plus button in the top right and select "Add service" or "Add printer".
+
+**Step 4: Download Printer App**
+
+This will take you to the Google Play Store. Here, you can find and download the app for your printer's brand (e.g., Brother, HP, Dell, Canon, Epson).
+
+**Step 5: Install and Open the App**
+
+Download and install the app from the Google Play Store. Open the app and follow the prompts to allow necessary permissions.
+
+**Step 6: Scan for Printer**
+
+Open the printer settings again and select the newly installed app. Turn on the app and let it scan for your printer. It should now detect your printer.
+
+***Alternative: Use Third-Party Apps***
+
+*If the manufacturer's app does not work, you can try third-party printer applications like PrintShare Mobile Print from the Google Play Store.*
+
+### Method #3 - Print From Android Phone via USB
+
+This is also one of the most popular ways to print from Android phones, but it is not as easy as printing via Bluetooth. This is because you must install an app and buy an OTG device to connect the printer to an Android phone.
+
+[![OTG](/blog/images/screenshot-2024-08-31-at-1.32.26 pm.png "OTG")](/blog/images/screenshot-2024-08-31-at-1.32.26 pm.png)
+
+(Image Source: [Amazon](https://www.amazon.in/Adapter-Android-Smartphones-Assorted-Colour/dp/B0843NX7ML))
