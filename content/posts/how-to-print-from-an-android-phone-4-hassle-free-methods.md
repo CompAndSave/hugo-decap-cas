@@ -278,3 +278,71 @@ So let's discuss both:
 **Method 2: Using the Super Backup App**
 
 [![Super Backup App](/blog/images/screenshot-2024-08-31-at-1.39.04 pm.png "Super Backup App")](/blog/images/screenshot-2024-08-31-at-1.39.04 pm.png)
+
+(Image Source: [Google Play](https://play.google.com/store/apps/details?id=com.idea.backup.smscontacts&hl=en))
+
+**Step 1:** Download and install the "Super Backup and Restore" app from the Google Play Store.
+
+**Step 2:** When prompted, select a folder in your phone's directory where the app will store backups.
+
+**Step 3:** Tap on "SMS" and then "Backup Conversations." The app may ask for permission to access your contacts and messages. Grant the necessary permissions to proceed.
+
+**Step 4:** Check all the messages you want to print and tap "Back Up" at the bottom of the screen.
+
+**Step 5:** You will be asked to select a file name for the backup. You can rename it or leave it as is and click OK.
+
+**Step 6:** Go back to the app and click on "View Backups." Tap on the file you just created. The backed-up messages will open, and you will see a print button in the top right corner. Tap on it to print the text messages like any other document.
+
+### How To Print An Email From An Android Phone?
+
+Following these steps, you can easily print an email from your Android phone.
+
+**Step 1: Open the Email**
+
+Go to your email app (e.g., Gmail, Outlook) and open the email you want to print.
+
+**Step 2: Access the Print Option**
+
+Tap the three vertical dots (⋮) at the email's top right corner to open the drop-down menu. From the menu, tap on the "Print" option.
+
+**Step 3: Adjust Print Settings**
+
+Adjust the print settings such as paper size, orientation, color, and number of copies according to your preferences if needed.
+
+**Step 4: Select the Printer**
+
+Tap the "Select Printer" button and choose your printer from the list of available printers.
+
+**Step 5: Confirm and Print**
+
+Once you've selected your printer, review your print settings and tap the print button to send the print job to the printer.
+
+## Parting Words
+
+“How do I print from my Android phone?” As you can see, there are plenty of ways to print from an Android phone through the internet. But if your printer's Wi-Fi isn't working, you can use a USB cable or Bluetooth to connect your phone directly to the printer. This means you can print whenever necessary, even if your computer is unavailable. 
+
+With all these connectivity options, printing from an Android phone is easy and convenient. So, remember to follow our guide on how to print from Android phone, find the method that works best for you, and start printing effortlessly!
+
+If you have more questions about printing or want to order cheap ink cartridges for your printer, please contact us at our toll-free number: 1-833-465-6888. Our customer service team can help you from Monday to Friday, 6 am-4 pm PT.
+
+## Frequently Asked Questions
+
+### 1. What are the most common issues when printing from Android phones?
+
+Common issues when printing from Android phones include the printer not being detected, outdated printer apps or firmware, network connectivity problems, and compatibility issues with Android updates. To resolve these, ensure your printer and phone are on the same Wi-Fi network and restart both devices if necessary. Update your printer app and firmware to the latest versions. You can also check for Android updates affecting printing and adjust app permissions accordingly. 
+
+### 2. Can I print from my Android phone without an internet connection?
+
+Yes, you can print from your Android phone without an internet connection. You can use a USB cable to connect your phone directly to the printer or use Bluetooth if your printer supports it. This way, you can print documents and photos even when you don't have Wi-Fi.
+
+### 3. How do I update my printer app on my Android phone?
+
+To update your printer app on your Android phone, go to the Google Play Store and search for the printer app. Check if there are any updates available and install the latest version. This will help ensure compatibility and resolve any issues you might be experiencing with printing.
+
+## Related Articles:
+
+How To Fix Printer Offline Problem?
+
+How to Print From iPhone and iPad?
+
+How to Print Photos from Phone: Android vs iPhone Users
