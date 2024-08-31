@@ -153,3 +153,101 @@ This is also one of the most popular ways to print from Android phones, but it i
 [![OTG](/blog/images/screenshot-2024-08-31-at-1.32.26 pm.png "OTG")](/blog/images/screenshot-2024-08-31-at-1.32.26 pm.png)
 
 (Image Source: [Amazon](https://www.amazon.in/Adapter-Android-Smartphones-Assorted-Colour/dp/B0843NX7ML))
+
+Following these steps, you can successfully learn how to connect printer to Android phone via USB using an OTG device and print your documents:
+
+**Step 1: Determine USB Port Type**
+
+Check which [type of USB port](https://www.compandsave.com/help/articles/360057266471/different-usb-types-usb-ports-and-usb-connectors-guide) your phone has (e.g., USB-C, USB mini A, USB mini B, USB Micro A/B).
+
+**Step 2: Purchase OTG Device**
+
+Buy an OTG (On-The-Go) adapter that matches your phone's USB port type. This adapter will have a USB A port for the printer cable and a connector for your phone.         
+
+**Step 3: Connect USB Cable to Printer and OTG Device**
+
+Connect the USB B end of the printer cable to the printer. Next, connect the USB A end of the printer cable to the OTG device. Then, connect the OTG device to your phone.
+
+**Step 4: Download and Install NokoPrint App**
+
+Go to the Google Play Store and download the NokoPrint app. Alternatively, you can use the PrintShare Mobile Print app if NokoPrint does not work.
+
+**Step 5: Enable OTG Settings**
+
+Go to your phone's settings, navigate to additional settings, and scroll down to find the OTG settings. Turn on the OTG settings if available. If not, proceed to the next step.
+
+**Step 6: Install Printer Drivers**
+
+Once you connect the OTG device to your phone, you will get a pop-up from NokoPrint asking you to install printer drivers. Press OK and follow the prompts to select your printer and install its driver.
+
+**Step 7: Start Printing**
+
+After installing the drivers, you can start printing directly from your Android phone using the NokoPrint app.
+
+### Method #4 - Print from Android Using Google Cloud Alternative (Papercut Mobility)
+
+[![](/blog/images/screenshot-2024-08-31-at-1.34.40 pm.png)](/blog/images/screenshot-2024-08-31-at-1.34.40 pm.png)
+
+(Image Source: [Google Play](https://play.google.com/store/apps/details?id=com.papercut.projectbanksia&hl=en))
+
+After Google Cloud Print shut down in January 2021, people needed a new way to print from their devices. One good alternative is PaperCut, but you must connect your printer to start printing from your Android device. Here’s how you can do it:
+
+**Step 1: Ensure Same Wi-Fi Network**
+
+Ensure your Android device and the printer are connected to the same Wi-Fi network.
+
+**Step 2: Download and Install PaperCut Mobility Print**
+
+Go to the Google Play Store and download the PaperCut Mobility Print app. Then, create an account.
+
+**Step 3: Open the App and Navigate to Settings**
+
+Open the Mobility Print app and navigate to your Android device's settings. In the settings, select "Mobility Print" and turn it on by tapping the toggle button in the top right corner. Then exit the settings
+
+**Step 4: Open the File to Print**
+
+Open the document, photo, or webpage you want to print from your Android device.
+
+**Step 5: Select the Printer**
+
+Tap the menu button (usually three vertical dots) and select the "Print" option. Choose your printer from the list of available printers. If you don't see your printer, ensure the Mobility Print service is enabled.
+
+**Step 6: Authenticate and Print**
+
+Enter your username and password to authenticate with the PaperCut system if prompted. Once authenticated, tap the print icon to send the print job to the printer
+
+## How To Print From Android Phone – Photos, Texts, Email
+
+How do I print from my Android phone? Well, now that you have connected the printer to your Android phone, you can print out the content you have on your phone. Here are the steps to print either photos, texts, or emails using your Android phone.
+
+### How To Print Photos From An Android Phone?
+
+If you want to print photos from Android, the process is simple. Follow these steps:
+
+**Step 1: Open the Photos App or File Manager**
+
+Open your photos app (such as Google Photos or Gallery) or go to the File Manager. Then, choose the photos you want to print by tapping on them.
+
+**Step 2: Access the Print Option**
+
+Find the "Print" option in the menu. This is usually represented by three vertical dots (⋮) in the top-right corner of the screen. Tap on these dots to open the menu and select "Print."
+
+**Step 3: Select Your Printer**
+
+Tap on the "Select Printer" button. If you use an app like PaperCut, you will see its icon next to the printer. Choose your connected printer from the list.
+
+**Step 4: Adjust Print Settings**
+
+Adjust the print settings, such as paper size, color, and orientation. You may need to expand the menu to see these options.
+
+**Step 5: Confirm and Print**
+
+Once you've adjusted the settings, tap the print icon to send the print job to the printer.
+
+***Alternative: Using Third-Party Apps***
+
+[![NokoPrint](/blog/images/screenshot-2024-08-31-at-1.37.00 pm.png "NokoPrint")](/blog/images/screenshot-2024-08-31-at-1.37.00 pm.png)
+
+(Image Source: [NokoPrint](https://www.nokoprint.com/?lang=en))
+
+*If you prefer, you can use a third-party app like NokoPrint to select and print your photos directly. These apps often simplify the process by integrating the print function within the app.*
