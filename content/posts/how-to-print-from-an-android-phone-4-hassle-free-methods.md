@@ -341,8 +341,8 @@ To update your printer app on your Android phone, go to the Google Play Store an
 
 ## Related Articles:
 
-How To Fix Printer Offline Problem?
+[How To Fix Printer Offline Problem?](https://www.compandsave.com/blog/posts/how-to-fix-printer-offline-problem-guide-2024-compandsave.html)
 
-How to Print From iPhone and iPad?
+[How to Print From iPhone and iPad?](https://www.compandsave.com/how-to-print-from-iphone-or-ipad-guide)
 
-How to Print Photos from Phone: Android vs iPhone Users
+[How to Print Photos from Phone: Android vs iPhone Users](https://www.compandsave.com/blog/posts/how-to-print-photos-from-phone-android-vs-iphone-users.html)
