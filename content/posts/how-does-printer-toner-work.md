@@ -1,6 +1,6 @@
 ---
 title: "How Does a Laser Printer Work: Exploring Laser Technology"
-date: 2024-03-08T07:15:13.599Z
+date: 2024-09-01T01:16:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/how-does-a-laser-printer-work.png
 description: Wondering how does a laser printer work? Explore the mechanism
