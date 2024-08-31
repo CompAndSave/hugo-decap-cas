@@ -77,7 +77,7 @@ Compatible ink cartridges are made of brand-new parts designed to fit specific p
 
 ### 2. Remanufactured Ink Cartridges
 
-Remanufactured cartridges are made from used original ink cartridges. These old cartridges are cleaned, inspected, and refilled to work as well as new ones, but at a lower cost. Choosing remanufactured cartridges saves you money and helps the environment by reducing waste in landfills.
+Remanufactured cartridges are made from used original ink cartridges. These old cartridges are [cleaned, inspected, and refilled](https://www.compandsave.com/blog/posts/remanufactured-printer-cartridges-how-are-they-made.html) to work as well as new ones, but at a lower cost. Choosing remanufactured cartridges saves you money and helps the environment by reducing waste in landfills.
 
 **Benefits of Remanufactured Ink Cartridges:**
 
@@ -93,7 +93,7 @@ Remanufactured cartridges are made from used original ink cartridges. These old 
 
 These are kits that allow you to refill your empty cartridges. It is important to note that you should refill the original or genuine empty cartridge only and not the remanufactured or compatible cartridge. 
 
-If you prefer this option, ensure you have the right tools and clear instructions to refill your empty original ink cartridge, especially if it's your first time trying. CompAndSave offers a universal ink refill kit in black, cyan, magenta, and yellow, along with tools and manuals to help you with the process.
+If you prefer this option, ensure you have the right tools and clear instructions to [refill your empty original ink cartridge](https://www.compandsave.com/how-to-refill-ink-cartridges-guide), especially if it's your first time trying. CompAndSave offers a [universal ink refill kit](https://www.compandsave.com/ink-refill-bulk-ink/color-3x30ml) in black, cyan, magenta, and yellow, along with tools and manuals to help you with the process.
 
 **Benefits of Ink Refill Kits:**
 
@@ -105,7 +105,7 @@ If you prefer this option, ensure you have the right tools and clear instruction
 
 ✅DIY approach with potential long-term savings.
 
-***Here's a helpful tip:** Using compatible or remanufactured ink cartridges won't void your printer warranty. It's a win-win situation where you save money and help the environment, all while getting excellent print results.*
+**\*Here's a helpful tip:** Using compatible or remanufactured ink cartridges won't void your printer warranty. It's a win-win situation where you save money and help the environment, all while getting excellent print results.*
 
 ## Cheap Ink Cartridges: Where To Buy?
 
@@ -150,7 +150,5 @@ No. Using third-party ink or toner cartridges will not void your printer's warra
 [Eco-Friendly Ink Cartridges: Print With A Purpose](https://www.compandsave.com/blog/posts/eco-friendly-ink-cartridges-print-with-a-purpose-2024.html)
 
 [Eco-Friendly Printing: How It Works and How You Can Help](https://www.compandsave.com/blog/posts/eco-friendly-printing-how-it-works-and-how-you-can-help.html)
-
-
 
 [](https://www.compandsave.com/top-5-cheap-toner-cartridges)
