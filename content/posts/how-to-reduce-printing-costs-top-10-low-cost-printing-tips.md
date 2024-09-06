@@ -122,6 +122,22 @@ So, here are the steps to adjust margins:
 
 **Step 5:** Click OK to apply the changes.
 
+### Tip #5 - Make Use of Duplex Printing
+
+Duplex printing is a great way to print at a low cost. It lets you print on both sides of the sheet, cutting paper usage by 50%. However, not all printers can do this, so check your printer's manual to see if it has this feature.
+
+Printers with duplex printing often have an automatic feature that flips the pages for you. This means you just need to press the multi-page printing button, and the printer will handle the rest. It saves time and effort because you don't have to manually flip the pages, making it another excellent tip for low-cost printing.
+
+Here are a general steps for Microsoft Office applications:
+
+**Step 1:** Open Print Dialog. Go to File > Print (or press CTRL+P on Windows or Command + P on Mac).
+
+**Step 2:** Look for the Settings or Layout section in the print settings.
+
+**Step 3:** Under Settings, click “Print One Sided” and select “Print on Both Sides” if available. If not, you can select “Manually Print on Both Sides” for manual duplex printing.
+
+**Step 4:** Follow the on-screen instructions for manual duplex printing if necessary. For automatic duplex printing, simply click Print to start the job.
+
 
 
 [](https://www.compandsave.com/top-5-cheap-toner-cartridges)
