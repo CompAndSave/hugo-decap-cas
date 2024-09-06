@@ -67,7 +67,7 @@ Look for error messages or blinking lights indicating problems like low ink, [pa
 
 One of the simplest solutions is to unplug the cable from the back of the printer. Check the cable connections because loose or damaged cables can cause issues. After 10 seconds, reconnect the cable to the printer. Check if the blinking light disappears. If not, try using different ports or a new cable. If the printer works with the new cable, it’s time to replace the old one.
 
-[![](/blog/images/screenshot-2024-09-06-at-8.15.16 pm.png)](/blog/images/screenshot-2024-09-06-at-8.15.16 pm.png)
+[![Inspect Cable Connections](/blog/images/screenshot-2024-09-06-at-8.15.16 pm.png "Inspect Cable Connections")](/blog/images/screenshot-2024-09-06-at-8.15.16 pm.png)
 
 *[](https://www.compandsave.com/how-to-disable-hp-cartridge-protection/)Image Source: [Copy Print Scan](https://www.youtube.com/watch?v=TkmqYmCtF5s)*
 
@@ -93,4 +93,35 @@ It's a good idea to start using tools like "Diagnose & Fix" or "HP Print and Sca
 
 **A. Run HP Diagnose and Fix**
 
-[![](/blog/images/screenshot-2024-09-06-at-8.18.36 pm.png)](/blog/images/screenshot-2024-09-06-at-8.18.36 pm.png)
+[![Run HP Diagnose and Fix](/blog/images/screenshot-2024-09-06-at-8.18.36 pm.png "Run HP Diagnose and Fix")](/blog/images/screenshot-2024-09-06-at-8.18.36 pm.png)
+
+
+
+The steps below will apply to both Windows and Mac.
+
+**Step 1. Setting Up on Wi-Fi Network**
+
+* Place the printer and computer near the Wi-Fi router.
+* Turn on the computer's Wi-Fi and connect to your network.
+* If using Ethernet, temporarily disconnect it and use Wi-Fi for setup.
+* Enable Bluetooth on the computer for printer detection during setup.
+
+**Step 2. Download the HP Smart App**
+
+* Get the HP Smart app from the Microsoft Store (Windows) or Mac App Store (macOS).
+* If using HP Smart for the first time, create or sign in to an HP account after installing.
+
+**Step 3. Adding Printer**
+
+* Click "Add Printer" or the Add icon from the app home screen.
+* Follow the prompts to set up your printer.
+
+**Step 4. Troubleshooting with Diagnose & Fix**
+
+Find and run "Diagnose & Fix" within the HP Smart app.
+
+In Windows, click the Diagnose & Fix icon. In macOS, open Diagnose & Fix from the printer menu.
+
+Click "Start" to run the troubleshooter.
+
+Follow the provided instructions for any detected issues.
