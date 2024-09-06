@@ -68,7 +68,9 @@ You can also adjust other print settings, such as the number of copies, page ori
 
 **Step 1:** Open your PDF or image in the Preview app.
 
-**Step 2:** To see the thumbnails of all pages, choose View > Thumbnails. To print only selected pages, Command-click the thumbnails of the pages you want to print. Step 3: Choose File > Print to open the print dialog.
+**Step 2:** To see the thumbnails of all pages, choose View > Thumbnails. To print only selected pages, Command-click the thumbnails of the pages you want to print. 
+
+**Step 3:** Choose File > Print to open the print dialog.
 
 **Step 4:** Adjust print options such as scaling, auto-rotating, and including notes if applicable.
 
@@ -87,5 +89,39 @@ Here's how to do it for both Windows and Mac:
 **Step 3:** Make any other necessary adjustments, such as selecting the correct printer and choosing the pages to print.
 
 **Step 4:** Click Print to send the job to the printer.
+
+### Tip #3 - Adjust Print Density
+
+Print density is how dark you want your printouts to be. If you are only printing drafts, you can use this setting to save on ink or toner, which can reduce printing costs.
+
+Here's how to reduce print density to save money on printer ink:
+
+**Step 1:** Open the Print Dialog. Go to File > Print (or press CTRL+P on Windows or Command + P on Mac).
+
+**Step 2:** Look for options like "Print Quality," "Ink Density," or "Toner Density" in the print settings.
+
+**Step 3:** Adjust the setting to a lower density or quality.
+
+**Step 4:** Click Print to send the job to the printer.
+
+### Tip #4 - Reduce Margins
+
+Another way how to save on printing costs is to reduce the margins in your Microsoft Word documents. By default, Microsoft Word sets 1.25-inch margins, which can lead to a lot of wasted paper if not used properly. That’s why it's advisable to reduce margins to 0.75 inches. Doing so will free up enough room to print more words per page and save more on paper. 
+
+For academic papers like research papers or essays, you might need to follow specific margin rules. But for other types of documents, you can adjust the margins to save paper.
+
+So, here are the steps to adjust margins:
+
+**Step 1:** Open your document in Microsoft Word. 
+
+**Step 2:** Go to the Layout tab.
+
+**Step 3:** Click the Margins button and select Custom Margins from the drop-down menu. 
+
+**Step 4:** In the Page Setup dialog box, enter 0.75 inches for the top, bottom, left, and right margins.
+
+**Step 5:** Click OK to apply the changes.
+
+
 
 [](https://www.compandsave.com/top-5-cheap-toner-cartridges)
