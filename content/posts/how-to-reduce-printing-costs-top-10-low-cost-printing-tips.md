@@ -64,4 +64,28 @@ You can also adjust other print settings, such as the number of copies, page ori
 
 **Step 5:** When ready, click “Print” to send the job to the printer.
 
+**On Mac (Using Preview)**
+
+**Step 1:** Open your PDF or image in the Preview app.
+
+**Step 2:** To see the thumbnails of all pages, choose View > Thumbnails. To print only selected pages, Command-click the thumbnails of the pages you want to print. Step 3: Choose File > Print to open the print dialog.
+
+**Step 4:** Adjust print options such as scaling, auto-rotating, and including notes if applicable.
+
+**Step 5:** Click Print to send the job to the printer.
+
+### Tip #2 - Use Grayscale Printing Mode
+
+Use grayscale when you want to print something in black and white. Printers often use multiple ink colors to create black, which can waste ink. Using grayscale helps you save on ink costs and ensures you use your black ink cartridge more effectively.
+
+Here's how to do it for both Windows and Mac:
+
+**Step 1:** Open the Print Dialog. Go to File > Print (or press CTRL+P on Windows or Command + P on Mac).
+
+**Step 2:** In the print settings, look for an option like "Print in Grayscale" or "Black and White." Select this option.
+
+**Step 3:** Make any other necessary adjustments, such as selecting the correct printer and choosing the pages to print.
+
+**Step 4:** Click Print to send the job to the printer.
+
 [](https://www.compandsave.com/top-5-cheap-toner-cartridges)
