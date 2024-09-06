@@ -51,4 +51,12 @@ Have you tried printing many documents at once? Well, A stuck or full print queu
 
 Outdated or corrupted printer drivers can interfere with communication between your device and printer, causing it to go offline.
 
+## How To Fix HP Printer Offline Problem: Initial Checks
+
+Now that we know some common reasons “Why is my HP printer offline?” Let's look at some easy checks you can do to fix it. Printers can go offline for different reasons, from minor issues to bigger ones. So before trying to fix a complex problem, start by doing these simple checks:
+
+### 1. Check for Error Messages and Blinking Lights
+
+Look for error messages or blinking lights indicating problems like low ink, paper jams, Wi-Fi, etc. See the sample picture below for HP Deskjet 2700 series, 2600 series, 3700 series, and 4100 series printers.
+
 [](https://www.compandsave.com/how-to-disable-hp-cartridge-protection/)
