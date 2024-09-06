@@ -174,3 +174,33 @@ Check if your printer is set as the default printer. If your preferred printer i
 **Step 2:** In the System Preferences window, click "Printers & Scanners."
 
 **Step 3:** Click the "Default printer" dropdown menu and choose the printer you want to set as default. If you prefer, you can also select "Last Printer Used." This option sets the default printer to the last printer you used at your current network location.
+
+**B. Disable Use Printer Offline Mode**
+
+By following these steps, you will disable the "Use Printer Offline" mode, which should help resolve the issue of your printer being offline.
+
+**For Windows**
+
+**Step 1:** Open the Windows search bar, type "control panel," and select "Control Panel" from the results.
+
+**Step 2:** Select "Hardware and Sound" or "Devices and Printers" in the Control Panel.
+
+**Step 3:** Find your printer in the list of devices and right-click on it.
+
+**Step 4:** Choose "See what's printing" or "Open print queue" from the context menu.
+
+**Step 5:** In the print queue window, click the "Printer" menu at the top.
+
+**Step 6:** If the printer is offline, a checkmark will be next to "Use Printer Offline." Click it to disable offline mode. Your printer will switch to online mode and should be ready for printing.
+
+**For Mac**
+
+**Step 1:** Click the Apple menu icon in the top-left corner of your screen.
+
+**Step 2:** From the dropdown menu, select "System Preferences."
+
+**Step 3:** In the System Preferences window, click on "Printers & Scanners" or "Print & Scan."  From the list on the left, select your printer.
+
+**Step 4:** Click "Options & Supplies" or "Open Print Queue" to open the print queue window. Then, click the "Printer" menu at the top.
+
+**Step 5:** If your printer is in offline mode, you will see an option to "Resume" or "Unpause" printing. Click it to disable offline mode and switch your printer to online mode.
