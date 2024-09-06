@@ -355,10 +355,10 @@ To get your HP printer back online, identify the cause of its offline status and
 
 ## Related Articles:
 
-How To Fix Printer Offline Problem?
+[How To Fix Printer Offline Problem?](https://www.compandsave.com/blog/posts/how-to-fix-printer-offline-problem-guide-2024-compandsave.html)
 
-How to Fix Brother Printer Offline Problem?
+[How to Fix Brother Printer Offline Problem?](https://www.compandsave.com/blog/posts/how-to-fix-brother-printer-offline-for-mac-and-windows.html)
 
-How to Fix Epson Printer Offline Problem?
+[How to Fix Epson Printer Offline Problem?](https://www.compandsave.com/blog/posts/how-to-fix-epson-printer-offline-problems-on-windows-and-mac.html?view=abc%2F)
 
-How to Fix Canon Printer Offline Problem?
+[How to Fix Canon Printer Offline Problem?](https://www.compandsave.com/blog/posts/how-to-fix-canon-printer-offline-on-mac-and-windows.html)
