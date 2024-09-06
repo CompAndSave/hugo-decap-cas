@@ -146,6 +146,34 @@ Still need more tips on how to cut printing costs? Well, Here are five additiona
 
 When printing, choose fonts that use less ink and print at a lower resolution to save money. Some fonts, like Calibri and Century Gothic, use more ink than others, based on a font test done by Toner Buzz. *(**Note:** The fonts are written in their respective font styles.)*
 
+[![Ink-Friendly Fonts](/blog/images/screenshot-2024-09-06-at-10.25.45 pm.png "Ink-Friendly Fonts")](/blog/images/screenshot-2024-09-06-at-10.25.45 pm.png)
 
+*Image Source: [Toner Buzz](https://www.tonerbuzz.com/blog/which-fonts-use-the-least-ink-toner/)*
+
+Use old-fashioned fonts like Times New Roman, Garamond, or Courier New to save money on color printing. For a modern look, Ryman Eco is at the top of the list. Fun fact! The Ryman Eco creators claim that if their font is used in every country, we could save 490 million dollars in ink cartridges.
+
+### Tip #7 - Select the Right Paper
+
+To reduce printing costs, choose the right paper. Cheap paper can cause your printer to jam, while high-quality paper is expensive. Instead, use a middle-ground option that is affordable and practical. Non-coated papers can also save you money. For most projects, standard-sized paper like 8.5" x 11" is a good choice because it uses less ink and produces clean pages.
+
+If you need to print on larger sheets, be prepared to trim the excess, which can waste paper and money. A better option is to use recycled paper, which helps save resources and money while being environmentally friendly. Using recycled paper is good for both your budget and the planet, reducing your carbon footprint over time.
+
+### Tip #8 - Save Files to PDF
+
+There are also other ways to reduce printing costs, such as saving files as PDFs. Since many people prefer sharing digital files, PDFs are a convenient option. Copying files manually is time-consuming and wastes ink and paper, so switching to digital PDFs can save you time and resources.
+
+Only print documents when necessary, like when someone needs a hard copy immediately. Otherwise, stick to digital copies, which are a simple and inexpensive way to manage your documents.
+
+Here's how to save a file to PDF:
+
+**Step 1:** Open the document you want to save as a PDF in its respective application (e.g., Microsoft Word, Google Docs).
+
+**Step 2:** Click on the File menu.
+
+**Step 3:** Choose “Print” or “Save As,” depending on the application.
+
+**Step 4:** If you choose Print, select the “Save as PDF” or “Print to PDF” option from the printer list. If you choose Save As, select PDF from the file type options.
+
+**Step 5:** Choose a location to save the PDF and name it. Click “Save” to complete the process.
 
 [](https://www.compandsave.com/top-5-cheap-toner-cartridges)
