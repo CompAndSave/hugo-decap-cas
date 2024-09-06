@@ -108,7 +108,7 @@ The steps below will apply to both Windows and Mac.
 
 **Step 2. Download the HP Smart App**
 
-* Get the HP Smart app from the Microsoft Store (Windows) or Mac App Store (macOS).
+* Get the [HP Smart app](https://play.google.com/store/apps/details?id=com.hp.printercontrol&hl=en) from the Microsoft Store (Windows) or Mac App Store (macOS).
 * If using HP Smart for the first time, create or sign in to an HP account after installing.
 
 **Step 3. Adding Printer**
@@ -118,10 +118,7 @@ The steps below will apply to both Windows and Mac.
 
 **Step 4. Troubleshooting with Diagnose & Fix**
 
-Find and run "Diagnose & Fix" within the HP Smart app.
-
-In Windows, click the Diagnose & Fix icon. In macOS, open Diagnose & Fix from the printer menu.
-
-Click "Start" to run the troubleshooter.
-
-Follow the provided instructions for any detected issues.
+* Find and run "Diagnose & Fix" within the HP Smart app.
+* In Windows, click the Diagnose & Fix icon. In macOS, open Diagnose & Fix from the printer menu.
+* Click "Start" to run the troubleshooter.
+* Follow the provided instructions for any detected issues.
