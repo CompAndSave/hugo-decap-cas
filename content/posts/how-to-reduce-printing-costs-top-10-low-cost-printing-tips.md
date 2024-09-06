@@ -176,4 +176,18 @@ Here's how to save a file to PDF:
 
 **Step 5:** Choose a location to save the PDF and name it. Click “Save” to complete the process.
 
+### Tip #9 - Print Only What's Necessary
+
+To save on printer ink, only print what you need. Before printing, many people forget to remove unnecessary parts of documents, like big titles, ads, and banners. For example, printing a screenshot from the internet might include ad banners that waste ink. To avoid this, crop the image before printing to reduce ink consumption and save on cartridges.
+
+If you need to print something for non-essential use, use draft-quality printing. This method saves ink and is quicker than printing in high quality. It's perfect when you just need a quick printout that doesn't require the best quality. This way, you can have a hard copy without wasting too much ink.
+
+### Tip #10 - Buy High-Quality Generic Cartridges
+
+Printer ink cartridges can be expensive, but you can save money using generic ones instead of OEMs (original equipment manufacturers). Before buying, research and read reviews to ensure the generic cartridges are high-quality. Cheap doesn't always mean you're saving money, so make sure they won't cause printing problems.
+
+Third-party companies like [CompAndSave](https://www.compandsave.com/) offer generic cartridges with a 1-year satisfaction guarantee. These budget-friendly options match the performance and quality of original inks like HP, Epson, and Canon. 
+
+By being careful and creative with your printer usage, you can save hundreds of dollars in the long run. Try these print cost-reduction tips to make printing more affordable and effective!
+
 [](https://www.compandsave.com/top-5-cheap-toner-cartridges)
