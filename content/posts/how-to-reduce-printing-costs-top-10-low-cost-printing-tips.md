@@ -225,10 +225,10 @@ To save energy when printing, use energy-efficient printers, especially those wi
 
 ## Related Articles:
 
-How to Save On Printer Ink?
+[How to Save On Printer Ink?](https://www.compandsave.com/blog/posts/how-to-save-on-printer-ink-save-more-with-compandsave.html)
 
-How to Calculate Printing Cost Per Page?
+[How to Calculate Printing Cost Per Page?](https://www.compandsave.com/blog/posts/printing-cost-per-page-calculator-calculate-printing-easily.html)
 
-Why Are Printer Inks So Expensive: Factors And Alternatives
+[Why Are Printer Inks So Expensive: Factors And Alternatives](https://www.compandsave.com/blog/posts/why-printer-ink-is-so-expensive-factors-and-alternatives.html)
 
 [](https://www.compandsave.com/top-5-cheap-toner-cartridges)
