@@ -146,3 +146,31 @@ For now, "HP Print and Scan Doctor" is **for Windows only**, but MacOS users can
 **Step 7:** Review the diagnostic results to identify any issues.
 
 **Step 8:** Follow the recommended solutions provided by HP Print and Scan Doctor.
+
+### 2) Printer Configuration Issues
+
+“My HP printer is offline. How do I fix it?” Well, if your printer settings are incorrect, it might go offline. Here are some common setup problems and simple steps to fix your HP printer on Windows or macOS.
+
+**A. Set the Default Printer**
+
+Check if your printer is set as the default printer. If your preferred printer isn't set as the default, it might appear as offline.
+
+[![Set the Default Printer](/blog/images/screenshot-2024-09-06-at-8.24.45 pm.png "Set the Default Printer")](/blog/images/screenshot-2024-09-06-at-8.24.45 pm.png)
+
+**For Windows**
+
+**Step 1:** Go to the taskbar, search for “Printers & Scanners,” and open it.
+
+**Step 2:** Ensure that the default printer option is turned off.
+
+**Step 3:** Look for a green check mark next to your printer. If it’s there, your printer is already set as the default. If there’s no green check mark, click on the printer icon in the list to open the main menu.
+
+**Step 4:** Select the “Set as Default” option to make your HP printer the default printer. Your printer should now be online, and you won’t see the “My HP printer is offline” message anymore.
+
+**For Mac**
+
+**Step 1:** Click the Apple menu icon in the top-left corner of your screen. Select "System Preferences" or "System Settings” from the dropdown menu.
+
+**Step 2:** In the System Preferences window, click "Printers & Scanners."
+
+**Step 3:** Click the "Default printer" dropdown menu and choose the printer you want to set as default. If you prefer, you can also select "Last Printer Used." This option sets the default printer to the last printer you used at your current network location.
