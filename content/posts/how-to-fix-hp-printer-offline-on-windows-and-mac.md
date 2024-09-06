@@ -204,3 +204,51 @@ By following these steps, you will disable the "Use Printer Offline" mode, which
 **Step 4:** Click "Options & Supplies" or "Open Print Queue" to open the print queue window. Then, click the "Printer" menu at the top.
 
 **Step 5:** If your printer is in offline mode, you will see an option to "Resume" or "Unpause" printing. Click it to disable offline mode and switch your printer to online mode.
+
+**C. Disable SNMP Function (Simple Network Management Protocol)**
+
+SNMP is a tool used to monitor and manage devices on a network. For most home users, it's not necessary to have SNMP turned on. However, if you use a work printer, you might need permission from your IT department.
+
+If you need to turn off SNMP, follow these steps:
+
+**For Windows**
+
+**Step 1:** Go to "Control Panel" > "Administrative Tools" > "Services".
+
+**Step 2:** Look for "SNMP Service" and "SNMP Trap Service".
+
+**Step 3:** Right-click each service, select "Properties," and set "Startup type" to "Disabled." Click "Stop" if the service is running, then click "OK".
+
+**Step 4:** Click “Options & Supplies,” find “Enable SNMP” and disable it.
+
+**Step 5:** Now, close the Printer window and restart your Mac.
+
+**Step 6: (Alternative: Use Command Prompt)**
+
+Open Command Prompt as an administrator. Run these commands:
+
+net stop snmp service
+
+net stop snmp trap service
+
+sc config snmp service start=disabled
+
+sc config snmp trap service start=disabled
+
+**Step 7:** Go to "Settings" > "Bluetooth & devices" > "Printers & scanners". Select the printer, right-click, and go to "Properties". Uncheck the SNMP checkbox, click "Apply," and then "OK."
+
+**For Mac**
+
+**Step 1:** Go to the Apple menu in the top-left corner and select "System Preferences."
+
+**Step 2:** Then click on "Printers & Scanners" or "Print & Scan."
+
+**Step 3:** Select your printer from the list on the left-hand side.
+
+**Step 4:** Click the "Options & Supplies" or "Open Print Queue."
+
+**Step 5:** In the Options tab, look for an option related to SNMP or "Enable SNMP" and uncheck or disable it.
+
+**Step 6:** Close the Printer Options window.
+
+**Step 7:** Restart your Mac for the changes to take effect.
