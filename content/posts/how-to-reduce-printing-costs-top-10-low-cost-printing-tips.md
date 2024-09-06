@@ -138,6 +138,14 @@ Here are a general steps for Microsoft Office applications:
 
 **Step 4:** Follow the on-screen instructions for manual duplex printing if necessary. For automatic duplex printing, simply click Print to start the job.
 
+## How To Cut Printing Costs: Additional Tips
+
+Still need more tips on how to cut printing costs? Well, Here are five additional things you can do to save money and reduce your printing expenses:
+
+### Tip #6 - Use Ink-Friendly Fonts
+
+When printing, choose fonts that use less ink and print at a lower resolution to save money. Some fonts, like Calibri and Century Gothic, use more ink than others, based on a font test done by Toner Buzz. *(**Note:** The fonts are written in their respective font styles.)*
+
 
 
 [](https://www.compandsave.com/top-5-cheap-toner-cartridges)
