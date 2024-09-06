@@ -51,7 +51,7 @@ Using photo paper makes your prints look really professional and polished. The p
 
 But the tricky part is there are different kinds of photo paper. So, how can we pick what's best for your needs? Let's figure it out!
 
-## Best Photo Paper for Inkjet Printer: Exploring Different Types You Can Use
+## Best Photo Paper for Inkjet Printer: Exploring Different Types You Can Use {#photo_paper}
 
 When it comes to [printing your favorite photos](https://www.compandsave.com/how-to-print-high-quality-photos-at-home), picking the best photo paper for inkjet printer can make a big difference. [Various types of photo paper](https://youtu.be/MxrrAky_j7M) are designed to work with inkjet printers, each offering unique qualities to enhance your prints. So, let's tackle each of them, helping you find the perfect match for your printing needs.
 
