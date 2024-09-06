@@ -295,6 +295,6 @@ Windows and Mac have a service that manages the print queue, which can sometimes
 
 **Step 2:** Right-click a space, and choose "Reset printing system."
 
-**Step 3:** A confirmation pop-up will appear, letting you know that resetting the printing system will remove all printers. To continue, click the "Reset" button. (Note: If prompted, enter your administrator password and click the "OK" button.)
+**Step 3:** A confirmation pop-up will appear, letting you know that resetting the printing system will remove all printers. To continue, click the "Reset" button. (**Note:** If prompted, enter your administrator password and click the "OK" button.)
 
 **Step 4:** Once the printing system is reset, you can re-add your printers by clicking the "+" button in the Printers & Scanners window and following the instructions on the screen.
