@@ -19,7 +19,7 @@ tags:
 
 Do you spend a lot of money on printing each year and want to lower your costs? If so, you're not the only one. Having a printer at home or work can be expensive, especially when you use ink cartridges. So, how to reduce printing costs?
 
-In this guide, we'll share tips to achieve a lower cost of printing that will help you save money in the long run. From saving ink to finding creative ways to reduce paper usage, we have helpful tips for you. Also, if you want to learn more about [eco-friendly printing](https://www.compandsave.com/blog/posts/eco-friendly-printing-how-it-works-and-how-you-can-help.html), check out this guide on how it works. Let's get started and explore ways how to cut printing costs today!
+In this guide, we'll share tips to achieve a lower cost of printing that will help you save money in the long run. From saving ink to finding creative ways to reduce paper usage, we have helpful tips for you. Also, if you want to learn more about [eco-friendly printing](https://www.compandsave.com/blog/posts/eco-friendly-printing-how-it-works-and-how-you-can-help.html), check out this guide on how it works. Let's get started and explore ways on how to cut printing costs today!
 
 **Here are some things we will discuss in this guide:**
 
