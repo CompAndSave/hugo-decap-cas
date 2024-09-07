@@ -3,7 +3,7 @@ title: "Why Is My HP Printer Offline: Easy Fixes For Windows And Mac"
 date: 2024-09-06T08:35:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/ingoude.-presentation-25-.png
-description: If you're asking yourself, "Why is my HP printer offline?" let's
+description: If you're asking yourself, "Why is my HP printer offline?" Let's
   talk about the causes and some solutions on how to fix HP printer offline
   problems!
 tags:
