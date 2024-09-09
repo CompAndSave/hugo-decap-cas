@@ -1,6 +1,6 @@
 ---
 title: "Inkjet vs Laser: Difference Between Inkjet and Laser Printers Guide"
-date: 2024-03-09T08:08:01.127Z
+date: 2024-09-09T09:02:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/inkjet-vs-laser.png
 description: Torn between inkjet vs laser? Find out the difference between
