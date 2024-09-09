@@ -1,6 +1,6 @@
 ---
 title: "The Best Home Office Printers: Optimize Your Home Workspace"
-date: 2024-03-08T07:32:03.967Z
+date: 2024-09-09T09:03:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/best-home-office-printers.png
 description: Boost productivity and streamline your workflow with the Best Home
