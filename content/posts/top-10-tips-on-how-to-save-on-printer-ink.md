@@ -18,4 +18,11 @@ tags:
 ---
 [![Printing Errors](/blog/images/ingoude.-presentation-28-.png "Common Printing Errors That Waste Ink: Tips To Avoid Them")](/blog/images/ingoude.-presentation-28-.png)
 
-[](https://www.compandsave.com/top-5-cheap-toner-cartridges)
+Have you tried printing before only to find that it doesn’t come out how you want it? Well, printing errors waste not only [costly ink](https://www.compandsave.com/blog/posts/why-printer-ink-is-so-expensive-factors-and-alternatives.html) but also paper. So, what can we do to stop it from happening again?
+
+In this guide, we’ll cover the most common printing mistakes that waste ink, including incorrect printer settings. Not only that. We will also learn some ways to avoid these errors so you can save more ink!
+
+**With that, here are some things we will discuss:**
+
+* Printing Errors: What Are Some Of Them?
+* Printing Mistakes: Tips to Avoid Ink Waste
