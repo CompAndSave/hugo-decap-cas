@@ -51,4 +51,8 @@ Sometimes, people print documents without checking how they will look on paper. 
 
 ### 5. Not Regularly Cleaning the Printhead
 
-If you don’t clean the printhead regularly, it can get clogged with dried ink. When this happens, the printer might use more ink to try and print correctly, but the prints will still come out bad. This wastes ink and sometimes won’t fix the problem.
+If you don’t clean the printhead regularly, it can get clogged with dried ink. When this happens, the printer might use more ink to try and print correctly, but the prints will still come out bad. This wastes ink and sometimes won’t fix the problem. 
+
+## Printing Mistakes: Tips to Avoid Ink Waste
+
+Now that we’ve listed some common printing errors let’s focus on how to avoid them and save on ink. By making a few easy changes and following good printing habits, you can cut down on ink use and make your printing more efficient. So, here are some tips to help you avoid wasting ink and [save more money on ink costs](https://www.compandsave.com/blog/posts/how-to-save-money-on-printer-ink-simple-tips-for-home-and-office-printing.html).
