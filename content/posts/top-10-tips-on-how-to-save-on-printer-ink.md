@@ -111,8 +111,8 @@ Regularly taking care of your printer helps save ink. One key part is cleaning t
 
 ## Related Articles:
 
-How To Reduce Printing Costs?
+[How To Reduce Printing Costs?](https://www.compandsave.com/blog/posts/how-to-reduce-printing-costs-top-10-low-cost-printing-tips.html)
 
-How to Save Money on Printer Ink?
+[How to Save Money on Printer Ink?](https://www.compandsave.com/blog/posts/how-to-save-money-on-printer-ink-simple-tips-for-home-and-office-printing.html)
 
-Why Are Printer Inks So Expensive?
+[Why Are Printer Inks So Expensive?](https://www.compandsave.com/blog/posts/why-printer-ink-is-so-expensive-factors-and-alternatives.html)
