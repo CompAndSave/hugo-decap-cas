@@ -56,3 +56,29 @@ If you don’t clean the printhead regularly, it can get clogged with dried ink.
 ## Printing Mistakes: Tips to Avoid Ink Waste
 
 Now that we’ve listed some common printing errors let’s focus on how to avoid them and save on ink. By making a few easy changes and following good printing habits, you can cut down on ink use and make your printing more efficient. So, here are some tips to help you avoid wasting ink and [save more money on ink costs](https://www.compandsave.com/blog/posts/how-to-save-money-on-printer-ink-simple-tips-for-home-and-office-printing.html).
+
+### 1. Use Draft Mode
+
+Most printers have a "draft" mode that uses less ink. If you need to print a rough copy of a report for yourself, you can select this mode to save ink. The text won't be as sharp, but it will still be easy to read. This is useful when you don't need the printout to look perfect.
+
+### 2. Avoiding Frequent Power Cycles
+
+Turning your printer on and off frequently can make it self-cleaning, using ink to clean the printheads. To save ink, you can leave your printer on or put it in sleep mode instead of turning it off. This easy habit can help your ink cartridges last longer.
+
+### 3. Use Correct Paper Size and Adjust the Settings
+
+Using the right paper size and type settings can help you save ink because it prevents the text from going over the margin, ensuring your prints are complete and eliminating the need for reprints.
+
+For photos, choose the correct settings based on the paper type: use "glossy" for glossy paper and "matte" for matte paper. This ensures your prints look good and use the right amount of ink.
+
+### 4. Use Print Preview
+
+Print Preview is your best friend when it comes to reducing print errors. This feature lets you catch issues like page breaks, misalignments, or unintended extra pages before wasting ink. By checking your document in Print Preview, you can make necessary adjustments and avoid wasting ink on incorrect prints. 
+
+### 5. Limit Printing Graphics and Images
+
+Images and graphics use much more ink than text, especially in color. To save ink, only print images when they are really necessary. If you can, reduce the resolution of the images you print so they will use less ink. 
+
+### 6. Clean the Printhead Regularly
+
+Regularly clean and maintain your printheads. Most printers have a built-in cleaning process that you can run periodically. [Keeping the printheads clean](https://www.compandsave.com/blog/posts/how-to-clean-printhead-automatic-and-manual-guide-2024.html) ensures that your prints come out clear and correct the first time, saving ink and reducing the need for reprints.
