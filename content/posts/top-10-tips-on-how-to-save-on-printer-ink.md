@@ -32,3 +32,23 @@ In this guide, we’ll cover the most common printing mistakes that waste ink, i
 We all know how expensive ink cartridges are, and mistakes in printing can waste a lot of ink. These mistakes often mean you have to reprint documents and use more ink. Now, when the ink runs out, you need to replace the cartridges, which can add to the [pile of used cartridges in landfills](https://www.compandsave.com/blog/posts/eco-friendly-ink-cartridges-print-with-a-purpose-2024.html). This is costly and bad for the environment. 
 
 To avoid wasting ink, it's important to prevent common printing mistakes. So, here we listed some of them:
+
+### 1. Using the Wrong Size of Paper
+
+A common problem with printing is when the content doesn’t fit the paper correctly. This causes parts of the document to go outside the margins. When this happens, you often have to print it again, wasting ink and paper.
+
+### 2.  Always Printing in High-Quality
+
+Many people forget how important it is to adjust their printer settings. Most printers are set to use high-quality prints by default, even when you just want to print a draft. For example, if you're printing a draft of a photo, you don't need the highest quality. If you don't change these settings, you might use more ink than necessary for simple tasks.
+
+### 3. Unnecessary Color Printing
+
+Printing in color when you can print in black and white is another culprit for printer ink waste. Color cartridges are usually more expensive than black ink cartridges, so using them unnecessarily can be costly. 
+
+### 4. Not Previewing Before Printing
+
+Sometimes, people print documents without checking how they will look on paper. This can lead to mistakes like parts of the document being cut off or missing. As a result, you might need to reprint the pages, which wastes ink.
+
+### 5. Not Regularly Cleaning the Printhead
+
+If you don’t clean the printhead regularly, it can get clogged with dried ink. When this happens, the printer might use more ink to try and print correctly, but the prints will still come out bad. This wastes ink and sometimes won’t fix the problem.
