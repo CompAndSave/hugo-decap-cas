@@ -71,4 +71,22 @@ Most printers have a built-in cleaning function. Go to the printer’s menu or s
 
 If the printer still isn’t printing correctly, you might need to [clean the print head manually](https://www.compandsave.com/blog/posts/how-to-clean-printhead-automatic-and-manual-guide-2024.html). Remove the printhead following your printer's manual, then gently clean it with a soft cloth and distilled water. Ensure it's completely dry before reinstalling it.
 
+### 3. Incorrect Cartridge Installation
+
+ “Why is my printer printing blank pages?” Maybe it’s because the cartridges are not installed correctly. When this happens, the printer can’t access the ink or toner, resulting in blank prints. You can try reinstalling the cartridges to fix the problem.
+
+**Troubleshooting steps:**
+
+**Step 1:** Turn off the printer before installing the cartridges.
+
+**Step 2:** Access the cartridge compartment by lifting or opening the cover as instructed in your printer’s manual.
+
+**Step 3:** Carefully remove the cartridges and check if they have any protective tape or packaging left on them. Ensure nothing is blocking the nozzles.
+
+**Step 4:** Put the cartridges back into their slots, making sure they [click securely into place.](https://www.compandsave.com/help/articles/25834315815565/ink-cartridge-installation-problem-how-to-fix-when-not-clicking-into-place)
+
+**Step 5:** Close the printer cover and turn it back on.
+
+**Step 6:** Print a test page to confirm everything is working correctly. 
+
 [](https://www.compandsave.com/printer-troubleshooting-printer-problems-and-solutions-guide)
