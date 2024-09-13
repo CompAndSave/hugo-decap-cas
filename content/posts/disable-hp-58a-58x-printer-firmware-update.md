@@ -30,3 +30,26 @@ In this guide, we will show you the steps to disable auto HP firmware update for
 
 * How To Disable "OEM Cartridge Policy"
 * How To Disable Automatic “Printer Update”
+
+## HP Firmware Update: Which Printers Are Affected?
+
+HP firmware is the software built into HP printers to help control how they work and perform their tasks. Firmware updates are released to fix problems, improve performance, or add new features. But sometimes, these updates can cause your printer not to recognize cheaper third-party toner cartridges. That’s why some users choose to disable automatic firmware updates to keep their devices running smoothly with the cartridges they prefer. 
+
+This new HP LaserJet firmware update applies to the printers and toner cartridges listed below:
+
+### Printers Using HP 58A/58X Toner Cartridges
+
+* HP LaserJet Enterprise M406dn
+* HP LaserJet Enterprise MFP M430f
+* HP LaserJet Pro M404dn
+* HP LaserJet Pro M404dw
+* HP LaserJet Pro M404n
+* HP LaserJet Pro MFP M428dw
+* HP LaserJet Pro MFP M428fdn
+* HP LaserJet Pro MFP M428fdw
+
+### So, how would I know if my printer has been updated?
+
+Well, if you have recently seen a message on your printer saying that the firmware has been updated, then it’s an indication that it was done automatically, especially if it's connected to WiFi. 
+
+Also, we suggest checking your printer's firmware version by printing a **Printer Status Report** like the photo below to know if your HP LaserJet printer has been updated.
