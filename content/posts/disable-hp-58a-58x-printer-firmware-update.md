@@ -93,3 +93,21 @@ The second way to stop auto HP firmware download is by turning off the "Printer 
 To prevent future automatic HP printer firmware update, follow the steps provided below, or you can also watch this video:
 
 {{< youtubeLazyload id="ci-ULRl5ONw" title="How to disable firmware upgrade for HP 58A 58X printers" >}}
+
+**Step 1:** Click "Setup" on the home page.
+
+[![HP printer firmware update](/blog/images/screenshot-2024-09-13-at-5.46.37 pm.png "Setup")](/blog/images/screenshot-2024-09-13-at-5.46.37 pm.png)
+
+**Step 2:** Select "Service."
+
+[![Service](/blog/images/screenshot-2024-09-13-at-5.53.56 pm.png "Service")](/blog/images/screenshot-2024-09-13-at-5.53.56 pm.png)
+
+**Step 3:** Select "LaserJet Update."
+
+[![LaserJet Update](/blog/images/screenshot-2024-09-13-at-5.53.31 pm.png "LaserJet Update")](/blog/images/screenshot-2024-09-13-at-5.53.31 pm.png)
+
+**Step 4:** Select "Manage Updates."
+
+[![Manage Updates](/blog/images/screenshot-2024-09-13-at-5.55.53 pm.png "Manage Updates")](/blog/images/screenshot-2024-09-13-at-5.55.53 pm.png)
+
+**Step 5:** Select "Check Automatically."
