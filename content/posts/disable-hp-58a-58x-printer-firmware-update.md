@@ -81,3 +81,15 @@ HP has added an OEM Cartridge Policy feature that may prevent compatible cartrid
 **Step 4:** Click "Cartridge Policy" in Supply Settings.
 
 [![Cartridge Policy](/blog/images/screenshot-2024-09-13-at-5.41.19 pm.png "Cartridge Policy")](/blog/images/screenshot-2024-09-13-at-5.41.19 pm.png)
+
+**Step 5:** To turn off the auto firmware update feature, go to Cartridge Policy and click "Off." The printer should be restarted after this.
+
+[![auto firmware update](/blog/images/screenshot-2024-09-13-at-5.42.33 pm.png "auto firmware update off")](/blog/images/screenshot-2024-09-13-at-5.42.33 pm.png)
+
+### How To Disable Automatic “Printer Update”
+
+The second way to stop auto HP firmware download is by turning off the "Printer Update" feature. If your printer hasn't been updated to the latest version, this tip will help you keep using third-party HP LaserJet toner cartridges. 
+
+To prevent future automatic HP printer firmware update, follow the steps provided below, or you can also watch this video:
+
+{{< youtubeLazyload id="ci-ULRl5ONw" title="How to disable firmware upgrade for HP 58A 58X printers" >}}
