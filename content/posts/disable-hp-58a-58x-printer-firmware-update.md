@@ -75,3 +75,9 @@ HP has added an OEM Cartridge Policy feature that may prevent compatible cartrid
 [![System Setup](/blog/images/screenshot-2024-09-13-at-5.39.26 pm.png "System Setup")](/blog/images/screenshot-2024-09-13-at-5.39.26 pm.png)
 
 **Step 3:** Select "Supply Settings" under System Setup.
+
+[![Supply Settings](/blog/images/screenshot-2024-09-13-at-5.40.28 pm.png "Supply Settings")](/blog/images/screenshot-2024-09-13-at-5.40.28 pm.png)
+
+**Step 4:** Click "Cartridge Policy" in Supply Settings.
+
+[![Cartridge Policy](/blog/images/screenshot-2024-09-13-at-5.41.19 pm.png "Cartridge Policy")](/blog/images/screenshot-2024-09-13-at-5.41.19 pm.png)
