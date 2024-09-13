@@ -52,4 +52,20 @@ This new HP LaserJet firmware update applies to the printers and toner cartridge
 
 Well, if you have recently seen a message on your printer saying that the firmware has been updated, then it’s an indication that it was done automatically, especially if it's connected to WiFi. 
 
-Also, we suggest checking your printer's firmware version by printing a **Printer Status Report** like the photo below to know if your HP LaserJet printer has been updated.
+Also, we suggest checking your printer's firmware version by printing a **Printer Status Report** like the photo below to know if your HP LaserJet printer has been updated. 
+
+[![Printer Status Report](/blog/images/screenshot-2024-09-13-at-5.36.56 pm.png "Printer Status Report")](/blog/images/screenshot-2024-09-13-at-5.36.56 pm.png)
+
+If your firmware version is 2149A, your printer is up-to-date. If not, you can turn off the "Printer Update" option. The section below will explain more details on how you can disable the auto-update of firmware for HP printers.
+
+## HP Printer Firmware Update: Steps To Disable Automatic Updates
+
+Now, to avoid future problems, especially if you want to keep using third-party ink cartridges, we recommend turning off your printer’s automatic HP firmware update. You can do this in two ways: first, by turning off the OEM Cartridge Policy on your printer (if available), and second, by disabling the automatic "Printer Update" feature.
+
+### How To Disable "OEM Cartridge Policy"
+
+HP has added an OEM Cartridge Policy feature that may prevent compatible cartridges from being used. To [disable HP cartridge protection](https://www.compandsave.com/how-to-disable-hp-cartridge-protection), you can follow the steps below.
+
+**Step 1:** Click "Setup" on the home page.
+
+[![OEM Cartridge Policy](/blog/images/screenshot-2024-09-13-at-5.38.28 pm.png "Setup")](/blog/images/screenshot-2024-09-13-at-5.38.28 pm.png)
