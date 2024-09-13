@@ -111,3 +111,13 @@ To prevent future automatic HP printer firmware update, follow the steps provide
 [![Manage Updates](/blog/images/screenshot-2024-09-13-at-5.55.53 pm.png "Manage Updates")](/blog/images/screenshot-2024-09-13-at-5.55.53 pm.png)
 
 **Step 5:** Select "Check Automatically."
+
+[![Check Automatically](/blog/images/screenshot-2024-09-13-at-5.56.36 pm.png "Check Automatically")](/blog/images/screenshot-2024-09-13-at-5.56.36 pm.png)
+
+**Step 6:** Select "Off."
+
+[![Off](/blog/images/screenshot-2024-09-13-at-5.57.24 pm.png "Off")](/blog/images/screenshot-2024-09-13-at-5.57.24 pm.png)
+
+**Step 7:** Select "Allow Updates."
+
+[![Allow Updates](/blog/images/screenshot-2024-09-13-at-5.58.14 pm.png "Allow Updates")](/blog/images/screenshot-2024-09-13-at-5.58.14 pm.png)
