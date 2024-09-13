@@ -43,7 +43,7 @@ To check your ink or toner levels, you can try a few simple methods. First, look
 
 If your printer is connected to a computer, you can check ink/toner levels through the printer software. Just open the printer settings on your computer and look for an option to view the ink or toner status. Some printers even send alerts when ink is low, helping you know when it's time to replace the cartridge. 
 
-You can also check this guide for more details on how to check printer ink levels. 
+You can also check this guide for more details on [how to check printer ink levels](https://www.compandsave.com/blog/posts/how-to-check-printer-ink-level-for-optimal-printing-ultimate-guide.html). 
 
 **B. Replace Empty Cartridge**
 
@@ -56,5 +56,19 @@ You can also check this guide for more details on how to check printer ink level
 **Step 4:** Insert the new cartridge into the correct slot, ensuring it is securely in place.
 
 **Step 5:** After installing the new cartridge, print a test page to make sure the cartridge is working correctly.
+
+### 2. Clogged Printhead
+
+A clogged print head happens when dried ink blocks the nozzles, especially in inkjet printers. This prevents the ink from transferring to the paper, causing blank or streaky prints. It often happens if the printer hasn’t been used for a while.
+
+**Troubleshooting methods you can do:**
+
+**A. Use the Printer's Cleaning Tool**
+
+Most printers have a built-in cleaning function. Go to the printer’s menu or settings on your computer, and look for an option like “Printhead Cleaning” or “Maintenance.” Run the cleaning cycle to try to clear the clog.
+
+**B. Manual Cleaning (If Necessary)**
+
+If the printer still isn’t printing correctly, you might need to [clean the print head manually](https://www.compandsave.com/blog/posts/how-to-clean-printhead-automatic-and-manual-guide-2024.html). Remove the printhead following your printer's manual, then gently clean it with a soft cloth and distilled water. Ensure it's completely dry before reinstalling it.
 
 [](https://www.compandsave.com/printer-troubleshooting-printer-problems-and-solutions-guide)
