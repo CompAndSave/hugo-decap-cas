@@ -1,6 +1,6 @@
 ---
 title: "The Best All-in-One Inkjet Printers for Every Need: Our Top Picks"
-date: 2024-03-15T08:57:42.506Z
+date: 2024-09-15T01:13:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/best-all-in-one-inkjet-printers.png
 description: Looking to boost productivity at home or in the office? Explore our
