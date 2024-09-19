@@ -120,7 +120,7 @@ How do I connect my printer to Wifi? Now you know the steps to connect easily. W
 * What are two methods to connect to a printer wirelessly? You can connect your printer to Wi-Fi either directly through its settings or using the WPS push button. Check the guide on how to do this step-by-step.
 * After connecting to Wi-Fi, you can add the printer to your Windows laptop or MacBook to start printing wirelessly. 
 
-If you have any questions, don't hesitate to contact our customer service team. Call us toll-free at 1-833-465-6888, Monday to Friday, between 6 am and 4 pm PT. [CompAndSave ](https://www.compandsave.com/)is here to make sure your printing experience is a great one!
+If you have any questions, don't hesitate to contact our customer service team. Call us toll-free at 1-833-465-6888, Monday to Friday, between 6 am and 4 pm PT. [CompAndSave](https://www.compandsave.com/) is here to make sure your printing experience is a great one!
 
 ## Frequently Asked Questions
 
@@ -144,6 +144,4 @@ To troubleshoot a slow wireless printer, check the Wi-Fi signal strength. Move t
 
 [How to Print Photos from Phone?](https://www.compandsave.com/blog/posts/how-to-print-photos-from-phone-android-vs-iphone-users.html)
 
-[How to Connect iPhone to Wireless Printer?](https://www.compandsave.com/help/articles/20805103101709/how-to-connect-iphone-to-wireless-printer-step-by-step-guide)
-
-[](https://www.compandsave.com/help/articles/20805103101709/how-to-connect-iphone-to-wireless-printer-step-by-step-guide)
+[How to Connect iPhone to Wireless Printer?](https://www.compandsave.com/help/articles/20805103101709/how-to-connect-iphone-to-wireless-printer-step-by-step-guide)[](https://www.compandsave.com/help/articles/20805103101709/how-to-connect-iphone-to-wireless-printer-step-by-step-guide)
