@@ -64,6 +64,36 @@ This is the most straightforward way to connect your printer to Wi-Fi. But if yo
 
 ### Method #2: Connect Printer To Wi-Fi With WPS Push Button[](https://www.compandsave.com/what-ink-does-my-printer-use)
 
-[![](/blog/images/screenshot-2024-09-19-at-8.57.20 pm.png)](/blog/images/screenshot-2024-09-19-at-8.57.20 pm.png)
+[![WPS Push Button](/blog/images/screenshot-2024-09-19-at-8.57.20 pm.png "Connect Printer To Wi-Fi With WPS Push Button")](/blog/images/screenshot-2024-09-19-at-8.57.20 pm.png)
 
 *Image Source: [Sony](https://www.sony-asia.com/electronics/support/articles/00022337)*
+
+The second method on how to connect printer to wifi is by using the WPS push button on both the printer and the Wi-Fi device. If your printer doesn’t have a touchscreen control panel but has a wireless connectivity option, follow the steps below:
+
+**Step 1:** Turn on the printer and look for the WPS button on the side of the printer. There will be a little push button with the WPS icon.
+
+**Step 2:** Push the WPS button on your printer, then press the WPS button on your router. Make sure to do this within two minutes. An automatic connection will be established between the two devices. The printer’s light will blink to show it’s connected to the Wi-Fi.
+
+**Step 3:** If the printer won’t connect, try to push the WPS button on the Wi-Fi device first.
+
+When the printer’s light blinks, the connection to Wi-Fi is successful.
+
+## How Do I Connect My Printer To Wifi And Then To Laptop?
+
+Once you’ve successfully connected your printer to your Wi-Fi network, the next step is to add it to your computer so you can start using it. The guide below will show you how to add your wireless printer if you’re using either a Windows or Mac operating system.
+
+### Method #1: Add Wireless Printer to Windows Laptop
+
+[![Add Wireless Printer to Windows Laptop](/blog/images/screenshot-2024-09-19-at-8.59.22 pm.png "Add Wireless Printer to Windows Laptop")](/blog/images/screenshot-2024-09-19-at-8.59.22 pm.png)
+
+**Step 1:** Go to the **Windows search bar**, type **Settings,** and click on the first result. It will open a new window with a lot of options. Choose **Devices.**
+
+**Step 2:** Click on **Printers & Scanners.**
+
+**Step 3:** Click on the Add Printer or Scanner button. Your computer will automatically search for the wireless printers connected to your Wi-Fi network.
+
+**Step 4:** After a few seconds, it will show you all the wireless printers connected to your Wi-Fi. Choose the correct printer, then click it.
+
+Now, you’re ready to start printing from your Windows computer wirelessly. Just follow the usual steps for printing, like clicking **“Print”** and then choosing the right printer to start printing.
+
+### Method #2: Add Wireless Printer to MacBook
