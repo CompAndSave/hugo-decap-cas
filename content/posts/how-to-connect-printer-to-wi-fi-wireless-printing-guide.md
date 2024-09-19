@@ -52,9 +52,9 @@ The first method is connecting a wireless printer directly to your Wi-Fi router.
 
 **Step 1:** Turn on your Wi-Fi router.
 
-**Step 2:** On your printer’s screen, click the Settings button.
+**Step 2:** On your printer’s screen, click the **Settings** button.
 
-**Step 3:** Go to Wi-Fi or Wireless Connection Settings and click Add. This will show you all the available Wi-Fi connections in the area.
+**Step 3:** Go to **Wi-Fi or Wireless Connection Settings** and click **Add.** This will show you all the available Wi-Fi connections in the area.
 
 **Step 4:** Connect the printer to your home or office’s Wi-Fi using the network SSID and password.
 
@@ -62,6 +62,8 @@ The first method is connecting a wireless printer directly to your Wi-Fi router.
 
 This is the most straightforward way to connect your printer to Wi-Fi. But if you have an older printer without a screen, don’t worry. There’s another method you can use. You can quickly connect your printer to Wi-Fi using the WPS Push Button.
 
-### Method #2: Connect Printer To Wi-Fi With WPS Push Button
+### Method #2: Connect Printer To Wi-Fi With WPS Push Button[](https://www.compandsave.com/what-ink-does-my-printer-use)
 
-[](https://www.compandsave.com/what-ink-does-my-printer-use)
+[![](/blog/images/screenshot-2024-09-19-at-8.57.20 pm.png)](/blog/images/screenshot-2024-09-19-at-8.57.20 pm.png)
+
+*Image Source: [Sony](https://www.sony-asia.com/electronics/support/articles/00022337)*
