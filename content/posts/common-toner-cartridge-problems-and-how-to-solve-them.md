@@ -62,24 +62,24 @@ Sometimes, blank pages aren’t caused by the toner itself but by loose or unplu
 
 If your printer is printing faint or blank pages, the toner might be running low. Check the toner levels on your printer’s display or your computer. If the toner is low, you may need to replace it or refill it to get the printer working correctly again. Here’s how to check the toner level:
 
-Step 1: Open the software or application on your computer that controls your printer.
+**Step 1:** Open the software or application on your computer that controls your printer.
 
-Step 2: Look for options like "Printer Preferences," "Printer Properties," or "Maintenance."
+**Step 2:** Look for options like "Printer Preferences," "Printer Properties," or "Maintenance."
 
-Step 3: In the printer settings, find a tab or section that mentions "Toner" or "Supplies." In this section, you should see how much toner is left. It might show a picture of the toner or a percentage.
+**Step 3:** In the printer settings, find a tab or section that mentions "Toner" or "Supplies." In this section, you should see how much toner is left. It might show a picture of the toner or a percentage.
 
-Step 4: Check the toner level to see if it’s low or needs to be replaced.
+**Step 4:** Check the toner level to see if it’s low or needs to be replaced.
 
 ### D. Double-Check If You’re Using the Correct Toner Cartridge
 
 Make sure you're using the correct toner cartridge for your printer model. An incompatible toner cartridge can cause printing issues, like poor quality, or even prevent the printer from working. Check the printer manual or the cartridge packaging to confirm that the toner is compatible with your printer. To do this, follow the steps below:
 
-Step 1: Look at your printer to find its model number. It’s usually located on the front or back of the printer.
+**Step 1:** Look at your printer to find its model number. It’s usually located on the front or back of the printer.
 
-Step 2: Look up the correct toner cartridge for your printer model. You can check the printer manual or search online.
+**Step 2:** Look up the correct toner cartridge for your printer model. You can check the printer manual or search online.
 
-Step 3: If you have a new toner cartridge, compare it with the old one. Make sure they look the same and have the same model number.
+**Step 3:** If you have a new toner cartridge, compare it with the old one. Make sure they look the same and have the same model number.
 
-Step 4: If you find that you have the wrong cartridge, remove it and replace it with the correct one. Make sure the toner cartridge is installed correctly and clicks into place.
+**Step 4:** If you find that you have the wrong cartridge, remove it and replace it with the correct one. Make sure the toner cartridge is installed correctly and clicks into place.
 
-Step 5: Print a document to see if the printer works correctly with the correct cartridge.
+**Step 5:** Print a document to see if the printer works correctly with the correct cartridge.
