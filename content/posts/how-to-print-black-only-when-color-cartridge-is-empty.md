@@ -1,6 +1,6 @@
 ---
 title: "How to Print Black and White Only: Ways to Monochrome Printing"
-date: 2024-03-22T07:57:48.211Z
+date: 2024-09-29T12:13:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/how-to-print-black-and-white-only.png
 description: Learn how to print black and white only, even with low or empty
@@ -13,7 +13,7 @@ tags:
   - inkjet printer
   - printer troubleshooting
 ---
-[![printer ink cartridge](/blog/images/how-to-print-black-and-white-only.png "How to Print Black and White Only")](/blog/images/how-to-print-black-and-white-only.png)
+[![black and white printing](/blog/images/how-to-print-black-and-white-only.png "How to Print Black and White Only")](/blog/images/how-to-print-black-and-white-only.png)
 
 **Struggling to figure out how to print black and white only?**
 
