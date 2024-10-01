@@ -103,7 +103,7 @@ Looking for the cheapest place to buy HP ink cartridges? CompAndSave offers a [p
 
 ### Top 2: Cheap HP 940XL Ink Cartridges
 
-[![](/blog/images/screenshot-2024-10-01-at-10.17.57 pm.png)](/blog/images/screenshot-2024-10-01-at-10.17.57 pm.png)
+[![Cheap HP 940XL Ink Cartridges](/blog/images/screenshot-2024-10-01-at-10.17.57 pm.png "Cheap HP 940XL Ink Cartridges")](/blog/images/screenshot-2024-10-01-at-10.17.57 pm.png)
 
 Just when you thought printing costs couldn't get any lower, here comes the [HP 940XL ink cartridges](https://www.compandsave.com/hp/940xl-ink-cartridges/940xl-4-combo), which are second on our list! These cheap HP cartridges don’t smudge or fade, so you can print photos or documents that look great and last a long time.
 
