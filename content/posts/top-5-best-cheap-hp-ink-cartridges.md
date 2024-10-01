@@ -33,4 +33,32 @@ This guide will show you five of the [cheapest printer ink cartridges](https://w
 * Top 2: Cheap HP 940XL Ink Cartridges
 * Top 1: Cheap HP 934XL/HP935XL Ink Cartridges
 
+## Cheap HP Cartridges: How To Find The Best Deals?
+
+To save money on cheap ink cartridges for HP printers, you should first know how much it costs to print each page. You can do this by dividing the number of pages the cartridge can print or the page yield by the price of the cartridge. The formula is:
+
+**Cartridge price/Page yield = Cost per page**
+
+To understand it better, let’s calculate the cost per page for an OEM HP 63 ink cartridge, which is one of the top-selling HP printer inks.
+
+The **OEM High Yield HP 63XL Black** Ink Cartridge costs $50.99 and has a page yield of 480 pages.
+
+* $50.99/480 = **10.62 cents** cost per page
+
+The **OEM High Yield HP 63XL Tri-color** Ink Cartridge costs $54.99 and has a page yield of 300 pages.
+
+* $54.99/300 = **18.33 cents** cost per page
+
+Now, let’s calculate the cost for CompAndSave's replacement high-yield HP 63XL ink cartridges and compare the savings when using more affordable HP-compatible ink. 
+
+We'll start with the **Remanufactured High Yield HP 63XL Black** Ink Cartridge, which costs $16.95 and has a page yield of 480 pages.
+
+* $16.95/480 = **3.52 cents** cost per page
+
+The **Remanufactured High Yield HP 63XL Tri-color** Ink Cartridge costs $16.95 and has a page yield of 330 pages.
+
+$16.95/330 = **5.14 cents** cost per page
+
+As we can see from our [printing cost per page calculator](https://www.compandsave.com/blog/posts/printing-cost-per-page-calculator-calculate-printing-easily.html), it's clear that remanufactured HP ink cartridges are a better option for saving money on ink costs!
+
 [](https://www.compandsave.com/hp-printer-troubleshooting-guide)
