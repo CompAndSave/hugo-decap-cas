@@ -19,27 +19,18 @@ tags:
 
 Have you tried buying a cheap HP printer only to realize that the ink cartridges cost more than the printer itself? Many people fall into this trap, thinking they’re saving money with a low-cost printer, only to spend a lot on replacement cartridges later. Fortunately, there are ways to avoid this problem and save on ink costs. If you’re trying to find cheap HP ink cartridges for your printer, you’re in the right place! 
 
-This guide will show you five of the cheapest printer ink cartridges for your HP printer to help you save on printing costs. We’ll also share tips on buying cheap HP cartridges so you can find the best deals. So, read on and explore our top 5 picks today!
+This guide will show you five of the [cheapest printer ink cartridges](https://www.compandsave.com/top-5-best-cheap-printer-ink-cartridges) for your HP printer to help you save on printing costs. We’ll also share tips on buying cheap HP cartridges so you can find the best deals. So, read on and explore our top 5 picks today!
 
 **Here are some things we will cover in this guide:**
 
-* Cheap HP Cartridges: How To Find The Best Deals?
-* Cheap HP Ink Cartridges: Our Top 5 Picks!
+1. Cheap HP Cartridges: How To Find The Best Deals?
 
-Top 5: Cheap HP 920XL Ink Cartridges
+2. Cheap HP Ink Cartridges: Our Top 5 Picks!
 
-Top 4: Cheap HP 952XL Ink Cartridges
-
-Top 3: Cheap HP 564XL Ink Cartridges
-
-Top 2: Cheap HP 940XL Ink Cartridges
-
-Top 1: Cheap HP 934XL/HP935XL Ink Cartridges
-
-
-
-
-
-
+* Top 5: Cheap HP 920XL Ink Cartridges
+* Top 4: Cheap HP 952XL Ink Cartridges
+* Top 3: Cheap HP 564XL Ink Cartridges
+* Top 2: Cheap HP 940XL Ink Cartridges
+* Top 1: Cheap HP 934XL/HP935XL Ink Cartridges
 
 [](https://www.compandsave.com/hp-printer-troubleshooting-guide)
