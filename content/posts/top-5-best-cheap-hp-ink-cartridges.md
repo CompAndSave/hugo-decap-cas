@@ -57,7 +57,7 @@ We'll start with the **Remanufactured High Yield HP 63XL Black** Ink Cartridge, 
 
 The **Remanufactured High Yield HP 63XL Tri-color** Ink Cartridge costs $16.95 and has a page yield of 330 pages.
 
-$16.95/330 = **5.14 cents** cost per page
+* $16.95/330 = **5.14 cents** cost per page
 
 As we can see from our [printing cost per page calculator](https://www.compandsave.com/blog/posts/printing-cost-per-page-calculator-calculate-printing-easily.html), it's clear that remanufactured HP ink cartridges are a better option for saving money on ink costs!
 
