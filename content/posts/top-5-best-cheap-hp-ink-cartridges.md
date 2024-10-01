@@ -81,4 +81,14 @@ Where to buy affordable HP 920XL ink cartridges? Here at CompandSave, we offer t
 
 [![Cheap HP 952XL Ink Cartridges](/blog/images/screenshot-2024-10-01-at-10.10.47 pm.png "Cheap HP 952XL Ink Cartridges")](/blog/images/screenshot-2024-10-01-at-10.10.47 pm.png)
 
+What could be cheaper than paying less than 1 cent per page? That’s why [HP 952XL ink cartridges](https://www.compandsave.com/hp/952xl-ink-cartridges/952xl-4-combo) are fourth on our list of the best-priced HP ink cartridges. They provide consistent results, no matter what kind of paper you use or how big the print is.
+
+Plus, the cartridges are easy to replace, making them an excellent choice for anyone who often needs to change printer ink. The HP 952 printer ink cartridges have a low cost per page, especially when you use the high-yield HP 952XL. Check the table to see your printing costs with the affordable HP 952XL ink.
+
+[![HP 952XL ink cartridge comparison table](/blog/images/screenshot-2024-10-01-at-10.12.32 pm.png "HP 952XL ink cartridge comparison table")](/blog/images/screenshot-2024-10-01-at-10.12.32 pm.png)
+
+Where to buy HP 952 ink cartridges? CompAndSave offers an HP 952XL combo [pack of 10](https://www.compandsave.com/hp/952xl-ink-cartridges-s-7290/952xl-10-combo-p-9894) or a [pack of 4](https://www.compandsave.com/hp/952xl-ink-cartridges-s-7290/952xl-4-combo-p-9895). Buying in bulk can save you more money on ink!
+
+### Top 3: Cheap HP 564XL Ink Cartridges
+
 [](https://www.compandsave.com/hp-printer-troubleshooting-guide)
