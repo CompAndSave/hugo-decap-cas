@@ -67,12 +67,18 @@ Now that we know how much you can save on cheap HP ink cartridges from CompAndSa
 
 ### Top 5: Cheap HP 920XL Ink Cartridges
 
-[![Cheap HP 920XL Ink Cartridges](/blog/images/screenshot-2024-10-01-at-10.05.11 pm.png "Cheap HP 920XL Ink Cartridges")](/blog/images/screenshot-2024-10-01-at-10.05.11 pm.png)
+[![Cheap HP 920XL Ink Cartridges](/blog/images/screenshot-2024-10-01-at-10.11.07 pm.png "Cheap HP 920XL Ink Cartridges")](/blog/images/screenshot-2024-10-01-at-10.11.07 pm.png)
 
 For our top 5, the cheap [HP 920XL ink cartridges](https://www.compandsave.com/hp/920xl-ink-cartridges/920xl-4-combo) offer an excellent solution for those looking to save on printing costs without compromising quality. Designed for high-volume printing, these cartridges provide a generous page yield, allowing you to print more pages per cartridge. 
 
 Check out the table below to see how much you can save using replacement HP 920XL ink cartridges compared to OEM HP 920XL ink cartridges.
 
+[![HP 920XL ink cartridges table](/blog/images/screenshot-2024-10-01-at-10.07.50 pm.png "HP 920XL ink cartridges compared to OEM HP 920XL ink cartridges")](/blog/images/screenshot-2024-10-01-at-10.07.50 pm.png)
 
+Where to buy affordable HP 920XL ink cartridges? Here at CompandSave, we offer the best quality at the lowest prices. Choose from our high-yield combo pack that includes [4-pack](https://www.compandsave.com/hp/920xl-ink-cartridges/920xl-4-combo) or [10-pack](https://www.compandsave.com/hp/920xl-ink-cartridges/920xl-10-combo) cartridges.
+
+### Top 4: Cheap HP 952XL Ink Cartridges
+
+[![Cheap HP 952XL Ink Cartridges](/blog/images/screenshot-2024-10-01-at-10.10.47 pm.png "Cheap HP 952XL Ink Cartridges")](/blog/images/screenshot-2024-10-01-at-10.10.47 pm.png)
 
 [](https://www.compandsave.com/hp-printer-troubleshooting-guide)
