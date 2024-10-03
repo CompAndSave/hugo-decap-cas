@@ -157,3 +157,28 @@ With a 100-sheet capacity, you won’t have to constantly refill the paper tray.
 ### Best Color Laser Printer For Students: [Brother HL-L3280CDW](https://www.compandsave.com/brother/hl/hl-l3280cdw-toner-cartridges)
 
 [![Brother HL-L3280CDW](/blog/images/screenshot-2024-10-03-at-10.39.18 pm.png "Best Color Laser Printer For Students: Brother HL-L3280CDW")](/blog/images/screenshot-2024-10-03-at-10.39.18 pm.png)
+
+*Image Source: [Amazon](https://www.amazon.com/dp/B0CFD1G1VT?tag=track-ect-usa-3074367-20&linkCode=osi&th=1&psc=1)*
+
+If you prefer a laser printer, the Brother HL-L3280CDW is an excellent choice for students needing reliable, efficient printing. It prints up to 27 pages per minute in color and black-and-white, so you can quickly produce high-quality documents and presentations.
+
+Also, its compact design fits perfectly in small study spaces, which makes it the best laser printer for students. The 2.7-inch touchscreen makes it easy to navigate and adjust settings, making it a convenient and user-friendly option for busy students like you.
+
+**Printer Price:** $269.99 (Amazon)
+
+**OEM Ink Price:** Black Toner -  $68.99 | Color Toner -  $73.49
+
+**CompAndSave Ink Price:** Black Toner -  $45.99 | Color Toner -  $45.99
+
+**PROS**
+
+* Fast print speeds - 27 pages per minute for both color and monochrome
+* Automatic duplex printing
+* Offers Wi-Fi, USB, and Ethernet connections
+* Paper tray can hold up to 250 sheets
+
+**CONS**
+
+* It weighs 33.9 pounds, which makes it harder to move
+* No scanning or copying functions
+*
