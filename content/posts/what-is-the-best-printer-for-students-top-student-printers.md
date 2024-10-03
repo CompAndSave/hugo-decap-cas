@@ -155,3 +155,5 @@ With a 100-sheet capacity, you won’t have to constantly refill the paper tray.
 * Has no display panel, making it difficult to change the settings
 
 ### Best Color Laser Printer For Students: [Brother HL-L3280CDW](https://www.compandsave.com/brother/hl/hl-l3280cdw-toner-cartridges)
+
+[![Brother HL-L3280CDW](/blog/images/screenshot-2024-10-03-at-10.39.18 pm.png "Best Color Laser Printer For Students: Brother HL-L3280CDW")](/blog/images/screenshot-2024-10-03-at-10.39.18 pm.png)
