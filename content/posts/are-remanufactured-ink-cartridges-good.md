@@ -36,7 +36,7 @@ These cartridges are different from OEM (Original Equipment Manufacturer) ones. 
 
 ## Are Remanufactured Ink Cartridges Good: Some Benefits Of Using Them
 
-Now that we know how remanufactured cartridges differ from OEM ones, let’s answer the question: Are remanufactured ink cartridges good? Well, the big answer is YES! To understand why they are a good choice, we listed below some benefits of using remanufactured ink cartridges for both people and the environment:
+Now that we know how remanufactured cartridges differ from OEM ones, let’s answer the question: Are remanufactured ink cartridges good? Well, the big answer is **YES!** To understand why they are a good choice, we listed below some benefits of using remanufactured ink cartridges for both people and the environment:
 
 ### Benefits For People
 
