@@ -32,7 +32,7 @@ To help you make the right choice, this guide covers everything you need to know
 
 ## Student Printer: What Are Some Things To Consider?
 
-As a student, you’ll need a printer that’s affordable, reliable, and a high-quality—one that will last for years. However, choosing good printers for students can be challenging. To help you with that, we listed here a few things to consider before buying a printer:
+As a student, you’ll need a printer that’s affordable, reliable, and a high-quality one that will last for years. However, choosing good printers for students can be challenging. To help you with that, we listed here a few things to consider before buying a printer:
 
 ### 1. Size
 
@@ -66,7 +66,7 @@ To learn how to calculate the cost per page and see where you can save more, che
 
 We all know there are many printers available for students today. So, how can we pick the best printer for students? Whether you're considering an Epson, Brother, HP, or Canon printer, each brand offers different features. To help you choose the best one, explore our top picks below!
 
-### Best All-in-one Printer For Students: [Epson EcoTank ET-2803](https://www.compandsave.com/epson/ecotank/et-2803-wireless-color-all-in-one-ink-bottles) 
+### Best All-in-one Printer For Students: [Epson EcoTank ET-2803](https://www.compandsave.com/epson/ecotank/et-2803-wireless-color-all-in-one-ink-bottles)
 
 [![Epson EcoTank ET-2803](/blog/images/screenshot-2024-10-03-at-10.32.38 pm.png "Best All-in-one Printer For Students: Epson EcoTank ET-2803")](/blog/images/screenshot-2024-10-03-at-10.32.38 pm.png)
 
