@@ -100,7 +100,7 @@ Serve soup, spooning pistachio salsa on top.
 
 ### "Zucchini-and-Spinach Lasagna"
 
-Moving on to those winter staples, casseroles, [here](https://www.myrecipes.com/recipe/zucchini-and-spinach-lasagna) is a satisfying spinach and zucchini lasagna sure to please your family. This vegetable-based dish is so easy because you use no-boil lasagna noodles, which you can find at most supermarkets. 
+Moving on to those winter staples, casseroles, here is a satisfying spinach and zucchini lasagna sure to please your family. This vegetable-based dish is so easy because you use no-boil lasagna noodles, which you can find at most supermarkets. 
 
 **Ingredients**\
 1 (8-ounce) container whipped chive-and-onion cream cheese\
@@ -202,7 +202,7 @@ In a saucepan over medium heat, add 3/4 cup of very hot water and cook rice, sti
 
 ***A few other recipes…*** 
 
-* A tasty [winter salad](https://www.myrecipes.com/recipe/winter-salad-with-roasted-beets-citrus-reduction-dressing) with roasted beets
+* A tasty winter salad with roasted beets
 * A make-ahead butternut squash lasagna
 * [Split pea](https://www.thekitchn.com/slow-cooker-vegetarian-split-pea-soup-132464) soup without the ham
 * Healthy [phở](https://www.thekitchn.com/recipe-vegetarian-pho-vietnamese-noodle-soup-recipes-from-the-kitchn-107312) with vegetables
