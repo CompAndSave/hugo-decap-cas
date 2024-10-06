@@ -1,13 +1,15 @@
 ---
 title: "Comfort Food for the Mind, Body, and Soul: Part I"
 date: 2016-12-07T00:03:00.000Z
-slug: comfort-food-for-the-mind-body-and-soul-part-i
-description: "Comfort Food for the Mind, Body, and Soul: Part I"
-featured_image: /blog/images/archive/2016/12/soup.jpg
 authors: Katy S
-tags: [food,recipes,holidays]
+slug: comfort-food-for-the-mind-body-and-soul-part-i
+featured_image: /blog/images/archive/2016/12/soup.jpg
+description: "Comfort Food for the Mind, Body, and Soul: Part I"
+tags:
+  - food
+  - recipes
+  - holidays
 ---
-
 ![Comfort Food](/blog/images/soup.jpg "Soup")
 
 Now that most of the country is experiencing colder temperatures and hunkering down for winter, it's the perfect time to share recipes for hearty food, from roasts and casseroles to soups and stews. In this two-part series, we're revealing mouthwatering meals for both meat lovers and veggie enthusiasts. This week we're focusing on recipes in which meat is the star. Get ready to cook some comfort food for the mind, body, and soul!
@@ -18,7 +20,7 @@ Now that most of the country is experiencing colder temperatures and hunkering d
 
 Feel like a succulent roast beef? It does not get any easier than [this](https://www.food.com/recipe/easy-roast-beef-370461) way from ItalianMomof2!
 
-#### Ingredients 
+#### Ingredients
 
 3 to 4 pounds roast beef
 
@@ -38,7 +40,7 @@ Preheat the oven to 500 degrees F.
 
 Remove the beef from package and rinse under cold water. Pat dry with paper towels. Rub olive oil all over roast and put in roasting pan on a rack with the fat side up. Sprinkle garlic powder, salt, and black pepper all over roast.
 
-Cook for 20 minutes at 500\. (Do not open oven door during this step. The intense hot heat is supposed to sear the roast and keep in all the juices.)
+Cook for 20 minutes at 500. (Do not open oven door during this step. The intense hot heat is supposed to sear the roast and keep in all the juices.)
 
 After 20 minutes, lower the oven temperature to 300 degrees and cook at that temperature for 18 minutes per pound.
 
@@ -46,7 +48,7 @@ Remove roast beef from oven and let it rest for 10 to 15 minutes.
 
 ### Variation of "Perfect Roast Chicken"
 
-Another easy and economical main course is roast chicken. You can usually find a whole chicken at the supermarket for just under $1 per pound to $4 per pound for an organic one. Some recipes will have you cook the chicken at a high temperature for 10 to 15 minutes and then a lower temperature for the remaining time. Ina Garten's well-liked chicken recipe [calls for](https://www.foodnetwork.com/recipes/ina-garten/perfect-roast-chicken-recipe.html) a steady oven temperature of 425 degrees. If you want a visual of what to do, _The New York Times_ has a great [step-by-step guide](https://cooking.nytimes.com/guides/11-how-to-roast-chicken) to roasting chicken.
+Another easy and economical main course is roast chicken. You can usually find a whole chicken at the supermarket for just under $1 per pound to $4 per pound for an organic one. Some recipes will have you cook the chicken at a high temperature for 10 to 15 minutes and then a lower temperature for the remaining time. Ina Garten's well-liked chicken recipe [calls for](https://www.foodnetwork.com/recipes/ina-garten/perfect-roast-chicken-recipe.html) a steady oven temperature of 425 degrees. If you want a visual of what to do, *The New York Times* has a great [step-by-step guide](https://cooking.nytimes.com/guides/11-how-to-roast-chicken) to roasting chicken.
 
 #### Ingredients
 
@@ -82,9 +84,9 @@ Preheat the oven to 425 degrees F.
 
 Remove the chicken giblets. Rinse the chicken inside and out. Remove any excess fat and pat the outside dry. Liberally salt and pepper the inside of the chicken. Stuff the cavity with the bunch of thyme, both halves of lemon, and all the garlic. Brush the outside of the chicken with the butter and sprinkle again with salt and pepper. Tie the legs together with kitchen string and tuck the wing tips under the body of the chicken. 
 
-Bake chicken for 1/2 hour at 425\. 
+Bake chicken for 1/2 hour at 425. 
 
-Toss all the vegetables with salt, pepper, 20 sprigs of thyme, and olive oil. Remove the chicken from oven and place the vegetables below the chicken in the roasting pan. Optional: If you think chicken and vegetables are becoming dry, consider adding a small amount (about 1/2 cup) of chicken stock to pan.  
+Toss all the vegetables with salt, pepper, 20 sprigs of thyme, and olive oil. Remove the chicken from oven and place the vegetables below the chicken in the roasting pan. Optional: If you think chicken and vegetables are becoming dry, consider adding a small amount (about 1/2 cup) of chicken stock to pan.\
 Bake the chicken and vegetables for 1 hour at 425 or until the juices run clear when you cut between a leg and thigh. Transfer the food to a platter and cover with aluminum foil for about 20 minutes.
 
 Copyright 1999, The Barefoot Contessa Cookbook, All Rights Reserved.
@@ -233,9 +235,9 @@ While the stock is heating up, heat a large non-stick skillet over medium-high h
 
 Once the stock boils, add the pasta and cook for 8 to 10 minutes until it's al dente. Add the kale and stir well, cooking for 2 more minutes. Stir in the cheese and season with more salt and pepper if desired. Turn off heat. You can add all of the sausage into the soup or serve the soup into bowls and add the sausage on top per serving. Serve with extra cheese for grating. 
 
-_**Some other meaty ideas:**_
+***Some other meaty ideas:***
 
-* Meat casserole made with [ground beef](https://www.myrecipes.com/recipe/vanessas-make-ahead-beefy-lasagna)
+* Meat casserole made with ground beef
 * Beef Bourguignon, the classic [French stew](https://www.onceuponachef.com/2011/02/beef-stew-with-carrots-potatoes.html)
 * An easy chicken [schnitzel](https://www.bonappetit.com/recipe/chicken-schnitzel)
 * A porchetta [variation](https://www.bonappetit.com/recipe/weeknight-porchetta)
