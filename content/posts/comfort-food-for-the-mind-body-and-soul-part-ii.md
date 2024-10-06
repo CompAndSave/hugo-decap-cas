@@ -100,7 +100,7 @@ Serve soup, spooning pistachio salsa on top.
 
 ### "Zucchini-and-Spinach Lasagna"
 
-Moving on to those winter staples, casseroles, [here](https://www.myrecipes.com/recipe/zucchini-and-spinach-lasagna) is a satisfying spinach and zucchini lasagna sure to please your family. This vegetable-based dish is so easy because you use no-boil lasagna noodles, which you can find at most supermarkets. 
+Moving on to those winter staples, casseroles, here is a satisfying spinach and zucchini lasagna sure to please your family. This vegetable-based dish is so easy because you use no-boil lasagna noodles, which you can find at most supermarkets. 
 
 **Ingredients**\
 1 (8-ounce) container whipped chive-and-onion cream cheese\
