@@ -202,7 +202,7 @@ In a saucepan over medium heat, add 3/4 cup of very hot water and cook rice, sti
 
 ***A few other recipes…*** 
 
-* A tasty [winter salad](https://www.myrecipes.com/recipe/winter-salad-with-roasted-beets-citrus-reduction-dressing) with roasted beets
+* A tasty winter salad with roasted beets
 * A make-ahead butternut squash lasagna
 * [Split pea](https://www.thekitchn.com/slow-cooker-vegetarian-split-pea-soup-132464) soup without the ham
 * Healthy [phở](https://www.thekitchn.com/recipe-vegetarian-pho-vietnamese-noodle-soup-recipes-from-the-kitchn-107312) with vegetables
