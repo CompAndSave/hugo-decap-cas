@@ -1,6 +1,6 @@
 ---
 title: "Interesting Facts About Printing: Industry Insights You Cannot Miss"
-date: 2024-04-11T03:10:00.000+08:00
+date: 2024-10-12T02:02:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/interesting-facts-about-printing.png
 description: Curious about printing? Check out these interesting facts about
