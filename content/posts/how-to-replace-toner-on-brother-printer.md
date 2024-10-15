@@ -56,7 +56,7 @@ Now that you understand the basics, let's find out how to replace toner on Broth
 1. Make sure that your Brother printer is on.
 2. Locate the small indents on the front of the paper output tray to pull out the cartridge access door where you will load the toner cartridge.
 
-[![](/blog/images/screenshot-2024-07-02-at-2.47.53 pm.png)](/blog/images/screenshot-2024-07-02-at-2.47.53 pm.png)
+[![small indents location on brother printer](/blog/images/screenshot-2024-07-02-at-2.47.53 pm.png)](/blog/images/screenshot-2024-07-02-at-2.47.53 pm.png)
 
 **A. For Brother MFC-L2700DW**
 
@@ -68,7 +68,7 @@ Most Brother laser printers, like the [Brother MFC-L2700DW](https://www.compands
 
 **B. For Brother MFC-7860DW**
 
-[![Brother MFC-7860DW](/blog/images/screenshot-2024-07-02-at-3.01.36 pm.png "Brother MFC-7860DW")](/blog/images/screenshot-2024-07-02-at-3.01.36 pm.png)
+[![Brother MFC-7860DW printer access door](/blog/images/screenshot-2024-07-02-at-3.01.36 pm.png "Brother MFC-7860DW")](/blog/images/screenshot-2024-07-02-at-3.01.36 pm.png)
 
 Do you own a [Brother MFC-7860DW](https://www.compandsave.com/brother/mfc/mfc-7860dw-toner-cartridges) or a similar Brother laser printer? The access door is located at the front for this type of printer. Once you open it, you'll find the space for the toner cartridge. The [Brother TN420 toner cartridge](https://www.compandsave.com/brother/mfc/mfc-7860dw-g-4623/tn420-toner-cartridge-black-p-9151) is used for this model. For step-by-step instructions on installing toner in a Brother printer, check out our video guide on installing toner cartridges in the Brother MFC-7860DW.
 
@@ -76,43 +76,33 @@ Do you own a [Brother MFC-7860DW](https://www.compandsave.com/brother/mfc/mfc-78
 
 3. Before you switch the toner, take out the drum unit. Remember, don't throw away the drum unit because it contains the toner cartridge.
 
-[![](/blog/images/screenshot-2024-07-02-at-3.04.13 pm.png)](/blog/images/screenshot-2024-07-02-at-3.04.13 pm.png)
+[![toner cartridge and drum unit location on printer](/blog/images/screenshot-2024-07-02-at-3.04.13 pm.png)](/blog/images/screenshot-2024-07-02-at-3.04.13 pm.png)
 
 4. Pull the empty toner cartridge from the drum unit by pushing down the green lock.
 
-[![](/blog/images/screenshot-2024-07-02-at-3.05.27 pm.png)](/blog/images/screenshot-2024-07-02-at-3.05.27 pm.png)
+[![green lock on drum unit](/blog/images/screenshot-2024-07-02-at-3.05.27 pm.png)](/blog/images/screenshot-2024-07-02-at-3.05.27 pm.png)
 
-[![](/blog/images/screenshot-2024-07-02-at-3.05.42 pm.png "Drum Unit without the Toner Cartridge")](/blog/images/screenshot-2024-07-02-at-3.05.42 pm.png)
+[![toner cartridges taken out from drum unit](/blog/images/screenshot-2024-07-02-at-3.05.42 pm.png "Drum Unit without the Toner Cartridge")](/blog/images/screenshot-2024-07-02-at-3.05.42 pm.png)
 
 *Drum Unit without the Toner Cartridge*
 
-
-
 5. Remove the toner from its packaging and remove the plastic orange cover.
 
-[![](/blog/images/screenshot-2024-07-02-at-3.09.13 pm.png)](/blog/images/screenshot-2024-07-02-at-3.09.13 pm.png)
-
-
+[![manage printer on windows printers and scanners settings option](/blog/images/screenshot-2024-07-02-at-3.09.13 pm.png)](/blog/images/screenshot-2024-07-02-at-3.09.13 pm.png)
 
 6. ​​ Align the toner cartridge and ensure it fits into the slot in the drum unit.
 
-[![](/blog/images/screenshot-2024-07-02-at-3.10.04 pm.png)](/blog/images/screenshot-2024-07-02-at-3.10.04 pm.png)
+[![drum unit with new toner cartridge installed](/blog/images/screenshot-2024-07-02-at-3.10.04 pm.png)](/blog/images/screenshot-2024-07-02-at-3.10.04 pm.png)
 
+7. Be careful not to touch the cartridge's gold contact points, bright-colored, or it may damage the cartridge.
 
+[![gold contact point position on cartridge](/blog/images/screenshot-2024-07-02-at-3.16.10 pm.png)](/blog/images/screenshot-2024-07-02-at-3.16.10 pm.png)
 
-7.  Be careful not to touch the cartridge's gold contact points, bright-colored, or it may damage the cartridge.
+8. Place the drum unit with the toner cartridge back into the printer, then close the cover.
 
-[![](/blog/images/screenshot-2024-07-02-at-3.16.10 pm.png)](/blog/images/screenshot-2024-07-02-at-3.16.10 pm.png)
-
-
-
-8.  Place the drum unit with the toner cartridge back into the printer, then close the cover.
-
-[![](/blog/images/screenshot-2024-07-02-at-3.18.05 pm.png)](/blog/images/screenshot-2024-07-02-at-3.18.05 pm.png)
+[![installing new drum unit with toner cartridge](/blog/images/screenshot-2024-07-02-at-3.18.05 pm.png)](/blog/images/screenshot-2024-07-02-at-3.18.05 pm.png)
 
  Your printer should automatically recognize the cartridge when turning it on and printing.
-
-
 
 ## How to Change Ink in Brother Printer?
 
@@ -124,65 +114,44 @@ Brother also makes inkjet printers that use ink cartridges. Unlike some other br
 
 **A. For Brother MFC-J480DW**
 
-[![Brother MFC-J480DW](/blog/images/screenshot-2024-07-02-at-3.20.19 pm.png "Brother MFC-J480DW")](/blog/images/screenshot-2024-07-02-at-3.20.19 pm.png)
+[![Ink cartridge position on left side of Brother MFC-J480DW printer](/blog/images/screenshot-2024-07-02-at-3.20.19 pm.png "Brother MFC-J480DW")](/blog/images/screenshot-2024-07-02-at-3.20.19 pm.png)
 
 Check out the Brother MFC-J480DW printer. You'll find the ink cartridge cover on the right side. 
 
-
-
 **B. For Brother MFC-J985DW**
 
-[![Brother MFC-J985DW](/blog/images/screenshot-2024-07-02-at-3.22.17 pm.png "Brother MFC-J985DW")](/blog/images/screenshot-2024-07-02-at-3.22.17 pm.png)
+[![Ink cartridge position on bottom right side Brother MFC-J985DW printer](/blog/images/screenshot-2024-07-02-at-3.22.17 pm.png "Brother MFC-J985DW")](/blog/images/screenshot-2024-07-02-at-3.22.17 pm.png)
 
 Look at the Brother MFC-J985DW printer. It uses the top-selling [Brother LC20E ink cartridges](https://www.compandsave.com/brother/lc20e-ink-cartridges). The space for cartridges is on the right side, just like before. Learn to change ink efficiently by watching the how-to video for installing ink cartridges on this printer.
 
 {{< youtubeLazyload id="72z53qFBFBQ" title="Brother MFC-J985DW Printer Ink Cartridges Installation" >}}
 
-
-
 1. Open the ink cartridge cover and remove the orange protective part.
 
-[![](/blog/images/screenshot-2024-07-02-at-3.24.44 pm.png)](/blog/images/screenshot-2024-07-02-at-3.24.44 pm.png)
-
-
+[![orange plastic cover for ink cartridges](/blog/images/screenshot-2024-07-02-at-3.24.44 pm.png)](/blog/images/screenshot-2024-07-02-at-3.24.44 pm.png)
 
 2. Push the lock release lever to free the cartridge color shown on the machine's display. Take out the cartridge from the printer. If you're using a new printer, remove the plastic tabs before installing ink cartridges. If you're replacing empty cartridges, take out the old ones first.
 
-[![](/blog/images/screenshot-2024-07-02-at-3.30.46 pm.png)](/blog/images/screenshot-2024-07-02-at-3.30.46 pm.png)
+[![ink cartridges release lock lever](/blog/images/screenshot-2024-07-02-at-3.30.46 pm.png)](/blog/images/screenshot-2024-07-02-at-3.30.46 pm.png)
 
+3. Take the new ink out of the packaging. Remove the plastic protective cover and the bright-colored cartridge tape.
 
+[![yellow plastic protective cover for new ink cartridge](/blog/images/screenshot-2024-07-02-at-3.31.35 pm.png)](/blog/images/screenshot-2024-07-02-at-3.31.35 pm.png)
 
-3.  Take the new ink out of the packaging. Remove the plastic protective cover and the bright-colored cartridge tape.
+4. Follow the color indicated on the machine's display. Be careful not to touch the gold contact point, or it may damage the cartridge.
 
-[![](/blog/images/screenshot-2024-07-02-at-3.31.35 pm.png)](/blog/images/screenshot-2024-07-02-at-3.31.35 pm.png)
-
-
-
-4.  Follow the color indicated on the machine's display. Be careful not to touch the gold contact point, or it may damage the cartridge.
-
-[![](/blog/images/screenshot-2024-07-02-at-3.34.59 pm.png)](/blog/images/screenshot-2024-07-02-at-3.34.59 pm.png)
-
-
+[![gold contact point on ink cartridge](/blog/images/screenshot-2024-07-02-at-3.34.59 pm.png)](/blog/images/screenshot-2024-07-02-at-3.34.59 pm.png)
 
 5. Each color has its correct position. Insert the ink cartridge in the direction of the arrow on the label.
 
-[![](/blog/images/screenshot-2024-07-02-at-3.35.50 pm.png)](/blog/images/screenshot-2024-07-02-at-3.35.50 pm.png)
-
-
+[![arrow position showing on ink cartridge label](/blog/images/screenshot-2024-07-02-at-3.35.50 pm.png)](/blog/images/screenshot-2024-07-02-at-3.35.50 pm.png)
 
 6. If it does not fit in easily, check to ensure you have it the right way up and insert it into the correct slot.
-
-
-
 7. Do the same thing for the other cartridges. Softly push the back of the ink cartridge labeled 'PUSH' until it clicks into place.
 
-[![](/blog/images/screenshot-2024-07-02-at-3.36.51 pm.png)](/blog/images/screenshot-2024-07-02-at-3.36.51 pm.png)
-
-
+[!['push' text on ink cartridges label](/blog/images/screenshot-2024-07-02-at-3.36.51 pm.png)](/blog/images/screenshot-2024-07-02-at-3.36.51 pm.png)
 
 8. Close the ink cartridge cover. If the printer is on, it should recognize the cartridges and start printing automatically.
-
-
 
 ## Parting Words
 
@@ -196,8 +165,6 @@ So that’s it! Changing toner in Brother printer doesn't have to be a hassle. J
 
 Have questions about your ink orders or need help? Call our friendly team at 1-833-465-6888. We're here Monday to Friday, from 6 am to 4 pm PT, ready to assist you. We want to make sure you get the help you need!
 
-
-
 ## Frequently Asked Questions
 
 ### 1. How often should I change the toner in my Brother printer?
@@ -208,7 +175,7 @@ You should change the toner in your Brother printer when it gives you a message 
 
 A Brother toner cartridge usually prints about 2,000 pages before you need to think about getting a new one. However, it's essential to know that the actual number can change depending on the exact model of your cartridge. Different cartridges might have different capacities. So, always check the details for your specific cartridge to get a clearer idea of how many pages it can handle. Keeping an eye on the page count helps you know when it's time to replace the toner for continuous smooth printing.
 
-### 3. Do I need to replace the drum unit every time I change the toner? 
+### 3. Do I need to replace the drum unit every time I change the toner?
 
 No, you don't need to replace the drum unit every time you change the toner in your Brother printer. The drum unit has a longer lifespan compared to the toner cartridge. It's designed to be durable and can be reused up to 3-4 times after changing toner cartridges. You can replace the toner independently without touching the drum unit, saving you money in the long run. Only consider replacing the drum unit if you experience print issues like streaks or smudges even after changing the toner.
 
@@ -219,8 +186,6 @@ To keep toner cartridges in good shape, put them in a cool, dry spot away from s
 ### 5. Can I use any toner cartridge for my Brother printer?
 
 No, it's better to use the toner cartridge made for your Brother printer. Other cartridges might not work well or could harm your printer. Check your printer's manual to find the right one. By using the right cartridge, it helps your printer work its best and last longer.
-
-
 
 ## Related Articles:
 
