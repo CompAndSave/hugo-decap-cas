@@ -1,11 +1,18 @@
 ---
-title: "5 Creative Printing Techniques To Try in 2015"
+title: 5 Creative Printing Techniques To Try in 2015
 date: 2015-02-19T01:00:00.000Z
-slug: 5-creative-printing-techniques-to-try-in-2015
-description: "5 Creative Printing Techniques To Try in 2015"
-featured_image: /blog/images/archive/2015/02/1.jpg
 authors: Denise Resendez
-tags: [embossing,heat embossing,foil stamping,thermography,printing,engraving,Inkjet printers]
+slug: 5-creative-printing-techniques-to-try-in-2015
+featured_image: /blog/images/archive/2015/02/1.jpg
+description: 5 Creative Printing Techniques To Try in 2015
+tags:
+  - embossing
+  - heat embossing
+  - foil stamping
+  - thermography
+  - printing
+  - engraving
+  - Inkjet printers
 ---
 
 So you thought printing was just about shoving a sheet into the printer, clicking print, and getting your printout all in a few seconds? Well, inkjet printers are usually that simple to use, but there is much more to printing than printout out letters, bills, photos, etc. There are several different printing techniques that can give you impressive results, like these for example.
@@ -32,7 +39,6 @@ This is a method of printing where the paper is literally engraved; where a depr
 
 Basically the reverse of engraving, embossing creates a raised, 3D printed effect on the paper. The printing could be of a thicker style, raised in way that can be felt and not just seen; or it could be the printing surface itself that is raised so that it appears to have been engraved from the reverse side of the paper. Dry embossing or heat embossing are different techniques used to create specific results. 
 
-### 
 
 ### Lamination & Varnish 
 
