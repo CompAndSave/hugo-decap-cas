@@ -43,13 +43,13 @@ Compatible cartridges are often less expensive than OEM cartridges because they 
 
 For HP 564XL ink cartridges, a set of 9 packs from the original manufacturer can cost as much as $191.91. In contrast, a compatible set from CompAndSave is priced at $52.11. This means you can save a lot by choosing the compatible option.
 
-Similarly, consider the Brother LC61BK black ink cartridge. The original cartridge sells for $26.99 at Staples, but a compatible ink cartridge from CompAndSave is only $2.99. That's 89% less than the price of the original cartridge. 
+Similarly, consider the Brother LC61BK black ink cartridge. The original cartridge sells for $26.99 at Staples, but a compatible ink cartridge from CompAndSave is only $2.99. That's 89% less than the price of the original cartridge.
 
 So, as we compare printer ink prices above, can you see how much you can save when you choose compatible ink cartridges? Choosing compatible cartridges can lead to significant savings without compromising quality!
 
 ## Printer Ink Price Comparison: Where Can You Save More Money On Ink?
 
-Now that we know how OEM differs from compatible cartridges let’s look at the table below and compare ink cartridge prices for printers. Where can you save more on ink? Let’s find out below: 
+Now that we know how OEM differs from compatible cartridges let’s look at the table below and compare ink cartridge prices for printers. Where can you save more on ink? Let’s find out below:
 
 [![Printer Ink Price Comparison table](/blog/images/screenshot-2024-06-27-at-9.49.24 am.png "Printer Ink Price Comparison Table")](/blog/images/screenshot-2024-06-27-at-9.49.24 am.png)
 
@@ -69,9 +69,9 @@ If you have any questions about ordering compatible cheap ink cartridges, our fr
 
 Compatible ink cartridges are third-party ink designed to work with specific printer models. They offer a cost-effective alternative to original cartridges without compromising on quality. You can check the table above to compare printer ink costs and see how much you can save when you choose compatible ink instead of OEM cartridges.
 
-###  2. Will using compatible ink cartridges void my printer warranty?
+### 2. Will using compatible ink cartridges void my printer warranty?
 
-No, using compatible ink cartridges will not void your printer warranty. According to the Magnuson-Moss Warranty Act, manufacturers cannot void your warranty when you use third-party cartridges. This law protects and lets you choose cheap cartridges for your printer ink needs. 
+No, using compatible ink cartridges will not void your printer warranty. According to the Magnuson-Moss Warranty Act, manufacturers cannot void your warranty when you use third-party cartridges. This law protects and lets you choose cheap cartridges for your printer ink needs.
 
 ### 3. Are compatible ink cartridges safe to use in my printer?
 

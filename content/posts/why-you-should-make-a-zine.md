@@ -20,14 +20,12 @@ There are no strict rules for what a zine is or has the potential to be. Zines a
 
 ### How do you make a zine?
 
-There are many ways to make a zine and no reason why you shouldn't. All mediums are acceptable. Zines can be digitally created and published on a website. They are sometimes made of photo copied doodles and snapshots. You can draw a picture, scan it into the computer, digitally color it and compile it with other images then print it. Once the pages are printed, there are many ways to put them together. But, if you aren't familiar with book binding techniques, you might want to start with this template:  
+There are many ways to make a zine and no reason why you shouldn't. All mediums are acceptable. Zines can be digitally created and published on a website. They are sometimes made of photo copied doodles and snapshots. You can draw a picture, scan it into the computer, digitally color it and compile it with other images then print it. Once the pages are printed, there are many ways to put them together. But, if you aren't familiar with book binding techniques, you might want to start with this template:
 http://blog.umamidesign.com/ud-content/2013/09/ud\_130918\_zine-instructions.jpg
 
 With this template, you can create a zine using only one sheet of paper. Go ahead and follow the instructions to create the booklet. Once you have done that you can plan out your zine content on each page. When you have all the pages filled out, unfold it. You will then use a scanner to create an image of your creation. After the image has been taken, you may print off as many as your print head can handle.
 
 ### How can I market myself?
-
-### 
 
 Great job! You have made a zine and are ready to sign up for your local Zine Fest, you Zinester. To find a zine festival closest to you, try Googling it. If that doesn't work, you may try this site which has some major zine events posted [here](https://stolensharpierevolution.org/events/).
 

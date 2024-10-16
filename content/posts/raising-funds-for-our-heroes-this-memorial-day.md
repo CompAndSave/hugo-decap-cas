@@ -12,15 +12,14 @@ Memorial Day is just around the corner folks, and we will be honoring our men an
 
 ### What we're doing this Memorial Day
 
-### 
 
 [![Donating to the Fisher House Foundation](/blog/images/ti-facebook-military.jpg)](https://www.compandsave.com/expired-deals)
 
 We recognize the sacrifices that our soldiers are making for us all of the time and we want to help in a twofold manner. We want to create awareness about what our heroes are doing and also want to make a contribution.
 
-Via the Memorial Day Campaign, starting this 12th of May, **we are donating 5% of every [ink & toner](https://www.compandsave.com/) transaction to the Fisher House Foundation with coupon code "MDAY5"** in an effort to help support military families all over the U.S. We will be doing this all though till the end of May. You can support our cause by placing as many orders you need, so that 5% of the sales proceeds go to a worthy cause. 
+Via the Memorial Day Campaign, starting this 12th of May, **we are donating 5% of every [ink & toner](https://www.compandsave.com/) transaction to the Fisher House Foundation with coupon code "MDAY5"** in an effort to help support military families all over the U.S. We will be doing this all though till the end of May. You can support our cause by placing as many orders you need, so that 5% of the sales proceeds go to a worthy cause.
 
-### Our Partner – The Fisher House Foundation 
+### Our Partner – The Fisher House Foundation
 
 This is a well known organization that is devoted to offering support to the families of our soldiers in several different ways. Here are some facts and figures that demonstrate how the Fisher House Foundation has been making a real difference to so many military families:
 

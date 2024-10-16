@@ -3,37 +3,18 @@
 @import '../base/block/top-post';
 
 
-.hr {
-    border-bottom: 1px solid $ui-light-gray;
-    margin: 5rem auto 4rem;
-    &.latest {
-        position: relative;
-
-        &:before {
-            content: "LATEST POST";
-            color: $medium-gray;
-            font-size: rem-calc(15);
-            font-weight: 700;
-            width: rem-calc(120);
-            height: rem-calc(22);
-            position: absolute;
-            left: 50%;
-            margin-left: rem-calc(-60);
-            top: 50%;
-            margin-top: rem-calc(-11);
-            z-index: 2;
-        }
-
-        &:after {
-            content: "";
-            width: rem-calc(240);
-            height: rem-calc(22);
-            background-color: get-color('ice');
-            left: 50%;
-            position: absolute;
-            margin-left: rem-calc(-120);
-            top: 50%;
-            margin-top: rem-calc(-11);
-        }
+.home-title {
+    text-align: center;
+    width: 100%;
+    margin: 6rem auto 3rem;
+    display: grid;
+    grid-template-columns: 1fr max-content 1fr;
+    grid-template-rows: 2rem 0;
+    grid-gap: 1rem;
+    align-items: center;
+    &:before, &:after {
+        content: "";
+        display: block;
+        border-bottom: 2px solid $ui-light-gray;
     }
 }

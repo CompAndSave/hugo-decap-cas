@@ -14,9 +14,8 @@ Seven is the lucky number for this Ink Fridays™ weekly offer. Our special disc
 
 [![](/blog/images/ink-friday-banner-70off.jpg)](/blog/images/ink-friday-banner-70off.jpg)
 
-### 
 
-### Compatible Printers with Canon PGI-250XL & CLI-251XL Ink Cartridges 
+### Compatible Printers with Canon PGI-250XL & CLI-251XL Ink Cartridges
 
 As always, we always recommend checking if your printer model is [compatible ](https://www.compandsave.com/canon/250-251-xl-ink-cartridges/pgi-250xl-cli-251xl-5-combo#printerMatchTab)with any ink or toner cartridges you may purchase. Here's list of compatible printer models below with this special discount:
 
@@ -32,5 +31,5 @@ __**Is Your Canon Printer Listed Below?**__
 
 This combo pack deal on Canon PGI-250XL & CLI-251XL (5 pack) is quite a steal just in time for major events like Mother's Day and graduation day. You can always check out the deal below until midnight today.
 
-> Take 70% Off Canon PGI-250XL / CL-251 XL (5 Pack) Compatible Ink Cartridges - Ink Fridays™  
+> Take 70% Off Canon PGI-250XL / CL-251 XL (5 Pack) Compatible Ink Cartridges - Ink Fridays™
 > Posted by [CompAndSave.com](https://www.facebook.com/compandsave.ink) on [Friday, May 8, 2015](https://www.facebook.com/compandsave.ink)

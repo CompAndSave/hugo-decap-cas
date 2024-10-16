@@ -14,7 +14,7 @@ It's almost Friday, and once again we have another special Ink Fridays™ deal a
 
 So if you have a Kodak printer, you may want to stock up and save before February 6th at 11:59 PM (PST). C'mon over and [visit us here](https://www.compandsave.com/ink-fridays) for this TGIF deal.
 
-### Compatible Kodak Printers 
+### Compatible Kodak Printers
 
 Not sure if your Kodak printer is compatible with this compatible Kodak ink? No worries, just check below and see if your printer is listed.
 
@@ -22,8 +22,6 @@ Not sure if your Kodak printer is compatible with this compatible Kodak ink? No 
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
 
 You can also enter your printer model at CompAndSave for a list of compatible ink cartridges or toner cartridges.
-
-### 
 
 ### Keep Up With Ink Fridays™
 

@@ -14,9 +14,7 @@ If you have ink or toner on your mind this 2015, CompAndSave.com has you covered
 
 So go ahead and give us a call. Whether you need help deciding on which printer cartridge is compatible with your printer, questions on shipping, or just want to pop in and say hello - our customer support team is here for you.
 
-## Talk Ink With Us 
-
-### 
+## Talk Ink With Us
 
 [![CompAndSave Weekend Phone Tech](/blog/images/1.png "Call Us On The Weekend")](/blog/images/1.png)
 

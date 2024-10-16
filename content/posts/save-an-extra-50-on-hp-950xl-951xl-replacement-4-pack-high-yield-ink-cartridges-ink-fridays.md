@@ -14,11 +14,8 @@ We're ending May with a sizzlin' summer deal this Ink Fridays™ that might be t
 
 [![HP Ink Cartridges ](/blog/images/save-an-extra-50.jpg)](https://www.compandsave.com/ink-fridays)
 
-### 
 
-### 
-
-### Is Your HP Printer Compatible? 
+### Is Your HP Printer Compatible?
 
 Don't forget to check if your printer is compatible with this week's offer on HP 950XL / 951XL Replacement (4-Pack) High Yield Ink Cartridges. You can view the full list of compatible HP printers [here](https://www.compandsave.com/hp/950xl-951xl-ink-cartridges/950xl-4-combo).
 

@@ -10,10 +10,8 @@ tags: [Heart Disease,heart attack,heart healthy,hearth month]
 
 [![american heart month](/blog/images/6-DIY.png "American Heart Month at CompAndSave")](/blog/images/6-DIY-1-.png)
 
-February of each year is observed as American Hearth Month – it is the time to show yourself the love by   
+February of each year is observed as American Hearth Month – it is the time to show yourself the love by
 learning more about heart attack risk factors, symptoms and treatments and by making changes to achieve better heart health. We at CompAndSave.com are not just a leading online store for high quality compatible ink, toner & printer accessories, but also a company that recognizes its Corporate Social Responsibility. As a part of this social responsibility and the need to give back, we joined in the fight against cardiovascular disease, the No.1 single biggest killer in the country.
-
-#### 
 
 ### CompAndSave Against Heart Disease
 
@@ -35,13 +33,11 @@ Here are some rather alarming statistics relating to heart disease:
 4. High blood pressure, high cholesterol and smoking are the three biggest risk factors for CVD
 5. Heart disease kills more women than all forms of cancer combined
 
-### 
-
-### Here's How You Can Get Involved This February 
+### Here's How You Can Get Involved This February
 
 If you want to spread awareness about CVD this Heart Month, be a part of National Wear Red Day which is scheduled for February 6, 2015\. This is the day to honor all the women who suffer from heart ailments. The idea is to try and save the lives of 1 in 3 women who die of stroke or heart attack each year. This is important because we tend to think of heart attacks as happening to men more than women; whereas heart attacks are the NO 1 killer of women in the country. Wear your support, and learn how to take swift action in case of a disease or a stroke.
 
-### How to Remain Heart Healthy 
+### How to Remain Heart Healthy
 
 Making simple changes to your life can help you achieve better heart health:
 

@@ -10,9 +10,9 @@ tags: [4.7 photo paper,inkjet photo paper,glossy photo paper,photo paper,digital
 
 [![compandsave ink fridays glossy photo paper](/blog/images/1.png "Buy 1, Get 2 Free: 4")](/blog/images/1.png)
 
-It's not quite time to say TGIF, but we have another jaw-dropping Ink Fridays™ deal at CompAndSave.com. Our special offer this week is a: **Buy 1, Get 2 Free – 4"x6" Premium Glossy Inkjet Photo Paper (20 sheets)**. Available exclusively on this Freaky Friday of February 13th, you can purchase 60 glossy photo papers for **less than $0.60 per pack**. With a retail price at $8.97 for 3 packs, that means we're giving over **80% in savings**! 
+It's not quite time to say TGIF, but we have another jaw-dropping Ink Fridays™ deal at CompAndSave.com. Our special offer this week is a: **Buy 1, Get 2 Free – 4"x6" Premium Glossy Inkjet Photo Paper (20 sheets)**. Available exclusively on this Freaky Friday of February 13th, you can purchase 60 glossy photo papers for **less than $0.60 per pack**. With a retail price at $8.97 for 3 packs, that means we're giving over **80% in savings**!
 
-Stock on glossy photo paper to create elegant portraits and pictures before this deal ends at 11:59 PM (PST) on February 13, 2015\. See our better than BOGO deal [here](https://www.compandsave.com/ink-fridays). 
+Stock on glossy photo paper to create elegant portraits and pictures before this deal ends at 11:59 PM (PST) on February 13, 2015\. See our better than BOGO deal [here](https://www.compandsave.com/ink-fridays).
 
 ### About Our 4"x6" Premium Glossy Inkjet Photo Paper
 
@@ -23,7 +23,7 @@ Our glossy photo papers has a shiny, reflective surface that produces vibrant co
 * Weighs 260g
 * Compatible with most inkjet printers
 
-###  Don't Miss An Ink Fridays™ Deal!
+### Don't Miss An Ink Fridays™ Deal!
 
 Ink Fridays™ always offers a new deal every week, from printer cartridges to photo paper. We usually share what we're offering here or on our Facebook page, but you can also stay in the loop with our newsletter. Want to sign up? You can[ join here](https://www.compandsave.com/ink-fridays) and never miss out another surprise printer ink and photo paper discount.
 

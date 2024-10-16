@@ -16,7 +16,7 @@
             color: $dark-gray;
             border: 0;
             &:hover {
-                color: lighten($medium-gray, 5%);
+                color: get-color('cyan');
             }
         }
     }
@@ -80,5 +80,10 @@
 @media screen and #{breakpoint(large)} {
     .card-post {
         flex: 0 0 calc(100%/3 - 2rem);
+        .img-wrapper {
+            align-items: flex-start;
+            max-height: initial;
+            min-height: initial;
+        }
     }
 }
