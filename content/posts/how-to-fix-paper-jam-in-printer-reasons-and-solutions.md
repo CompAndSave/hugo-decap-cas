@@ -58,56 +58,56 @@ Now that we know some of the reasons for paper jams in printers let’s discuss 
 
 **Step 6:** Press the power button to turn off the printer. Wait a few seconds, then press the power button again to turn it back on.
 
-Step 7: Look at the screen again to see if the error is gone and if the printer is ready.
+**Step 7:** Look at the screen again to see if the error is gone and if the printer is ready.
 
-For Canon Printers
+### For Canon Printers
 
-Step 1: Switch off your Canon printer and unplug it from the power source.
+**Step 1:** Switch off your Canon printer and unplug it from the power source.
 
-Step 2: Remove the output paper tray and lift the cover to access the cartridge area.
+**Step 2:** Remove the output paper tray and lift the cover to access the cartridge area.
 
-Step 3: Look inside the printer’s cartridge area for any stuck paper.
+**Step 3:** Look inside the printer’s cartridge area for any stuck paper.
 
-Step 4: If you find any jammed paper, hold it securely with both hands and gently pull it out without tearing it.
+**Step 4:** If you find any jammed paper, hold it securely with both hands and gently pull it out without tearing it.
 
-Step 5: After removing the stuck paper, put the cover back in place and close it properly.
+**Step 5:** After removing the stuck paper, put the cover back in place and close it properly.
 
-Step 6: Plug the printer back in and turn it on.
+**Step 6:** Plug the printer back in and turn it on.
 
-Step 7: Print a test page to check if the printer works correctly.
+**Step 7:** Print a test page to check if the printer works correctly.
 
-For Brother Printers
+### For Brother Printers
 
-Step 1: Disconnect the printer from the power outlet.
+**Step 1:** Disconnect the printer from the power outlet.
 
-Step 2: Remove the paper tray from the printer.
+**Step 2:** Remove the paper tray from the printer.
 
-Step 3: Check for paper jams, then remove any stuck paper from the tray.
+**Step 3:** Check for paper jams, then remove any stuck paper from the tray.
 
-Step 4: Place new paper back into the tray.
+**Step 4:** Place new paper back into the tray.
 
-Step 5: Put the paper tray back into the printer correctly.
+**Step 5:** Put the paper tray back into the printer correctly.
 
-Step 6: Plug in the printer, then turn it on. 
+**Step 6:** Plug in the printer, then turn it on. 
 
-Step 7: Print a test page to see if the paper jam issue is resolved.
+**Step 7:** Print a test page to see if the paper jam issue is resolved.
 
-For HP Printers (HP Envy Series)
+### For HP Printers (HP Envy Series)
 
-Step 1: Lift the ink cartridge access door until it locks into place.
+**Step 1:** Lift the ink cartridge access door until it locks into place.
 
-Step 2: Turn off the printer.
+**Step 2:** Turn off the printer.
 
-Step 3: Move the print carriage from side to side to look for any stuck paper or objects. Carefully remove any jammed paper you find.
+**Step 3:** Move the print carriage from side to side to look for any stuck paper or objects. Carefully remove any jammed paper you find.
 
-Step 4: Pinch both tabs on the paper path cover to lift it from the printer. Pull out any visible jammed paper.
+**Step 4:** Pinch both tabs on the paper path cover to lift it from the printer. Pull out any visible jammed paper.
 
-Step 5: Check the duplex rollers too. Lift the flip gate on the rollers and look for any more jammed paper. After checking, put the flip gate back down.
+**Step 5:** Check the duplex rollers too. Lift the flip gate on the rollers and look for any more jammed paper. After checking, put the flip gate back down.
 
-Step 6: Put the paper path cover back in place and make sure it clicks securely. Then, close the ink cartridge access door.
+**Step 6:** Put the paper path cover back in place and make sure it clicks securely. Then, close the ink cartridge access door.
 
-Step 7: Place fresh paper back into the input tray and adjust the guides.
+**Step 7:** Place fresh paper back into the input tray and adjust the guides.
 
-Step 8: Plug in, then turn on the printer. Print a test page to check if the problem is fixed. 
+**Step 8:** Plug in, then turn on the printer. Print a test page to check if the problem is fixed. 
 
 [](https://www.compandsave.com/printer-troubleshooting-printer-problems-and-solutions-guide)
