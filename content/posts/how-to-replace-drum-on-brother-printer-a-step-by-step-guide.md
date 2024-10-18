@@ -175,17 +175,17 @@ The drum unit in a Brother printer usually lasts between 12,000 and 15,000 pages
 
 To manually clean your printer drum, follow these steps:
 
-Step 1: Turn off the printer and unplug it
+**Step 1:** Turn off the printer and unplug it
 
-Step 2: Open the printer’s front cover of the printer and remove the toner cartridge and drum unit carefully
+**Step 2:** Open the printer’s front cover of the printer and remove the toner cartridge and drum unit carefully
 
-Step 3: Use a soft, dry, lint-free cloth to gently wipe any visible dust or debris from the surface of the drum.
+**Step 3:** Use a soft, dry, lint-free cloth to gently wipe any visible dust or debris from the surface of the drum.
 
-Step 4: If necessary, use a bit of rubbing alcohol applied to a clean cloth to clean stubborn stains or marks gently.
+**Step 4:** If necessary, use a bit of rubbing alcohol applied to a clean cloth to clean stubborn stains or marks gently.
 
-Step 5: Once you're done cleaning, reassemble the toner cartridge and drum unit and reinstall them into your printer.
+**Step 5:** Once you're done cleaning, reassemble the toner cartridge and drum unit and reinstall them into your printer.
 
-Step 6: Close the front cover, plug in your printer, and turn it on.
+**Step 6:** Close the front cover, plug in your printer, and turn it on.
 
 ## Related Articles: 
 
