@@ -70,12 +70,12 @@ However, if you reach the 15,000-page mark and your prints still look good, you 
 
 When replacing the drum in any printer, safety should be your top priority. Here are some essential safety precautions and tips to follow for a smooth Brother printer drum replacement process:
 
+* Learn about the printer's parts, including the toner and drum, and how they fit together. You can find helpful tutorials on YouTube.
 * Always wear protective gloves and a face mask to avoid skin irritation and inhaling toner dust.
 * Turn off the printer before starting any work to prevent electrical shock.
 * Let the printer cool for a few minutes to avoid burns from hot parts.
 * Keep the drum unit away from direct sunlight or bright lights to prevent damage.
 * Remove any dust or debris inside the printer before installing the new drum.
-* Learn about the printer's parts, including the toner and drum, and how they fit together. You can find helpful tutorials on YouTube.
 
 ## How To Replace Drum on Brother Printer: 10 Easy Steps
 
@@ -101,7 +101,7 @@ Ensure to follow the precautions and tips above before replacing the Brother dru
 
 **Step 10:** Press and hold 'Drum,' confirm by pressing 'Yes,' and then press 'Home' to exit the menu.
 
-***Note:** If you are only replacing the toner cartridge and not the drum unit, do not reset the drum counter, as this is only needed when you replace the drum unit.*
+**\*Note:** If you are only replacing the toner cartridge and not the drum unit, do not reset the drum counter, as this is only needed when you replace the drum unit.*
 
 ### After replacing a drum on a Brother printer, what should you do next?
 
@@ -138,7 +138,7 @@ If your Brother printer is not producing any printouts, here are some steps to t
 If you're experiencing poor print quality with your Brother printer, there are several steps you can take to troubleshoot and improve the situation:
 
 * Make sure you are using the correct type of paper for your printer. Using the wrong paper can cause issues with how the toner sticks to the page.
-* Dust or dirt on the corona wire can affect print quality. Clean it according to your printer's manual, or follow the steps we mentioned a while ago.
+* Dust or dirt on the corona wire can affect print quality. Clean it according to your printer's manual, or follow the steps we mentioned.
 * High humidity or direct sunlight can affect print quality. Move your printer to a cooler or drier place if necessary.
 
 ### 4. ‘No Toner’ Message
@@ -187,7 +187,7 @@ To manually clean your printer drum, follow these steps:
 
 **Step 6:** Close the front cover, plug in your printer, and turn it on.
 
-## Related Articles: 
+## Related Articles:
 
 [Low Toner In Printer After Replacing: How To Fix This?](https://www.compandsave.com/help/articles/22628512371213/low-toner-in-printer-after-replacing-how-to-fix-this)
 
