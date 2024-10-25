@@ -41,7 +41,7 @@ The HP+ Program is a subscription-based service offered by HP, providing subscri
 ### Cons
 
 * **Once you register your HP+ printers in the program, you can't undo it**. If it doesn't suit you, you might need to buy a new printer because there's no way to turn it off.
-* If you use HP+ ink, **you can't use cheaper ink from third-party companies** like [CompAndSave](https://www.compandsave.com/) offers. Even if you cancel HP Instant Ink, you’re still stuck with HP’s original cartridges, which are expensive. Also, if you stop the subscription, you can’t use the cartridges anymore, even if there’s ink left in them.
+* If you use HP+ ink, **you can't use cheaper ink from third-party companies** like [CompAndSave](https://www.compandsave.com/) offers. Even if you cancel HP Instant Ink, you’re still stuck with HP’s original cartridges, which are expensive. Also, if you stop the subscription, you can’t use the cartridges from HP Instant Ink Program anymore, even if there’s ink left in them.
 * HP Instant Ink is free for up to the first six months, but after that, you have to pay monthly. HP+ cost depends on how much you print. If you don't print a lot, the subscription may be costlier than buying ink as needed. And if you print a lot, you could end up paying extra fees for going over your page limit.
 * HP Plus **requires a stable internet connection.** Without it, you might not be able to use all the features of the HP Smart app or get accurate information about your printer's ink levels or Instant Ink usage.
 
@@ -88,7 +88,7 @@ Look at the "Service type" listed. If it says 2 years instead of 1, it means HP+
 
 * OfficeJet 8000e, 8100e, and 9100e series (excluding the 9110b)
 
-## HP+ Printers: Can I Deactivate It?          
+## HP+ Printers: Can I Deactivate It?
 
 Currently, there is **no option to deactivate HP+** **once it has been activated.** You're stuck with it and have to follow its rules. That means you must use original HP ink or toner as long as you have the printer. You must also have an HP account and connect your printer to the internet to get the benefits. Considering these factors before signing up is essential, as **activating HP+ is irreversible.**
 
@@ -106,7 +106,7 @@ So, before you sign up, think about whether it's worth it for you and your budge
 
 Looking for [cheap HP ink cartridges](https://www.compandsave.com/hp) for your printer? Call us toll-free at 1-833-465-6888, Monday to Friday, from 6 AM to 4 PM PT. Our friendly customer support team is ready to help you find the best deals!
 
-## Frequently Asked Questions 
+## Frequently Asked Questions
 
 ### 1. What is HP+ Program?
 
