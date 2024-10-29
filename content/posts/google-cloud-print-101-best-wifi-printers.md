@@ -1,11 +1,17 @@
 ---
 title: "Google Cloud Print 101: Best Wifi Printers"
 date: 2014-12-14T08:24:00.000Z
-slug: google-cloud-print-101-best-wifi-printers
-description: "Google Cloud Print 101: Best Wifi Printers"
-featured_image: /blog/images/archive/2014/12/Untitled.png
 authors: Denise Resendez
-tags: [cloud print,cloud printers,google cloud,google cloud print,printing,wifi printing]
+slug: google-cloud-print-101-best-wifi-printers
+featured_image: /blog/images/archive/2014/12/Untitled.png
+description: "Google Cloud Print 101: Best Wifi Printers"
+tags:
+  - cloud print
+  - cloud printers
+  - google cloud
+  - google cloud print
+  - printing
+  - wifi printing
 ---
 
 #### _Now you can print from anywhere with Google Cloud Print. But wait, what printers are the best for wifi printing?_
@@ -21,8 +27,6 @@ If you haven't jumped on board with Google Cloud print, you may want to. Similar
 | [![google cloud print](/blog/images/Untitled.png "What Is Google Cloud Print?")](/blog/images/Untitled.png) |
 | ------------------------------------------------------------------------------------------------------ |
 | Via [Google Cloud Print](https://www.google.com/cloudprint/learn/)                                     |
-
-###
 
 Google allows you to register your printer to your Google account, which then lets you print using a compatible network device like a phone, tablet, or PC. The technology also lets you share your printers with anyone you choose and lets you print without having to install device drivers (which send documents fully transmitted to Google). You can print from any Windows application if a cloud printer is installed on the device.
 
