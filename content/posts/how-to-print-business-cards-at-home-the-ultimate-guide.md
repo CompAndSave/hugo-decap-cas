@@ -16,7 +16,7 @@ tags:
 ---
 [![How to Print Business Cards at Home](/blog/images/ingoude.-presentation-.png "How to Print Business Cards at Home")](/blog/images/ingoude.-presentation-.png)
 
-Do you know how to make your own business cards at home? Well, it’s easy! Designing and printing your business cards allows you to tailor them to your specific needs and the nature of your business. 
+Do you know how to make your own business cards at home? Well, it’s easy! Designing and printing your business cards allows you to tailor them to your specific needs and the nature of your business.
 
 In this guide, we will teach you how to print business cards at home. We will list some materials, including [choosing the best printer](https://www.compandsave.com/blog/posts/best-home-office-printer-steps-in-choosing-the-perfect-one.html) you will need and the step-by-step process for making them. With a personal touch, you can ensure your cards effectively represent your brand and make a memorable impression. So, are you ready? Let’s begin!
 
@@ -47,7 +47,7 @@ Now that we know some of the advantages of printing business cards at home, are 
 
 ## How To Make Your Own Business Cards At Home?
 
-With the right tools and instructions, you'll print your first card in no time. Just follow these five simple steps on how to make your own business cards at home. 
+With the right tools and instructions, you'll print your first card in no time. Just follow these five simple steps on how to make your own business cards at home.
 
 ### STEP 1: Select The Right Paper For Business Cards
 
@@ -61,7 +61,7 @@ When printing your DIY business cards, choose a size that will look great on the
 
 **B. Select a Paper Color**
 
-The most common colors used are cream, off-white, and white. But you can choose bolder colors if you want to. Just make sure that it's similar to your brand colors. 
+The most common colors used are cream, off-white, and white. But you can choose bolder colors if you want to. Just make sure that it's similar to your brand colors.
 
 **C. Choose Your Paper Stock**
 
@@ -222,7 +222,7 @@ If you're planning on printing your business cards at home, it's essential to do
 
 **\*TIP:** Test the printer before printing your cards to ensure it is exactly the one you need for your DIY business card making. With a little effort, printing business cards at home can be a breeze!*
 
-**[1. Canon Pixma iX6820](https://www.compandsave.com/canon/pixma/ix6820-ink-cartridges)**[](https://www.compandsave.com/canon/pixma/ix6820-ink-cartridges)
+**[1. Canon Pixma iX6820](https://www.compandsave.com/canon/pixma/ix6820-ink-cartridges)**
 
 [![Canon Pixma iX6820](/blog/images/screenshot-2024-07-19-at-11.55.38 pm.png "Canon Pixma iX6820")](/blog/images/screenshot-2024-07-19-at-11.55.38 pm.png)
 
@@ -238,7 +238,7 @@ The HP OfficeJet 3830 has superb printing quality for photos and documents and a
 
 [![HP OfficeJet 3830 table](/blog/images/screenshot-2024-07-20-at-12.01.43 am.png "HP OfficeJet 3830 table")](/blog/images/screenshot-2024-07-20-at-12.01.43 am.png)
 
-**[3. Epson EcoTank ET-4760](https://www.compandsave.com/epson/ecotank/et-4760-all-in-one-ink-bottles)**[](https://www.compandsave.com/epson/ecotank/et-4760-all-in-one-ink-bottles)[](https://www.compandsave.com/epson/ecotank/et-4760-all-in-one-ink-bottles)
+**[3. Epson EcoTank ET-4760](https://www.compandsave.com/epson/ecotank/et-4760-all-in-one-ink-bottles)**
 
 [![Epson EcoTank ET-4760](/blog/images/screenshot-2024-07-20-at-12.02.35 am.png "Epson EcoTank ET-4760")](/blog/images/screenshot-2024-07-20-at-12.02.35 am.png)
 
@@ -246,9 +246,9 @@ If you're looking for the most budget-friendly printer to make cheap business ca
 
 [![Epson EcoTank ET-4760 table](/blog/images/screenshot-2024-07-20-at-12.03.52 am.png "Epson EcoTank ET-4760 table")](/blog/images/screenshot-2024-07-20-at-12.03.52 am.png)
 
-[](https://www.compandsave.com/brother/mfc/mfc-j895dw-ink-cartridges)
 
-**[4. Brother MFC-J895DW](https://www.compandsave.com/brother/mfc/mfc-j895dw-ink-cartridges)**[](https://www.compandsave.com/brother/mfc/mfc-j895dw-ink-cartridges)
+
+**[4. Brother MFC-J895DW](https://www.compandsave.com/brother/mfc/mfc-j895dw-ink-cartridges)**
 
 [![Brother MFC-J895DW table](/blog/images/screenshot-2024-07-20-at-12.05.03 am.png "Brother MFC-J895DW table")](/blog/images/screenshot-2024-07-20-at-12.05.03 am.png)
 
@@ -258,7 +258,7 @@ The Brother MFC-J895DW is best for black-and-white business cards. If convenienc
 
 ## Parting Words
 
-So, how to print business cards at home? Now you know the easy steps! There's no need to spend a fortune on a business card when you can print them at home for a fraction of the price. 
+So, how to print business cards at home? Now you know the easy steps! There's no need to spend a fortune on a business card when you can print them at home for a fraction of the price.
 
 But before starting, make sure your printer is compatible with the paper type, size, and connectivity. Also, remember the tips in this guide on how to make your own business cards at home so you can begin creating your customized design today!
 
@@ -294,4 +294,4 @@ It's best to use a printer that can handle heavier paper weights and offers at l
 
 [How to Make Stickers with Thermal Printer?](https://www.compandsave.com/how-to-make-stickers-with-thermal-printer-guide)
 
-[](https://www.compandsave.com/how-to-make-stickers-with-thermal-printer-guide)
+

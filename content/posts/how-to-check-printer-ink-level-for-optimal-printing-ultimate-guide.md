@@ -27,7 +27,7 @@ Discovering how to check printer ink level is crucial for maintaining print qual
 
 ## Why Checking Ink Levels is Important?
 
-Knowing how to check ink cartridge levels is necessary to enjoy high print quality. Low ink levels can cause inconsistent prints and damage printer nozzles, leading to costly repairs. Monitoring ink levels helps plan replacements, prevent downtime, and ensure readiness for print jobs. 
+Knowing how to check ink cartridge levels is necessary to enjoy high print quality. Low ink levels can cause inconsistent prints and damage printer nozzles, leading to costly repairs. Monitoring ink levels helps plan replacements, prevent downtime, and ensure readiness for print jobs.
 
 ## 3 Methods on How To Check Printer Ink Level?
 
@@ -37,7 +37,7 @@ Refer to “[What ink does my printer use](https://www.compandsave.com/what-ink-
 
 One of the simplest ways to check printer ink status is directly from the printer’s control panel. Most modern printers have built-in displays or indicators that provide this information.
 
-**Accessing the Control Panel:** 
+**Accessing the Control Panel:**
 
 **Step 1:** Turn on your printer and navigate through the menu.
 
@@ -131,7 +131,7 @@ Image Source: [Epson Support](https://files.support.epson.com/htmldocs/pro38_/pr
 
 [![Brother Printers](/blog/images/screenshot-2024-06-04-at-7.22.33 pm.png "How To Check Printer Ink Levels")](/blog/images/screenshot-2024-06-04-at-7.22.33 pm.png)
 
-Image Source: [Brother Support](https://support.brother.com/g/b/faqend.aspx?c=gb&lang=en&prod=dcpj715w_eu_as&faqid=faq00000253_018)[](https://support.brother.com/g/b/faqend.aspx?c=gb&lang=en&prod=dcpj715w_eu_as&faqid=faq00000253_018)
+Image Source: [Brother Support](https://support.brother.com/g/b/faqend.aspx?c=gb&lang=en&prod=dcpj715w_eu_as&faqid=faq00000253_018)
 
 ## Tips on Managing Printer Ink and Reduce Costs
 
@@ -173,7 +173,7 @@ For persistent issues, refer to the manufacturer’s website for detailed troubl
 
 ## Conclusion
 
-In conclusion, monitoring printer ink levels is vital for maintaining print quality and printer health. Keeping an eye on your ink levels helps avoid issues like printer printing blank pages and ensures your documents look their best. 
+In conclusion, monitoring printer ink levels is vital for maintaining print quality and printer health. Keeping an eye on your ink levels helps avoid issues like printer printing blank pages and ensures your documents look their best.
 
 Frequent checks help plan for replacements, maintain quality, and prevent damage. Knowing how to check printer ink level and what ink my printer uses saves time and money. This simple routine can prevent many common printing problems and keep your printer running smoothly.
 
@@ -203,4 +203,4 @@ If your printer shows low ink levels but prints well, it's still wise to prepare
 
 [What Ink Does My Printer Use?](https://www.compandsave.com/what-ink-does-my-printer-use)
 
-[](https://support.hp.com/us-en/document/ish_1716406-1413451-16)
+

@@ -17,6 +17,10 @@
             padding: rem-calc(2 8);
             font-weight: 600;
             color: $dark-gray;
+            border-radius: $global-radius;
+            &:hover {
+                border-radius: 0;
+            }
         }
         &.disabled {
             .page-link {
@@ -31,7 +35,6 @@
             .page-link {
                 background-color: get-color('cyan');
                 color: $white;
-                border-radius: $global-radius;
                 font-weight: 800;
                 &:hover {
                     border-color: transparent;

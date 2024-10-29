@@ -256,5 +256,3 @@ While capable of printing photos, laser printers are generally less suited for t
 [Inkjet Vs Laser Printer: Which Is Better?](https://www.compandsave.com/blog/posts/inkjet-vs-laser-printer-which-is-better.html)
 
 [How to Reduce Printing Costs? Top 10 Low-cost Printing Tips](https://www.compandsave.com/how-to-reduce-printing-costs)
-
-[](https://www.compandsave.com/how-to-reduce-printing-costs)

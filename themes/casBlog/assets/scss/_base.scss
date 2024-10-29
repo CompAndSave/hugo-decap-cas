@@ -83,6 +83,7 @@ a {
     &.button {
         border: 0;
     }
+    &:focus,
     &:focus-visible {
         outline: 2px dashed get-color('cyan');
         outline-offset: 4px;

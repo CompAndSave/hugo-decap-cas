@@ -86,7 +86,7 @@ When your cartridge is running low, gently shaking it can redistribute the remai
 
 ### 10. Preventing Ink Cartridge Dry Out
 
-Proper storage conditions are critical to how to make ink cartridge last longer in a printer and prevent them from drying out prematurely. So, you must store unused cartridges properly—sealed in their original packaging in a cool, dry place. 
+Proper storage conditions are critical to how to make ink cartridge last longer in a printer and prevent them from drying out prematurely. So, you must store unused cartridges properly—sealed in their original packaging in a cool, dry place.
 
 * Maintain a stable room temperature between 65-70°F.
 * Use a humidifier to control humidity levels.
@@ -139,6 +139,6 @@ In many cases, low-ink warnings appear prematurely, with plenty of ink remaining
 
 [How to Reduce Printing Costs](https://www.compandsave.com/how-to-reduce-printing-costs)
 
-[Top 10 Tips on How to Save on Printer Ink](https://www.compandsave.com/top-10-tips-on-how-to-save-on-printer-ink)[](https://www.compandsave.com/printhead-cleaning-guide)
+[Top 10 Tips on How to Save on Printer Ink](https://www.compandsave.com/top-10-tips-on-how-to-save-on-printer-ink)
 
-[](https://www.compandsave.com/printhead-cleaning-guide)
+

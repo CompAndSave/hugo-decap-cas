@@ -21,7 +21,7 @@ Do you often ask yourself, “Why is my HP printer offline?” Dealing with an o
 
 In this guide, we’ll tackle how to fix HP printer offline issues and explore the common reasons behind the problem. By the end, you’ll know [how to get your printer back online](https://www.compandsave.com/blog/posts/how-to-fix-printer-offline-problem-guide-2024-compandsave.html) quickly!
 
-**That said, here are some things we will discuss:** 
+**That said, here are some things we will discuss:**
 
 * Why Is My HP Printer Offline: 5 Common Causes
 * How To Fix HP Printer Offline Problem: Initial Checks
@@ -61,7 +61,7 @@ Look for error messages or blinking lights indicating problems like low ink, [pa
 
 [![Printer Blinking Lights](/blog/images/screenshot-2024-09-06-at-8.13.56 pm.png "Printer Blinking Lights")](/blog/images/screenshot-2024-09-06-at-8.13.56 pm.png)
 
-*[](https://www.compandsave.com/how-to-disable-hp-cartridge-protection/)Image Source: [Copy Print Scan](https://www.youtube.com/watch?v=TkmqYmCtF5s)*
+*Image Source: [Copy Print Scan](https://www.youtube.com/watch?v=TkmqYmCtF5s)*
 
 ### 2. Inspect Cable Connections
 
@@ -69,7 +69,7 @@ One of the simplest solutions is to unplug the cable from the back of the printe
 
 [![Inspect Cable Connections](/blog/images/screenshot-2024-09-06-at-8.15.16 pm.png "Inspect Cable Connections")](/blog/images/screenshot-2024-09-06-at-8.15.16 pm.png)
 
-*[](https://www.compandsave.com/how-to-disable-hp-cartridge-protection/)Image Source: [Copy Print Scan](https://www.youtube.com/watch?v=TkmqYmCtF5s)*
+*Image Source: [Copy Print Scan](https://www.youtube.com/watch?v=TkmqYmCtF5s)*
 
 ### 3. Check Network Connection
 

@@ -142,9 +142,9 @@ Refer to the [guide on disabling HP printer firmware updates](https://www.compan
 
 **Step 4:** Confirm and save your settings to ensure non-HP cartridges are not blocked.
 
-For more detailed steps, refer to the [guide on disabling HP cartridge protection](https://www.compandsave.com/how-to-disable-hp-cartridge-protection)[](https://www.compandsave.com/how-to-disable-hp-cartridge-protection).
+For more detailed steps, refer to the [guide on disabling HP cartridge protection](https://www.compandsave.com/how-to-disable-hp-cartridge-protection).
 
-#### **A Helpful Tip:** 
+#### **A Helpful Tip:**
 
 Stay informed about firmware updates, but proceed with caution. While updates can improve performance, they might also block third-party cartridges. Consider disabling HP printer firmware updates to maintain compatibility with your chosen cartridges and prevent encountering the non-HP chip detected issue.
 

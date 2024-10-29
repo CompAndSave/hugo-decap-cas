@@ -124,7 +124,7 @@ Message 1: "If you have just installed the indicated cartridges and you believe 
 
 Message 2: "Was this cartridge sold to you as a new, genuine HP-branded cartridge that has not been previously used?"
 
-In both messages, click No. If you click Yes, HP will be allowed to stop your printer's operation if you use compatible cartridges. 
+In both messages, click No. If you click Yes, HP will be allowed to stop your printer's operation if you use compatible cartridges.
 
 ### "How Do I Reset My HP Printer's Ink Levels?"
 
@@ -152,7 +152,7 @@ This is caused by poorly aligned printheads. Another sign of poorly aligned prin
 
 #### Solution #2: Hard Reset
 
-A hard reset can automatically align the printheads. 
+A hard reset can automatically align the printheads.
 
 1. While the printer is powered on, unplug the power cord from the printer's end.
 2. Unplug the power cord from the outlet.
@@ -186,12 +186,12 @@ WSD (Web Services on Devices) ports enable printers to have web service.
 7. Click the Services option.
 8. Scroll down to Function Discovery Provider Host and Function Discovery Resource Publication. Make sure that their Status is Running and their Startup Type is Automatic.
 
-![](https://lh6.googleusercontent.com/0o71j9pcN0HsmGooa5Syc-23x7wI3r0c2bpUmpH3kI2M0n8ndxMWDwGhwsk4VFJTedcj1TRV5ugfzHQ5YZ6-N2ctJT7M6BXCYmQUYXC-mQjShmjk67D2NWQOFywtF_rPyzFpGM8L)
+!
 
 1. If the Startup Type is in Manual, right-click it. Choose Properties.
 2. In the General tab, go to Startup Type and choose the option Automatic.
 
-![](https://lh5.googleusercontent.com/PEQxFYAcNkKihA7aipo1WPvZk1uB2LAuf4qwZnO3uauQFUxfQ1kwjjsa-GrtW2mEUkkX0SxNrhgds910SoFc4hsD3_dsohvI-ao-MWPvBw4DJufYS6ohMsm3sLDgZsSdMcx_Da9n)
+!
 
 1. Click Start under Service Status.
 2. Click Apply then OK.
@@ -199,7 +199,7 @@ WSD (Web Services on Devices) ports enable printers to have web service.
 
 #### Adding WSD Ports Didn't Work for Me / My Printer Doesn't Have a WSD Port. What Should I Do Next?
 
-The next step is to add a port. 
+The next step is to add a port.
 
 1. In your computer, type Devices and Printers in the Search Box of your computer's taskbar.
 2. Choose the option Devices and Printers.

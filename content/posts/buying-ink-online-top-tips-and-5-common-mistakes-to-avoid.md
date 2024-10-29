@@ -40,7 +40,7 @@ Online shopping simplifies price comparisons across multiple retailers. Many web
 
 ### 4) Ink Cartridges at Your Doorstep
 
-Fast delivery is a significant advantage of buying cartridges online. Many stores offer options like same-day shipping or free delivery for larger orders, ensuring your cartridges arrive right at your doorstep—often before you realize you're running low. 
+Fast delivery is a significant advantage of buying cartridges online. Many stores offer options like same-day shipping or free delivery for larger orders, ensuring your cartridges arrive right at your doorstep—often before you realize you're running low.
 
 ### 5) Make Informed Choices
 
@@ -92,7 +92,7 @@ While buying printer cartridges online can be convenient, certain pitfalls can l
 
 ### \#1 - DON’T Ignore Compatibility
 
-Always check cartridge compatibility with your printer model. Buying incompatible cartridges can result in wasted money and frustration. 
+Always check cartridge compatibility with your printer model. Buying incompatible cartridges can result in wasted money and frustration.
 
 ### \#2 - DON’T Get Lured by Extremely Low Prices
 
@@ -100,7 +100,7 @@ Beware of deals that seem too good to be true. Extremely low prices may indicate
 
 ### \#3 - DON’T Overbuy
 
-Buying in bulk can be tempting, but purchasing only what you need is essential. Consider your printing habits and opt for enough cartridges to last six months to a year. 
+Buying in bulk can be tempting, but purchasing only what you need is essential. Consider your printing habits and opt for enough cartridges to last six months to a year.
 
 ### \#4 - DON’T Overlook Product Reviews
 
@@ -187,8 +187,8 @@ While many believe that Original Equipment Manufacturer (OEM) cartridges are the
 
 [Printer Ink Scam](https://www.compandsave.com/printer-ink-scam-guide)
 
-[Cheap Printer Cartridges](https://www.compandsave.com/blog/posts/cheap-printer-cartridges-deciding-between-compatible-remanufactured-and-refillable-options.html)[](https://www.compandsave.com/how-to-order-online-for-compandsave)[](https://www.compandsave.com/blog/posts/how-to-save-money-on-printer-ink-simple-tips-for-home-and-office-printing.html)
+[Cheap Printer Cartridges](https://www.compandsave.com/blog/posts/cheap-printer-cartridges-deciding-between-compatible-remanufactured-and-refillable-options.html)
 
 [Cheapest Place to Buy Printer Ink Online](https://www.compandsave.com/blog/posts/cheapest-place-to-buy-printer-ink-online-for-affordable-deals.html)
 
-[Aftermarket Ink Cartridges](https://www.compandsave.com/blog/posts/truth-behind-third-party-ink-cartridges-cheaper-alternative.html)[](https://www.compandsave.com/blog/posts/remanufactured-printer-cartridges-how-are-they-made.html)
+[Aftermarket Ink Cartridges](https://www.compandsave.com/blog/posts/truth-behind-third-party-ink-cartridges-cheaper-alternative.html)

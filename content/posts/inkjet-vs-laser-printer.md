@@ -221,8 +221,8 @@ Another great option is to refill the empty cartridges by yourself. Check our [r
 
 CompAndSave is committed to helping you get the best options for high-quality printing at a much affordable price. You can control your printing costs depending on what kind of ink you will use. Our friendly customer service staff is also committed to providing you with the information you need. You may contact our toll-free no. 1-833-465-6888 from Mondays to Fridays, 6am-4pm PT if you have further inquiries. We are always ready to help!
 
-[](https://www.compandsave.com/assets/instruction_ink_refill_kit_for_inkjet_printer.pdf)
 
-[](https://www.compandsave.com/assets/instruction_ink_refill_kit_for_inkjet_printer.pdf)
 
-[](https://www.compandsave.com/assets/instruction_ink_refill_kit_for_inkjet_printer.pdf)
+
+
+

@@ -86,7 +86,7 @@ With that sleek and glass-like texture, glossy inkjet photo paper is the most us
 * More glare may pose problems when framing the photo.
 * Unlike matte paper, glossy lacks a rough feel, which might not suit certain preferences or uses.
 
-[SHOP GLOSSY PHOTO PAPER HERE!](https://www.compandsave.com/paper/photo-paper/glossy)[](https://www.compandsave.com/paper/photo-paper/glossy)
+[SHOP GLOSSY PHOTO PAPER HERE!](https://www.compandsave.com/paper/photo-paper/glossy)
 
 ### 2. Matte Photo Paper
 
@@ -400,7 +400,7 @@ If you have any questions regarding ink orders or need assistance, our helpful c
 
 ### 1. Can you use Inkjet photo paper in a laser printer?
 
-No, you cannot use Inkjet photo paper in a laser printer. Laser printers require a specific type of photo paper designed to withstand heat. If you attempt to use Inkjet photo paper in a laser printer, it can potentially damage the printer and contaminate its coating. Choosing the right type of photo paper is essential if you're aiming for a particular finish for your photos. 
+No, you cannot use Inkjet photo paper in a laser printer. Laser printers require a specific type of photo paper designed to withstand heat. If you attempt to use Inkjet photo paper in a laser printer, it can potentially damage the printer and contaminate its coating. Choosing the right type of photo paper is essential if you're aiming for a particular finish for your photos.
 
 ### 2. Can I use regular inkjet paper to print photos?
 

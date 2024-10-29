@@ -31,7 +31,7 @@ What is a MICR? In modern banking, MICR, short for Magnetic Ink Character Recogn
 
 ## MICR: What Does It Mean?
 
-[Magnetic Ink Character Recognition](https://www.youtube.com/watch?v=6SIQpqwwoe4), also known as MICR line and read as “micker,” is a strip of characters found at the bottom left of a check. This includes essential information about the bank account and the check itself. The American Bankers Association (ABA) created this technology in the late 1950s to help machines read checks faster and more accurately. The characters are printed using magnetic ink or [MICR toner](https://www.compandsave.com/blog/posts/micr-toner-know-how-it-differs-from-regular-toners.html), such as [HP 26X MICR toner cartridge](https://www.compandsave.com/hp/26x-micr-toner-cartridge-cf226x-black), so machines can easily recognize even if marks or signatures are on the check. 
+[Magnetic Ink Character Recognition](https://www.youtube.com/watch?v=6SIQpqwwoe4), also known as MICR line and read as “micker,” is a strip of characters found at the bottom left of a check. This includes essential information about the bank account and the check itself. The American Bankers Association (ABA) created this technology in the late 1950s to help machines read checks faster and more accurately. The characters are printed using magnetic ink or [MICR toner](https://www.compandsave.com/blog/posts/micr-toner-know-how-it-differs-from-regular-toners.html), such as [HP 26X MICR toner cartridge](https://www.compandsave.com/hp/26x-micr-toner-cartridge-cf226x-black), so machines can easily recognize even if marks or signatures are on the check.
 
 ### So, what are some of its components?
 
@@ -39,7 +39,7 @@ What is a MICR? In modern banking, MICR, short for Magnetic Ink Character Recogn
 
 **1. Routing Number**
 
-The routing number is like a bank's ID number, helping to show which bank the check belongs to. It's nine digits long and is assigned based on the state where the bank is located. 
+The routing number is like a bank's ID number, helping to show which bank the check belongs to. It's nine digits long and is assigned based on the state where the bank is located.
 
 **2. Account Number**
 
@@ -81,7 +81,7 @@ MICR is used worldwide to process checks, ensuring they all follow the same rule
 
 **1. Can be Costly**
 
-Using MICR technology can cost a lot because it needs special ink and printing, which can make running banks and other financial places more expensive. The good thing is, there are cheap MICR toners that you can use in printing. 
+Using MICR technology can cost a lot because it needs special ink and printing, which can make running banks and other financial places more expensive. The good thing is, there are cheap MICR toners that you can use in printing.
 
 **2. Limited Characters**
 
@@ -103,7 +103,7 @@ You need a set of MICR fonts that meet ANSI and ABA banking standards. These fon
 
 (Source: [Digital Check](https://www.digitalcheck.com/battle-micr-fonts-better-e13b-cmc7/))
 
-The numbers on checks are often written in two unique fonts: E-13B and CMC-7. These fonts are used worldwide, but E-13B, like the picture above, is mostly used in North America, Australia, and the United Kingdom. 
+The numbers on checks are often written in two unique fonts: E-13B and CMC-7. These fonts are used worldwide, but E-13B, like the picture above, is mostly used in North America, Australia, and the United Kingdom.
 
 [![micr font](/blog/images/screenshot-2024-03-29-at-3.38.37 pm.png "CMC-7 font")](/blog/images/screenshot-2024-03-29-at-3.38.37 pm.png)
 
@@ -147,7 +147,7 @@ Banks use MICR technology to process checks efficiently. When MICR checks are sc
 
 ### 2. How can I ensure that my checks meet MICR standards?
 
-To make sure your checks meet MICR standards, follow these steps. First, use special fonts that meet banking rules for encoding numbers correctly. Next, use a laser printer with a special [MICR toner](https://www.compandsave.com/blog/posts/micr-toner-know-how-it-differs-from-regular-toners.html) made for MICR encoding. Then, use special safety paper for printing checks to prevent tampering. Also, adjust your printing system to fix any spacing issues. 
+To make sure your checks meet MICR standards, follow these steps. First, use special fonts that meet banking rules for encoding numbers correctly. Next, use a laser printer with a special [MICR toner](https://www.compandsave.com/blog/posts/micr-toner-know-how-it-differs-from-regular-toners.html) made for MICR encoding. Then, use special safety paper for printing checks to prevent tampering. Also, adjust your printing system to fix any spacing issues.
 
 ### 3. How can businesses benefit from implementing MICR technology?
 
@@ -157,6 +157,6 @@ Businesses can benefit from using MICR (Magnetic Ink Character Recognition) tech
 
 [MICR Toner: Know How It Differs From Regular Toners](https://www.compandsave.com/blog/posts/micr-toner-know-how-it-differs-from-regular-toners.html)
 
-[MICR Readers: Understanding How It Reads Magnetic Ink Characters](https://www.compandsave.com/blog/posts/micr-readers-understanding-how-it-reads-magnetic-ink-characters.html)[](https://www.youtube.com/watch?v=6SIQpqwwoe4)
+[MICR Readers: Understanding How It Reads Magnetic Ink Characters](https://www.compandsave.com/blog/posts/micr-readers-understanding-how-it-reads-magnetic-ink-characters.html)
 
-[](https://www.compandsave.com/blog/posts/micr-readers-understanding-how-it-reads-magnetic-ink-characters.html)[](https://www.compandsave.com/blog/posts/micr-toner-know-how-it-differs-from-regular-toners.html)
+
