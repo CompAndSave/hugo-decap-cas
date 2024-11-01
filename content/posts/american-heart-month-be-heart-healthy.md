@@ -49,4 +49,4 @@ So what do you plan to do this Heart Month? How to do plan to do your bit to spr
 
 We'd love to hear about some of your ideas below in the blog comment section or on our official Facebook page. If you'd like to know more about our future projects, be sure to subscribe to our newsletter.
 
-[![American Heart Month Infographic ](/blog/images/1.png "American Heart Month Infographic by CompAndSave")](/blog/images/1.png)
+[![American Heart Month Infographic](/blog/images/1.png "American Heart Month Infographic by CompAndSave")](/blog/images/1.png)

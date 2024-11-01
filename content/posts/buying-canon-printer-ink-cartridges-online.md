@@ -8,7 +8,7 @@ authors: Andrew Yeung
 tags: [ink cartridges]
 ---
 
-[![](/blog/images/canon-pixma-mx870-ink.jpg)](/blog/images/canon-pixma-mx870-ink.jpg)
+[![canon pixma printer](/blog/images/canon-pixma-mx870-ink.jpg)](/blog/images/canon-pixma-mx870-ink.jpg)
 
 With the continued development of the services offered by the internet, buying anything online has become more convenient and safer for most people. From a full range of [officejet 6500 ink](https://www.compandsave.com/hp/920xl-ink-cartridges/920xl-4-combo), [mx870 ink](https://www.compandsave.com/canon/pixma/mx870-ink-cartridges) to Canon Printer ink cartridges, looking for the right type of ink you need for your printer has become more efficient. Aside from that, a lot of online stores from computer parts to printer accessories offer great discounts and shopping options making online shopping more enjoyable. For people who are looking for affordable yet high quality print in cartridges, there are plenty of online stores that can offer them excellent range of printer ink cartridges selections not to mention the big difference on prices compared to purchasing similar types of printer ink from traditional stores.
 
@@ -22,7 +22,7 @@ The good thing about the internet is that it helps simplify the process of looki
 
 Buying printer ink cartridges online is definitely more convenient as compared to traditional shopping methods where you have to visit one store after another looking for the particular brand and model you want. At the comfort of your home, buying your printing requirements online allows you to make your choice from a wide selection of ink cartridges and laser desk jets without sweat. Every purchase comes with free returns within 10 days if you are not 100% satisfied with your purchase.
 
-  
+
 **About the authors:** Andrew Yeung is president of [CompAndSave](https://www.compandsave.com/), a leading online provider of premium printer ink cartridges, including [remanufactured](https://www.compandsave.com/help) and [compatible printer ink cartridges](https://www.compandsave.com/help). With deals every month and a [100% customer satisfaction](https://www.compandsave.com/help), CompandSave provides an easy way for people and businesses to purchase printer ink and accessories.
 
 Learn about CompandSave's deals and news from the world of printing by following us on [Facebook](https://www.facebook.com/compandsave.ink), [Twitter](https://twitter.com/compandsave), [LinkedIn](https://www.linkedin.com) !

@@ -8,10 +8,6 @@ authors: Andrew Yeung
 tags: []
 ---
 
-[![](/blog/images/archive/2020/09/pexels-fernando-arcos-193057-300x200.jpg)](/blog/images/archive/2020/09/pexels-fernando-arcos-193057.jpg)
-
-_Photo by Fernando Arcos from \>Pexels_
-
 
 When your printer starts having problems, the whole office operation can stop. You fiddle with the buttons, the cartridges, the cleaning cycle -only to find your old tricks don't work.
 
@@ -158,18 +154,12 @@ The print spooler is where copies of the files are temporarily stored before it 
 
 1. Scroll down to Printer Spooler. Right-click Printer Spooler. Click Stop.
 
-[![](/blog/images/archive/2020/09/article-2B3-2Bpart-2B1-300x160.png)](/blog/images/archive/2020/09/article-2B3-2Bpart-2B1.png)
+[![Printer spooler windows panel](/blog/images/archive/2020/09/article-2B3-2Bpart-2B1.png)](/blog/images/archive/2020/09/article-2B3-2Bpart-2B1.png)
 
-1. In your computer's Start menu bar, click the **File Explorer** icon.
+1. In your computer's Start menu bar, click the **File Explorer** icon. In the address bar, type `C:WindowsSystem32SpoolPrinters` and hit **Enter**.
 
-!
-
-1. In the address bar, type C:WindowsSystem32SpoolPrinters and hit **Enter**.
-
-!
-
-1. Press down the **Shift** key and select all the files.
-2. Right-click the files and select **Delete**.
+2. Press down the **Shift** key and select all the files.
+3. Right-click the files and select **Delete**.
 
 #### V. For Mac Computers: Is Your GPU Overloaded?
 

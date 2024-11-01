@@ -10,7 +10,7 @@ tags:
   - home improvement
   - 3D printing
 ---
-[![](/blog/images/thumbnail.png)](/blog/images/thumbnail.png)
+[![image of 3D printer](/blog/images/thumbnail.png)](/blog/images/thumbnail.png)
 
 For those of you who enjoy DIY home improvement projects, we have some great tips. First, you can change the layout of your furniture in any room. Sometimes, even the smallest change can make a big difference! One idea is to move the furniture away from the windows to let in more natural light. Another tip is to remove any unnecessary furniture to help make a room look bigger. Simply getting rid of clutter can also make a world of difference. A unique one is 3D printers! Did you know you can use 3D printers to add quirky and interesting touches to your home?
 

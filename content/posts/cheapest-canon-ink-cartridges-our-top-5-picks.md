@@ -229,7 +229,7 @@ To show you how much you can save with third-party ink cartridges, we've compare
 
 [![Canon PGI-280XXL Black Pigment, Canon CLI-281XXL (CMYK) Extra High-Yield Ink Cartridges](/blog/images/screenshot-2024-07-13-at-12.05.39 am.png "Canon PGI-280XXL Black Pigment, Canon CLI-281XXL (CMYK) Extra High-Yield Ink Cartridges")](/blog/images/screenshot-2024-07-13-at-12.05.39 am.png)
 
-* **OEM Price:** [$37.99 for Black Pigment ](https://www.usa.canon.com/shop/p/pgi-280-xxl-pigment-black-individual-ink-tank?color=Pigment%20Black&type=New)+ [$29.99 each of the 5 Colors ($149.95 total)](https://www.usa.canon.com/shop/p/cli-281-xxl-dye-based-individual-ink-tank?color=Black&type=New)
+* **OEM Price:** [$37.99 for Black Pigment](https://www.usa.canon.com/shop/p/pgi-280-xxl-pigment-black-individual-ink-tank?color=Pigment%20Black&type=New)+ [$29.99 each of the 5 Colors ($149.95 total)](https://www.usa.canon.com/shop/p/cli-281-xxl-dye-based-individual-ink-tank?color=Black&type=New)
 * **CompAndSave Price:** [$27.54 for the whole set of 6](https://www.compandsave.com/canon/280-281-xxl-ink-cartridges/pgi-280xxl-cli-281xxl-6-combo)
 
 **2. Canon PG-245XL Black, CL-246XL Color High-Yield Ink Cartridge**

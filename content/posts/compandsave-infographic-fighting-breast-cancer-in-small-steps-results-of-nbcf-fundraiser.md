@@ -10,7 +10,7 @@ tags: [breast cancer facts,National Breast Cancer Foundation,breast cancer,infog
 
 _**"Pink doesn't yield, it survives!"**_
 
-[![National Breast Cancer Foundation Fundrasier ](/blog/images/1.png "We donated $13,168" to the National Breast Cancer Foundation!")](/blog/images/1.png)
+[![National Breast Cancer Foundation Fundrasier](/blog/images/1.png "We donated $13,168" to the National Breast Cancer Foundation!")](/blog/images/1.png)
 
 Small steps lead to big changes. We love this saying. After all, it was not with one, but everyone's help, who participated in our fundraiser for the National Breast Cancer Foundation that allowed us to sign and a mail a check for $13,168 last October.
 
@@ -24,11 +24,11 @@ Did you know that the risk of breast cancer increases with age? Or that 85% of b
 
 Numbers and facts like these usually aren't common knowledge. That's why the National Breast Cancer Foundation offers educational services to their pink warriors as well as mammogram help.
 
-> "The best way to fight breast cancer is to have a plan that helps you detect the disease in its early stages. An Early Detection Plan enables you to be proactive about your health by scheduling routine breast self-exams, clinical breast exams and mammograms, depending on your age and health history." - [National Breast Cancer Foundation ](https://www.nationalbreastcancer.org/our-programs/)
+> "The best way to fight breast cancer is to have a plan that helps you detect the disease in its early stages. An Early Detection Plan enables you to be proactive about your health by scheduling routine breast self-exams, clinical breast exams and mammograms, depending on your age and health history." - [National Breast Cancer Foundation](https://www.nationalbreastcancer.org/our-programs/)
 
 Your help didn't stop there. Please look at our infographic below, and you'll see exactly how your donations gave hope and spread awareness_:_
 
-[![Fighting Breast Cancer CompAndSave Infographic ](/blog/images/infographic.png "CompAndSave Infographic: Fighting Breast Cancer in Small Steps (Results of NBCF Fundraiser)")](/blog/images/infographic.png)
+[![Fighting Breast Cancer CompAndSave Infographic](/blog/images/infographic.png "CompAndSave Infographic: Fighting Breast Cancer in Small Steps (Results of NBCF Fundraiser)")](/blog/images/infographic.png)
 
 **_(Infographic Preview: Click [here](https://www.compandsave.com/expired-deals) to visit interactive infographic)_**
 

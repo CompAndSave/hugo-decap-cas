@@ -254,7 +254,7 @@ If you're looking for the most budget-friendly printer to make cheap business ca
 
 The Brother MFC-J895DW is best for black-and-white business cards. If convenience is your top priority, this printer is an excellent choice since it has an efficient app you can download. Although it can print great-looking photos, it can do better with color accuracy. Overall, it's a superb home printer that can deliver basic printing needs quickly enough to create your business cards.
 
-[![Brother MFC-J895DW table ](/blog/images/screenshot-2024-07-20-at-12.06.19 am.png "Brother MFC-J895DW table")](/blog/images/screenshot-2024-07-20-at-12.06.19 am.png)
+[![Brother MFC-J895DW table](/blog/images/screenshot-2024-07-20-at-12.06.19 am.png "Brother MFC-J895DW table")](/blog/images/screenshot-2024-07-20-at-12.06.19 am.png)
 
 ## Parting Words
 

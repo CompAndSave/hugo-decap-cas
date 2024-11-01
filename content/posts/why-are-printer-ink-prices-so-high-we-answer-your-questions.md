@@ -8,7 +8,7 @@ authors: Andrew Yeung
 tags: [printer ink cartridges,printers,inkjet canvas]
 ---
 
-[![](/blog/images/man-in-suit-with-microphone.jpeg)](/blog/images/man-in-suit-with-microphone.jpeg)
+[![a man holding a microphone](/blog/images/man-in-suit-with-microphone.jpeg)](/blog/images/man-in-suit-with-microphone.jpeg)
 
 A lot of people have questions about printer ink cartridges. Some people think they're [too expensive](https://www.theguardian.com/money/2013/feb/23/printer-ink-cartridges-paying-more-getting-less), others don't know [how to care for the cartridges themselves](https://blog.compandsave.com/2012/12/holiday-printer-cartridges.html), or [how to prevent clogs](https://blog.compandsave.com/2012/12/why-inkjet-printers-clog-and-how-to-fix.html). It can be hard to find the answers, because there are so many different opinions out there.
 

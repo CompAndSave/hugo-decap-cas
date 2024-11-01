@@ -8,8 +8,6 @@ authors: Andrew Yeung
 tags: [How-to,toner cartridges,leaking toner,Ink &amp; Toner]
 ---
 
-[![](/blog/images/leaking-toner-cartridge.jpg)](/blog/images/leaking-toner-cartridge.jpg)
-
 There are a variety of reasons as to why your toner cartridge is leaking. Unless you are ready to replace it, make sure that you do not remove any affected parts of your machine as this could lead to worse damages. The cause of leakage with your [toner cartridge](https://www.compandsave.com/?utm%5Fmedium=social&utm%5Fsource=blog) can be determined in a few ways.
 
 ## Shaking Works Like Magic (Not!)
@@ -26,7 +24,7 @@ The best way of extending the lifespan of your toner cartridge is by optimizing 
 
 Temperature is also a big factor when it comes to the sustainability of the ink inside the cartridge. If you live in a humid area, the possibility of the ink becoming overheated are greater. This is one of the reasons why you're much more liable to see messy ink blotches on prints when it's a hot summer's day.
 
-Printer owners that live in areas that become very hot during the summer experience leakage in their printer for no apparent reason other than the ink reached its melting point too early during printing. One of the ways to avoid this is to ensure that the room the printer is in properly ventilated.  
+Printer owners that live in areas that become very hot during the summer experience leakage in their printer for no apparent reason other than the ink reached its melting point too early during printing. One of the ways to avoid this is to ensure that the room the printer is in properly ventilated.
 If your printer hits its melting point too often even when not printing, your equipment will definitely run into issues. Make sure that you are not jeopardizing the lifespan of your printer by taking proper care of the unit.
 
 ## Refilling Toner with Wrong Ink

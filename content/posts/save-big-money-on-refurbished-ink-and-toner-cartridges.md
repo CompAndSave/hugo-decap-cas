@@ -8,7 +8,7 @@ authors: Andrew Yeung
 tags: [4150cdn toner,9970cdw toner]
 ---
 
-[![](/blog/images/4150CDN.jpg)](/blog/images/4150CDN.jpg)
+[![laser printer](/blog/images/4150CDN.jpg)](/blog/images/4150CDN.jpg)
 
 With the current state of the economy, it is increasingly important to save money wherever you can, on everything you can. More and more people are choosing to save money on wear and tear and fuel for their vehicles by shopping for their needs from home. With this advanced computer age, the costs of running a business and its copying and printing needs are getting higher and higher. How can you possibly save money on something that you must have to run your business? Throw in the towel when it comes to going to your local brick and mortar store for your ink and toner cartridges and buy them online. If you do not think that you can save money by ordering online, consider this.
 
@@ -18,7 +18,7 @@ The best online distributors offer you all the printer and toner cartridges that
 
 Since all of the cartridges are refurbished, what if they break or don't work? Not an issue, because you get free returns within 10 days if you are not 100% satisfied with your purchase. If that were not enough, every order you place will be shipped to you via US Priority Mail or FedEx within 24 hours, and will always be sales tax free, no matter where you live. With incredible savings on your printer and copier needs, imagine what you can do with all that extra money in your pocket book instead of someone else's.
 
-  
+
 **About the authors:** Andrew Yeung is president of [CompAndSave](https://www.compandsave.com/), a leading online provider of premium printer ink cartridges, including [remanufactured](https://www.compandsave.com/help) and [compatible printer ink cartridges](https://www.compandsave.com/help). With deals every month and a [100% customer satisfaction](https://www.compandsave.com/help), CompandSave provides an easy way for people and businesses to purchase printer ink and accessories.
 
 Learn about CompandSave's deals and news from the world of printing by following us on [Facebook](https://www.facebook.com/compandsave.ink), [Twitter](https://twitter.com/compandsave), [LinkedIn](https://www.linkedin.com) !

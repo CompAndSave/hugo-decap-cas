@@ -15,13 +15,13 @@ tags:
 ---
 ![Easter DIY Projects](/blog/images/basket-with-colored-easter-eggs.jpg "Easter egg basket")
 
-Before the Easter bunny delivers the Easter candy, have your kids join in the Easter fun. They can color printables, create crafts, and play Easter-inspired games. Let's hop down the bunny trail and explore some fun and free Easter DIY projects for you to do with your children.  
+Before the Easter bunny delivers the Easter candy, have your kids join in the Easter fun. They can color printables, create crafts, and play Easter-inspired games. Let's hop down the bunny trail and explore some fun and free Easter DIY projects for you to do with your children.
 
 ## Easy Easter DIY Projects
 
 ### Printables
 
-[DLTK ](https://www.dltk-holidays.com/easter/printables.html)has a bunch of different printables for you and your children to have fun for hours. Your kids can create bookmarks, cards, and t-shirt designs using our [transfer paper](https://www.compandsave.com/paper/transfer-paper/inkjet). Print [these pages](https://www.dltk-holidays.com/easter/measterposter.htm) in black and white and let your children color in the drawings of bunnies or flowers. With these printables, kids can draw faces on a hatched chick, bunnies, and lambs.
+[DLTK](https://www.dltk-holidays.com/easter/printables.html)has a bunch of different printables for you and your children to have fun for hours. Your kids can create bookmarks, cards, and t-shirt designs using our [transfer paper](https://www.compandsave.com/paper/transfer-paper/inkjet). Print [these pages](https://www.dltk-holidays.com/easter/measterposter.htm) in black and white and let your children color in the drawings of bunnies or flowers. With these printables, kids can draw faces on a hatched chick, bunnies, and lambs.
 
 Want more coloring options? Try one of the many Easter designs [here](https://www.coloring.ws/easter.htm) or here at First Palette.
 

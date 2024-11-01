@@ -18,13 +18,13 @@ If you have a printer at home there is a lot that you can use it for – these a
 
 ### DIY Printing Projects for the Home
 
-You probably already use your printer to print out pictures of the family – it can be fun to print out pictures to insert into frames or to create collages. You probably also use your printer to print out customized greetings, party invites, thank you notes, notes of condolence or sympathy and possibly even the gift tags that you attach to presents. DIY Printing Projects for the Office or Home office 
+You probably already use your printer to print out pictures of the family – it can be fun to print out pictures to insert into frames or to create collages. You probably also use your printer to print out customized greetings, party invites, thank you notes, notes of condolence or sympathy and possibly even the gift tags that you attach to presents. DIY Printing Projects for the Office or Home office
 
-| [![](/blog/images/4907605349-cbea8b4bcd-b.jpg)](/blog/images/4907605349-cbea8b4bcd-b.jpg) |
+| [![a table full of printed poster](/blog/images/4907605349-cbea8b4bcd-b.jpg)](/blog/images/4907605349-cbea8b4bcd-b.jpg) |
 | ----------------------------------------------------------------------------------------- |
 | By LunchBreath                                                                            |
 
-As you create décor for the home you can do the same for your office home office. Wall art, inspiring quotable quotes, motivational thoughts, wall posters and more can help to make your office space more attractive and cheerful. 
+As you create décor for the home you can do the same for your office home office. Wall art, inspiring quotable quotes, motivational thoughts, wall posters and more can help to make your office space more attractive and cheerful.
 
 You could also printout your own desk calendars for the office – use photos of office employees, inspirational images or motivational thoughts as images. Labels for office shelves, files and more; even an "employee of the month" banner can be created in house for your office.
 

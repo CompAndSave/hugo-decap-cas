@@ -8,8 +8,6 @@ authors: Andrew Yeung
 tags: [business,online marketing,social marketing]
 ---
 
-[![](/blog/images/social-media-marketing.jpg)](/blog/images/social-media-marketing.jpg)
-
 Social marketing is a marketing process for improving the social conditions of the world. It can also be used to describe how social networking sites and other marketing tools can be used for online marketing of the products of a company. In the world of business, the second definition is more relevant. Online marketing has now progressed from the earlier established methods of keyword and banner ads. The latest focus is on the activities like video clips, blogging, and other viral marketing techniques. New social marketing strategies are being evolved almost every day.
 
 **Use of Social Media Sites**
@@ -30,7 +28,7 @@ Effective social marketing can also be achieved by giving out free eBooks to the
 
 Online social marketing is a vibrant and dynamic strategy that keeps evolving all the time. It is important to keep a track of what is successful and what is not giving the desired results. Companies get the opportunity to engage directly with their existing and potential customers. They can create their own methods to have links with the customers in a way that benefits both of them.
 
-  
+
 **About the authors:** Andrew Yeung is president of [CompAndSave](https://www.compandsave.com/), a leading online provider of premium printer ink cartridges, including [remanufactured](https://www.compandsave.com/help) and [compatible printer ink cartridges](https://www.compandsave.com/help). With deals every month and a [1-year guarantee of quality](https://www.compandsave.com/help), CompandSave provides an easy way for people and businesses to purchase printer ink and accessories.
 
 Learn about CompandSave's deals and news from the world of printing by following us on [Facebook](https://www.facebook.com/compandsave.ink), [Twitter](https://twitter.com/compandsave), [LinkedIn](https://www.linkedin.com) !

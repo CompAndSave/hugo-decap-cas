@@ -8,13 +8,13 @@ authors: Andrew Yeung
 tags: [dslr,photography]
 ---
 
-[![](/blog/images/camera-action1.gif)](/blog/images/camera-action1.gif)
+[![a zoomed in image of camera lens](/blog/images/camera-action1.gif)](/blog/images/camera-action1.gif)
 
-Cameras like all other gadgets have come a long way from the large units that had a hood for the photographer. Technology has progressed considerably in the past few decades and DSLR (Digital Single Lens reflex) cameras are the latest craze of photography enthusiasts. The biggest advantage of this camera is that you can get exactly the same view in the picture as you are seeing in the viewfinder. This makes it easy for the photographer to get an exact and accurate result in keeping with what he is seeing through the viewfinder. In the traditional digital cameras, the final picture that you get is not the same as what is depicted in the viewfinder. 
+Cameras like all other gadgets have come a long way from the large units that had a hood for the photographer. Technology has progressed considerably in the past few decades and DSLR (Digital Single Lens reflex) cameras are the latest craze of photography enthusiasts. The biggest advantage of this camera is that you can get exactly the same view in the picture as you are seeing in the viewfinder. This makes it easy for the photographer to get an exact and accurate result in keeping with what he is seeing through the viewfinder. In the traditional digital cameras, the final picture that you get is not the same as what is depicted in the viewfinder.
 
 **Tips for Getting Best Results with DSLR Cameras**
 
-In order to get the best results with a DSLR camera, the following tips will be very useful. 
+In order to get the best results with a DSLR camera, the following tips will be very useful.
 
 * **Using Lens Hood at All Times:** It is essential to use matching lens hood whenever you are taking a picture with a DSLR camera. This will protect the lens from damage and to block light that might come at an angle and cause a reflection on the front lens element. The sharpness and contrast in the picture will be seriously affected with this reflection. In order to get crisp photos, it is essential to use the lens hood.
 * **Using Autofocus Mode Continuously for Moving Subjects:** A special feature of DSLR cameras, when in autofocus mode, enables it to adjust its focus continuously if you are tracking a moving subject. As such when you press the shutter while shooting a moving object, the autofocus automatically adjusts the focus. As such, it is essential to use the continuous autofocus mode while shooting moving objects.
@@ -24,7 +24,7 @@ In order to get the best results with a DSLR camera, the following tips will be 
 
 However efficiently you might use your DSLR camera, it will be of no use if the photo printing is not good. To get a good print, it is essential to use compatible printer [ink cartridges](https://www.compandsave.com/) and good [photo paper](https://www.compandsave.com/paper). The best way to get such cartridges and paper is to browse different websites and select the most reliable site that offers them at the most economical rates.
 
-  
+
 **About the authors:** Andrew Yeung is president of [CompAndSave](https://www.compandsave.com/), a leading online provider of premium printer ink cartridges, including [remanufactured](https://www.compandsave.com/help) and [compatible printer ink cartridges](https://www.compandsave.com/help). With deals every month and a [100% customer satisfaction](https://www.compandsave.com/help), CompandSave provides an easy way for people and businesses to purchase printer ink and accessories.
 
 Learn about CompandSave's deals and news from the world of printing by following us on [Facebook](https://www.facebook.com/compandsave.ink), [Twitter](https://twitter.com/compandsave), [LinkedIn](https://www.linkedin.com) !

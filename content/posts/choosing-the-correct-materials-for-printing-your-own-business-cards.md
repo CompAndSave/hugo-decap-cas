@@ -8,7 +8,7 @@ authors: Andrew Yeung
 tags: [best home office,create business cards,DIY,home projects,print business cards,Card Stock,Business cards,business information]
 ---
 
-| [![](/blog/images/eco-business-card-construction-2b.jpg)](/blog/images/eco-business-card-construction-2b.jpg) |
+| [![printer with business cards printout](/blog/images/eco-business-card-construction-2b.jpg)](/blog/images/eco-business-card-construction-2b.jpg) |
 | -------------------------------------------------------------------------------------------------------- |
 | Image found at: prairiepeasant.blogspot.com                                                              |
 
@@ -22,7 +22,7 @@ It is important choose the appropriate printing materials to increase your cards
 
 A standard business card is 3.5 by 2 inches. Card stock typically comes in 8.5 by 11 sheets, which allows the card stock to fit in most household printers. When purchasing card stock, you will see a variety of cover weights. These cover weights refer to the thickness of the card stock. The cover weight is the cumulative weight of 500 sheets of card stock. Usually business cards are printed on 80-100 lb stock.
 
-| [![](/blog/images/BmgCardBsnsCard.jpg)](/blog/images/BmgCardBsnsCard.jpg) |
+| [![business cards stencil image](/blog/images/BmgCardBsnsCard.jpg)](/blog/images/BmgCardBsnsCard.jpg) |
 | -------------------------------------------------------------------- |
 | Image found at biblevista.com                                        |
 

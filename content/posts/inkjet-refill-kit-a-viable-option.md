@@ -8,7 +8,7 @@ authors: Andrew Yeung
 tags: [inkjet refill,inkjet refill kit,refill kit]
 ---
 
-[![](/blog/images/92802.jpg)](/blog/images/92802.jpg)  
+[![refil ink](/blog/images/92802.jpg)](/blog/images/92802.jpg)
 Having a printer has now become a necessity in every home, office and business establishment. However, most people who use printers find that the ink in the [printer ink cartridge](https://www.compandsave.com/) gets exhausted all too soon necessitating replacement of the cartridge, which is an expensive proposition. It is essential to browse different websites and locate a reliable online source that provides [Canon cartridges](https://www.compandsave.com/canon) at affordable rates, particularly if you intend to buy in bulk. Online suppliers buy the HP deskjet cartridges and [laser toner cartridges](https://www.compandsave.com/) in bulk from manufacturers and give discounts to consumers because there are no overheads involved. Consumers can also opt for an [inkjet refill kit](https://www.compandsave.com/ink-refill-bulk-ink) and replace the ink in the used cartridge on their own using these kits.
 
 Using Inkjet Refill Kits
@@ -25,7 +25,7 @@ There are different types of ink refill kits available in the market. It is best
 
 Refilling the printer cartridge with the help of an inkjet refill kit will prove to be a cheaper option and the quality of printing will not suffer. However, whether you are buying a replacement cartridge or shopping for an inkjet refill kit, ensure that you find a reliable online source because spurious ink and cartridges can damage the printer and give low quality prints.
 
-  
+
 **About the authors:** Andrew Yeung is president of [CompAndSave](https://www.compandsave.com/), a leading online provider of premium printer ink cartridges, including [remanufactured](https://www.compandsave.com/help) and [compatible printer ink cartridges](https://www.compandsave.com/help). With deals every month and a [100% customer satisfaction](https://www.compandsave.com/help), CompandSave provides an easy way for people and businesses to purchase printer ink and accessories.
 
 Learn about CompandSave's deals and news from the world of printing by following us on [Facebook](https://www.facebook.com/compandsave.ink), [Twitter](https://twitter.com/compandsave), [LinkedIn](https://www.linkedin.com) !

@@ -28,9 +28,7 @@ Do you ever wonder how banks process your checks so quickly and accurately? Well
 
 ## Magnetic Ink Characters: What Are These?
 
-Magnetic ink characters are special characters printed using magnetic ink or what we call a [MICR toner.](https://www.compandsave.com/blog/posts/micr-toner-know-how-it-differs-from-regular-toners.html) They are typically found at the bottom of checks and other financial documents. They contain essential information such as routing numbers, account numbers, and check numbers. These characters are designed to be easily readable by machines called MICR readers, which use magnetic sensors to interpret the information encoded in the characters. 
-
-[![](/blog/images/screenshot-2024-03-29-at-9.38.23 pm.png)](/blog/images/screenshot-2024-03-29-at-9.38.23 pm.png)
+Magnetic ink characters are special characters printed using magnetic ink or what we call a [MICR toner.](https://www.compandsave.com/blog/posts/micr-toner-know-how-it-differs-from-regular-toners.html) They are typically found at the bottom of checks and other financial documents. They contain essential information such as routing numbers, account numbers, and check numbers. These characters are designed to be easily readable by machines called MICR readers, which use magnetic sensors to interpret the information encoded in the characters.
 
 (Source: [Digital Check](https://www.digitalcheck.com/battle-micr-fonts-better-e13b-cmc7/))
 

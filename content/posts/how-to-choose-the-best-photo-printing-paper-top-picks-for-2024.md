@@ -147,7 +147,7 @@ Choosing the best photo printing paper makes a considerable difference in the qu
 
 Choosing the best photo printing paper is crucial to [print high-quality photos](https://www.compandsave.com/how-to-print-high-quality-photos-at-home). The right paper enhances color, sharpness, and overall presentation. Consider factors like paper weight, finish, texture, and printer compatibility. Experiment with different types and brands to find the best printer photo paper. High-quality photo paper preserves memories beautifully and showcases your photography skills.
 
-For more printing supplies and assistance, visit [CompAndSave ](https://www.compandsave.com)or contact us at 1-833-465-6888. Our customer service team is available Monday through Friday, 6am-4pm PT, to provide you with the best printing solutions and support.
+For more printing supplies and assistance, visit [CompAndSave](https://www.compandsave.com)or contact us at 1-833-465-6888. Our customer service team is available Monday through Friday, 6am-4pm PT, to provide you with the best printing solutions and support.
 
 ## Frequently Asked Questions
 

@@ -10,11 +10,11 @@ tags:
   - Ink &amp; Toner
   - CompAndSave.com
 ---
-3D printing has opened up a vast number of possibilities not just for designers and innovators but also for the regular people. Just think about it, **with 3D printing we can create actual objects just at the touch of a button!** From healthcare applications where lives could be saved to easing everyday functions of life – the possibilities are endless! 
+3D printing has opened up a vast number of possibilities not just for designers and innovators but also for the regular people. Just think about it, **with 3D printing we can create actual objects just at the touch of a button!** From healthcare applications where lives could be saved to easing everyday functions of life – the possibilities are endless!
 
  Perhaps we will have edible objects that are created using syringes containing actual food. Maybe one day bio-printing will help replicate human tissues and organs. Perhaps one day you and I could create things we need right at home without even having to head to the store!
 
-[![](/blog/images/09-20-2012form-1-on-desk00-1348689824.jpg)](/blog/images/09-20-2012form-1-on-desk00-1348689824.jpg)
+[![working table with small 3D printer and a desktop](/blog/images/09-20-2012form-1-on-desk00-1348689824.jpg)](/blog/images/09-20-2012form-1-on-desk00-1348689824.jpg)
 
 Here are some fun and amazing facts about 3D printing that you may be unaware of:
 

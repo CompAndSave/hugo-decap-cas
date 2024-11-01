@@ -14,7 +14,7 @@ So you thought printing was just about shoving a sheet into the printer, clickin
 
 One of the oldest printing techniques is the Wood Block technique where a reverse image is actually carved into wood and then stamped or pressed down on the printing sheet. This method is still used for block printing fabrics by hand for traditional Indian textiles using vegetable dyes.
 
-| [![wood block printing ](/blog/images/1.jpg "Wood Block Printing Technique ")](/blog/images/1.jpg)        |
+| [![wood block printing](/blog/images/1.jpg "Wood Block Printing Technique ")](/blog/images/1.jpg)        |
 | ---------------------------------------------------------------------------------------------------- |
 | Wood Block Printing Technique ( Image [Source](https://honestlywtf.com/diy/diy-woodblock-printing/)) |
 
@@ -26,7 +26,7 @@ This is a method of printing where the paper is literally engraved; where a depr
 
 ### Embossing
 
-| [![emboss printing ](/blog/images/1.jpg "Embossing Printing Technique ")](/blog/images/1.jpg) |
+| [![emboss printing](/blog/images/1.jpg "Embossing Printing Technique ")](/blog/images/1.jpg) |
 | ---------------------------------------------------------------------------------------- |
 | Embossing Example (Image [Source](https://www.blog.blushpublishing.co.uk/tag/emboss/))   |
 
@@ -38,7 +38,7 @@ This technique basically creates a protective layer over the print surface to pr
 
 ### Foil stamping
 
-| [![Foil stamping business cards ](/blog/images/1.jpg "Foil Stamping Can Be Used To Make Business Cards")](/blog/images/1.jpg)            |
+| [![Foil stamping business cards](/blog/images/1.jpg "Foil Stamping Can Be Used To Make Business Cards")](/blog/images/1.jpg)            |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Foil Stamping Adds Elegance (Image [Source)](https://vermillionsilkcards.com/blogs/blog-posts/what-are-foil-stamped-business-cards) |
 

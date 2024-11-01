@@ -8,7 +8,7 @@ authors: Andrew Yeung
 tags: [9840cdw toner,brother 4040cdn]
 ---
 
-[![](/blog/images/4040cdn.jpg)](/blog/images/4040cdn.jpg)
+[![brother laser printer](/blog/images/4040cdn.jpg)](/blog/images/4040cdn.jpg)
 
 No matter if you are grocery shopping, buying fuel for your vehicle or buying printer ink, you want to save money, right? The best way for most people to save some money is to shop around. The problem with that is your burning your hard-earned cash through your gas tank all over town. And saving money on printer ink? How is that even possible, when the difference in price from one big box store to the other is a matter of cents? Well, you can save a lot more than just a few cents on all of your printer ink cartridges and toners by buying them from an online discount company. Even if you are concerned about ordering your printer ink or toner online, do not be. The best ink cartridges available will come with free returns within 10 days if you are not 100% satisfied with your purchase. Yes, even if you buy the wrong one, or simply are not satisfied with your purchase for any reason, no problem. The reason that this kind of company can offer you this unheard of guarantee is because they are so confident in their products.
 
@@ -16,7 +16,7 @@ Everything that you buy from an online discount ink store comes directly from an
 
 Just as an example of your potential savings, for the sake of argument, you need a Brother 4040CDN replacement set of four colors toners for your printer. At the big box retailer, you are going to spend over $350 for these four toners. If you were to purchase those same toners online, you would only pay $160\. That is an extraordinary savings of $190! Imagine what you could do with nearly $200 extra bucks in your pocket. Maybe you do not need the [brother 4040cdn toner](https://www.compandsave.com/brother/hl/hl-4040cdn-toner-cartridges), but you need the [9840CDW toner](https://www.compandsave.com/brother/mfc/mfc-9840cdw-toner-cartridges). The savings are the same with those toner cartridges as well. Even if you do not have a Brother, you have a Canon, HP, Lexmark, Epson or any other type of printer; you can find what you need at an amazing price. Start saving money today on all of your printing and copying needs by ordering your printer ink and toner online. You will not be disappointed.
 
-  
+
 **About the authors:** Andrew Yeung is president of [CompAndSave](https://www.compandsave.com/), a leading online provider of premium printer ink cartridges, including [remanufactured](https://www.compandsave.com/help) and [compatible printer ink cartridges](https://www.compandsave.com/help). With deals every month and a [100% customer satisfaction](https://www.compandsave.com/help), CompAndSave provides an easy way for people and businesses to purchase printer ink and accessories.
 
 Learn about CompAndSave's deals and news from the world of printing by following us on [Facebook](https://www.facebook.com/compandsave.ink), [Twitter](https://twitter.com/compandsave), [LinkedIn](https://www.linkedin.com) !

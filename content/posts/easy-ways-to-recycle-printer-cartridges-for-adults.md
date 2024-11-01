@@ -31,7 +31,7 @@ We all know that e-waste is a serious problem and that we need to do all we can 
 
 Another way to recycle is of course, responsibly disposing of your used ink and toner cartridges. So next time, instead of tossing those empty cases into the trash, toss them into an envelope and send them to us and we'll do the rest – we will ensure that they are disposed of responsibly and also that a hungry kid somewhere is fed – it really is that simple. And you have the satisfaction of knowing that you've done your bit to reduce pollution and feed the hungry in one fell swoop!
 
-### How to Get More People Involved in Recycling 
+### How to Get More People Involved in Recycling
 
 | [![person holding a recycling bin](/blog/images/re.jpg "How to Get More People Involved in Recycling ")](/blog/images/re.jpg) |
 | ------------------------------------------------------------------------------------------------------------------------ |
@@ -45,11 +45,11 @@ Now that you've decided to ensure that no more of your used cartridges end up in
 * When your book club meets next, make a mention of this as well
 * Make a mention of this cause in a Whatapp group that you may be a part of
 
-Start by mentioned the life hacks mentioned above and go on to speak about our recycling program. Perhaps you could print out our [Champions for the Poor](https://www.championsforthepoor.org/) page to hand around so that the idea stays with your friends, acquaintances and colleagues. Or you could do the really environment friendly thing and email them our [Printer Cartridge Recycling Program Page ](https://www.compandsave.com) even perhaps forward it to them via Whatsapp. You could share our [recycling page](https://www.compandsave.com) via your Facebook or Twitter pages. The more the word gets around, the better the response will be.
+Start by mentioned the life hacks mentioned above and go on to speak about our recycling program. Perhaps you could print out our [Champions for the Poor](https://www.championsforthepoor.org/) page to hand around so that the idea stays with your friends, acquaintances and colleagues. Or you could do the really environment friendly thing and email them our [Printer Cartridge Recycling Program Page](https://www.compandsave.com) even perhaps forward it to them via Whatsapp. You could share our [recycling page](https://www.compandsave.com) via your Facebook or Twitter pages. The more the word gets around, the better the response will be.
 
 We are happy to receive as many cartridges as possible from you and we are happy to do the recycling for you. Help us in reaching our 10,000 cartridge goal by shipping all your used cartridges to us at –
 
-CompAndSave  
-Attn: Cartridge Donations  
-38929 Cherry St.  
+CompAndSave
+Attn: Cartridge Donations
+38929 Cherry St.
 Newark, CA 94560

@@ -8,9 +8,9 @@ authors: Denise Resendez
 tags: [brother printers,Brother TN450 toner,Ink Fridays™,laser toner cartridges]
 ---
 
-[![](/blog/images/large.png)](/blog/images/large.png)
+[![Buy 1, Get 1 Free](/blog/images/large.png)](/blog/images/large.png)
 
-It's double the trouble at CompAndSave this Ink Fridays™! The offer this week is quite a steal: [**Buy 1, Get 1 Free Brother TN450 Compatible High Yield Laser Toner Cartridges.** ](https://www.compandsave.com/ink-fridays)What this means is that you guys can order each toner cartridge for only $11.50! Just as a heads up, you'll be saving 50% on the average retail price of $45.98 for both. As always, this offer has been exclusively created for and **will expire this** **Friday, April 24th until midnight (PST)**. Use code **FTN450** to get this great deal by clicking here or on the below picture!
+It's double the trouble at CompAndSave this Ink Fridays™! The offer this week is quite a steal: [**Buy 1, Get 1 Free Brother TN450 Compatible High Yield Laser Toner Cartridges.**](https://www.compandsave.com/ink-fridays)What this means is that you guys can order each toner cartridge for only $11.50! Just as a heads up, you'll be saving 50% on the average retail price of $45.98 for both. As always, this offer has been exclusively created for and **will expire this** **Friday, April 24th until midnight (PST)**. Use code **FTN450** to get this great deal by clicking here or on the below picture!
 
 ### Compatible Brother Printers for TN450 Toner Cartridges
 

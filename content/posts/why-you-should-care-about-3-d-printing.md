@@ -22,7 +22,7 @@ Again this may seem like something from _Faceoff_, but surgeons are now using th
 
 They not only make the surgical procedure more accurate with better outcomes, but also can help shorten the length of the procedure itself. In a case where a person's jaw has been destroyed and has to be reconstructed from bone sourced from other parts of the body, a 3D printer can be used. If a piece of rib or leg bone is to be used for the reconstruction, the device can help cut the bone in a highly precise manner.
 
-| [![3D Printer Prints Dinosaurs ](/blog/images/cas-3dprinting-dino.jpeg "Dinsaur Printed From 3D Printer")](/blog/images/cas-3dprinting-dino.jpeg)                |
+| [![3D Printer Prints Dinosaurs](/blog/images/cas-3dprinting-dino.jpeg "Dinsaur Printed From 3D Printer")](/blog/images/cas-3dprinting-dino.jpeg)                |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Via [Shapeways.com](https://www.shapeways.com/blog/archives/2361-dinovember-feature-an-interview-with-3d-printing-dinosaur-design-master-david-krentz.html) |
 

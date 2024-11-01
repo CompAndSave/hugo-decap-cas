@@ -56,7 +56,7 @@ Compatible ink, like the [Brother LC51 ink cartridges](https://www.compandsave.c
 
 ### 3. Remanufactured Ink Cartridge
 
-[![Remanufactured Ink Cartridge ](/blog/images/screenshot-2024-08-30-at-12.53.09 pm.png "Remanufactured Ink Cartridge")](/blog/images/screenshot-2024-08-30-at-12.53.09 pm.png)
+[![Remanufactured Ink Cartridge](/blog/images/screenshot-2024-08-30-at-12.53.09 pm.png "Remanufactured Ink Cartridge")](/blog/images/screenshot-2024-08-30-at-12.53.09 pm.png)
 
 What are remanufactured ink cartridges? Well, let’s first define the meaning of the word remanufactured. ***“Remanufactured”*** means restoring a used item and making it functional again. These replacement cartridges are original cartridges that are carefully disassembled, cleaned, and checked for any damaged parts. If there are any, they fix or replace them before refilling them with ink.
 

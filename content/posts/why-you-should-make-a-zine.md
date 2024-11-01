@@ -8,7 +8,7 @@ authors: Denise Resendez
 tags: []
 ---
 
-| [![](/blog/images/20130421_zinefest_0860.jpg)](/blog/images/20130421%5Fzinefest%5F0860.jpg)                                          |
+| [![image of people on a festival](/blog/images/20130421_zinefest_0860.jpg)](/blog/images/20130421%5Fzinefest%5F0860.jpg)                                          |
 | ------------------------------------------------------------------------------------------------------------------------------- |
 | Zine Festival Image Via [BrooklynZineFest](https://brooklynzinefest.files.wordpress.com/2013/04/20130421%5Fzinefest%5F0860.jpg) |
 

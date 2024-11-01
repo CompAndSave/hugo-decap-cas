@@ -13,7 +13,7 @@ tags:
   - epson ink
   - change printer ink
 ---
-[![](/blog/images/change-ink-in-epson.png)](/blog/images/change-ink-in-epson.png)
+[![changing ink on printer](/blog/images/change-ink-in-epson.png)](/blog/images/change-ink-in-epson.png)
 
 Over time, people really like using Epson printers for fantastic prints, whether at home or work. But sometimes, these printers act up because they don't have enough ink or none at all. Now, how do we change Epson ink cartridge? It's pretty easy! In this guide, we will walk you through the simple steps on how to change ink in Epson printer, ensuring a seamless and hassle-free experience. Let’s get started!
 
@@ -163,7 +163,7 @@ Yes, you can replace only one ink color at a time in your Epson printer. Each in
 
 ### 3. Can I refill ink cartridges instead of buying new ones?
 
-Yes, you can refill ink cartridges instead of buying new ones. Refilling ink cartridges is an option for some users to save costs and reduce environmental impact. However, it's essential to follow [proper procedures when refilling](https://www.compandsave.com/how-to-refill-ink-cartridges-guide) to avoid potential print quality issues or printer damage. If you want a hassle-free experience, consider using the [CompAndSave refill kit](https://www.compandsave.com/ink-refill-bulk-ink) for refilling your ink cartridges. 
+Yes, you can refill ink cartridges instead of buying new ones. Refilling ink cartridges is an option for some users to save costs and reduce environmental impact. However, it's essential to follow [proper procedures when refilling](https://www.compandsave.com/how-to-refill-ink-cartridges-guide) to avoid potential print quality issues or printer damage. If you want a hassle-free experience, consider using the [CompAndSave refill kit](https://www.compandsave.com/ink-refill-bulk-ink) for refilling your ink cartridges.
 
 ### 4. What should I do if I accidentally touch the gold contact points on the cartridge?
 

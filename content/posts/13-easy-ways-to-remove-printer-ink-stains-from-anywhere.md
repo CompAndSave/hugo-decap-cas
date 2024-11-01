@@ -8,13 +8,13 @@ authors: Denise Resendez
 tags: [DIY,Printer Ink Stains,How-to]
 ---
 
-[![](/blog/images/06-03-2015-300x250.jpg)](/blog/images/06-03-2015-300x250.jpg)
+[![a woman with printer ink stains on her fingers](/blog/images/06-03-2015-300x250.jpg)](/blog/images/06-03-2015-300x250.jpg)
 
 Ink stains on the hands, clothing or on the carpet may be inconvenient; they may even be dismaying if you particularly like that outfit or carpet. However the good news is that in most cases it is possible to get rid of stains fairly effectively using stuff that you have around the home. So here's what you can do to remove ink stains from pens, markers, newspapers as well as printer ink or toner:
 
 **Tip** – To maximize your chances of successful stain removal, it is important to get to the stain before it has had a chance to set in. So try and get to work removing the stain as soon as you possibly can.
 
-### How to remove ink stains from clothes 
+### How to remove ink stains from clothes
 
 There are a couple of ways to do this:
 
@@ -22,7 +22,7 @@ There are a couple of ways to do this:
 * A hand sanitizer (these are typically alcohol based) will help do the trick as well. Soak the stain in this and then wash the garment in the hottest water that the care instructions allow. Also add bleach to your wash (again check the instructions) and then air dry your clothing. Repeat process if required.
 * For printer ink spills on white fabric, chlorine bleach in cold water typically works well. For colored clothing, use a dilute mixture of ammonia detergent, again in cold water.
 
-**Tip** – use cold water and not hot; do not mix chlorine bleach and ammonia. 
+**Tip** – use cold water and not hot; do not mix chlorine bleach and ammonia.
 
 Here is a video showing how to remove ink stains from clothing:
 
@@ -45,4 +45,4 @@ Ink stains on skin are a simpler matter because you know that they'll come off s
 * Wash the stained area of skin with exfoliating soap or scrub to take off residual ink stains. Gritty soaps like Lava work pretty well.
 * If the rough handling made your skin feel a little dry, smooth on some moisturizer to soothe it.
 
-If you have any ideas to share regarding removal of ink stains from the skin, clothes or carpets, or have a particular method that works well, we would love to hear about them. Feel free to share in the comments below. 
+If you have any ideas to share regarding removal of ink stains from the skin, clothes or carpets, or have a particular method that works well, we would love to hear about them. Feel free to share in the comments below.

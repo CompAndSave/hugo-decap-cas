@@ -10,13 +10,13 @@ tags: [CompAndSave.com,Discount Offers,Ink Fridays™,Save on Ink &amp; Toner]
 
 We constantly get positive feedback from our loyal customers about how much they love our discount offers and promotions. As a result, we came up with a special way to show some love and appreciation for their support. **Now you can all enjoy an entire day of extra savings with [Ink Fridays™](https://www.compandsave.com/ink-fridays)**\- our little way to say Thanks!
 
-## [![](/blog/images/inkf.png)](https://www.compandsave.com/ink-fridays)Gotta Love Ink Fridays™
+## [![Ink fridays poster](/blog/images/inkf.png)](https://www.compandsave.com/ink-fridays)Gotta Love Ink Fridays™
 
 **Starting at 12:00 AM PST every Friday**, we are having a special 24 hour offer on any of our products; could be compatible ink or toner cartridges for any of the top brands. So mark your calendar and be sure to take full advantage of this amazing, one day offer that could translate into major savings for your home or business.
 
 ## Shopping at CompAndSave.com
 
-You get the benefit of these amazing discounts, plus you get to enjoy all the usual advantages of shopping at [CompAndSave.com](https://www.compandsave.com/): 
+You get the benefit of these amazing discounts, plus you get to enjoy all the usual advantages of shopping at [CompAndSave.com](https://www.compandsave.com/):
 
 * A vast range of compatible products for all your requirements
 * Some of the most competitive prices around

@@ -8,9 +8,9 @@ authors: Andrew Yeung
 tags: []
 ---
 
-[![](/blog/images/archive/2020/08/pexels-cottonbro-41237643-300x200.jpg)](/blog/images/archive/2020/08/pexels-cottonbro-41237643.jpg)
+[![a working desk with laptop and printer](/blog/images/archive/2020/08/pexels-cottonbro-41237643.jpg)](/blog/images/archive/2020/08/pexels-cottonbro-41237643.jpg)
 
-  
+
 A printer is not something that one can afford having Buyer's Regret.
 
 One can end up as the star of the saying, "A fool and his money are soon parted."
@@ -51,7 +51,7 @@ To determine which printer is a perfect fit for you, simply answer the following
 
 #### Text vs Image : What Will You Print the Most?
 
-[![](/blog/images/archive/2020/08/CompandsaveImageA-300x147.png)](/blog/images/archive/2020/08/CompandsaveImageA.png)
+[![Printing guide tree chart](/blog/images/archive/2020/08/CompandsaveImageA.png)](/blog/images/archive/2020/08/CompandsaveImageA.png)
 
 If you plan to print mostly documents, it will not need photo quality to be professional. A laser printer will do.
 
@@ -63,7 +63,7 @@ If you need to print text with images such as office documents, a color laser pr
 
 #### High or Low: How Much Maintenance Can You Do?
 
-[![](/blog/images/archive/2020/08/CompandsaveImage2A-300x147.png)](/blog/images/archive/2020/08/CompandsaveImage2A.png)
+[![Maintenance guide tree chart](/blog/images/archive/2020/08/CompandsaveImage2A.png)](/blog/images/archive/2020/08/CompandsaveImage2A.png)
 
 This can also be the question, "How often will you use your printer?"
 
@@ -95,7 +95,7 @@ For laser printers, they don't require much maintenance since it uses toner powd
 
 Now that you have chosen a type of printer. You'll have to dive into their **Specs** or **Specifications**. Specs is a common term for all printer brands.
 
-[![](/blog/images/archive/2020/08/CompandsaveImage3A-300x151.png)](/blog/images/archive/2020/08/CompandsaveImage3A.png)
+[![specifications navigation on web page](/blog/images/archive/2020/08/CompandsaveImage3A.png)](/blog/images/archive/2020/08/CompandsaveImage3A.png)
 
 When clicking Specifications, here are what to look for to suit your printing needs even better:
 
@@ -111,13 +111,13 @@ Or a high print volume user of 700 pages a month or more?
 
 Whatever is your estimated monthly print volume, you'll need to make sure that it's under the printer's Recommended Monthly Print Volume. This way, you won't be wearing down your printer early.
 
-[![](/blog/images/archive/2020/08/CompandsaveImage4A-300x100.png)](/blog/images/archive/2020/08/CompandsaveImage4A.png)
+[![recommended monthly print volume row](/blog/images/archive/2020/08/CompandsaveImage4A.png)](/blog/images/archive/2020/08/CompandsaveImage4A.png)
 
 #### Ink Included
 
 Some printer models will have them, some won't. On the Brother website, they call it **What's Included**. On Epson, HP and Canon, you can see it in **What's in The Box**.
 
-[![](/blog/images/archive/2020/08/CompandsaveImage7A-300x71.png)](/blog/images/archive/2020/08/CompandsaveImage7A.png)
+[![carton contents row](/blog/images/archive/2020/08/CompandsaveImage7A.png)](/blog/images/archive/2020/08/CompandsaveImage7A.png)
 
 The higher the Inbox Yield, the higher the printer's initial cost. But it will save you money in buying ink cartridges again and again.
 
@@ -173,7 +173,7 @@ Its price is $249.99.
 
 Using Cost Consideration formula:
 
-[![](/blog/images/archive/2020/08/CompandsaveImage5A-300x56.png)](/blog/images/archive/2020/08/CompandsaveImage5A.png)
+[![cost consideration formula](/blog/images/archive/2020/08/CompandsaveImage5A.png)](/blog/images/archive/2020/08/CompandsaveImage5A.png)
 
 ### A More Informed Buyer's Decision for Home Office Printers
 

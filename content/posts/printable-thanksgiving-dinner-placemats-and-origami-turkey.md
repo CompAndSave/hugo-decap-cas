@@ -8,16 +8,16 @@ authors: Andrew Yeung
 tags: [Fun Thanksgiving Activities,Turkey Origami,Thanksgiving Dinner Placemats,Printer paper]
 ---
 
-Celebrated all over the US, Thanksgiving is considered one of America's favorite holidays. Different areas in the United States have their own way of celebrating Thanksgiving, and families also tend to have their own traditional dishes they like to prepare. No matter how you celebrate or who you celebrate with, one thing remains the same for every household; Thanksgiving is a time to chow down. But that's the easy part. The difficult part is preparing the feast while watching out for those little hands stretching to get every little bit of delicious nibble they can get their hands on. How do you keep those little hands busy? 
+Celebrated all over the US, Thanksgiving is considered one of America's favorite holidays. Different areas in the United States have their own way of celebrating Thanksgiving, and families also tend to have their own traditional dishes they like to prepare. No matter how you celebrate or who you celebrate with, one thing remains the same for every household; Thanksgiving is a time to chow down. But that's the easy part. The difficult part is preparing the feast while watching out for those little hands stretching to get every little bit of delicious nibble they can get their hands on. How do you keep those little hands busy?
 
-Keep them occupied with these fun and creative printable dinner placemats and origami designs, while you prepare a tasty meal. 
+Keep them occupied with these fun and creative printable dinner placemats and origami designs, while you prepare a tasty meal.
 
 **All you need is:**
 
 [![Thanksgiving Turkey Origami](/blog/images/turkey-3.jpg)](/blog/images/turkey-3.jpg)
 
 * A working printer (with [a good amount of ink](https://www.compandsave.com/))
-* [Printer Paper ](https://www.compandsave.com/)(sizes A2 and A4)
+* [Printer Paper](https://www.compandsave.com/)(sizes A2 and A4)
 * Glue (kid friendly)
 * Scissors (kid friendly)
 * Coloring materials (crayons, markers, colored pencils, paint, etc.)
@@ -30,17 +30,17 @@ Keep them occupied with these fun and creative printable dinner placemats and or
 * Click "PRINT" to print out the images in your desired size (make sure to print out a substantial amount for everyone and remember that the placemats should be double sided)
 * Once everything is downloaded, printed out and passed around, it's time to get creative… and very colorful!
 
-We know that kids have big imaginations. We sometimes forget just how much joy and creative fire they can muster. A Thanksgiving themed origami and coloring exercise is a great way to ignite their creative fuel and make good use of your printer and ink cartridges. What fun and unique images will they create?   
+We know that kids have big imaginations. We sometimes forget just how much joy and creative fire they can muster. A Thanksgiving themed origami and coloring exercise is a great way to ignite their creative fuel and make good use of your printer and ink cartridges. What fun and unique images will they create?
 After they are done coloring their placemats, make sure to set them on the area where they will be sitting for dinner in order to reserve their spot. When everyone is finished recuperating from a full stomach, enjoy some great puzzles and games on the reverse side of the placemats or take the time to form more origami turkeys.
 
-The CompAndSave family puts great emphasis on togetherness and giving thanks for what you have. Remember to keep those the origamis and placemats as a memory of the enjoyable and happy time you shared with your family. 
+The CompAndSave family puts great emphasis on togetherness and giving thanks for what you have. Remember to keep those the origamis and placemats as a memory of the enjoyable and happy time you shared with your family.
 
-For more tips on how you can enjoy the holidays, [subscribe our mailing list](https://www.compandsave.com/welcome/subscribe/) and [connect with us via Facebook](https://www.facebook.com/compandsave.ink) to let us know what you're thankful for. 
+For more tips on how you can enjoy the holidays, [subscribe our mailing list](https://www.compandsave.com/welcome/subscribe/) and [connect with us via Facebook](https://www.facebook.com/compandsave.ink) to let us know what you're thankful for.
 
 Happy Thanksgiving!
 
 **Download Here:**
 
-[Turkey Origami](https://www.compandsave.com/v/mp/cas%5Fblog/2013-thanksgiving-origami-CAS.pdf)  
-[Large Thanksgiving Placemat](https://www.compandsave.com/v/mp/cas%5Fblog/placemat-cas.pdf)  
+[Turkey Origami](https://www.compandsave.com/v/mp/cas%5Fblog/2013-thanksgiving-origami-CAS.pdf)
+[Large Thanksgiving Placemat](https://www.compandsave.com/v/mp/cas%5Fblog/placemat-cas.pdf)
 [Small Thanksgiving Placemat](https://www.compandsave.com/v/mp/cas%5Fblog/cas-small-placemat.pdf)

@@ -8,7 +8,7 @@ authors: Andrew Yeung
 tags: [holiday business,holiday networking,networking during the holidays,networking tops]
 ---
 
-[![](/blog/images/business-networking.jpg)](/blog/images/business-networking.jpg)  
+[![people on a networking event](/blog/images/business-networking.jpg)](/blog/images/business-networking.jpg)
 The holidays are quickly approaching, providing a golden opportunity to actively reach out to current and prospective clients. There are a number of seasonal strategies that you can employ to enhance your business relationships, boost your brand and strengthen your bottom line. The holidays are a time of personal connection, after all, and personal connection is one of the few advantages small businesses have over mega corporations. As a small business, you have the ability to establish strong face-to-face relationships, and the holidays are the perfect time to leverage that advantage. Most local industry organizations and business associations host holiday networking events. This is the perfect opportunity to go out, have fun, meet people and identify business opportunities. Here are a few networking tips to help make the holidays even better for business:
 
 * **Take the time to talk to people.** Don't rush from person to person in a desperate attempt to gather cards. When networking, your goal is not closing deals, it is building relationships that inspire trust. Be sure to ask questions and listen - this is not the time to launch into a long sales pitch – unless of course they specifically ask for one.
@@ -21,7 +21,7 @@ The holidays are quickly approaching, providing a golden opportunity to actively
 
 **Happy Holidays!**
 
-  
+
 **About the authors:** Andrew Yeung is president of [CompAndSave](https://www.compandsave.com/), a leading online provider of premium printer ink cartridges, including [remanufactured](https://www.compandsave.com/help) and [compatible printer ink cartridges](https://www.compandsave.com/help). With deals every month and a [100% customer satisfaction](https://www.compandsave.com/help), CompandSave provides an easy way for people and businesses to purchase printer ink and accessories.
 
 Learn about CompandSave's deals and news from the world of printing by following us on [Facebook](https://www.facebook.com/compandsave.ink), [Twitter](https://twitter.com/compandsave), [LinkedIn](https://www.linkedin.com) !

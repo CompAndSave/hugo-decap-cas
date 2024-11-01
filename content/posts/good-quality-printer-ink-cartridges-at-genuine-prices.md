@@ -8,7 +8,7 @@ authors: Andrew Yeung
 tags: [ce285a,ink cartridges,laser toner cartridges,LaserJet P1102W,hp 85a]
 ---
 
-[![](/blog/images/toner-cartridges.JPG)](/blog/images/toner-cartridges.JPG)  
+[![toner cartridges](/blog/images/toner-cartridges.JPG)](/blog/images/toner-cartridges.JPG)
 It is a good idea to search on the internet for printer ink cartridges as there are many online stores which deal in such products. It is essential to search for a site which deals in genuine spare parts so that user can ensure a problem-free printer.
 
 Easy Search for Desired Part
@@ -25,7 +25,7 @@ It is a good idea to keep a ready stock of printer ink at hand so that there is 
 
 By checking out reputed sites for printer spare parts and printer ink cartridges, user can ensure that his printer is in great working condition at all times.
 
-  
+
 **About the authors:** Andrew Yeung is president of [CompAndSave](https://www.compandsave.com/), a leading online provider of premium printer ink cartridges, including [remanufactured](https://www.compandsave.com/help) and [compatible printer ink cartridges](https://www.compandsave.com/help). With deals every month and a [1-year guarantee of quality](https://www.compandsave.com/help), CompandSave provides an easy way for people and businesses to purchase printer ink and accessories.
 
 Learn about CompandSave's deals and news from the world of printing by following us on [Facebook](https://www.facebook.com/compandsave.ink), [Twitter](https://twitter.com/compandsave), [LinkedIn](https://www.linkedin.com) !

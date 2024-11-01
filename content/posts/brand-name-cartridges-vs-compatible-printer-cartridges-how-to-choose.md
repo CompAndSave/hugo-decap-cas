@@ -10,7 +10,7 @@ tags: [inexpensive ink cartridges,printer ink cartridges,compatible toner cartri
 
 Should you use brand name (a.k.a. OEM cartridges) or compatible cartridges? How does a **[compatible or re-manufactured ink or toner cartridge](https://www.compandsave.com/)** compare with its OEM (brand name) counterpart with regards to quality, cost, and results? These questions can be very confusing to many who may not understand the process and make it difficult to decide.
 
-[![](/blog/images/compatiblevsbrand.png)](/blog/images/compatiblevsbrand.png)
+[![image of remanufactured and oem cartridges](/blog/images/compatiblevsbrand.png)](/blog/images/compatiblevsbrand.png)
 
 ### Compatible ink cartridges can damage your printer?
 
@@ -33,7 +33,7 @@ Another concern people have about using compatibles is the voiding of the printe
 
 Since OEM cartridges are made using brand new parts, this has a significant environmental impact in terms of raw materials and energy used in the manufacturing process. On the other hand, generic cartridges are made by recycling used or exhausted toner or ink cartridges. The entire re-manufacturing process is oriented towards preventing used cartridges from polluting landfills and creating an environmental hazard. Therefore, using re-manufactured cartridges has a positive impact on the [**environment by reducing contamination**](https://www.compandsave.com/environmentally-friendly-ink-cartridges).
 
-[![](/blog/images/pr-728x90-CAS-2.jpg)](https://www.compandsave.com/)
+[![compandsave banner](/blog/images/pr-728x90-CAS-2.jpg)](https://www.compandsave.com/)
 
 So, in regards to quality, cost efficiency, and environmental impact, it makes more sense to use compatible ink cartridges rather than their brand name counterparts.
 

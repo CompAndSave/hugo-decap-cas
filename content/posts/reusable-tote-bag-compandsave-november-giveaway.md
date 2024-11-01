@@ -12,7 +12,7 @@ For all of our existing loyal customers and future customers, we have an excitin
 
 ### Get your tote bag for free
 
-All this November, along with free-shipping, we're giving away a free Recycled Bag with every order costing $50 or more when you use the coupon code **"DOLPHIN"** at checkout. 
+All this November, along with free-shipping, we're giving away a free Recycled Bag with every order costing $50 or more when you use the coupon code **"DOLPHIN"** at checkout.
 
 [![Free Re-usable Grocery Bag](/blog/images/2013-winter-bag-art-FOR-FACTORY.jpg)](/blog/images/2013-winter-bag-art-FOR-FACTORY.jpg)
 
@@ -22,7 +22,7 @@ Check out this edition's trivia question: "_Want to know what a baby dolphin has
 
 We've always emphasized the importance of recycling, and as a seller of compatible and remanufactured ink cartridges, we are committed to do our bit for the environment. Our giveaway for November 2013 is just one example of this commitment.
 
-[![](/blog/images/dolphin-bag-2.jpg)](/blog/images/dolphin-bag-2.jpg)
+[![blue totebag with white dolphin image](/blog/images/dolphin-bag-2.jpg)](/blog/images/dolphin-bag-2.jpg)
 
 Across the country, it is becoming necessary to bring your own shopping bag to the stores. This smart and sturdy tote will help you do your part in reducing your use of disposable plastic bags, making it a great alternative for helping the environment.
 

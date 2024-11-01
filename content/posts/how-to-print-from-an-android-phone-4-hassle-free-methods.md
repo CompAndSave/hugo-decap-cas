@@ -186,7 +186,6 @@ After installing the drivers, you can start printing directly from your Android 
 
 ### Method #4 - Print from Android Using Google Cloud Alternative (Papercut Mobility)
 
-[![](/blog/images/screenshot-2024-08-31-at-1.34.40 pm.png)](/blog/images/screenshot-2024-08-31-at-1.34.40 pm.png)
 
 (Image Source: [Google Play](https://play.google.com/store/apps/details?id=com.papercut.projectbanksia&hl=en))
 

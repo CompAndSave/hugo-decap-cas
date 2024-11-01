@@ -8,7 +8,7 @@ authors: Denise Resendez
 tags: [Discount Offers,Fourth of July,Independence Day,Printables,Ink &amp; Toner,DIY]
 ---
 
-[![](/blog/images/july-4th-banner.jpg)](/blog/images/july-4th-banner.jpg)
+[![july 4th pinwheel](/blog/images/july-4th-banner.jpg)](/blog/images/july-4th-banner.jpg)
 
 Franklin D. Roosevelt is thought to have said, "In the truest sense, freedom cannot be bestowed; it must be achieved". So as we all prepare for our Independence Day, remember free the liberties we enjoy are something to celebrate and safeguard rather than take for granted. Now, after this serious thought, let's get on with the festivities!
 
@@ -16,7 +16,7 @@ This 4th of July falls on a weekend. This makes it the perfect opportunity for s
 
 ### DIY Invites and Décor for Independence Day
 
-Here's some words to put on your invitation: Life, Liberty and the Pursuit of Hamburgers! Or you can also go with a more standard: Join us for some fun, food and fireworks. It just depends on the type of party you're planning! Luckily, we have some fun and free patriotic [4th of July invitation templates ](https://www.greetingsisland.com/invitations/holidays/4th-of-july)and[ printables](https://www.hooverwebdesign.com/4th-of-july-free-printable-invitations.html) below.
+Here's some words to put on your invitation: Life, Liberty and the Pursuit of Hamburgers! Or you can also go with a more standard: Join us for some fun, food and fireworks. It just depends on the type of party you're planning! Luckily, we have some fun and free patriotic [4th of July invitation templates](https://www.greetingsisland.com/invitations/holidays/4th-of-july)and[ printables](https://www.hooverwebdesign.com/4th-of-july-free-printable-invitations.html) below.
 
 Then where are a whole lot of other printable ideas to get into the whole spirit of this patriotic observance:
 

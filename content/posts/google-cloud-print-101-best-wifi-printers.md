@@ -35,7 +35,7 @@ While you can print from some other printers as well, a cloud ready printer is b
 
 ### Best Wifi Printers For Google Cloud Print
 
-[![best wifi printers ](/blog/images/bestcloudprintprinters-cas.jpg "Best Printers for Google Cloud Print")](/blog/images/bestcloudprintprinters-cas.jpg)
+[![best wifi printers](/blog/images/bestcloudprintprinters-cas.jpg "Best Printers for Google Cloud Print")](/blog/images/bestcloudprintprinters-cas.jpg)
 
 
 1. **Cannon PIXMA MG3220 Wireless Color Photo Printer with Scanner and Copier** is an airprint enabled printer that lets you print wirelessly and has Image Garden software that lets you organize and edit and enhance your pictures.

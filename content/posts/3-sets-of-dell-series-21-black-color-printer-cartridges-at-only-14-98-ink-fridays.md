@@ -8,13 +8,11 @@ authors: Denise Resendez
 tags: [Dell,Dell printer cartridges,Dell Series 21,Ink Fridays™]
 ---
 
-[![](/blog/images/thumbnail.png)](/blog/images/thumbnail.png)
-
 This is no early April Fool's Day joke, this Ink Fridays™ deal is one that's quite a steal for everyone. Our money-saving Ink Fridays™ deal this week is: **Buy 1, Get 2 Free Dell Replacement (Series 21) Combo Pack of Black ( Y498D) & Color (Y499D) Cartridges.** This means you can take home **6 printer cartridges for only $2.49** each at a special low price of **$14.98** instead of a retail price of $113.94\. That's over **86% in savings**! As always, we're happy to share this Ink Fridays™ deal with our amazing shoppers exclusively this Friday, March 27th.
 
-Don't forget to [snag this better than BOGO deal](https://www.compandsave.com/ink-fridays) before it ends on **Friday, March 27th at midnight PST**! 
+Don't forget to [snag this better than BOGO deal](https://www.compandsave.com/ink-fridays) before it ends on **Friday, March 27th at midnight PST**!
 
-[![compandsave ink fridays ](/blog/images/Order-Now.png "Shop Now")](https://www.compandsave.com/ink-fridays)
+[![compandsave ink fridays](/blog/images/Order-Now.png "Shop Now")](https://www.compandsave.com/ink-fridays)
 
 ### Compatible Printers for Dell Series 21
 

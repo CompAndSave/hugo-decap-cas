@@ -8,7 +8,7 @@ authors: Andrew Yeung
 tags: [business,online marketing,ecommerce,small business resources]
 ---
 
-[![](/blog/images/Online-Business.jpg)](/blog/images/Online-Business.jpg)  
+[![image of hands shaking](/blog/images/Online-Business.jpg)](/blog/images/Online-Business.jpg)
 With printers becoming common like a household product, printer [ink cartridges](https://www.compandsave.com/) are always in demand. This makes them one of the best items to start an ecommerce business.
 
 What Is Ecommerce?
@@ -29,7 +29,7 @@ Here, We Will Concentrate On The Ink Cartridge Business.
 
 There are many players operating in the market for printer ink cartridges. You need to develop your business and ultimately deliver that special touch which will make you stand out from among the rest. This will happen only after you enter the market and understand customer requirements.
 
-  
+
 **About the authors:** Andrew Yeung is president of [CompAndSav](https://www.compandsave.com/)e, a leading online provider of premium printer ink cartridges, including [remanufactured](https://www.compandsave.com/help) and [compatible printer ink cartridges](https://www.compandsave.com/help). With deals every month and a [1-year guarantee of quality](https://www.compandsave.com/help), CompandSave provides an easy way for people and businesses to purchase printer ink and accessories.
 
 Learn about CompandSave's deals and news from the world of printing by following us on [Facebook](https://www.facebook.com/compandsave.ink), [Twitter](https://twitter.com/compandsave), [LinkedIn](https://www.linkedin.com) !

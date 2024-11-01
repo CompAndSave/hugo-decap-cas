@@ -77,7 +77,7 @@ Ink cartridges are used for inkjet printers. Liquid inks are filled into contain
 
 Ink bottles/ink refill bottles are needed if your printer has an ink tank. An ink tank is a built-in part of the printer that holds the ink. To refill the ink tanks, you need to purchase printer ink bottles. Epson EcoTank series was the first company to manufacture printers with ink tanks. Thus, they also produced the first ink bottles for Epson eco tank ink refill.
 
-[![Compatible Epson Expression ](/blog/images/screenshot-2024-07-24-at-7.16.44 pm.png "Compatible Epson Expression")](/blog/images/screenshot-2024-07-24-at-7.16.44 pm.png)
+[![Compatible Epson Expression](/blog/images/screenshot-2024-07-24-at-7.16.44 pm.png "Compatible Epson Expression")](/blog/images/screenshot-2024-07-24-at-7.16.44 pm.png)
 
 ### Dye-based ink vs. pigment-based ink
 

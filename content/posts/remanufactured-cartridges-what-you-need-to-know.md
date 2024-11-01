@@ -8,7 +8,7 @@ authors: Andrew Yeung
 tags: [compatible ink and toner cartidges,CompandSave,remanufactured printer cartridges]
 ---
 
-[![](/blog/images/ink-group-456x305.jpg)](/blog/images/ink-group-456x305.jpg)
+[![a group of toner and ink cartridges image](/blog/images/ink-group-456x305.jpg)](/blog/images/ink-group-456x305.jpg)
 
 Printing isn't always easy. Sometimes the printer clogs, the ink spills, or most frustrating of all, you run out of ink at the most inconvenient time. The only thing worse than running out in the middle of a project is paying the ridiculously high prices to replace your [ink or toner](https://www.compandsave.com/). But what if there was a cheaper way? Well, using remanufactured inks is a great way to cut costs and print as often as you need to.
 

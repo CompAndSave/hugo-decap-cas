@@ -8,7 +8,6 @@ authors: Andrew Yeung
 tags: [printing trend,rapid movement printing technology]
 ---
 
-[![](/blog/images/iA2.gif)](/blog/images/iA2.gif)
 
 Printer portability is the technology that is in demand today. Rapid movement printing technology is a brand new system that enables motion printing technology and obliterates the need for a paper tray. As expected, this has spawned a range of cordless, easy-to-handle products that can be held in your hand quite like a scanning device to print images and texts on virtually any flat surface.
 
@@ -26,7 +25,7 @@ Fewer moving parts and minimal energy consumption is what makes this printer gre
 
 Rapid movement printing technology can print about 500 photos with a low-yield [ink cartridge](https://www.compandsave.com/) and nearly 1,200 photos with a high-yield cartridge. A fully charged battery can create nearly 100 prints with the current technology. A wireless printer can print at 400 mm per second when working at the maximum speed. The maximum print output is a 4 X 6" portrait.
 
-  
+
 **About the authors:** Andrew Yeung is president of [CompAndSave](https://www.compandsave.com/), a leading online provider of premium printer ink cartridges, including [remanufactured](https://www.compandsave.com/help) and [compatible printer ink cartridges](https://www.compandsave.com/help). With deals every month and a [1-year guarantee of quality](https://www.compandsave.com/help), CompandSave provides an easy way for people and businesses to purchase printer ink and accessories.
 
 Learn about CompandSave's deals and news from the world of printing by following us on [Facebook](https://www.facebook.com/compandsave.ink), [Twitter](https://twitter.com/compandsave), [LinkedIn](https://www.linkedin.com) !

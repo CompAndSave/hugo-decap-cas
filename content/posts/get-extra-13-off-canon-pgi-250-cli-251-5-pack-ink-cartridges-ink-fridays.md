@@ -14,7 +14,7 @@ We have a special September special this Ink Fridays™ on a popular ink cartrid
 
 ### **Is Your Printer Compatible?**
 
-| [![](/blog/images/canon-pixma-printer.jpg)](/blog/images/canon-pixma-printer.jpg)                      |
+| [![Canon pixma MG5422 printer](/blog/images/canon-pixma-printer.jpg)](/blog/images/canon-pixma-printer.jpg)                      |
 | ------------------------------------------------------------------------------------------------- |
 | [Canon Pixma MG5422 is Compatible](https://www.compandsave.com/canon/pixma/mg5422-ink-cartridges) |
 
@@ -31,13 +31,13 @@ Quality assured, our inkjet cartridges were created and inspected to meet the sa
 
 If so, then don't miss this great savings on a compatible Canon set of inkjet cartridges.
 
-> Special: $13 off Canon PGI-250 & CLI-251 (5 Pack) Ink Cartridges-Ink Fridays™  
+> Special: $13 off Canon PGI-250 & CLI-251 (5 Pack) Ink Cartridges-Ink Fridays™
 > Posted by [CompAndSave.com](https://www.facebook.com/compandsave.ink) on [Friday, September 11, 2015](https://www.facebook.com/compandsave.ink)
 
 ### Don't Want to Miss an Ink Fridays™ Deal?
 
 Just [sign up](https://www.compandsave.com/ink-fridays?utm%5Fsource=blog&utm%5Fmedium=blog&utm%5Fcampaign=cas-inkf-091115&utm%5Fterm=inkfridays&utm%5Fcontent=signup) to our weekly newsletter! You'll receive it in your inbox every Friday morning for a reminder a surprise offer. that can range from a brand-specific cartridge, sitewide deal, or photo paper.
 
-So, tell us, what deal would you like to see on our next Ink Fridays™? 
+So, tell us, what deal would you like to see on our next Ink Fridays™?
 
-### 
+###

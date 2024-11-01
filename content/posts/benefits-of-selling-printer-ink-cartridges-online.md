@@ -8,7 +8,7 @@ authors: Andrew Yeung
 tags: [business,small business resources,online marketing]
 ---
 
-[![](/blog/images/online-marketing.png)](/blog/images/online-marketing.png)  
+[![a big pink globe with laptops around it](/blog/images/online-marketing.png)](/blog/images/online-marketing.png)
 Printers and [printer accessories](https://www.compandsave.com/) such as [printer ink cartridges](https://www.compandsave.com/) are some of the most popular electronic products as far as Internet-based selling are concerned.
 
 Why Sell Online?
@@ -31,7 +31,7 @@ Even if the a particular model of printer ink cartridges is not immediately avai
 
 Finally, monitor your website on a regular basis, and make sure all the information, especially the pricing of the printer [ink cartridges](https://www.compandsave.com/), is up to date. Regularly inspect the efficiency of you customer support team, including response speed and the quality of help provided.
 
-  
+
 **About the authors:** Andrew Yeung is president of [CompAndSave](https://www.compandsave.com/), a leading online provider of premium printer ink cartridges, including [remanufactured](https://www.compandsave.com/help) and [compatible printer ink cartridges](https://www.compandsave.com/help). With deals every month and a [1-year guarantee of quality](https://www.compandsave.com/help), CompandSave provides an easy way for people and businesses to purchase printer ink and accessories.
 
 Learn about CompandSave's deals and news from the world of printing by following us on [Facebook](https://www.facebook.com/compandsave.ink), [Twitter](https://twitter.com/compandsave), [LinkedIn](https://www.linkedin.com) !

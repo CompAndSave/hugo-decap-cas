@@ -8,16 +8,16 @@ authors: Denise Resendez
 tags: [canon printer cartridges,Ink Fridays™]
 ---
 
-[![Canon PGI 250 XL & CLI 251XL ink cartridges replacement ](/blog/images/ink-fridays-70off.png "CompAndSave Ink Fridays")](/blog/images/ink-fridays-70off.png)
+[![Canon PGI 250 XL & CLI 251XL ink cartridges replacement](/blog/images/ink-fridays-70off.png "CompAndSave Ink Fridays")](/blog/images/ink-fridays-70off.png)
 
 Seven is the lucky number for this Ink Fridays™ weekly offer. Our special discount is: [S](https://www.compandsave.com/ink-fridays)**[ave an extra 70% off on Canon PGI-250XL & CLI-251XL (5 Pack) Compatible High Yield Ink Cartridges](https://www.compandsave.com/ink-fridays).** At a total price of $7.13, you can order each Canon ink cartridge for just $1.43 each instead of the retail value of $66.99 for all five. From rich photo printing to crisp documents, this is complete set of Canon printer cartridges to meet anyone's printing needs. Each printer cartridge comes with free returns within 10 days if you are not 100% satisfied with your purchase. As promised, this offer has been **exclusively created for this Friday, May 8th, 2015 until midnight (PST)**. Use coupon code: **F250XL and click the banner below!**
 
-[![](/blog/images/ink-friday-banner-70off.jpg)](/blog/images/ink-friday-banner-70off.jpg)
+[![Ink Fridays Banner](/blog/images/ink-friday-banner-70off.jpg)](/blog/images/ink-friday-banner-70off.jpg)
 
 
 ### Compatible Printers with Canon PGI-250XL & CLI-251XL Ink Cartridges
 
-As always, we always recommend checking if your printer model is [compatible ](https://www.compandsave.com/canon/250-251-xl-ink-cartridges/pgi-250xl-cli-251xl-5-combo#printerMatchTab)with any ink or toner cartridges you may purchase. Here's list of compatible printer models below with this special discount:
+As always, we always recommend checking if your printer model is [compatible](https://www.compandsave.com/canon/250-251-xl-ink-cartridges/pgi-250xl-cli-251xl-5-combo#printerMatchTab)with any ink or toner cartridges you may purchase. Here's list of compatible printer models below with this special discount:
 
 __**Is Your Canon Printer Listed Below?**__
 | Canon Pixma IP7220 | Canon Pixma MG5522 | Canon Pixma MG7120 |

@@ -12,9 +12,9 @@ It can be a great idea to create wall art from your own photos, particularly wed
 
 ### Picking the Best Photos
 
-You likely had (or plan to have) a professional photographer to take pictures at your wedding. In that 
+You likely had (or plan to have) a professional photographer to take pictures at your wedding. In that
 
-| [![fun wedding photos ](/blog/images/1-cas-2.jpg "Unique & Fun Wedding Photos ")](/blog/images/1-cas-2.jpg)                                                                                                                                                                                                                                                                                                                                                                 |
+| [![fun wedding photos](/blog/images/1-cas-2.jpg "Unique & Fun Wedding Photos ")](/blog/images/1-cas-2.jpg)                                                                                                                                                                                                                                                                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Image from [Sergio Vassio Photography](https://www.flickr.com/photos/expose%5Fswitch/4694729003/in/photolist-89RHnv-8ku7v6-7ETWvT-8Hg1is-74LhCh-5PsmLG-WD1e3-7QCxuJ-4veMZd-rXThA-8rnR19-8Hg1nL-bhWK2-6usKuU-4jEMWZ-kWoz5m-4BBMYm-6vRtB4-9yANK-kWn44T-9KjTLw-dR2qpQ-kWnr28-5uMKRm-ryisFg-aSmv1V-kWor9S-s4iTad-7KvBzm-by7Q7H-siBfRE-WD1cN-9XLf83-8HcTk6-28Hyo7-9Kh42k-9Kh3TT-69HSic-9LmELN-cQAU7j-9KjTDS-5Taz4S-4kEimi-9KjTtU-9Kh43D-5T6e9i-aWXsWT-9ZS3jz-5T6dVa-9XLfy5) |
 
@@ -22,7 +22,7 @@ case you probably have a great bunch of pictures to choose from. However, don't 
 
 You could also pick a series of photos which tell a story. You could also use stylized initial letters or dates (date of the wedding, the day that you met and so on). And don't hesitate to add photos not related to the wedding – the bride or groom as a baby and then at the altar.
 
-Another idea: how about creating a photo canvas out of your wedding vows? Especially, if you wrote them yourself! You could play around with textures, borders, filters, and tints (i.e. monochrome, sepia) as well. You could even break one image up into several parts, and print them out in parts, and then place them in the correct sequence on the wall to create a jigsaw like effect. 
+Another idea: how about creating a photo canvas out of your wedding vows? Especially, if you wrote them yourself! You could play around with textures, borders, filters, and tints (i.e. monochrome, sepia) as well. You could even break one image up into several parts, and print them out in parts, and then place them in the correct sequence on the wall to create a jigsaw like effect.
 
 ### How to Make a DIY Wedding Photo Canvas
 
@@ -36,7 +36,7 @@ You will need:
 * Black acrylic paint
 * Sand paper
 
-| [![diy photo canvas ](/blog/images/1-cas-wedding.jpg "DIY Photo Canvas ")](/blog/images/1-cas-wedding.jpg) |
+| [![diy photo canvas](/blog/images/1-cas-wedding.jpg "DIY Photo Canvas ")](/blog/images/1-cas-wedding.jpg) |
 | ----------------------------------------------------------------------------------------------------- |
 | Image from Designertrapped.com                                                                        |
 
