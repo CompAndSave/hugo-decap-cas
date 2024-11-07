@@ -21,7 +21,7 @@
         transition: all 0.25s ease-out;
         margin: 0.5rem 0.35rem;
         &:hover {
-            background: get-color('cyan');
+            background: get-color('blue');
             color: $white;
         }
     }
