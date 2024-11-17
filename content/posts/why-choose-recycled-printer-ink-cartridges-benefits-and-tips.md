@@ -1,6 +1,6 @@
 ---
 title: "How to Recycle Printer Ink Cartridges and Toners: Simple Steps"
-date: 2024-05-28T10:46:00.000+08:00
+date: 2024-11-17T09:33:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/recycle-printer-ink-cartridges.png
 description: Wondering how to recycle printer ink cartridges? Learn simple steps
