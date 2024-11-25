@@ -1,6 +1,6 @@
 ---
 title: "How To Check Printer Ink Levels: Never Run Out Mid-Print Again"
-date: 2024-06-04T06:55:00.000+08:00
+date: 2024-11-26T06:26:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/how-to-check-printer-ink-levels.png
 description: Stop wasting time and ink! Learn how to check printer ink levels to
