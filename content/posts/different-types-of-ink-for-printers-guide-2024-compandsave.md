@@ -13,8 +13,6 @@ tags:
   - types of printer ink
   - dye ink vs pigment ink
 ---
-
-
 [![different types of ink for printers](/blog/images/different-types-of-ink-for-printers.png "Different Types of Ink for Printers")](/blog/images/different-types-of-ink-for-printers.png)
 
 Ever been in a rush to print, only to find that your printer is low on ink or producing poor-quality prints? This frustrating situation can not only waste your time but also affect the outcome of your important work. Whether you're printing for a business presentation or a family photo album, choosing the wrong ink can lead to costly mistakes and disappointing results.
@@ -74,6 +72,8 @@ Solid ink is used in some color laser printers, where it is melted and then appl
 
 * Color printing for marketing materials, brochures, and high-quality presentations.
 
+[![Solid Ink](/blog/images/solid-ink.png "Solid Ink")](/blog/images/solid-ink.png)
+
 **B. UV Ink**
 
 **UV ink** is used in UV printers and is cured using ultraviolet light. These types of inks are ideal for printing on a variety of surfaces, including metal, plastic, glass, and wood. UV ink is commonly used in industrial and commercial printing.
@@ -83,6 +83,8 @@ Solid ink is used in some color laser printers, where it is melted and then appl
 * Printing on non-porous surfaces like glass, metal, and plastic.
 * Specialty items like signs, promotional materials, and product packaging.
 
+[![UV Ink](/blog/images/uv-ink.png "UV Ink")](/blog/images/uv-ink.png)
+
 **C. 3D Printer Ink**
 
 **3D printing ink**, also known as filament, is used in 3D printers to create tangible objects from digital designs. The composition of this ink can vary, depending on the type of material being printed—plastics, metals, or even ceramics.
@@ -91,6 +93,8 @@ Solid ink is used in some color laser printers, where it is melted and then appl
 
 * Material-specific inks for creating 3D objects with intricate detail.
 * Offers a wide range of materials, including plastics, metals, and resins.
+
+[![3D Printer Ink](/blog/images/3d-printer-ink.png "3D Printer Ink")](/blog/images/3d-printer-ink.png)
 
 ## Choosing the Right Type of Ink for Your Needs
 
