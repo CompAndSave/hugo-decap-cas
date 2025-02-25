@@ -71,7 +71,7 @@ A versatile and cost-effective inkjet printer offering high-quality sublimation 
 
 A compact and efficient dye sublimation printer designed for high-quality fabric printing, perfect for t-shirt printing, custom apparel, and promotional items with vibrant color output and reliable performance.
 
-[![Sawgrass Virtuoso SG500](/blog/images/sawgrass-virtuoso-sg500.png "Sawgrass Virtuoso SG500")](/blog/images/sawgrass-virtuoso-sg500.png)
+[![Sawgrass Virtuoso SG500](/blog/images/sawgrass-sg500.png "Sawgrass Virtuoso SG500")](/blog/images/sawgrass-sg500.png)
 
 (Image Source: [Sawgrass Virtuoso SG500](https://www.sawgrassink.com/wp-content/uploads/2024/06/SG500.jpg))
 
