@@ -1,11 +1,15 @@
-@import '../components/search';
+@use '../components/search';
+@use "../../settings";
+@use "../../utils/base";
+@use "../../utils/breakpoints";
+@use "../../utils/colors";
 
 .header-wrapper {
-    background: $white;
-    box-shadow: 0px 2px 8px 0 rgba($medium-gray, 0.2);
+    background: settings.$white;
+    box-shadow: 0px 2px 8px 0 rgba(settings.$medium-gray, 0.2);
 }
 .logo-wrapper {
-    margin-top: rem-calc(5);
+    margin-top: base.rem-calc(5);
     a {
         display: inline-block;
         line-height: 1;
@@ -32,24 +36,24 @@
         li {
             margin: 0 1rem;
             cursor: pointer;
-            font-size: rem-calc(17);
+            font-size: base.rem-calc(17);
             font-weight: 600;
             border: 0;
             a {
                 border: 0;
-                color: $medium-gray;
+                color: settings.$medium-gray;
                 padding: 0.25rem 0.5rem;
                 &:hover {
-                    background: get-color('cyan');
-                    color: $white;
-                    border-radius: $global-radius;
+                    background: colors.get-color('cyan');
+                    color: settings.$white;
+                    border-radius: settings.$global-radius;
                 }
             }
         }
     }
 }
 
-@media screen and #{breakpoint(medium)} {
+@media screen and (min-width: 768px) {
     .header {
         justify-content: flex-start;
     }
@@ -62,7 +66,7 @@
     }
 }
 
-@media screen and #{breakpoint(large)} {
+@media screen and (min-width: 1024px) {
     .header {
         justify-content: space-between;
         padding: 0 rem 1rem;
@@ -77,7 +81,7 @@
     }
 }
 
-@media screen and #{breakpoint(xlarge)} {
+@media screen and (min-width: 1200px) {
     .header {
         padding: 0;
     }

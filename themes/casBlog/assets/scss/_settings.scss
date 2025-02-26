@@ -1,41 +1,25 @@
-@import 'utils/utils';
+@use "sass:color";
+@use 'utils/utils';
+@use "utils/base";
+@use "utils/colors";
 
 //*--------------------------------------------------------*/
 // Color Palletes
 //*--------------------------------------------------------*/
-$color-palettes: (
-	'blue' : #0073c0,
-    'cyan' : #0196e4,
-    'magenta' : #fa2a92,
-    'light-yellow' : #fad71c,
-    'dark-yellow' : #f9c035,
-    'orange' : #cc4b37,
-    'green' : #00aa61,
-    'ice' : #f4fbfe,
-    'midnight' : #202234,
-    'red': #e12b1d
-);
 
 $black: #333333;
 $dark-gray: #505464;
 $medium-gray: #676d7f;
 $light-gray: #dfe3e4;
-$ui-gray: mix($light-gray, $medium-gray, 50%);
-$ui-light-gray: mix($light-gray, $ui-gray, 50%);
+$ui-gray: color.mix($light-gray, $medium-gray, 50%);
+$ui-light-gray: color.mix($light-gray, $ui-gray, 50%);
 $white: #ffffff;
 $off-white: #f4f4f4;
 
-$breakpoints: (
-        small: 0,
-        medium: 768px,
-        large: 1024px,
-        xlarge: 1200px
-);
 
 //*--------------------------------------------------------*/
 // Default Styles
 //*--------------------------------------------------------*/
-$global-font-size: 106.25%;
 $global-width: 1200px;
 $global-lineheight: 1.45;
 $body-font-family: 'Mulish', Helvetica, Arial, sans-serif;
@@ -49,25 +33,25 @@ $global-word-spacing: .06em !default;
 //*--------------------------------------------------------*/
 // button
 //*--------------------------------------------------------*/
-$button-padding : rem-calc(14 42.5);
+$button-padding : base.rem-calc(14 42.5);
 $button-background-hover-lightness: -10%;
-$button-background: get-color('blue');
-$button-background-hover: scale-color($button-background, $lightness: $button-background-hover-lightness);
+$button-background: colors.get-color('blue');
+$button-background-hover: color.scale($button-background, $lightness: $button-background-hover-lightness);
 $button-radius: 5000px;
 $button-hollow-border-width: 1px;
 $button-hollow-hover-lightness: 0%;
 $button-transition: background-color 0.25s ease-out, box-shadow 0.25s ease-out;
-$button-box-shadow: 1px 1px 1px 0 rgba(get-color('midnight'), 0.65), $button-background -10rem 0 0 0 inset;
-$button-hover-box-shadow: 1px 1px 1px 0 rgba(get-color('midnight'), 0.65), lighten($button-background, 5%) 0 0 0 inset;
-$button-active-box-shadow: 0px 1px 5px 0px rgba(get-color('midnight'), 0.5) inset;
-$button-hollow-border: 1px solid lighten($button-background, 20%);
+$button-box-shadow: 1px 1px 1px 0 rgba(colors.get-color('midnight'), 0.65), $button-background -10rem 0 0 0 inset;
+$button-hover-box-shadow: 1px 1px 1px 0 rgba(colors.get-color('midnight'), 0.65), color.adjust($button-background, $lightness: 5%) 0 0 0 inset;
+$button-active-box-shadow: 0px 1px 5px 0px rgba(colors.get-color('midnight'), 0.5) inset;
+$button-hollow-border: 1px solid color.adjust($button-background, $lightness: 20%);
 $button-hollow-box-shadow: transparent -10rem 0 0 0 inset;
 $button-hollow-hover-box-shadow: $white 0 0 0 0 inset;
 
 //*--------------------------------------------------------*/
 // Form
 //*--------------------------------------------------------*/
-$input-border: 1px solid darken($light-gray, 3%);
-$input-border-focus: 1px solid change-color(get-color('cyan'), $lightness: 57.45%);
-$input-shadow: inset 0px 0px 5px rgba(get-color('midnight'), 0.2);
-$input-shadow-focus: $input-shadow, 0 0px 5px change-color(get-color('cyan'), $lightness: 60%);
+$input-border: 1px solid color.adjust($light-gray, $lightness: -3%);
+$input-border-focus: 1px solid color.change(colors.get-color('cyan'), $lightness: 57.45%);
+$input-shadow: inset 0px 0px 5px rgba(colors.get-color('midnight'), 0.2);
+$input-shadow-focus: $input-shadow, 0 0px 5px color.change(colors.get-color('cyan'), $lightness: 60%);

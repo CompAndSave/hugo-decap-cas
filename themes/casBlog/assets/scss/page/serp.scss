@@ -1,8 +1,9 @@
-@import '../settings';
+@use '../settings';
+@use '../utils/base';
+@use '../utils/colors';
+@use '../base/block/card';
 
-@import '../base/block/card';
-
-@import '../base/components/tags';
+@use '../base/components/tags';
 
 .page-title {
    margin-bottom: 2rem;
@@ -10,7 +11,7 @@
 
 .search-loading {
     img {
-        margin-right: rem-calc(10);
+        margin-right: base.rem-calc(10);
     }
     * {
         vertical-align: middle;
@@ -35,9 +36,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: base.rem-calc(40 0);
 }
 
 mark {
-    background-color: rgba(get-color('light-yellow'), 0.5);
-    padding: rem-calc(0 2);
+    background-color: rgba(colors.get-color('light-yellow'), 0.5);
+    padding: base.rem-calc(0 2);
 }

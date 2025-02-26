@@ -1,10 +1,15 @@
+@use "../../settings";
+@use "../../utils/base";
+@use "../../utils/breakpoints";
+@use "../../utils/colors";
+
 .footer-wrapper {
     .top-wrapper {
-        background: get-color('midnight');
-        color: $white;
+        background: colors.get-color('midnight');
+        color: settings.$white;
     }
 }
-.footer {
+.container.footer {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -19,8 +24,8 @@
 
 .ft-title {
     display: inline-block;
-    font-family: $sec-font-family;
-    font-size: rem-calc(21);
+    font-family: settings.$sec-font-family;
+    font-size: base.rem-calc(21);
     margin-bottom: 0.5rem;
 }
 
@@ -35,12 +40,12 @@
         font-weight: 600;
         a {
             padding: 0.25rem 0.5rem;
-            color: $white;
+            color: settings.$white;
             border: 0;
             &:hover {
-                background: get-color('cyan');
-                color: $white;
-                border-radius: $global-radius;
+                background: colors.get-color('cyan');
+                color: settings.$white;
+                border-radius: settings.$global-radius;
             }
         }
     }
@@ -62,8 +67,8 @@
             padding: 0.25rem;
             line-height: 1;
             &:hover {
-                background: get-color('cyan');
-                border-radius: $global-radius;
+                background: colors.get-color('cyan');
+                border-radius: settings.$global-radius;
                 img {
                     filter:brightness(0) invert(1);
                 }
@@ -73,7 +78,7 @@
                 line-height: 1;
             }
             img {
-                max-height: rem-calc(25);
+                max-height: base.rem-calc(25);
             }
         }
     }
@@ -92,12 +97,12 @@
 
 .info {
     a {
-        color: $white;
+        color: settings.$white;
     }
 }
 
-@media screen and #{breakpoint(medium)} {
-    .footer {
+@media screen and (min-width: 768px) {
+    .container.footer {
         justify-content: space-between;
     }
     .footer-nav, .social-wrapper {
@@ -105,15 +110,15 @@
     }
 }
 
-@media screen and #{breakpoint(large)} {
-    .footer {
+@media screen and (min-width: 1024px) {
+    .container.footer {
         padding: 2rem 1rem;
     }
     .footer-nav {
         margin-bottom: 0;
         flex: 0 0 auto;
         padding-right: 5rem;
-        border-right: 2px solid $medium-gray;
+        border-right: 2px solid settings.$medium-gray;
     }
     .social-wrapper {
         flex: 0 0 40%;
@@ -124,8 +129,8 @@
     }
 }
 
-@media screen and #{breakpoint(xlarge)} {
-    .footer {
+@media screen and (min-width: 1200px) {
+    .container.footer {
         padding: 2rem 0;
     }
 }

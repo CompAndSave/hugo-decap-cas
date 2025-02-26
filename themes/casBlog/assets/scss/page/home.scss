@@ -1,6 +1,6 @@
-@import '../settings';
-@import '../base/block/card';
-@import '../base/block/top-post';
+@use '../settings';
+@use '../base/block/card';
+@use '../base/block/top-post';
 
 
 .home-title {
@@ -15,6 +15,6 @@
     &:before, &:after {
         content: "";
         display: block;
-        border-bottom: 2px solid $ui-light-gray;
+        border-bottom: 2px solid settings.$ui-light-gray;
     }
 }

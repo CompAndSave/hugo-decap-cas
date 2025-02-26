@@ -18,7 +18,7 @@
     }
 }
 
-@media screen and #{breakpoint(large)} {
+@media screen and (min-width: 1024px) {
     .card-post{
         &.top {
             flex-direction: row;
