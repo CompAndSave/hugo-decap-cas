@@ -56,8 +56,9 @@ h2 {
     margin-bottom: 1.25rem;
 }
 h3 {
-    font-size: rem-calc(25);
+    font-size: rem-calc(24);
     margin-bottom: 1rem;
+    margin-top: 1.5rem;
 }
 
 p {
@@ -76,17 +77,12 @@ a {
     color: get-color('blue');
     font-weight: 700;
     display: inline-block;
-    border-bottom: 2px solid transparent;
+    border-bottom: 2px dotted transparent;
     &:hover {
         border-bottom-color: get-color('cyan');
     }
     &.button {
         border: 0;
-    }
-    &:focus,
-    &:focus-visible {
-        outline: 2px dashed get-color('cyan');
-        outline-offset: 4px;
     }
 }
 
