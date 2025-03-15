@@ -9,7 +9,7 @@ backend:
   repo: CompAndSave/hugo-decap-cas
   branch: master # Branch to update (optional; defaults to master)
   site_domain: www.compandsave.com
-  base_url: https://alpha.compandsave.com
+  base_url: https://alpha.compandsave.com # DON'T change this line. We are using alpha.compandsave.com to link to lambda for authentication
   auth_endpoint: lambda/sveltia-cms-auth/auth
 
 site_url: https://www.compandsave.com/blog/
