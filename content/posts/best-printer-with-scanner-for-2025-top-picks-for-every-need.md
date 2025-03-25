@@ -55,6 +55,8 @@ A flatbed scanner is the most common type found in printers with scanners. It ha
 
 {{< embedImage image="/blog/images/ingoude.-presentation-71-.png" alt="Automatic Document Feeder (ADF)" title="Automatic Document Feeder (ADF)" alignment="center" >}}
 
+*Example of an ADF printer scanner ([HP Color Laserjet Pro MFP 3301fdw - Amazon](https://www.amazon.com/HP-Laserjet-3301fdw-Wireless-499Q5F/dp/B0CTW43KHQ?th=1))*
+
 An ADF is a must-have feature if you frequently scan multiple pages at a time. Instead of placing each page on the scanner manually, an ADF allows you to load a stack of papers, and the printer will scan them one by one automatically.
 
 * Saves time by scanning several pages in a row without needing manual input.
