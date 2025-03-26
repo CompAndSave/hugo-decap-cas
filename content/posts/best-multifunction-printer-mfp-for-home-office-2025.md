@@ -182,3 +182,52 @@ Another top pick for the best all in one printer for home use is the [Brother MF
 #### **3. Epson EcoTank ET-4850: A Smart Multifunction Printer for Home & Office**
 
 {{< embedImage image="/blog/images/ingoude.-presentation-81-.png" alt="Epson EcoTank ET-4850" title="Epson EcoTank ET-4850" alignment="center" >}}
+
+The [Epson EcoTank ET-4850](https://www.compandsave.com/epson/ecotank/et-4850-wireless-color-all-in-one-ink-bottles) is a powerful multifunction printer (MFP) designed for high-quality printing, scanning, copying, and faxing. It features a cartridge-free ink tank system, helping users save money on ink while reducing waste. With wireless connectivity, an automatic document feeder (ADF), and duplex printing, it’s a great choice for home offices and small businesses looking for efficiency and cost savings.
+
+* **Printer Price:** $409.88 ([Amazon](https://www.amazon.com/dp/B096N9R8Z5?tag=azonsite02-20&th=1))
+* **OEM Ink Price:** 502 Black Ultra High Yield - $19.35 | 502 Colored Ultra High Yield - $13.80
+* **CompAndSave Ink:** [502 Black Ultra High Yield - $6.99](https://www.compandsave.com/epson/502-ink-cartridges/t502120-black) | [502 Colored Ultra High Yield - $6.99](https://www.compandsave.com/epson/502-ink-cartridges/t502220-cyan)
+
+**Pros:**
+
+* Cartridge-free with high-capacity ink tanks
+* Wireless and Ethernet connectivity
+* Automatic two-sided printing
+* Easy navigation with touchscreen display
+
+**Cons:**
+
+* Higher upfront cost
+* Slower color print speed (8.5 ppm)
+* Bulky design takes up more space
+
+### **BEST LASERJET MFPs**
+
+#### **1. Brother MFC-L2820DW: Compact & Fast Monochrome MFP**
+
+{{< embedImage image="/blog/images/ingoude.-presentation-82-.png" alt="Brother MFC-L2820DW" title="Brother MFC-L2820DW" alignment="center" >}}
+
+The [Brother MFC-L2820DW](https://www.compandsave.com/brother/mfc/mfc-l2820dw-toner-cartridges) is a wireless all-in-one monochrome laser printer designed for small offices and home use. This Brother MFP offers fast black-and-white printing, scanning, copying, and faxing with a 50-sheet auto document feeder for efficiency. With dual-band Wi-Fi, Ethernet, and USB connectivity, you can easily print from computers and mobile devices. The 2.7” touchscreen makes navigation simple, while automatic duplex printing saves paper. Perfect for those who need high-speed, high-quality monochrome printing in a compact, budget-friendly package.
+
+* **Printer Price:** $209.99 ([Amazon](https://www.amazon.com/dp/B0CPL9C83B?ref=emc_p_m_5_i_atc&th=1))
+* **OEM Toner Price:** TN830XL Black High Yield - $84.99
+* **CompAndSave Toner Price:** [TN830XL Black High Yield - $49.99](https://www.compandsave.com/brother/mfc/mfc-l2820dw-g-23778/tn830xl-toner-cartridge-black-p-23761)
+
+**Pros:**
+
+* Fast printing (up to 36 ppm)
+* Compact and space-saving
+* Automatic duplex printing
+* Wireless, Ethernet, and USB connectivity
+* 50-sheet auto document feeder
+
+**Cons:**
+
+* Black-and-white printing only
+* No automatic dual-sided scanning
+* Toner replacements can be pricey
+
+#### **2. Canon Color imageCLASS MF656Cdw: A Reliable Multifunction Laser Printer**
+
+{{< embedImage image="/blog/images/ingoude.-presentation-83-.png" alt="Canon Color imageCLASS MF656Cdw" title="Canon Color imageCLASS MF656Cdw" alignment="center" >}}
