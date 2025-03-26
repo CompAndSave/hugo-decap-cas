@@ -241,7 +241,7 @@ Another best home office printer scanner is the [Brother INKvestment Tank MFC-J5
 
 So, which is the best printer with scanner in 2025? Now that you have a list of top laser and inkjet options, choosing the right one depends on your needs. Whether you prioritize speed, print quality, or cost efficiency, there’s a printer with a scanner that fits your home or office setup.
 
-From compact designs to high-performance models, the right printer that scans ensures smooth printing and scanning for everyday tasks. Ready to upgrade? Ready to upgrade? Explore the best deals today, and for even more savings on ink and toner, check out affordable compatible options from CompAndSave!
+From compact designs to high-performance models, the right printer that scans ensures smooth printing and scanning for everyday tasks. Ready to upgrade? Explore the best deals today, and for even more savings on ink and toner, check out affordable compatible options from CompAndSave!
 
 ## **Frequently Asked Questions**
 
