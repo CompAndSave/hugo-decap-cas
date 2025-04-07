@@ -35,14 +35,15 @@ Before you begin the cleaning process, it’s important to have the right tools 
 
 *Image Source: [Amazon](https://www.amazon.com/Printhead-Cleaning-Kit-Efficiency-Certified/dp/B07K1B4GSJ/ref=mp_s_a_1_4?tag=brandonapik07-20&crid=E0T6NIT555WJ&dib=eyJ2IjoiMSJ9.RZj0jbLOt5OC3gVQNl_JTVd7mHOLm8XPfac_JiJ4eLo9NrHN2k8qKSCiuOOKztTvQy_9hQOqac5MN2CrR3QZ6-ynM-J7zvOHuJ9tP4droRxMio3U3wiAb-8Z3M0B-TnNzfQCKtYioYuU-1f3fAHC4Ss_uUCKUdf2qiX0BuMwJ9qbAIkP-Jtov2gK-1ikMQOkWiK_-5--FslBE6J3UdW1bw.uJKRDkjij6BXMTZfqQxKmjtgnjnZ5Ev5zeQTueWeHIc&dib_tag=se&keywords=best%20printers%20cleaning%20kit&qid=1728237011&sprefix=best%20printers%20cleaning%20ki,aps,309&sr=8-4&geniuslink=true)*
 
-* **Printhead Cleaning Kit:** This kit should include:
-* * Cleaning fluid
+**1. Printhead Cleaning Kit:** This kit should include:
 
-  * 20 milliliter syringe
+* Cleaning fluid
+* 20 milliliter syringe
+* Gloves
 
-  * Gloves
-* **Paper Towels:** These are placed under the printhead to catch excess fluid and ink.
-* **Epson EcoTank Ink:** To refill the ink tanks after cleaning.
+**2. Paper Towels:** These are placed under the printhead to catch excess fluid and ink.
+
+**3. Epson EcoTank Ink:** To refill the ink tanks after cleaning.
 
 ## **How to Use Printhead Cleaning Kit for Epson EcoTank Printer: Step-by-Step Guide**
 
