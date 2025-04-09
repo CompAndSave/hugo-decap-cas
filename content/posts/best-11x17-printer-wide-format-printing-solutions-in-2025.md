@@ -137,4 +137,53 @@ Another top-rated printers that print 11x17 is the [Canon PIXMA TS9520a](https:/
 ### **4. Epson Expression Photo XP-970 Wireless Color Photo Printer**
 
 
-![]()
+![Epson Expression Photo XP-970](/blog/images/epson-expression-photo-xp.png "Epson Expression Photo XP-970")
+
+*Image Source: [Amazon](https://www.amazon.com/dp/B07X3YSKDP?tag=azonsite02-20&th=1)*
+
+For those who want to print high-quality photos and documents, the [Epson Expression Photo XP-970](https://www.compandsave.com/epson/expression/photo-xp-970-small-in-one-ink-cartridges) Wireless Color Photo Printer delivers exceptional performance. It can print borderless photos up to 11x17 inches using Epson’s 6-color ink for clear and vibrant prints. The printer also has wireless printing, a touch screen for easy use, and a special lid for scanning documents. You can even print with your voice, making it a handy tool for both creative projects and daily printing tasks.
+
+* **Printer Price:** $249.99 ([Amazon](https://www.amazon.com/dp/B07X3YSKDP?tag=azonsite02-20&th=1))
+* **OEM Ink Price:** 277XL Black High Yield - $26.03 | 277XL Colored High Yield - $22.31
+* **CompAndSave Ink:** [277XL Black High Yield - $7.79](https://www.compandsave.com/epson/expression/photo-xp-970-small-in-one-g-11628/277xl-ink-cartridges-s-7411/t277xl120-black-p-8420) | [277XL Colored High Yield - $7.79](https://www.compandsave.com/epson/277xl-ink-cartridges/t277xl220-cyan)
+
+**Pros:**
+
+* Prints beautiful borderless photos up to 11x17 inches
+* Wireless printing for easy setup
+* Voice-activated printing for hands-free use
+
+**Cons:**
+
+* Print speed is a bit slow at 8 pages per minute
+* The paper tray holds only 100 sheets, so you may need to refill it often
+
+## **Final Thoughts**
+
+Finding the best 11x17 printer is all about understanding your specific needs, whether it's for high-quality photos, large documents, or creative projects. Printers that print 11x17 offer flexibility, speed, and the ability to print on various media, making them ideal for both home and office use. With plenty of options available, you're sure to find the right printer for your printing tasks.
+
+If you want to save more on ink, check out [CompAndSave](https://www.compandsave.com/) for affordable options and quality cartridges. Start printing in wider formats today!
+
+## **Frequently Asked Questions**
+
+### **1. Can regular printers print on 11x17 paper?**
+
+Most regular printers can’t print on 11x17 paper, as they usually only handle up to 8.5x11 paper. To print on 11x17, you need a printer made for larger sizes, called "tabloid" or "11x17 printers." These printers are built to print bigger projects like posters or large documents.
+
+### **2. What kind of paper should I use for an 11x17 printer?**
+
+Use 11x17 paper that suits your project. For art prints and images, choose glossy or photo paper. For documents or spreadsheets, plain white tabloid-size paper works just fine. Always check your printer’s manual for recommended paper types.
+
+### **3. Do I need special software to print 11x17?**
+
+No, you don’t need special software to print 11x17. Most design and document programs, like Word or Adobe Photoshop, support 11x17 printing. Just make sure to set the paper size to 11x17 in the print settings before printing.
+
+## **Related Articles:**
+
+[Best Multifunction Printer (MFP) for Home & Office](https://www.compandsave.com/blog/posts/best-multifunction-printer-mfp-for-home-office-2025.html)
+
+[Best Printer with Scanner: Top Picks for Every Need](https://www.compandsave.com/blog/posts/best-printer-with-scanner-for-2025-top-picks-for-every-need.html)
+
+[Alexa Compatible Printers: Effortless Printing Smart Feature](https://www.compandsave.com/blog/posts/alexa-compatible-printers-effortless-printing-smart-feature.html)
+
+[Brother Monochrome Laser Printer: Our Top Pick](https://www.compandsave.com/blog/posts/brother-monochrome-laser-printer-our-top-picks-in-2025.html)
