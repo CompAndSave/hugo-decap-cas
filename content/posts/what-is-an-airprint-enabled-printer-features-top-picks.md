@@ -66,7 +66,7 @@ The user manual or product page on the manufacturer’s website should list Appl
 
 ### **3. Visit Apple’s Official AirPrint List**
 
-Apple keeps an updated list of all printers that support AirPrint. You can visit[ Apple's AirPrint support page](https://support.apple.com/en-us/HT201311) and search for your printer model in their list.
+Apple keeps an updated list of all printers that support AirPrint. You can visit [Apple's AirPrint support page](https://support.apple.com/en-us/HT201311) and search for your printer model in their list.
 
 ### **4. Explore the Printer Settings**
 
