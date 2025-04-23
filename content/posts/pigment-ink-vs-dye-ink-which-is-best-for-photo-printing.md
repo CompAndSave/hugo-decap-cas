@@ -21,7 +21,7 @@ When it comes to printing stunning photos that last, the type of ink you use mat
 
 In this guide, we’ll explore the difference between dye and pigment ink, how each performs in photo printing, and which one you should choose depending on your needs.
 
-So, here are some things we will discuss in this guide:
+**So, here are some things we will discuss in this guide:**
 
 * What is the Difference Between Dye and Pigment Ink?
 * Pigment Ink vs Dye Ink: Which Is Better for Photo Printing?
