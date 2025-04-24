@@ -86,3 +86,15 @@ To help you decide, here are some top printer picks for both dye-based and pigme
 #### **Canon PIXMA G620 Wireless MegaTank All-in-One Printer**
 
 ![Canon PIXMA G620](/blog/images/canon.png "Canon PIXMA G620")
+
+The [Canon PIXMA G620](https://www.compandsave.com/canon/pixma/g620-wireless-megatank-ink-bottles) is a wireless all-in-one inkjet printer that utilizes a **6-color** **dye-based ink** **system**, ideal for printing vibrant, high-quality photos. It can print up to 3,800 color photos (4" x 6") with one full set of ink, making it great for high-volume printing at a low cost. With Wi-Fi and USB connectivity, it’s easy to print from your devices, and it even works with Alexa for voice control. Its compact design fits easily into small spaces, making it a great choice for home photo printing.
+
+* **Printer Price:** $329.00 ([Amazon](https://www.amazon.com/dp/B08XZQVWZW?tag=azonsite02-20))
+* **OEM Ink Price:** GI-23 Black - $15.99 | GI-23 Colored - $15.99
+* **CompAndSave Ink:** [GI-23 Black - $4.95](https://www.compandsave.com/canon/gi-23-ink-bottles/4696c001-black) | [GI-23 Colored - $4.95](https://www.compandsave.com/canon/gi-23-ink-bottles/4670c001-cyan)
+
+### **Best Pigment Photo Printer**
+
+#### **Canon PIXMA PRO-10 Professional Photo Printer**
+
+![Canon PIXMA PRO-10](/blog/images/canon-pixma-pro-10.png "Canon PIXMA PRO-10")
