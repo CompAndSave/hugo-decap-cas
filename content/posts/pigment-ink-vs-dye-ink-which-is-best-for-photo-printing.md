@@ -62,3 +62,5 @@ Dye ink is a liquid-based ink that gets absorbed into the paper, resulting in bo
 * **Less water-resistant:** Can smudge if exposed to moisture.
 
 To easily see how these two types of ink differ, below is a simple comparison table. This will provide you with a clear understanding of their strengths and weaknesses, making it easier to choose the right one for your printing needs.
+
+![Pigment Ink vs Dye Ink Comparison Table](/blog/images/table.png "Pigment Ink vs Dye Ink Comparison Table")
