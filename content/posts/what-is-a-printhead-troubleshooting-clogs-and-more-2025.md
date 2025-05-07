@@ -126,9 +126,13 @@ When your printhead is misaligned, your prints might look crooked, blurry, or ha
 #### **How to Fix It:**
 
 **Step 1: Open Printer Settings.** Go to your printer’s settings on your computer or from the printer’s control panel.
+
 **Step 2: Find Printhead Alignment Option.** Look for an option called “Printhead Alignment” or something similar in the maintenance or tools section.
+
 **Step 3: Follow the Instructions.** The printer will guide you through the alignment process, which usually involves printing a test page.
+
 **Step 4: Check the Test Page.** The test page will show patterns of lines or colors. If the lines are clear and aligned, your printhead is properly set. If not, follow the on-screen instructions to adjust it.
+
 **Step 5: Print Again.** Once the alignment is done, try printing a document to see if the problem is fixed.
 
 ### **Problem 2: Streaky or Faded Prints After Replacing Ink**
@@ -140,8 +144,11 @@ After replacing the ink, you might notice that your prints are streaky or faded.
 **Step 1: Check Ink Cartridges.** Ensure that the ink cartridges are installed correctly. Remove and reinstall them to make sure they are seated properly.
 
 **Step 2: Run a Cleaning Cycle.** Use the printer’s built-in cleaning tool to clean the printhead. This can be found in the printer’s settings or maintenance menu. It will clear any blockages and help the ink flow properly.
+
 **Step 3: Print a Test Page.** After running the cleaning cycle, print a test page to see if the streaks or fading are gone. If the problem continues, run the cleaning cycle again.
+
 **Step 4: Check for Air Bubbles.** Sometimes, air bubbles can get trapped in the ink cartridges when replacing them. If your printer has an option to “prime” the cartridge or remove air bubbles, use that.
+
 **Step 5: Replace Faulty Ink Cartridges.** If you still see streaks or fading, the new ink cartridges may be defective. Try replacing them with a different set of cartridges to see if that solves the problem.
 
 ### **Problem 3: Error Messages or Missing Colors**
@@ -151,10 +158,13 @@ If you see error messages like "Ink Cartridge Missing" or notice that certain co
 #### **How to Fix It:**
 
 **Step 1: Check the Ink Cartridges.** Ensure that all ink cartridges are properly installed and fully clicked into place. Sometimes, a cartridge may not be inserted correctly, which can cause errors or missing colors.
+
 **Step 2: Check Ink Levels.** Look at the ink levels in your printer’s settings or on the display screen. If any cartridges are empty or low, replace them with fresh ink.
 
 **Step 3: Clean the Printhead.** Run the printhead cleaning cycle from your printer’s maintenance menu. This helps remove any dried ink or blockages that may be preventing certain colors from printing.
+
 **Step 4: Check for Blocked Nozzles.** If the printer still isn't printing certain colors, check for any visible blockages in the printhead nozzles. You can carefully clean these with a soft cloth or cleaning solution.
+
 **Step 5: Run a Color Test.** Many printers have a built-in color test page. Run this to check if all the colors are printing properly. If the test page shows missing or incorrect colors, it could indicate a printhead issue.
 
 **Step 6: Replace Faulty Cartridges.** If the problem persists, one of your ink cartridges might be defective. Try replacing the cartridge to see if that fixes the issue.
