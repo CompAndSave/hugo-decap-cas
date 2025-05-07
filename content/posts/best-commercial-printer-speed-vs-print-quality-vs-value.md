@@ -88,6 +88,30 @@ The best business printer doesn’t have to be the most expensive one. Real valu
 
 There are many choices on the market, but not all printers are built for the demands of high-volume business use. To help you decide, we’ve picked some of the best commercial printers that offer a strong mix of speed, print quality, and long-term value. Here are our top picks:
 
+### **1. Brother MFC-L8905CDW Color Laser Printer**
 
+![Brother MFC-L8905CDW Color Laser Printer](/blog/images/brother-mfc-l8905cdw.png "Brother MFC-L8905CDW Color Laser Printer")
 
-[](https://www.compandsave.com/blog/posts/best-printer-with-scanner-for-2025-top-picks-for-every-need.html)
+[](https://www.compandsave.com/blog/posts/best-printer-with-scanner-for-2025-top-picks-for-every-need.html)The [Brother MFC-L8905CDW](https://www.compandsave.com/brother/mfc/l8905cdw-toner-cartridges) is a powerful all-in-one color laser printer designed for high-volume business use. With fast print speeds of 33 pages per minute for both color and black & white, it helps keep your workflow efficient. It also features auto-duplex printing and advanced scanning options, including the ability to scan directly to cloud services, email, and more. With a maximum monthly duty cycle of 60,000 pages, it’s perfect for businesses that need reliable, high-quality printing. 
+
+* **Printer Price:** $699.99 ([Amazon](https://www.amazon.com/Brother-MFC-L8905CDW-Business-Touchscreen-Wireless/dp/B0BKTXZP8B/ref=sr_1_1?crid=1QQO0M3JGMC8I&dib=eyJ2IjoiMSJ9.gNRybpWWQqcJQi2qZx3cXdYcEpZmtgyZsaTg8BJSQ37d0ZDSsEAMV_0aCo8nCwU5nKQaOhASEKHBAiK4YiIVa6n1jOIUBgebP_kimKHWk5BDwBYiobZBDLcGg6OaCCutv9NNdcnkoYNx6b1Fhv7-mZYrKb2hXihROrWtclvxIJ6MXDjyaTVKa9rFh_NAXEkTGx45qAyqJUF74wmACJrfeenpxsMMzKcOH0hwNdmE-ObzN4ukSvyzwaTOh3aqOOgSu8wrYNW1dFVZ-r7CHvKCws5rApNk7t5vtKy1igKyP6U.D_vXJdB3e2wucvQcz4fgLyjoviDEC8kClpznFC1agjQ&dib_tag=se&keywords=Brother%2BMFC-L8905CDW&qid=1746631760&s=electronics&sprefix=brother%2Bmfc-l8905cdw%2Celectronics%2C750&sr=1-1&th=1))
+* **Speed:** 33 ppm
+* **Monthly duty cycle:** 60,000 pages
+* **Best for:** Small to midsize businesses
+* **CompAndSave Toner Price:** [TN436 Toner Cartridge Set of 4 (CMYK) Super High Yield - $75.96](https://www.compandsave.com/brother/tn436-toner-cartridges/tn436bk-tn436c-tn436m-tn436y-4-combo)
+
+### **2. Canon imageCLASS MF731Cdw All-in-one Color Laser Printer**
+
+![Canon imageCLASS MF731Cdw All-in-one Color Laser Printer](/blog/images/canon-imageclass-mf731cdw-all-in-one-color-laser-printer.png "Canon imageCLASS MF731Cdw All-in-one Color Laser Printer")
+
+This all-in-one color laser printer is built for small to medium-sized teams that need fast, high-volume printing. It prints up to 28 pages per minute in both color and black & white and supports automatic two-sided printing. With a monthly duty cycle of up to 50,000 pages, it's great for busy offices. It features wireless and Ethernet connectivity and works with Alexa for hands-free control.
+
+* **Printer Price:** $899.89 ([Amazon](https://www.amazon.com/Canon-Color-imageCLASS-MF731Cdw-Multifunction/dp/B06XY6XHGB/ref=pd_ci_mcx_pspc_dp_2_t_3?pd_rd_w=wWQy8&content-id=amzn1.sym.cd152278-debd-42b9-91b9-6f271389fda7&pf_rd_p=cd152278-debd-42b9-91b9-6f271389fda7&pf_rd_r=J25TD5RRXJAJD7WTEAYQ&pd_rd_wg=js454&pd_rd_r=9a9eae34-4d3e-4519-8d22-8641ae4b293d&pd_rd_i=B06XY6XHGB))
+* **Speed:** 28ppm
+* **Monthly duty cycle:** 50,000 pages
+* **Best for:** Small to mid-sized businesses
+* **CompAndSave Toner Price:** [Canon 046H Toner Cartridges Combo Pack of 4 (CMYK) High Yield - $76.96](https://www.compandsave.com/canon/046h-toner-cartridges/046h-4-combo)
+
+### **3. Brother HL-L6400DW Monochrome Laser Printer**
+
+![Brother HL-L6400DW Monochrome Laser Printer](/blog/images/brother-hl-l6400dw-monochrome.png "Brother HL-L6400DW Monochrome Laser Printer")
