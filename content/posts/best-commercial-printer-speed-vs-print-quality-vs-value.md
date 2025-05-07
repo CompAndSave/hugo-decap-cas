@@ -7,6 +7,7 @@ description: Searching for the best commercial printer? See which models deliver
   the fastest speeds, crispest prints, and best value for your business needs
   today!
 tags:
+  - Printing Needs
   - business printer
   - laser printer
   - printing speed
