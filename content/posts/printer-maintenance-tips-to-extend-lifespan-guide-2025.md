@@ -1,6 +1,6 @@
 ---
 title: Printer Maintenance Tips to Extend Lifespan | Guide 2025
-date: 2025-05-22T12:19:00.000+08:00
+date: 2025-05-22T01:30:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/printer-maintenance-tips.png
 description: Tired of printer issues? Learn easy printer maintenance tips for
