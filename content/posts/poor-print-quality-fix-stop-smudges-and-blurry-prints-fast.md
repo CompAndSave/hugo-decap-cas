@@ -45,7 +45,7 @@ Not every print problem looks the same, which matters when it comes to fixing it
 
 **2. Check your settings:** In your printer’s settings or print dialog box, choose the correct paper type (e.g., plain, photo, glossy). This tells the printer how much ink to use. If the wrong setting is selected, your printer might apply too much ink or the wrong drying process, causing smearing.
 
-**3. Reduce print quality slightly:** High-quality print modes use more ink to produce sharper images, but this can lead to over-saturation, especially on standard paper. Try switching to a “Standard” or “Draft” setting. It uses less ink and dries faster, which can prevent bad print quality due to smudging.
+**3. Reduce print quality slightly:** High-quality print modes use more ink to produce sharper images, which can lead to over-saturation, especially on standard paper. Try switching to a “Standard” or “Draft” setting. It uses less ink and dries faster, which can prevent bad print quality due to smudging.
 
 **4. Clean the rollers:** The rollers pull the paper through the printer. Over time, they can collect ink, dust, or paper fibers. If they’re dirty, they might smear wet ink across the page. Open your printer, locate the rollers (usually gray or rubbery), and wipe them gently with a lint-free cloth dampened with isopropyl alcohol. Let them dry before printing again. If you have an Epson printer, you can also check this guide on [how to clean the rollers](https://files.support.epson.com/docid/cpd5/cpd53910/source/cleaning_transportation/tasks/xp8500/cleaning_spc_rollers_xp8500.html).
 
