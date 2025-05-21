@@ -16,7 +16,7 @@ tags:
 ---
 ![Poor Print Quality Fix: Stop Smudges and Blurry Prints Fast!](/blog/images/poor-print-quality.png "Poor Print Quality Fix: Stop Smudges and Blurry Prints Fast!")
 
-You hit print, expecting a crisp, clean page—but instead, you get smudges, streaks, or blurry text. Sound familiar? It always seems to happen right when you're printing something important, like a report, a school project, or a presentation.
+You hit print, expecting a crisp, clean page—but instead, you get smudges, streaks, or blurry text. Sound familiar? It always seems to happen right when you're printing something important, like a report, a school project, or a presentation. 
 
 Whether you’re using a printer at home or work, poor print quality can be stressful. The good news? Most print quality issues are easy to fix on your own. In this guide, we’ll walk you through simple ways to figure out what’s going wrong and how to get your printer back to producing sharp, clear pages—fast. Say goodbye to messy prints in no time!
 
