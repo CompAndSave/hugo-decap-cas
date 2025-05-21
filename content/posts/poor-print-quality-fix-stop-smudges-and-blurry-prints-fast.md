@@ -43,7 +43,7 @@ Not every print problem looks the same, which matters when it comes to fixing it
 
 **1. Use the right paper:** Not all paper is made the same. Inkjet printers need absorbent paper that lets the ink dry quickly, while laser printers require smooth paper that can handle heat. Using glossy or coated paper in an inkjet can prevent ink from soaking in, leading to smudges. Always check the packaging to make sure the paper is compatible with your printer type.
 
-**2. Check your settings:** In your printer’s settings or print dialog box, choose the correct paper type (e.g., plain, photo, glossy). This tells the printer how much ink to use. If the wrong setting is selected, your printer might apply too much ink or the wrong drying process, causing smearing.
+**2. Check your settings:** In your printer’s settings or print dialog box, choose the correct paper type (e.g., plain, photo, glossy). This tells the printer how much ink to use. If the wrong setting is selected, your printer might apply too much ink or the wrong drying process, causing smearing. 
 
 **3. Reduce print quality slightly:** High-quality print modes use more ink to produce sharper images, which can lead to over-saturation, especially on standard paper. Try switching to a “Standard” or “Draft” setting. It uses less ink and dries faster, which can prevent bad print quality due to smudging.
 
