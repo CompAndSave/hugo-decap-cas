@@ -134,3 +134,5 @@ Try to print something small, or [print a test page](https://www.compandsave.com
 [How to Clean Printhead: Automatic and Manual](https://www.compandsave.com/blog/posts/how-to-clean-printhead-automatic-and-manual-guide-2024.html)
 
 [Does Printer Ink Dry Out? Here's How to Fix a Dried Ink Cartridge](https://www.compandsave.com/does-printer-ink-dry-out)
+
+[](https://www.compandsave.com/does-printer-ink-dry-out)
