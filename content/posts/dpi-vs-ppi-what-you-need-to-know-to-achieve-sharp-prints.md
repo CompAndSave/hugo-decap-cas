@@ -21,7 +21,7 @@ Imagine you’ve just taken a beautiful sunset photo on your phone and want to p
 
 To help you better understand them, this guide breaks down the difference between DPI and PPI, explains why both matter, and shows you how the right printer settings, combined with a high-quality inkjet printer, can make a significant difference in your final print. Let’s get started so you can [print high-quality photos at home](https://www.compandsave.com/blog/posts/how-to-print-high-quality-photos-at-home.html) with confidence!
 
-Here are some things we will cover in this guide:
+**Here are some things we will cover in this guide:**
 
 * What Is DPI (Dots Per Inch) in Printing?
 * What Is PPI (Pixels Per Inch) in Digital Images?
