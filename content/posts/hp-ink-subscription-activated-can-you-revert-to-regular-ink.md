@@ -21,7 +21,7 @@ When you’re working on your computer and make a mistake, there’s a helpful �
 
 For many home users and small business owners, printing is essential, but committing to a monthly printer ink subscription? Not always the best idea. If you’ve found yourself locked into HP’s ink program—especially by accident—you’re probably wondering: *Can I still go back to using regular or third-party ink?*
 
-This guide explains what happens when you activate HP's ink services, the difference between [HP+ Program](https://www.compandsave.com/what-is-hp-plus-program-the-pros-and-cons) and HP Instant Ink, and whether there’s a way out if you’ve changed your mind. With that, here are some things we will discuss in this guide:
+This guide explains what happens when you activate HP's ink services, the difference between [HP+ Program](https://www.compandsave.com/what-is-hp-plus-program-the-pros-and-cons) and HP Instant Ink, and whether there’s a way out if you’ve changed your mind. With that, here are some things we will discuss:
 
 * What Is an HP Ink Subscription?
 * HP+ vs. Non-HP+ Printers: What Happens After Cancellation?
