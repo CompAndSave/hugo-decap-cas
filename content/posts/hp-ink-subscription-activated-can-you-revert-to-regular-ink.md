@@ -3,9 +3,9 @@ title: "HP Ink Subscription Activated: Can You Revert to Regular Ink?"
 date: 2025-06-19T12:44:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/hp-ink-subscription-activated.png
-description: Accidentally activated an HP ink subscription? Discover if you can
+description: "Accidentally activated an HP ink subscription? Discover if you can
   switch back to using regular ink and learn the steps to regain control of your
-  printer!
+  printer! "
 tags:
   - HP Instant ink
   - HP+ program
