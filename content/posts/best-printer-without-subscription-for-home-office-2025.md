@@ -38,7 +38,7 @@ That’s why more people are choosing a printer that doesn’t require a subscri
 * **No monthly fees**
 * **No unexpected ink charges**
 * **Freedom to use cheaper compatible or third-party ink and toner**
-* **Ideal for low or irregular print volume**
+* **Ideal for low or irregular print volume** 
 
 ### **So, Can You Use a Printer Without Ever Having to Subscribe?**
 
