@@ -54,7 +54,7 @@ Not all printers without subscriptions are the same. To find the right one for y
 
 ### **1. Ink Type & Yield**
 
-Decide if you want a traditional cartridge printer or one with a [refillable tank](https://www.compandsave.com/blog/posts/best-refillable-inkjet-printer-our-top-4-picks.html) system. Standard cartridges are easy to replace but require more frequent changes. Ink tank printers, such as Epson EcoTank or Canon MegaTank, hold more ink and offer a lower cost per page over time, making them ideal for long-term savings without auto-ship ink services.
+Decide if you want a traditional cartridge printer or one with a [refillable ink tank](https://www.compandsave.com/blog/posts/best-refillable-inkjet-printer-our-top-4-picks.html) system. Standard cartridges are easy to replace but require more frequent changes. Ink tank printers, such as Epson EcoTank or Canon MegaTank, hold more ink and offer a lower cost per page over time, making them ideal for long-term savings without auto-ship ink services.
 
 ### **2. Print Volume**
 
@@ -138,7 +138,7 @@ More people are choosing printers that don’t require subscription for long-ter
 
 ### **1. Can I use third-party ink with a printer without a subscription?**
 
-Yes, many printers without subscription plans allow you to use third-party or compatible ink, which can help you save money over time. However, some brands—especially HP—have features that may prevent the use of non-original cartridges. To use third-party ink, you may need to disable cartridge protection or update your printer's settings. For step-by-step help, refer to our guide on [How to Disable HP Cartridge Protection.](https://www.compandsave.com/how-to-disable-hp-cartridge-protection)
+Yes, many printers without subscription plans allow you to use third-party or compatible ink, which can help you save money over time. However, some brands—especially HP—have features that may prevent the use of non-original cartridges. To use third-party ink, you may need to disable cartridge protection or update your printer's settings. For step-by-step help, refer to our guide on [How to Disable HP Cartridge Protection](https://www.compandsave.com/how-to-disable-hp-cartridge-protection).
 
 ### **2. What happens if I accidentally enroll in a printer subscription program?**
 
