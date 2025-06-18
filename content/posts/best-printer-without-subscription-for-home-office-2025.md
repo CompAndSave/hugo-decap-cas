@@ -35,10 +35,10 @@ Subscription-based printers—like those enrolled in the [HP Instant Ink Program
 
 That’s why more people are choosing a printer that doesn’t require a subscription. Here’s why it’s a smart choice:
 
-* No monthly fees
-* No unexpected ink charges
-* Freedom to use cheaper compatible or third-party ink and toner
-* Ideal for low or irregular print volume
+* **No monthly fees**
+* **No unexpected ink charges**
+* **Freedom to use cheaper compatible or third-party ink and toner**
+* **Ideal for low or irregular print volume**
 
 ### **So, Can You Use a Printer Without Ever Having to Subscribe?**
 
@@ -150,7 +150,7 @@ With the [HP+ Program](https://www.compandsave.com/what-is-hp-plus-program-the-p
 
 Carefully review the product specifications and setup details before making a purchase. Look for phrases like “Instant Ink required,” “HP+ enabled,” or “subscription needed” in the fine print. Reading customer reviews and questions on retailer websites can also help uncover hidden limitations. 
 
-**Related Articles:**
+## **Related Articles:**
 
 [Top Printers Without Subscriptions for Affordable Printing](https://www.compandsave.com/blog/posts/5-best-home-printer-2024-top-rated-non-subscription-printer.html)
 
