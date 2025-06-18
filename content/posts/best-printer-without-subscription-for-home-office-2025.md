@@ -148,7 +148,7 @@ With the [HP+ Program](https://www.compandsave.com/what-is-hp-plus-program-the-p
 
 ### **3. How can I tell if a printer requires a subscription before I buy it?**
 
-Carefully review the product specifications and setup details before making a purchase. Look for phrases like “Instant Ink required,” “HP+ enabled,” or “subscription needed” in the fine print. Reading customer reviews and questions on retailer websites can also help uncover hidden limitations. 
+Carefully review the product specifications and setup details before making a purchase. Look for phrases like “Instant Ink required,” “HP+ enabled,” or “subscription needed” in the fine print. Reading customer reviews and questions on retailer websites can also help uncover hidden limitations.
 
 ## **Related Articles:**
 
