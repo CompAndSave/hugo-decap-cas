@@ -24,9 +24,10 @@ This quick guide will walk you through the steps for adding printer to Mac, whet
 **In this guide, we will discuss:**
 
 * How to Add Printer to Mac: Wired and Wireless
-* * Method #1: Wired Connection (USB)
 
-  * Method #2: Wireless Connection (Wi-Fi)
+  A. Method #1: Wired Connection (USB)
+
+  B. Method #2: Wireless Connection (Wi-Fi)
 * Adding Printer to Mac Failed: Troubleshooting Tips
 
 ## **How to Add Printer to Mac: Wired and Wireless**
@@ -47,7 +48,7 @@ There are two primary methods on how to connect printer to Mac: using a USB cabl
 
 **Step 6:** Try printing a test page to ensure everything works properly.
 
-***\*Note for MacBook users:** Most recent Mac models, including MacBook Air and MacBook Pro, only have USB-C ports. If your printer uses a standard USB-A cable, you’ll need a USB-C to USB-A adapter or a USB-C hub to add a printer to MacBook.* 
+**\*\*Note for MacBook users:** Most recent Mac models, including MacBook Air and MacBook Pro, only have USB-C ports. If your printer uses a standard USB-A cable, you’ll need a USB-C to USB-A adapter or a USB-C hub to add a printer to MacBook.* 
 
 ### **Method #2: Wireless Connection (Wi-Fi)**
 
