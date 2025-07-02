@@ -130,7 +130,7 @@ You might ask, “How do I add a printer to my Mac when it’s old?” Well, old
 
 Learning how to add printer to Mac is easier than you might think. Whether you're using a USB connection or setting up a wireless printer, macOS makes the process straightforward when you follow the right steps. This guide covered both wired and wireless methods, plus simple fixes for common issues to help you print without hassle. Once you're comfortable adding printer to Mac, the rest becomes second nature—just make sure your printer is compatible and connected correctly.
 
-Need affordable ink or toner for your printer? Explore[ CompAndSave](https://www.compandsave.com) for budget-friendly options that are compatible with most major printer brands, including Epson, Brother, Canon, and HP. Happy printing!
+Need affordable ink or toner for your printer? Explore [CompAndSave](https://www.compandsave.com) for budget-friendly options that are compatible with most major printer brands, including Epson, Brother, Canon, and HP. Happy printing!
 
 **Key Takeaways:**
 
