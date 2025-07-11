@@ -115,9 +115,9 @@ Many still prefer Brother over HP, saying it’s reliable, low-maintenance, and 
 
 To get a better sense of user experiences, here’s what some of them say in Reddit posts by [Kodiak01](https://www.reddit.com/r/sysadmin/comments/1j42fb4/so_now_that_brother_has_decided_that_hp_is_the/), [Lumanus](https://www.reddit.com/r/printers/comments/1b9mdch/brother_printer_suddenly_wont_accept_third_party/), and [zekrysis](https://www.reddit.com/r/printers/comments/1j22e1h/has_brother_gone_the_way_of_hp_looking_for_new/):
 
-![Reddit comment about Brother printer](/blog/images/ingoude.-presentation-71-.png "Reddit comment about Brother printer")
+![Reddit comment about Brother printer](/blog/images/reddit-comment-2.png "Reddit comment about Brother printer")
 
-![Reddit comments about Brother printer](/blog/images/ingoude.-presentation-70-.png "Reddit comments about Brother printer")
+![Reddit comments about Brother printer](/blog/images/reddit-1.png "Reddit comments about Brother printer")
 
 ## **Disable Automatic Firmware Updates: A Way To Prevent Ink/Toner Issues**
 
