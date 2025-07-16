@@ -38,7 +38,7 @@ With so many brands offering monthly ink plans, it’s easy to assume they’re 
 
 ### **1. HP Instant Ink Subscription**
 
-One of the most popular options, the HP Instant Ink subscription takes the hassle out of buying ink by tracking your printer’s ink levels and automatically sending new cartridges before you run out. Instead of paying for ink by the cartridge, you pay a monthly fee based on how many pages you expect to print. Plans start at just $1.79 per month for 10 pages and include everything—ink, shipping, and even recycling of used cartridges. It’s a convenient option for home users and small businesses who want to avoid surprise ink runs.
+One of the most popular options, the [HP Instant Ink](https://www.compandsave.com/blog/posts/what-is-hp-instant-ink-program-is-it-worth-it.html) subscription takes the hassle out of buying ink by tracking your printer’s ink levels and automatically sending new cartridges before you run out. Instead of paying for ink by the cartridge, you pay a monthly fee based on how many pages you expect to print. Plans start at just $1.79 per month for 10 pages and include everything—ink, shipping, and even recycling of used cartridges. It’s a convenient option for home users and small businesses who want to avoid surprise ink runs.
 
 Below are the available HP Instant Ink plans:
 
