@@ -9,4 +9,4 @@ tags:
   - cheap laser toner
   - Laser Printer
 ---
-![Best Brother Color Laser Printer with Cheap Toner 2025](/blog/images/best-brother-color-laser-printer-with-cheap-toner-2025.png "Best Brother Color Laser Printer with Cheap Toner 2025")
+![Best Brother Color Laser Printer with Cheap Toner](/blog/images/best-brother-color-laser-printer-with-cheap-toner-2025.png "Best Brother Color Laser Printer with Cheap Toner 2025")
