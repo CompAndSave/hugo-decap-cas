@@ -63,7 +63,7 @@ Now that we know how to choose the right one, we simplify things by listing the 
 
 ### **1. Brother HL-L8260CDW - Print Only Color Laser Printer**
 
-
+{{< embedImage image="/blog/images/brother-hl-l8260cdw.png" alt="Brother HL-L8260CDW" title="Brother HL-L8260CDW" alignment="center" >}}
 
 The [Brother HL-L8260CDW](https://www.compandsave.com/brother/hl/hl-l8260cdw-toner-cartridges) is a fast and reliable color laser printer, ideal for home offices or small businesses. It prints up to 33 pages per minute and can print on both sides automatically, saving paper. You can connect it with Wi-Fi, USB, or Ethernet, and even print from your phone. 
 
