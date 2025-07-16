@@ -14,4 +14,6 @@ tags:
   - Ink Subscription Services
   - Printer Ink Subscription
 ---
-![Printer Ink Subscription Services](/blog/images/printer-ink-subscription-services.png "Printer Ink Subscription Services")
+
+
+{{< embedImage image="/blog/images/printer-ink-subscription-services.png" alt="Printer Ink Subscription Services" title="Printer Ink Subscription Services" alignment="center" >}}
