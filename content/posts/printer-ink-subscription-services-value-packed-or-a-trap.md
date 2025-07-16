@@ -129,6 +129,8 @@ Below are the available Brother Refresh EZ Print plans:
 
 {{< embedImage image="/blog/images/brother-refresh-ez-print-plans.png" alt="Brother Refresh EZ Print plans" title="Brother Refresh EZ Print plans" alignment="center" >}}
 
+*(Image Source: [Brother Refresh EZ Print Plan Page](https://www.brother-usa.com/supplies/subscription-info?srsltid=AfmBOoqpMvBg0qJD_zqqC9iDo1paXbiD1_dqpP9eeqORkyHXyhWVw2i4))*
+
 #### **Pros of Brother Refresh EZ Print Plans**
 
 * **Free 2-Month Trial**
@@ -166,6 +168,8 @@ Epson ReadyPrint is an all-in-one subscription that includes a printer, genuine 
 Below are the available Epson ReadyPrint plans:
 
 {{< embedImage image="/blog/images/epson-readyprint-plans.png" alt="Epson ReadyPrint plans" title="Epson ReadyPrint plans" alignment="center" >}}
+
+*(Image Source: [Epson ReadyPrint Plan Page](https://readyprint.epson.com/home))*
 
 #### **Pros of Epson ReadyPrint**
 
