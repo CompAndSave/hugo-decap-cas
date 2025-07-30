@@ -10,4 +10,6 @@ tags:
   - refillable ink tank printer
   - inkjet printer
 ---
-![Best Ink Tank Printer](/blog/images/best-ink-tank-printer-for-home-office-in-2025.png "Best Ink Tank Printer For Home & Office in 2025")
+
+
+{{< embedImage image="/blog/images/best-ink-tank-printer-for-home-office-in-2025.png" alt="Best Ink Tank Printer For Home & Office in 2025" title="Best Ink Tank Printer For Home & Office in 2025" alignment="center" >}}
