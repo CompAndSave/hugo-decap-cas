@@ -7,6 +7,11 @@ description: Looking for the best ink tank printer in 2025? Explore our top
   picks for cost-effective models perfect for home and office use. Save more on
   every print!
 tags:
+  - canon megatank printer
+  - epson ecotank
+  - Printer Without Subscription
+  - cheap printer ink
+  - home and office printer
   - refillable ink tank printer
   - inkjet printer
 ---
