@@ -12,7 +12,7 @@ tags:
   - reset HP printer
   - reset an HP printer
 ---
-![How Do You Reset an HP Printer](/blog/images/how-do-you-reset-an-hp-printer.png "How Do You Reset an HP Printer? A Step-by-Step Guide")
+![How Do You Reset an HP Printer](/blog/images/how-do-you-reset-an-hp-printer.png "How Do You Reset an HP Printer: A Step-by-Step Guide")
 
 Ever pressed print and suddenly your [HP printer says cartridge incompatible?](https://www.compandsave.com/blog/posts/hp-printer-says-cartridge-incompatible-try-these-real-fixes.html) Or it shows random HP printer code errors, goes offline, or simply refuses to connect to Wi-Fi. These are some of the most common frustrations HP users face daily.
 
