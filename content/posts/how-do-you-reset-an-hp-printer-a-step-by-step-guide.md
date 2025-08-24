@@ -1,5 +1,5 @@
 ---
-title: How Do You Reset an HP Printer? A Step-by-Step Guide
+title: "How Do You Reset an HP Printer: A Step-by-Step Guide"
 date: 2025-08-24T11:46:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/how-do-you-reset-an-hp-printer.png
