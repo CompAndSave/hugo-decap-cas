@@ -1,5 +1,5 @@
 ---
-title: "Different Types of Ink for Printers: A Buyer’s Guide for Quality Prints"
+title: "Different Types of Ink for Printers: Guide for Quality Print"
 date: 2024-12-31T02:05:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/different-types-of-ink-for-printers.png
