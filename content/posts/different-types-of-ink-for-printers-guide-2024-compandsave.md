@@ -31,36 +31,27 @@ Understanding different types of ink for printers is key to selecting the right 
 
 ### 1. Inkjet Printer Ink
 
-Inkjet ink is liquid-based and comes in two primary types: dye ink and pigment ink. These inks are popular for home and office use, especially for printing photos, documents, and colored images.
+{{< embedImage image="/blog/images/inkjet-printer-ink-bottle-and-cartridge.png" alt="inkjet printer ink" title="inkjet printer ink" alignment="center" >}}
 
-[![dye ink vs pigment ink](/blog/images/dye-ink-vs-pigment-ink.png "Dye Ink vs Pigment Ink")](/blog/images/dye-ink-vs-pigment-ink.png)
+Inkjet ink is liquid-based and comes in two primary types: dye ink and pigment ink. These inks are popular for home and office use, especially for printing photos, documents, and colored images.[](/blog/images/dye-ink-vs-pigment-ink.png)
 
 **Applications:**
 
-* **Dye ink** is one of the most common types of ink used in inkjet printers. It consists of colorants dissolved in a liquid, usually water. This composition allows the ink to flow easily and produce vibrant colors. These inks are best for photo printing and graphics due to their bright and vivid colors. However, they are not suitable for documents that need to last for a long time.
-
-[![dye-based ink](/blog/images/dye-based-ink.png "Dye-Based Ink")](/blog/images/dye-based-ink.png)
-
-* **Pigment ink** is another common type used in inkjet printers, known for its longevity and water resistance. These inks consist of tiny particles of color suspended in the liquid. The particles sit on top of the paper rather than soaking in. Such inks are ideal for professional documents and archival-quality prints. They are perfect for items that must last a long time without fading or smudging.
-
-[![pigment-based ink](/blog/images/pigment-based-ink.png "Pigment-Based Ink")](/blog/images/pigment-based-ink.png)
-
-* **Sublimation ink** is used to transfer images onto materials like polyester and textiles. These inks are designed to turn into gas without becoming liquid first. When heated, they bond with polyester fabric or coated items. Sublimation ink is best for printing on polyester, textiles, and items like mugs and phone cases. It’s perfect for creating personalized, high-quality products.
-
-[![sublimation ink](/blog/images/sublimation-ink.png "Sublimation Ink")](/blog/images/sublimation-ink.png)
-
+* **Dye ink** is one of the most common types of ink used in inkjet printers. It consists of colorants dissolved in a liquid, usually water. This composition allows the ink to flow easily and produce vibrant colors. These inks are best for photo printing and graphics due to their bright and vivid colors. However, they are not suitable for documents that need to last for a long time.[](/blog/images/dye-based-ink.png)
+* **Pigment ink** is another common type used in inkjet printers, known for its longevity and water resistance. These inks consist of tiny particles of color suspended in the liquid. The particles sit on top of the paper rather than soaking in. Such inks are ideal for professional documents and archival-quality prints. They are perfect for items that must last a long time without fading or smudging.[](/blog/images/pigment-based-ink.png)
+* **Sublimation ink** is used to transfer images onto materials like polyester and textiles. These inks are designed to turn into gas without becoming liquid first. When heated, they bond with polyester fabric or coated items. Sublimation ink is best for printing on polyester, textiles, and items like mugs and phone cases. It’s perfect for creating personalized, high-quality products.[](/blog/images/sublimation-ink.png)
 * **Direct-to-Garment Ink (DTG)** is used to print directly onto fabrics. Such inks are specifically formulated for fabric printing. They are absorbed by the material’s fibers, resulting in high-quality prints. DTG ink is ideal for fabric printing, especially for custom clothing and detailed textile designs. It provides vibrant and durable prints.
 
 ### 2. Laser Printer Toner
+
+{{< embedImage image="/blog/images/toner-cartridges-for-laser-printer.png" alt="toner cartridges" title="toner cartridges" alignment="center" >}}
 
 Laser printers use toner, a dry powder that is fused to the paper using heat. This method produces sharp, precise prints and is commonly used in offices for printing large volumes of text documents.
 
 ###### **Applications:**
 
 * High-volume printing tasks such as business documents, newsletters, and invoices.
-* Used in certain laser printers for printing on non-paper surfaces like fabrics and plastics.
-
-[![Laser Printer Toner](/blog/images/laser-printer-toner.png)](/blog/images/laser-printer-toner.png)
+* Used in certain laser printers for printing on non-paper surfaces like fabrics and plastics.[](/blog/images/laser-printer-toner.png)
 
 ### 3. Alternative Printer Inks
 
