@@ -10,7 +10,7 @@ tags:
   - small business improvements
   - small business resources
 ---
-[](/blog/images/business-resolutions.jpg)The New Year can be a time for reflection and positive, forward-thinking. Take the opportunity to reflect back on the previous year – what accomplishments best impacted your business? How can you keep that forward momentum in the New Year?
+The New Year can be a time for reflection and positive, forward-thinking. Take the opportunity to reflect back on the previous year – what accomplishments best impacted your business? How can you keep that forward momentum in the New Year?
 
 As small business owners, we are often so laden with the intricacies of our businesses that it can be hard to find time to step back, look at the bigger picture and identify ways to help our business grow. However, CompAndSave has compiled some useful New Year's Resolutions for small business owners to help spark some new ideas and get the ball rolling for 2011!
 
