@@ -1,6 +1,6 @@
 ---
 title: "How to Print Addresses on Envelopes: Step-by-Step Guide"
-date: 2025-10-09T12:36:00.000+08:00
+date: 2025-10-09T01:02:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/how-to-print-address-on-envelop.png
 description: Want clean, professional envelopes? Here’s how to print addresses
