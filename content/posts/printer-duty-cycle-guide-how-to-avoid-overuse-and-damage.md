@@ -14,4 +14,4 @@ tags:
   - inkjet printer
   - Printer Duty Cycle
 ---
-hjvghjfg
+{{< embedImage image="/blog/images/printer-duty-cycle-guide.png" alt="Printer Duty Cycle Guide: How to Avoid Overuse and Damage" title="Printer Duty Cycle Guide: How to Avoid Overuse and Damage" alignment="center" >}}
