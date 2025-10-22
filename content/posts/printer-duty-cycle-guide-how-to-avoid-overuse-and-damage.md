@@ -7,7 +7,7 @@ description: Learn everything about printer duty cycle and how to prevent
   overuse, extend your printer’s life, and keep it running smoothly. Happy
   printing!
 tags:
-  - heavy duty printer
+  - heavy duty printers
   - printing tips
   - printer problem causes
   - laser printer
