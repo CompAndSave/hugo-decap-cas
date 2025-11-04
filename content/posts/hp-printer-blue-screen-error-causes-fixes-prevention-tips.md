@@ -1,6 +1,6 @@
 ---
 title: "HP Printer Blue Screen Error: Causes, Fixes & Prevention Tips"
-date: 2025-11-05T05:39:00.000+08:00
+date: 2025-10-31T05:39:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/hp-printer-blue-screen.png
 description: Having an HP printer blue screen error? Learn how to repair
