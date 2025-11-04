@@ -1,6 +1,6 @@
 ---
 title: HP Document Feeder Not Working? Here’s How to Fix It for Good
-date: 2025-11-05T05:49:00.000+08:00
+date: 2025-10-31T05:49:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/hp-document-feeder-not-working.png
 description: HP document feeder not working? Don’t let it slow you down. Get
