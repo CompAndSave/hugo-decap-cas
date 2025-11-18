@@ -1,6 +1,6 @@
 ---
 title: "Laser Printer Black Streaks Explained: The Real Fixes That Work"
-date: 2025-11-18T09:43:00.000+08:00
+date: 2025-11-17T09:43:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/laser-printer-black-streaks.png
 description: Laser printer black streaks appear due to common internal issues,
