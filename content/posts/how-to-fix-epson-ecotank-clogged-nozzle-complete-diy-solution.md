@@ -85,7 +85,8 @@ This quick test shows if Epson EcoTank blocked nozzles are stopping ink flow.
 ### **Step 3: Check Ink Levels**
 
 Before starting Epson EcoTank print head cleaning clogged nozzles, make sure ink tanks are filled at least halfway. Running cleaning cycles on low ink can damage the system. If levels are low, refill first.
-**Step-by-Step: How to Fix an Epson EcoTank Clogged Nozzle**
+
+## **Step-by-Step: How to Fix an Epson EcoTank Clogged Nozzle**
 
 If your prints are faded, streaked, or missing colors, you’re likely dealing with an Epson EcoTank clogged nozzle. Knowing what a printhead is helps: it’s the part that sprays ink through tiny nozzles. When the ink dries inside, blockages form. Below are proven methods to fix an Epson EcoTank printer ink clogged issue safely.
 
@@ -96,7 +97,6 @@ Most clogs clear with built-in cleaning cycles.
 * From the Control Panel (EcoTank series): Go to Settings > Maintenance > Head Cleaning. Follow prompts and let the printer run the cycle.
 * **From a Computer (Windows & Mac):**
 * * Windows: Devices & Printers > Epson > Maintenance > Head Cleaning.
-
   * Mac: Printers & Scanners > Options & Supplies > Utility > Head Cleaning.
 
 **Caution:** Never power off mid-cycle. Wait between cleanings so the system can cool. This method helps with light cases of Epson EcoTank blocked nozzles.
