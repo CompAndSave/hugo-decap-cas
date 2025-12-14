@@ -1,5 +1,5 @@
 ---
-title: How to Install CMYi Brother LC401 Ink Cartridges (New Version)
+title: How to Install CMYi Brother LC401 Ink Cartridges
 date: 2025-12-13T12:52:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/brother-lc401-ink-cartridge.png
