@@ -16,7 +16,7 @@ tags:
 ---
 {{< embedImage image="/blog/images/how-to-clear-printer-queue-on-windows-mac.png" alt="How to Clear Printer Queue on Windows & Mac" title="How to Clear Printer Queue on Windows & Mac" alignment="center" >}}
 
-You send a document to print, expecting it to take seconds. Instead, nothing comes out. The printer shows activity, the job sits there, and every new file you send just piles up behind it. At this point, printing feels harder than it should be.
+You send a document to print, expecting it to take seconds. Instead, nothing comes out. The printer shows activity, the job sits there, and every new file you send just piles up behind it. At this point, printing feels harder than it should be. 
 
 This is exactly when knowing “how do I cancel printer queue” saves you time, stress, and a lot of clicking around. Whether you are working from home, running a small office, or printing school documents, a stuck queue can stop everything.
 
