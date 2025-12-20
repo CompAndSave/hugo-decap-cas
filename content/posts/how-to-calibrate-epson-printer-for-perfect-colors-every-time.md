@@ -259,5 +259,3 @@ Calibration only uses a minimal amount of ink and a single printer test page, ma
 [How To Calibrate HP Printer For Perfect Color & Alignment](https://www.compandsave.com/blog/posts/how-to-calibrate-hp-printer-for-perfect-color-alignment.html)
 
 [Poor Print Quality Fix: Stop Smudges and Blurry Prints Fast!](https://www.compandsave.com/blog/posts/poor-print-quality-fix-stop-smudges-and-blurry-prints-fast.html)
-
-##
