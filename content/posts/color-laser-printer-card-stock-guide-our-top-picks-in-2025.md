@@ -89,7 +89,7 @@ Here are the top color laser printer cardstock options for every budget. Ideal f
 
 ### **1. Brother MFC-L3780CDW Wireless Digital Color All-in-One Printer**
 
-{{< embedImage image="/blog/images/mfc-l3780cdw.jpeg" alt="MFC-L3780CDW" title="MFC-L3780CDW" alignment="center" >}}
+{{< embedImage image="/blog/images/mfc-l3780cdw.jpeg" alt="MFC-L3780CDW" title="Brother MFC-L3780CDW" alignment="center" >}}
 
 * **Laser-Quality Printing**: Sharp, professional output.
 * **All-in-One Function**: Copy, scan, fax with single-pass duplex.
@@ -102,7 +102,7 @@ Here are the top color laser printer cardstock options for every budget. Ideal f
 
 ### **2. Canon Color imageCLASS MF753Cdw II - Wireless Duplex Laser Printer**
 
-{{< embedImage image="/blog/images/mf753cdw.jpeg" alt="MF753Cdw" title="MF753Cdw" alignment="center" >}}
+{{< embedImage image="/blog/images/mf753cdw.jpeg" alt="MF753Cdw" title="Canon Color imageCLASS MF753Cdw II" alignment="center" >}}
 
 * **All-in-One 4-in-1:** Print, scan, copy, fax with duplex.
 * **Fast Print Speeds:** Up to 35 ppm in color and monochrome; first print ~7 sec.
