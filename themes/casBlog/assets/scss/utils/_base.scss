@@ -1,13 +1,18 @@
+@use "sass:list";
+
+$global-font-size: 106.25%;
+
+
 @function rem-calc($values) {
     $rem-values: ();
-    $count: length($values);
+    $count: list.length($values);
 
     @if $count == 1 {
         @return to-rem($values);
     }
 
     @for $i from 1 through $count {
-        $rem-values: append($rem-values, to-rem(nth($values, $i)));
+        $rem-values: list.append($rem-values, to-rem(list.nth($values, $i)));
     }
 
     @return $rem-values;
@@ -21,6 +26,6 @@
     @if $value == 0rem {
         $value: 0;
     }
-    
+
     @return $value;
 }

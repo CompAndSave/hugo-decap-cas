@@ -48,7 +48,7 @@ Now that we know some advantages of connecting your printer wirelessly, you migh
 
 ### Method #1: Directly Connect Printer to Wi-Fi
 
-The first method is connecting a wireless printer directly to your Wi-Fi router. These steps are for printers with a touchscreen where you can easily see and adjust the settings. Make sure your printer is within range of your Wi-Fi router. Follow the steps below to set up your wireless printer using this direct Wi-Fi method. 
+The first method is connecting a wireless printer directly to your Wi-Fi router. These steps are for printers with a touchscreen where you can easily see and adjust the settings. Make sure your printer is within range of your Wi-Fi router. Follow the steps below to set up your wireless printer using this direct Wi-Fi method.
 
 **Step 1:** Turn on your Wi-Fi router.
 
@@ -62,7 +62,7 @@ The first method is connecting a wireless printer directly to your Wi-Fi router.
 
 This is the most straightforward way to connect your printer to Wi-Fi. But if you have an older printer without a screen, don’t worry. There’s another method you can use. You can quickly connect your printer to Wi-Fi using the WPS Push Button.
 
-### Method #2: Connect Printer To Wi-Fi With WPS Push Button[](https://www.compandsave.com/what-ink-does-my-printer-use)
+### Method #2: Connect Printer To Wi-Fi With WPS Push Button
 
 [![WPS Push Button](/blog/images/screenshot-2024-09-19-at-8.57.20 pm.png "Connect Printer To Wi-Fi With WPS Push Button")](/blog/images/screenshot-2024-09-19-at-8.57.20 pm.png)
 
@@ -104,7 +104,7 @@ Now, you’re ready to start printing from your Windows computer wirelessly. Jus
 
 **Step 2:** Select **System Preferences or System Settings.**
 
-**Step 3:** Locate and select **Printers & Scanners.** A new window will pop up, and you will see all the printers you can use. 
+**Step 3:** Locate and select **Printers & Scanners.** A new window will pop up, and you will see all the printers you can use.
 
 **Step 4:** If you don’t see the printer you want to use, click **Add Printer** at the end of the list. A new window will open, and all the printers on the Wi-Fi network will be searched for. When you see your printer, click on it to add it to your MacBook.
 
@@ -118,7 +118,7 @@ How do I connect my printer to Wifi? Now you know the steps to connect easily. W
 
 * Connecting your printer to Wi-Fi lets you print from different devices, like your laptop, smartphone, or tablet, without cables. You can send print jobs from anywhere in your home or office on the same Wi-Fi network. This makes printing easier and keeps your space tidy without needing to plug in cables.
 * What are two methods to connect to a printer wirelessly? You can connect your printer to Wi-Fi either directly through its settings or using the WPS push button. Check the guide on how to do this step-by-step.
-* After connecting to Wi-Fi, you can add the printer to your Windows laptop or MacBook to start printing wirelessly. 
+* After connecting to Wi-Fi, you can add the printer to your Windows laptop or MacBook to start printing wirelessly.
 
 If you have any questions, don't hesitate to contact our customer service team. Call us toll-free at 1-833-465-6888, Monday to Friday, between 6 am and 4 pm PT. [CompAndSave](https://www.compandsave.com/) is here to make sure your printing experience is a great one!
 
@@ -144,4 +144,4 @@ To troubleshoot a slow wireless printer, check the Wi-Fi signal strength. Move t
 
 [How to Print Photos from Phone?](https://www.compandsave.com/blog/posts/how-to-print-photos-from-phone-android-vs-iphone-users.html)
 
-[How to Connect iPhone to Wireless Printer?](https://www.compandsave.com/help/articles/20805103101709/how-to-connect-iphone-to-wireless-printer-step-by-step-guide)[](https://www.compandsave.com/help/articles/20805103101709/how-to-connect-iphone-to-wireless-printer-step-by-step-guide)
+[How to Connect iPhone to Wireless Printer?](https://www.compandsave.com/help/articles/20805103101709/how-to-connect-iphone-to-wireless-printer-step-by-step-guide)

@@ -1,3 +1,7 @@
+@use "../../settings";
+@use "../../utils/colors";
+@use "../../utils/base";
+
 .post-feed {
     display: flex;
     flex-wrap: wrap;
@@ -5,18 +9,18 @@
     margin-right: -1rem;
 }
 .card-post {
-    background: $white;
+    background: settings.$white;
     margin: 2rem 1rem;
     align-items: center;
-    border: $global-border;
+    border: settings.$global-border;
     .post-title {
         margin-bottom: 0;
-        font-size: rem-calc(24);
+        font-size: base.rem-calc(24);
         a {
-            color: $dark-gray;
+            color: settings.$dark-gray;
             border: 0;
             &:hover {
-                color: lighten($medium-gray, 5%);
+                color: colors.get-color('cyan');
             }
         }
     }
@@ -28,35 +32,34 @@
     }
     .author {
         text-transform: uppercase;
-        font-weight: 700;
-        font-size: rem-calc(14);
+        font-size: base.rem-calc(14);
         display: inline-block;
-        padding: rem-calc(0 5);
+        padding: base.rem-calc(0 5);
         margin: 0 -5px 1rem;
-        border-radius: $global-radius;
-        color: $ui-gray;
+        border-radius: settings.$global-radius;
+        color: settings.$medium-gray;
     }
     .img-wrapper {
         display: flex;
-        min-height: rem-calc(220);
-        max-height: rem-calc(220);
+        min-height: base.rem-calc(220);
+        max-height: base.rem-calc(220);
         justify-content: center;
         align-items: center;
         overflow: hidden;
         text-align: center;
-        background-color: $off-white;
+        background-color: settings.$off-white;
     }
     .detail-wrapper {
         padding: 1rem 2rem;
     }
     .post-detail {
-        font-size: rem-calc(14);
-        color: $medium-gray;
-        margin: rem-calc(17 0 2);
+        font-size: base.rem-calc(14);
+        color: settings.$medium-gray;
+        margin: base.rem-calc(17 0 2);
     }
     .read-more {
         text-transform: uppercase;
-        font-size: rem-calc(15);
+        font-size: base.rem-calc(15);
     }
     &.action {
         display: flex;
@@ -65,20 +68,25 @@
         border: 0;
         background: transparent;
         .nav {
-            font-size: rem-calc(20);
+            font-size: base.rem-calc(20);
             font-style: italic;
         }
     }
 }
 
-@media screen and #{breakpoint(medium)} {
+@media screen and (min-width: 768px) {
     .card-post {
         flex: 0 0 calc(100%/2 - 2rem);
     }
 }
 
-@media screen and #{breakpoint(large)} {
+@media screen and (min-width: 1024px) {
     .card-post {
         flex: 0 0 calc(100%/3 - 2rem);
+        .img-wrapper {
+            align-items: center;
+            max-height: base.rem-calc(200);
+            min-height: base.rem-calc(200);
+        }
     }
 }

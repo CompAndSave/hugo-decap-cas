@@ -1,5 +1,7 @@
-@import '../settings';
-@import '../base/block/card';
+@use '../settings';
+@use '../utils/base';
+@use '../utils/colors';
+@use '../base/block/card';
 
 
 .pagination {
@@ -10,18 +12,22 @@
     justify-content: center;
     .page-item {
         flex: 0 0 10%;
-        max-width: rem-calc(50);
+        max-width: base.rem-calc(50);
         .page-link {
             cursor: pointer;
             display: inline-block;
-            padding: rem-calc(2 8);
+            padding: base.rem-calc(2 8);
             font-weight: 600;
-            color: $dark-gray;
+            color: settings.$dark-gray;
+            border-radius: settings.$global-radius;
+            &:hover {
+                border-radius: 0;
+            }
         }
         &.disabled {
             .page-link {
                 cursor: not-allowed;
-                color: $ui-gray;
+                color: settings.$ui-gray;
                 &:hover {
                     border: 0;
                 }
@@ -29,9 +35,8 @@
         }
         &.active {
             .page-link {
-                background-color: get-color('cyan');
-                color: $white;
-                border-radius: $global-radius;
+                background-color: colors.get-color('cyan');
+                color: settings.$white;
                 font-weight: 800;
                 &:hover {
                     border-color: transparent;

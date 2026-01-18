@@ -7,7 +7,6 @@ featured_image: /blog/images/archive/2015/09/compandsave-ink-the-world-pink.jpg
 description: How You Can Help the National Breast Cancer Foundation, Inc.® This October
 tags: []
 ---
-[![](/blog/images/compandsave-ink-the-world-pink.jpg)](/blog/images/compandsave-ink-the-world-pink.jpg)
 
 As so many of our readers know, October is National Breast Cancer Awareness month and we are proud to go pink all this month as well. We are partnering with the [National Breast Cancer Foundation, Inc.®](https://www.nationalbreastcancer.org/) (NBCF) to help their organization raise awareness and spread information about breast cancer prevention. We bring our readers some important messages about cancer symptoms, early detection and cancer survival.
 

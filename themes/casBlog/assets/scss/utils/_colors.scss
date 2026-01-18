@@ -1,6 +1,21 @@
+@use "sass:map";
+
+$color-palettes: (
+	'blue' : #0073c0,
+    'cyan' : #0196e4,
+    'magenta' : #fa2a92,
+    'light-yellow' : #fad71c,
+    'dark-yellow' : #f9c035,
+    'orange' : #cc4b37,
+    'green' : #00aa61,
+    'ice' : #f4fbfe,
+    'midnight' : #202234,
+    'red': #e12b1d
+);
+
 @function get-color($value) {
-    @if map-has-key($color-palettes, $value) {
-        @return map-get($color-palettes, $value);
+    @if map.has-key($color-palettes, $value) {
+        @return map.get($color-palettes, $value);
     } @else {
         @error 'given $key is not available in color palette';
     }

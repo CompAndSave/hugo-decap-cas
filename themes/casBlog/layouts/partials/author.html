@@ -4,6 +4,6 @@
 {{ with $page.GetTerms $taxonomy }}
   {{ $label := (index . 0).Parent.LinkTitle }}
   {{ range . }}
-    <span class="author">{{ .LinkTitle }}</span>
+    <strong class="author">{{ .LinkTitle }}</strong>
   {{ end }}
 {{ end }}

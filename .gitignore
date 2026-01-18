@@ -7,3 +7,5 @@ frontmatter.json
 static/admin/local-config.yml
 .vscode/*
 *.sh
+/resources/*
+start-project.sh

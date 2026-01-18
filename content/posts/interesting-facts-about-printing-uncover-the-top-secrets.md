@@ -44,7 +44,7 @@ Printer ink is among the most expensive liquids, sometimes costing more than spa
 * **Inkjet Printers:** theseare great for occasional printing or high-quality photos, but the cost of replacement cartridges can make them pricey in the long run.
 * **Laser Printers:** Facts about laser printers typically highlight that they have a higher initial cost, but the toner lasts longer and proves more economical for frequent printing, especially in business settings.
 
-### FACT #2:  Color Printing Vs Black-and-White Printing 
+### FACT #2:  Color Printing Vs Black-and-White Printing
 
 While color printing costs more than black-and-white printing, the price difference decreases. Many newer printers are designed to offer affordable color printing, and using third-party ink can make color prints even more budget-friendly.
 
@@ -136,4 +136,4 @@ While manufacturers often recommend their cartridges, many third-party options w
 
 [Truth Behind Third-Party Ink Cartridges](https://www.compandsave.com/blog/posts/truth-behind-third-party-ink-cartridges-cheaper-alternative.html)
 
-[Inkjet vs. Laser Printer](https://www.compandsave.com/blog/posts/inkjet-vs-laser-printer.html)[](https://www.compandsave.com/top-5-best-cheap-printer-ink-cartridges)[](https://www.compandsave.com/blog/posts/cheap-printer-cartridges-deciding-between-compatible-remanufactured-and-refillable-options.html)[](https://www.compandsave.com/blog/posts/how-to-save-money-on-printer-ink-simple-tips-for-home-and-office-printing.html)[](https://www.compandsave.com/blog/posts/best-refillable-inkjet-printer-our-top-4-picks.html)
+[Inkjet vs. Laser Printer](https://www.compandsave.com/blog/posts/inkjet-vs-laser-printer.html)

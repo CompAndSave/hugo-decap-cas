@@ -8,7 +8,7 @@ authors: Andrew Yeung
 tags: [p4014n toner,p4015n toner]
 ---
 
-[![](/blog/images/P4015n.jpg)](/blog/images/P4015n.jpg)
+[![HP laser printer](/blog/images/P4015n.jpg)](/blog/images/P4015n.jpg)
 
 Are you tired of going to the printing and copying store, just to find that they don't have the ink or laser toner you need? Is dealing with a youngster that does not know the difference between an HP and a Lexmark, and treats you badly while taking your hard-earned money driving you crazy? Then why not take back the reins of your customer service and your pocket book and buy your ink and laser toners online? You understand what it takes to run your business smoothly, and it can be hard to cut costs and save some money in the process. With ordering all of your printer ink online, you can save thousands of dollars each year. Saving money is important no matter what line of business you are in, but it doesn't' have to be difficult. The first step is to log on to the internet and search for the best online printer ink seller you can find. How will you be sure that you have found the least expensive one, but with the highest quality products?
 
@@ -16,7 +16,7 @@ The best ink and toner companies will not sell you inferior products, and offer 
 
 Take a look at this example. Say you've got an HP LaserJet printer and you need a [P4014N toner](https://www.compandsave.com/hp/laserjet/p4014n-toner-cartridges) cartridge for it. Not counting the hassle, poor treatment and sales tax you will be paying at your local retail store, your cost will be nearly $173 for one toner cartridge. That is insane, as online you can buy that exact toner cartridge, minus poor treatment and hassle, for only $56\. That is an incredulous savings of over $115\. To show you that this is not a fluke, take your same hypothetical HP LaserJet printer, but you need a [P4015N toner](https://www.compandsave.com/hp/laserjet/p4015n-toner-cartridges) cartridge for it. Same hassle, same story at the retailer and you pay a whopping $300 for your toner. If you were to purchase the same toner online, you would pay only $65 for it. That is an enormous savings of $235 for the same product. Why would you go back to the retailer in town when you can save this kind of money? Chances are, you will not, and with the free returns within 10 days if you are not 100% satisfied with your purchase and the fact that you will never have to pay sales tax on your ink again (except in CA) you can do more with your business and your money.
 
-  
+
 **About the authors:** Andrew Yeung is president of [CompAndSave](https://www.compandsave.com/), a leading online provider of premium printer ink cartridges, including [remanufactured](https://www.compandsave.com/help) and [compatible printer ink cartridges](https://www.compandsave.com/help). With deals every month and a [100% customer satisfaction](https://www.compandsave.com/help), CompAndSave provides an easy way for people and businesses to purchase printer ink and accessories.
 
 Learn about CompAndSave's deals and news from the world of printing by following us on [Facebook](https://www.facebook.com/compandsave.ink), [Twitter](https://twitter.com/compandsave), [LinkedIn](https://www.linkedin.com) !

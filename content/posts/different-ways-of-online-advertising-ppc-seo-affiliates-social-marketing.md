@@ -8,11 +8,11 @@ authors: Andrew Yeung
 tags: [ppc,social marketing,affiliates marketing,online marketing,seo]
 ---
 
-[![](/blog/images/2757849221-df10ca0c78.jpg)](/blog/images/2757849221-df10ca0c78.jpg)
+[![image of words and tags](/blog/images/2757849221-df10ca0c78.jpg)](/blog/images/2757849221-df10ca0c78.jpg)
 
 Online marketing techniques and strategies have become crucial to business success of late. With the virtual space emerging as the new marketplace, making an emphatic online presence is the key to cutting-edge competition. Irrespective of whether you're selling branded products like [HP inkjet cartridges](https://www.compandsave.com/hp) or even a service, online advertising is the need of the hour; several options are available to choose from. You need to choose as per your suitability and the scale at which you are looking to showcase your products or services. The sole aim behind every marketing strategy is to drive traffic. This is the only way of ensuring adequate exposure. For instance, you might be offering great deals on [laser toner cartridges](https://www.compandsave.com/); however, if nobody is visiting your website, the deals are as good as nonexistent.
 
-**Some Online Marketing Strategy Options** 
+**Some Online Marketing Strategy Options**
 
 Although online marketing as a subject is huge to delve into, discussing some of the more popular strategies could be a great way to generate a fair idea. Some of the more popular options that can be resorted to are:
 
@@ -23,7 +23,7 @@ Although online marketing as a subject is huge to delve into, discussing some of
 
 Other forms of online marketing could include article marketing, back links, and so on. Remember, when you create an online advertisement, the content of the ad is equally important. For example, if you are selling printer [ink cartridges](https://www.compandsave.com/), you would have to create content that's relevant to your product and would also be able to strike the right chord with a prospective customer.
 
-  
+
 **About the authors:** Andrew Yeung is president of [CompAndSave](https://www.compandsave.com/), a leading online provider of premium printer ink cartridges, including [remanufactured](https://www.compandsave.com/help) and [compatible printer ink cartridges](https://www.compandsave.com/help). With deals every month and a [100% customer satisfaction](https://www.compandsave.com/help), CompAndSave provides an easy way for people and businesses to purchase printer ink and accessories.
 
 Learn about CompandSave's deals and news from the world of printing by following us on [Facebook](https://www.facebook.com/compandsave.ink), [Twitter](https://twitter.com/compandsave), [LinkedIn](https://www.linkedin.com) !

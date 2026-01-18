@@ -29,7 +29,7 @@ In this guide, we'll share tips to achieve a lower cost of printing that will he
 
 ## Printing Cost: Common Mistakes That Waste Expensive Materials
 
-Printing can be more expensive than you think, not just because of ink and paper costs but also due to simple mistakes. These small mistakes add up over time, making your printing costs much higher than they need to be. You can save money on printing costs by being more careful and avoiding these common errors: 
+Printing can be more expensive than you think, not just because of ink and paper costs but also due to simple mistakes. These small mistakes add up over time, making your printing costs much higher than they need to be. You can save money on printing costs by being more careful and avoiding these common errors:
 
 * Skipping the print preview and then printing the wrong pages
 * Printing too many copies that aren’t needed
@@ -68,7 +68,7 @@ You can also adjust other print settings, such as the number of copies, page ori
 
 **Step 1:** Open your PDF or image in the Preview app.
 
-**Step 2:** To see the thumbnails of all pages, choose View > Thumbnails. To print only selected pages, Command-click the thumbnails of the pages you want to print. 
+**Step 2:** To see the thumbnails of all pages, choose View > Thumbnails. To print only selected pages, Command-click the thumbnails of the pages you want to print.
 
 **Step 3:** Choose File > Print to open the print dialog.
 
@@ -106,17 +106,17 @@ Here's how to reduce print density to save money on printer ink:
 
 ### Tip #4 - Reduce Margins
 
-Another way how to save on printing costs is to reduce the margins in your Microsoft Word documents. By default, Microsoft Word sets 1.25-inch margins, which can lead to a lot of wasted paper if not used properly. That’s why it's advisable to reduce margins to 0.75 inches. Doing so will free up enough room to print more words per page and save more on paper. 
+Another way how to save on printing costs is to reduce the margins in your Microsoft Word documents. By default, Microsoft Word sets 1.25-inch margins, which can lead to a lot of wasted paper if not used properly. That’s why it's advisable to reduce margins to 0.75 inches. Doing so will free up enough room to print more words per page and save more on paper.
 
 For academic papers like research papers or essays, you might need to follow specific margin rules. But for other types of documents, you can adjust the margins to save paper.
 
 So, here are the steps to adjust margins:
 
-**Step 1:** Open your document in Microsoft Word. 
+**Step 1:** Open your document in Microsoft Word.
 
 **Step 2:** Go to the Layout tab.
 
-**Step 3:** Click the Margins button and select Custom Margins from the drop-down menu. 
+**Step 3:** Click the Margins button and select Custom Margins from the drop-down menu.
 
 **Step 4:** In the Page Setup dialog box, enter 0.75 inches for the top, bottom, left, and right margins.
 
@@ -186,7 +186,7 @@ If you need to print something for non-essential use, use draft-quality printing
 
 Printer ink cartridges can be expensive, but you can save money using generic ones instead of OEMs (original equipment manufacturers). Before buying, research and read reviews to ensure the generic cartridges are high-quality. Cheap doesn't always mean you're saving money, so make sure they won't cause printing problems.
 
-Third-party companies like [CompAndSave](https://www.compandsave.com/) offer generic cartridges with a 1-year satisfaction guarantee. These budget-friendly options match the performance and quality of original inks like HP, Epson, and Canon. 
+Third-party companies like [CompAndSave](https://www.compandsave.com/) offer generic cartridges with a 1-year satisfaction guarantee. These budget-friendly options match the performance and quality of original inks like HP, Epson, and Canon.
 
 By being careful and creative with your printer usage, you can save hundreds of dollars in the long run. Try these print cost-reduction tips to make printing more affordable and effective!
 
@@ -217,7 +217,7 @@ Fonts that use less ink include Courier New, Garamond, and Ryman Eco. These font
 
 ### 2. How do I reduce paper waste in my daily printing?
 
-To reduce paper waste, check the print previews and only print what's necessary. You can also use duplex printing to print on both sides of the paper. Adjust your print settings to fit more text on each page. If possible, consider storing and sharing documents digitally instead of printing them. 
+To reduce paper waste, check the print previews and only print what's necessary. You can also use duplex printing to print on both sides of the paper. Adjust your print settings to fit more text on each page. If possible, consider storing and sharing documents digitally instead of printing them.
 
 ### 3. What are some ways to reduce energy consumption in printing?
 
@@ -231,4 +231,4 @@ To save energy when printing, use energy-efficient printers, especially those wi
 
 [Why Are Printer Inks So Expensive: Factors And Alternatives](https://www.compandsave.com/blog/posts/why-printer-ink-is-so-expensive-factors-and-alternatives.html)
 
-[](https://www.compandsave.com/top-5-cheap-toner-cartridges)
+

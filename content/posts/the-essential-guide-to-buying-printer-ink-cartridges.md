@@ -22,13 +22,13 @@ It is important to remember that the ink in thermal inkjet printers perform a du
 
 It becomes essential that users know exactly what type of ink cartridge to purchase for their printer. There are three main kinds of ink refill packs available on the market.
 
-The first is the Original Equipment Manufacturer (OEM) cartridges, made of company-produced refills for each printer model. They are the oldest type of refills available and the most expensive, though the quality can be high.  
-[![printer ink cartridge color](/blog/images/side-printer-cartridge.jpeg "printer ink cartridge color")](/blog/images/side-printer-cartridge.jpeg)  
+The first is the Original Equipment Manufacturer (OEM) cartridges, made of company-produced refills for each printer model. They are the oldest type of refills available and the most expensive, though the quality can be high.
+[![printer ink cartridge color](/blog/images/side-printer-cartridge.jpeg "printer ink cartridge color")](/blog/images/side-printer-cartridge.jpeg)
 The second type is compatible cartridges. They are manufactured by third-party companies and do not carry the original brand names. They cost only a fraction of the price of the OEMs.
 
 Last, there are remanufactured (or refurbished) cartridges, consisting of OEM or compatible cartridges which have been recharged after use. Priced midway between the other two choices, refurbished cartridges are very popular among environmentally conscious users.
 
-In conclusion, customers need to take care when choosing printer ink cartridges as they can end up buying one that is not compatible with their particular model. An HP Printer, for example, will use laser toner cartridges such as the [CE285A ](https://www.compandsave.com/hp/85a-toner-cartridge-ce285a-black)or the [HP 85A](https://www.compandsave.com/hp/85a-toner-cartridge-ce285a-black), but one meant for a similar model from another company may fail to take. It always pays to research your own technology!
+In conclusion, customers need to take care when choosing printer ink cartridges as they can end up buying one that is not compatible with their particular model. An HP Printer, for example, will use laser toner cartridges such as the [CE285A](https://www.compandsave.com/hp/85a-toner-cartridge-ce285a-black)or the [HP 85A](https://www.compandsave.com/hp/85a-toner-cartridge-ce285a-black), but one meant for a similar model from another company may fail to take. It always pays to research your own technology!
 
 What kind of ink do you find works best with your printer? Any stories of experimenting with different kinds of ink? Tell us in the comments!
 

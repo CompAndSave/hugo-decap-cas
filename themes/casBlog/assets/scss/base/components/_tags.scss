@@ -1,3 +1,8 @@
+@use "sass:color";
+@use "../../settings";
+@use "../../utils/base";
+@use "../../utils/colors";
+
 .tags {
     display: flex;
     align-items: center;
@@ -8,21 +13,21 @@
         flex-wrap: wrap;
     }
     .tag {
-        background: darken($color: $light-gray, $amount: 5%);
+        background: color.adjust($color: settings.$light-gray, $lightness: -5%);
         display: inline-block;
         text-transform: uppercase;
-        font-size: rem-calc(13);
+        font-size: base.rem-calc(13);
         line-height: 1;
-        padding: rem-calc(5 10);
+        padding: base.rem-calc(5 10);
         border: 0;
-        color: $dark-gray;
+        color: settings.$dark-gray;
         border-radius: 5000px;
         cursor: pointer;
         transition: all 0.25s ease-out;
         margin: 0.5rem 0.35rem;
         &:hover {
-            background: get-color('cyan');
-            color: $white;
+            background: colors.get-color('blue');
+            color: settings.$white;
         }
     }
 }

@@ -16,13 +16,13 @@ So from Mother's Day photo cards to just everyday photo printing, we want to let
 
 We know a picture is worth a thousand words, but you don't have to pay more than a pretty penny for each sheet on April 11th if you [check out the deal](https://www.compandsave.com/ink-fridays) here. Offer ends at midnight (PST)!
 
-[![compandsave ink fridays ](/blog/images/Order-Now.png "Shop Now")](https://www.compandsave.com/ink-fridays)
+[![compandsave ink fridays](/blog/images/Order-Now.png "Shop Now")](https://www.compandsave.com/ink-fridays)
 
-### Our Glossy Photo Paper 
+### Our Glossy Photo Paper
 
 If you're thinking of printing photos from a special occasion like weddings or just want to add a professional touch, glossy photo paper is the way to go. The shiny, reflective surface gives a high-contrast appearance for vivid, rich photographs.
 
-[![photo paper sizes ](/blog/images/2015-04-08-1219.png "compandsave photo paper ")](https://www.compandsave.com/paper)
+[![photo paper sizes](/blog/images/2015-04-08-1219.png "compandsave photo paper ")](https://www.compandsave.com/paper)
 
 This week's deal features 4"x6" glossy photo papers, but we also have photo papers in different sizes and finishes like matte and even canvas. You may view our photo papers if you'd like [here](https://www.compandsave.com/paper), or click the image above.
 

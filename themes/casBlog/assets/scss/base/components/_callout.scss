@@ -1,9 +1,12 @@
+@use "../../settings";
+@use "../../utils/colors";
+
 .callout {
     padding: .5rem 1rem .5rem 3.5rem;
     background-color: #f2faff;
-    border: 1px solid get-color('cyan');
-    color: $dark-gray;
-    border-radius: $global-radius;
+    border: 1px solid colors.get-color('cyan');
+    color: settings.$dark-gray;
+    border-radius: settings.$global-radius;
     &.alert {
         background-color: #fef5f4;
         border-color: #e12b1d;

@@ -26,7 +26,7 @@ This can be a great idea for a unique Valentine's Day gift for someone special, 
 
 3. The Cycle Wheel Frame – This funky, cool idea is currently very popular: you use the discarded frame of a bicycle wheel; just the frame and spokes, without the tire or the tube. Tack (use paste or simply use clips if you mean to keep replacing the pictures) on photos at random or photos that follow a particular theme. Makes for great wall art; personal art that tells a story! (From [VictoriousLivin](https://victoriouslivn.wordpress.com/2012/06/13/making-memories-every-mile/))
 
-[![](/blog/images/1.jpg)](/blog/images/1.jpg)
+[![setup menu on printer control panel](/blog/images/1.jpg)](/blog/images/1.jpg)
 
 4. Photo Plate Frames– They can be plain paper, ceramic plates, square plates etc -take your pick. For paper plates, simply cut out the center along the inner circle to leave the frilled looking edge and paste the photos over the back of the plate so that the image is framed by the disposable plate. For ceramic plates, you'll need to print your photograph on a decal and then paste it on. (From [TonyaStaab](https://www.tonyastaab.com/diy-photo-plate/))
 
@@ -34,10 +34,10 @@ This can be a great idea for a unique Valentine's Day gift for someone special, 
 
 5. The Photos Bookmark – OK, so this one is not a DIY photo frame idea but is so simple and so cute, that we couldn't help buy include this here. take a picture printout on photo paper or stiff card and cut it in the shape of a book mark or cut it along the lines of the image (your toddler with is most adorable expression, a memory from a memorable vacation…. Anything really! Sure to make you smile each time you pick up or put away the book you've been reading. (From MoritzFineBlogDesigns)
 
-[![](/blog/images/1.jpg)](/blog/images/1.jpg)
+[![setup menu on Envy printer control panel](/blog/images/1.jpg)](/blog/images/1.jpg)
 
 6.The Photo Collage – Use a large poster and glue or just a soft board with a few pins. Take a bunch of your best pictures, big and small, and create an interesting collage. (From BitsofEverything)
 
-[![diy photo collage ](/blog/images/1.jpg "Wall Picture Collage Tutorial ")](/blog/images/1.jpg)
+[![diy photo collage](/blog/images/1.jpg "Wall Picture Collage Tutorial ")](/blog/images/1.jpg)
 
 We're hoping that you liked our DIY picture frame ideas and would love to hear about any of your own that you'd like to share. Don't forget to check the great deals [Photo Paper](https://www.compandsave.com/paper) and [bulk ink or refill ink](https://www.compandsave.com/ink-refill-bulk-ink) deals we have for you. Because if you did like our ideas above, we'd like to offer you some economical options to put them into practice! To know more about our offers, subscribe to our newsletter or like us on [Facebook](https://blog.compandsave.com/2015/01/buy-1-get-2-free-dell-t091n-black-t092n.html).

@@ -8,7 +8,7 @@ authors: Andrew Yeung
 tags: [photo paper]
 ---
 
-[![](/blog/images/banana.jpg)](/blog/images/banana.jpg)
+[![recycled paper](/blog/images/banana.jpg)](/blog/images/banana.jpg)
 
 Traditionally when it comes to using a [photo paper](https://www.compandsave.com/paper), resin-coated or [RC papers](https://www.compandsave.com/paper) are the first choice. RC paper is traditional gloss or semi-matte paper that we are familiar with when we think of a photograph. It consists of a paper base sealed by polyethylene layers which makes it water-resistant to a considerable degree. It is also pretty resistant to scratches and grazes.
 
@@ -26,7 +26,7 @@ Photo paper cost with RC paper can be scaled down considerably by using low-grad
 
 By the same measure, photos developed on fiber paper are more expressive and give a certain depth to the images. Photo paper made of fiber, especially those made of low grade wood pulp and cotton fiber, can affect the quality of printing. Another disadvantage is the high cost of high-grade fiber paper.
 
-  
+
 **About the authors:** Andrew Yeung is president of [CompAndSave](https://www.compandsave.com/), a leading online provider of premium printer ink cartridges, including [remanufactured](https://www.compandsave.com/help) and [compatible printer ink cartridges](https://www.compandsave.com/help). With deals every month and a [1-year guarantee of quality](https://www.compandsave.com/help), CompandSave provides an easy way for people and businesses to purchase printer ink and accessories.
 
 Learn about CompandSave's deals and news from the world of printing by following us on [Facebook](https://www.facebook.com/compandsave.ink), [Twitter](https://twitter.com/compandsave), [LinkedIn](https://www.linkedin.com) !

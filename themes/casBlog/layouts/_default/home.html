@@ -25,11 +25,10 @@
         {{ end }}
       </section>
 
-      <hr class="hr latest">
+      <h1 class="home-title">LATEST POST</h1>
 
       {{ if ge $section_count (add $n_posts 1) }}
         <section class="post-feed">
-          <h1 class="f3">{{ i18n "more" }}</h1>
           {{/* Now, range through the next four after the initial $n_posts items. Nest the requirements, "after" then "first" on the outside */}}
           {{ range (first 8 (after $n_posts $section))  }}
             <div class="card-post">

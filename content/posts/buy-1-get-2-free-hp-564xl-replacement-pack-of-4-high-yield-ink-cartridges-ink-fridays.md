@@ -8,15 +8,15 @@ authors: Denise Resendez
 tags: []
 ---
 
-[![](/blog/images/1.png)](/blog/images/1.png)
+[![oem vs remanufactured cartridge ink cost chart](/blog/images/1.png)](/blog/images/1.png)
 
 There's nothing scary about this Ink Fridays™ deal for Friday the 13th! Our special offer of the week is better than BOGO: Buy 1, Get 2 FREE HP 564XL Replacement (Pack of 4) High Yield Ink Cartridges. At a price of $21.80 for 12 HP 564XL replacement ink cartridges , this means you are buying each for only $1.82!
 
 That's quite a steal with 86% in savings, especially considering retail value is $161.94\. As always, we enjoy sharing exclusive deals with our amazing readers, this offer runs only on this Freaky Friday of March 13th, 2015 until midnight (PST). Fight off the 13th with this lucky deal [here](https://www.compandsave.com/ink-fridays).
 
-[![compandsave ink fridays ](/blog/images/Order-Now.png "Shop Now")](https://www.compandsave.com/ink-fridays)
+[![compandsave ink fridays](/blog/images/Order-Now.png "Shop Now")](https://www.compandsave.com/ink-fridays)
 
-### Compatible HP Printers 
+### Compatible HP Printers
 
 Worried your printer might not be compatible with this week's offer of HP564XL ink cartridges? We understand, it's important to always double check to see if your printer and possible printer cartridges are compatible. We've listed a few of the compatible printers with our HP replacement printer cartridges to make it as easy as possible for you:
 

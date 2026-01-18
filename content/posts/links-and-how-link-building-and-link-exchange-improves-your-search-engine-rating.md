@@ -8,9 +8,9 @@ authors: Andrew Yeung
 tags: [link exchange,business,online marketing,seo]
 ---
 
-[![](/blog/images/ecommerce-link-building-tips.jpg)](/blog/images/ecommerce-link-building-tips.jpg)
+[![image of metal chain](/blog/images/ecommerce-link-building-tips.jpg)](/blog/images/ecommerce-link-building-tips.jpg)
 
-Search Engine Optimization (SEO) is that discipline in website design concerned with ensuring that the websites receive high rankings in the free search pages and thus get displayed often and high up the list. 
+Search Engine Optimization (SEO) is that discipline in website design concerned with ensuring that the websites receive high rankings in the free search pages and thus get displayed often and high up the list.
 
 There are many ways that this works and the Google and Yahoo search engines have different algorithms. The common and easiest way is to continually have new content on the website so that the spider bots re-index that site often. Google do not advertize their Algorithm so when it changes, as it does about twice a year, the SEO companies have to scramble to find out what has changed and adjust their techniques accordingly.
 
@@ -32,7 +32,7 @@ There are many ways to build links and each one has to be done individually unle
 
 Writing fresh content is very important for SEO but having a well built and link program will greatly enhance your search engine ranking.
 
-  
+
 **About the authors:** Andrew Yeung is president of [CompAndSave](https://www.compandsave.com/), a leading online provider of premium printer ink cartridges, including [remanufactured](https://www.compandsave.com/help) and [compatible printer ink cartridges](https://www.compandsave.com/help). With deals every month and a [100% customer satisfaction](https://www.compandsave.com/help), CompAndSave provides an easy way for people and businesses to purchase printer ink and accessories.
 
 Learn about CompAndSave's deals and news from the world of printing by following us on [Facebook](https://www.facebook.com/compandsave.ink), [Twitter](https://twitter.com/compandsave), [LinkedIn](https://www.linkedin.com) !

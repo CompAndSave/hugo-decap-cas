@@ -95,9 +95,7 @@ const ImageWithLink = {
     },
 
   toBlock: ({ alt, image, title }) =>
-    `[![${alt || ""}](${image || ""}${
-      title ? ` "${title.replace(/"/g, '\\"')}"` : ""
-    })](${image || ""})`,
+    `![${alt || ""}](${image || ""}${title ? ` "${title.replace(/"/g, '\\"')}"` : ""})`,
 
   toPreview: ({ alt, image, title }, getAsset, fields) => {
     const imageField = fields?.find((f) => f.get("widget") === "image");
@@ -123,10 +121,96 @@ const ImageWithLink = {
     {
       label: "Title",
       name: "title",
-    }
+    },
   ]
 };
 
+
+/* IMAGE WITH POSITION */
+const ImageWithPosition = {
+  label: "Image + Alignment",
+  id: "imageWithPosition",
+  fields: [
+    {
+      label: "Image",
+      name: "image",
+      widget: "image",
+      media_library: {
+        allow_multiple: false,
+      },
+    },
+    {
+      label: "Alt text",
+      name: "alt",
+      required: true
+    },
+    {
+      label: "Title",
+      name: "title",
+    },
+    {
+      label: "Alignment",
+      name: "alignment",
+      widget: "select",
+      options: ["left", "center", "right"],
+      default: "center"
+    }
+  ],
+  pattern: /^{{< embedImage image="(.*?)" alt="(.*?)" title="(.*?)" alignment="(.*?)" >}}/,
+  fromBlock: (match) =>
+    match && {
+      image: match[1],
+      alt: match[2],
+      title: match[3],
+      alignment: match[4] || "center"
+    },
+
+  toBlock: ({ alt, image, title, alignment }) =>`{{< embedImage image="${image || ""}" alt="${alt || ""}" title="${title || ""}" alignment="${alignment || "center"}" >}}`,
+
+  toPreview: ({ alt, image, title, alignment }, getAsset, fields) => {
+    const imageField = fields?.find((f) => f.get("widget") === "image");
+    const src = getAsset(image, imageField);
+    return `<div class="image-${alignment || "center"}"><a target="_blank" href="${image || ""}" class="no-border"><img src="${src || ""}" alt="${alt || ""}" title="${title || ""}" /></a></div>`;
+  },
+};
+
+/* TABLE */
+const Table =  {
+  id: "table",
+  label: "Table",
+  fields: [
+    { name: "columns", label: "Columns", widget: "list", field: { label: "Column / Header Name", name: "column", widget: "string" } },
+    { name: "rows", label: "Rows", widget: "list", fields: [
+        { label: "Row Data", name: "data", widget: "list", field: { label: "Cell content", name: "cell", widget: "string" } }
+      ]
+    }
+  ],
+  pattern: /^(\|.+\|(?:\n\|[-|]+\|)+)$/,
+  fromBlock: match => match[1],
+  toBlock: obj => {
+    let table = `| ${obj.columns.join(" | ")} |\n`;
+    table += `| ${obj.columns.map(() => "---").join(" | ")} |\n`;
+    obj.rows.forEach(row => {
+      table += `| ${row.data.join(" | ")} |\n`;
+    });
+    return table;
+  },
+  toPreview: obj => {
+    let tableHTML = `<table><thead><tr>`;
+    obj.columns.forEach(col => {
+      tableHTML += `<th>${col}</th>`;
+    });
+    tableHTML += `</tr></thead><tbody>`;
+    obj.rows.forEach(row => {
+      tableHTML += `<tr>${row.data.map(cell => `<td>${cell}</td>`).join("")}</tr>`;
+    });
+    tableHTML += `</tbody></table>`;
+    return tableHTML;
+  }
+}
+
+CMS.registerEditorComponent(Table);
 CMS.registerEditorComponent(ImageWithLink);
+CMS.registerEditorComponent(ImageWithPosition);
 CMS.registerEditorComponent(Accordion);
 CMS.registerEditorComponent(YoutubeEmbed);

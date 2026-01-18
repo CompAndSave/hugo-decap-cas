@@ -16,7 +16,7 @@ How to Choose a Home Office Printer
 
 **Inkjet vs Laser**. A home office printer can be an **inkjet** or a **laser** printer. Inkjet is great for those who would like to print their own photos aside from documents. Laser printers are great for those who have a big print load.
 
-**Printer Resolution**. For users who will print mostly documents with graphics, 300 dpi (dots per inch) is acceptable. For crisp, professional documents, 600 dpi will enhance the print. 1200 dpi is often used for photo printing. But for professional photographs, printers with a resolution of 2880 by 1440 is sought after. 
+**Printer Resolution**. For users who will print mostly documents with graphics, 300 dpi (dots per inch) is acceptable. For crisp, professional documents, 600 dpi will enhance the print. 1200 dpi is often used for photo printing. But for professional photographs, printers with a resolution of 2880 by 1440 is sought after.
 
 ## How We Have Chosen our Recommendations
 
@@ -28,13 +28,13 @@ In choosing our recommended home office printers for 2021, we only included thos
 
 **Connection**. For convenience, a home printer must be able to print through **wireless** and **USB** connection. Connections through USB and **Ethernet** create faster printing. While wireless connection creates the convenience of **mobile printing**.
 
-**Low Cost Consideration**. Lastly, a home office printer's expense in its lifespan must be considered. A printer can be cheap but its ink expenses could hurt your wallet in the long run. Click [here](https://docs.google.com/document/d/1xIvj92CMVnK4zLQLcJuKGDyicF3oNybjnQFQbnIevN4/edit?usp=sharing) to know how we considered the lifespan expense or Cost Consideration of each printer. 
+**Low Cost Consideration**. Lastly, a home office printer's expense in its lifespan must be considered. A printer can be cheap but its ink expenses could hurt your wallet in the long run. Click [here](https://docs.google.com/document/d/1xIvj92CMVnK4zLQLcJuKGDyicF3oNybjnQFQbnIevN4/edit?usp=sharing) to know how we considered the lifespan expense or Cost Consideration of each printer.
 
-Below are multi-function inkjet and laser printers that we have deemed the best this 2021\. 
+Below are multi-function inkjet and laser printers that we have deemed the best this 2021\.
 
 ## Best Home Office Inkjet Printer
 
-Brother MFCJ5945DW saves you money the most in the long run. 
+Brother MFCJ5945DW saves you money the most in the long run.
 
 * **Expensive Upfront but has Lowest Cost Consideration**. It has the highest price ($299.99) among other printers compared with. But it has the lowest overall expenses ($789.23) within the average 4-year lifespan of an inkjet printer.
 * **Most Page Yield in Starter Cartridges included**. Starter cartridges contain yields 3,600 pages in total.
@@ -45,7 +45,7 @@ Learn more of how we compared it with other printers [here](https://docs.google.
 
 Best Laser Home Office Printer (Monochrome)
 
-**Brother MFC-L2710DW** ($199.99) is a top seller when it comes to users who only wish to print text documents. 
+**Brother MFC-L2710DW** ($199.99) is a top seller when it comes to users who only wish to print text documents.
 
 * **Fast Print Speed**. This printer matches the demand of medium loads with its print speed of 32 ppm.
 * **Crisp Text and Images**. Monochrome laser printers can print documents blurry images. This gives less quality when photocopied. Prevent it from happening with this printer's print resolution of 2400 x 600 dpi.
@@ -61,15 +61,15 @@ For people who want crisp and colored documents without the maintenance needed f
 * **Great Print Speed**. Print both colored and monochrome documents by 24 ppm.
 * **Professional Prints**. Present professional files with great resolution of 2400x600 dpi.
 
-Unfortunately, this model is not for people who will need to fax documents. This is also not for users who prefers a USB connection with their printer. Click [here ](https://docs.google.com/document/d/1xIvj92CMVnK4zLQLcJuKGDyicF3oNybjnQFQbnIevN4/edit?usp=sharing)to learn more on how it has the lowest Cost Consideration ($2,643.95) from other color laser printers.
+Unfortunately, this model is not for people who will need to fax documents. This is also not for users who prefers a USB connection with their printer. Click [here](https://docs.google.com/document/d/1xIvj92CMVnK4zLQLcJuKGDyicF3oNybjnQFQbnIevN4/edit?usp=sharing)to learn more on how it has the lowest Cost Consideration ($2,643.95) from other color laser printers.
 
 ## Bonus Recommendations
 
-The printers below are not multi-function, nor have duplex printing or have a low Cost Consideration. But they are a match for certain users. For those looking for photo printers and portable printers, here are our recommendations. 
+The printers below are not multi-function, nor have duplex printing or have a low Cost Consideration. But they are a match for certain users. For those looking for photo printers and portable printers, here are our recommendations.
 
 ### Best Photo Home Printer
 
-**Epson Expression Photo HD XP-15000** is our "photo enthusiasts on the budget" printer. It's not expensive but it allows users to have their cake and eat it too with the printer's gallery-quality prints. 
+**Epson Expression Photo HD XP-15000** is our "photo enthusiasts on the budget" printer. It's not expensive but it allows users to have their cake and eat it too with the printer's gallery-quality prints.
 
 * **Varied 6-Ink System**. From the usual CMYK, it also has red and gray for better accuracy than an average photo printer.
 * **A3 Maximum Paper Size**. While it's not compatible with roll papers, photo enthusiasts will be glad to know they could print on both sides automatically.
@@ -80,7 +80,7 @@ This printer does not have a Bluetooth connection.
 
 ### Best Portable Printer
 
-If your job demands you to print at home and at the office, we would recommend the **Canon Pixma iX6820** as your portable printer. 
+If your job demands you to print at home and at the office, we would recommend the **Canon Pixma iX6820** as your portable printer.
 
 * **High Resolution**. Its 9600 x 2400 dpi promises clear, bold printers of movie clips, web pages, photos and documents.
 * **Fast Borderless Photos**. Instantly have professional 4x6" photos in 36 seconds.
@@ -88,7 +88,7 @@ If your job demands you to print at home and at the office, we would recommend t
 * **Quiet Mode**. Never disturb anyone again as you print.
 * **Auto Power On**. Upon sending a photo or document to be printed, this printer automatically powers on.
 
-Its only downside is lacking Bluetooth connectivity. 
+Its only downside is lacking Bluetooth connectivity.
 
-  
+
 If you want to save up to 80% of money on cartridges with these printers, use [professional compatible cartridges](https://www.compandsave.com/?utm%5Fsource=blog&utm%5Fmedium=organic&utm%5Fcampaign=Best%5FHome%5FOffice%5FPrinters%5Ffor%5F2021).

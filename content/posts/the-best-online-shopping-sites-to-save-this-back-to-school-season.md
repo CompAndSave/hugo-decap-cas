@@ -8,7 +8,7 @@ authors: Denise Resendez
 tags: []
 ---
 
-[![Best Online ](/blog/images/08-05-2015-300x600.png)](/blog/images/08-05-2015-300x600.png)It is that time of year again, when kids return to school, albeit reluctantly. Parents can sometimes feel relieved their kids are going back to a predictable and productive schedule. Happy not to hear their kids or grand-kids saying, " I'm bored!". It is also the time of year when there is school shopping to take care of and other challenges. Here are some tips for shopping back to school supplies:
+[![Best Online](/blog/images/08-05-2015-300x600.png)](/blog/images/08-05-2015-300x600.png)It is that time of year again, when kids return to school, albeit reluctantly. Parents can sometimes feel relieved their kids are going back to a predictable and productive schedule. Happy not to hear their kids or grand-kids saying, " I'm bored!". It is also the time of year when there is school shopping to take care of and other challenges. Here are some tips for shopping back to school supplies:
 
 ### Pointers for Back to School Shopping
 
@@ -16,7 +16,7 @@ If you're kid is anything like most, they usually aren't excited about August ro
 
 For[ school supplies, online shopping](https://blog.compandsave.com/2014/08/back-to-school-shopping-tips-to-save.html) may be the best bet. Not only do you get better deals, you don't have to battle the hordes at the stores! Also, you don't have to carry around heavy books, stationery, and clothing home because everything is conveniently delivered for you.
 
-#### Tips for Back To School Shopping 
+#### Tips for Back To School Shopping
 
 1. Make a list of things you really need, avoid impulse purchases, check online buzz, compare prices and take advantage of sales.
 2. Download mobile apps to shop online stores. In-app purchases often offer exclusive extra discounts so you get better deals.
@@ -46,5 +46,5 @@ All this month, we have a special offer for you parents: Get 5% off any ink and 
 
 Want to continue to get great discounts on all your printing needs? Subscribe to mailing list and enjoy more amazing back to school savings on printer cartridges.
 
-> Get 5% Off Any Ink & Toner OrderThis Entire August! Back To School savings start now.  
+> Get 5% Off Any Ink & Toner OrderThis Entire August! Back To School savings start now.
 > Posted by [CompAndSave.com](https://www.facebook.com/compandsave.ink) on [Monday, August 3, 2015](https://www.facebook.com/compandsave.ink)

@@ -53,7 +53,7 @@ To make sure you get the printer model that best meets your needs, there are a f
 
 ### 3. Print Quality
 
-* Do you print photos most of the time? If yes, evaluate the printer's resolution measured in dots per inch or dpi when choosing a printer, to ensure it meets your quality requirements for text and images. This also measures how many ink droplets are utilized to print one image. A higher DPI yields more dots per inch, which improves detail and produces a crisper, clearer image. That being said, you will need a [high-resolution printer especially for photos](https://medium.com/compandsave/best-printers-for-photo-printing-top-picks-for-stunning-photo-prints-0d0166ebbfd5) if you want to have clear and detailed prints. 
+* Do you print photos most of the time? If yes, evaluate the printer's resolution measured in dots per inch or dpi when choosing a printer, to ensure it meets your quality requirements for text and images. This also measures how many ink droplets are utilized to print one image. A higher DPI yields more dots per inch, which improves detail and produces a crisper, clearer image. That being said, you will need a [high-resolution printer especially for photos](https://medium.com/compandsave/best-printers-for-photo-printing-top-picks-for-stunning-photo-prints-0d0166ebbfd5) if you want to have clear and detailed prints.
 
 ### 4. Connectivity Options
 
@@ -223,7 +223,7 @@ DPI, or dots per inch, is important in printer specs because it tells you how sh
 
 
 
-### 4. Can I use any kind of paper with my printer, or does it need specific types? 
+### 4. Can I use any kind of paper with my printer, or does it need specific types?
 
 It's important to use the right kind of paper for your printer. Check the manual to see what types and sizes of paper your printer can handle. Some printers work best with plain paper, while others can use glossy or photo paper. Using the wrong kind of paper might cause printing problems. Make sure to load the paper correctly in the tray, and if you're not sure, the printer manual will have all the details you need.
 
@@ -241,8 +241,8 @@ Knowing the cost per page of a printer cartridge is crucial for budget managemen
 
 [The Best Home Office Printers: Optimizing Your Home Office](https://www.compandsave.com/blog/posts/the-best-home-office-printers-optimizing-your-home-office.html)
 
-[](https://www.compandsave.com/what-is-the-best-printer-for-students)
 
-[](https://www.compandsave.com/what-is-the-best-printer-for-students)
 
-[](https://www.compandsave.com/what-is-the-best-printer-for-students)
+
+
+

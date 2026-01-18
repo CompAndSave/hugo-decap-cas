@@ -8,7 +8,7 @@ authors: Andrew Yeung
 tags: [recycling cartridges]
 ---
 
-[![](/blog/images/recycling-ink-cartridges.jpg)](/blog/images/recycling-ink-cartridges.jpg)  
+[![a recycle bin full of ink cartridges](/blog/images/recycling-ink-cartridges.jpg)](/blog/images/recycling-ink-cartridges.jpg)
 [Printer ink cartridges](https://www.compandsave.com/) are used by people extensively these days to print out their work and data. What many people do is throw away their old cartridge once the ink is over and purchase a new one every time. They forget to think about the negative impact such a disposal has on the environment, especially because these items are not biodegradable. The best way to reduce such a negative environmental impact is to recycle the printer ink cartridges.
 
 How to Recycle Old Cartridges
@@ -25,7 +25,7 @@ The first and foremost advantage of recycling printer ink cartridges is that it 
 
 Refilling and recycling old printer ink cartridges is the right way to go if a firm is planning to go green and try and reduce their carbon footprints. Many people are therefore turning to recycling to increase their contribution to protecting the environment.
 
-  
+
 **About the authors:** Andrew Yeung is president of [CompAndSave](https://www.compandsave.com/), a leading online provider of premium printer ink cartridges, including [remanufactured](https://www.compandsave.com/help) and [compatible printer ink cartridges](https://www.compandsave.com/help). With deals every month and a [1-year guarantee of quality](https://www.compandsave.com/help), CompandSave provides an easy way for people and businesses to purchase printer ink and accessories.
 
 Learn about CompandSave's deals and news from the world of printing by following us on [Facebook](https://www.facebook.com/compandsave.ink), [Twitter](https://twitter.com/compandsave), [LinkedIn](https://www.linkedin.com) !

@@ -8,11 +8,7 @@ authors: Andrew Yeung
 tags: []
 ---
 
-[![](/blog/images/archive/2020/09/pexels-fernando-arcos-193057-300x200.jpg)](/blog/images/archive/2020/09/pexels-fernando-arcos-193057.jpg)
 
-_Photo by Fernando Arcos from \>Pexels_
-
-  
 When your printer starts having problems, the whole office operation can stop. You fiddle with the buttons, the cartridges, the cleaning cycle -only to find your old tricks don't work.
 
 Don't get intimidated with learning new tricks! There are people who have been there. Here, we answer the commonly asked questions our audience have with their printers.
@@ -21,7 +17,7 @@ Don't get intimidated with learning new tricks! There are people who have been t
 
 ### "My Printer Only Prints Images and Not Words"
 
-When your printer would only print images but not text, your EMF (Enhanced Meta File) maybe activated. EMF commands Windows to delay some printing jobs if the printer is already printing another file. By activating EMF, the printer is able to process data faster. Because images have a lot of data, deferring text print jobs will allow printers to print faster. 
+When your printer would only print images but not text, your EMF (Enhanced Meta File) maybe activated. EMF commands Windows to delay some printing jobs if the printer is already printing another file. By activating EMF, the printer is able to process data faster. Because images have a lot of data, deferring text print jobs will allow printers to print faster.
 
 Unfortunately, the deferred printing jobs can cram the hard drive space and cause difficulties to a network printer.
 
@@ -38,7 +34,7 @@ Unfortunately, the deferred printing jobs can cram the hard drive space and caus
 
 This can also be "My Ink Levels are full but the printing looks pale."
 
-If you have recently replaced a cartridge and the printing is pale or not printing with the ink of said cartridge, you may have clogged printheads. 
+If you have recently replaced a cartridge and the printing is pale or not printing with the ink of said cartridge, you may have clogged printheads.
 
 Printheads have microscopic nozzles that can get clogged easily with dried ink.
 
@@ -66,7 +62,7 @@ To confirm that you have clogged printheads, you can print a Test Page.
 
 If the Test Page has broken lines like these:
 
-![](https://lh5.googleusercontent.com/7QK1optdyKEsmC9MKgXM8DPgh2phauJKa7Zs6ZsAny-AkOl2rimf5mXdh3SkcSFvNMe6E5GUKk76SwiT-fvaqv4Ga7o-doZV_sHFK6amuol5dmY07zVghr5xXPyHsHIk6Lw5QcnM)
+!
 
 Then you do have clogged printheads.
 
@@ -97,39 +93,39 @@ This question can be a variety of specifications:
 
 #### I. "Can I Use Sublimation Ink in my Inkjet Printer?"
 
-Short answer: no. 
+Short answer: no.
 
-Sublimation ink is printed on paper by being heated into gas which then clings into the printed surface as a permanent print. 
+Sublimation ink is printed on paper by being heated into gas which then clings into the printed surface as a permanent print.
 
-Inkjet printers have a different mechanism. 
+Inkjet printers have a different mechanism.
 
 Sublimation ink can only be printed effectively with sublimation printers or inkjet printers that are converted to use sublimation ink.
 
 #### II. "Can I Use Dye-Based/Pigment-based Ink Cartridges for My Inkjet Printer?"
 
-Short answer: yes. 
+Short answer: yes.
 
-Developments with both dye-based inks and pigment-based inks made them today with little difference when it comes to printing quality. Both are compatible with inkjet printers. 
+Developments with both dye-based inks and pigment-based inks made them today with little difference when it comes to printing quality. Both are compatible with inkjet printers.
 
-The difference between dye-based inks and pigment-based inks is dye-based inks are liquid colorants dissolved in a liquid formula. Pigment-based inks are solid particle colorants suspended in a liquid formula. 
+The difference between dye-based inks and pigment-based inks is dye-based inks are liquid colorants dissolved in a liquid formula. Pigment-based inks are solid particle colorants suspended in a liquid formula.
 
 #### III. "Can I Use Third-party Ink Cartridges for my Inkjet Printer?"
 
-Third-party cartridges or compatible cartridges are developed to have the same build as OEM (Original Equipment Manufacturer) cartridges. 
+Third-party cartridges or compatible cartridges are developed to have the same build as OEM (Original Equipment Manufacturer) cartridges.
 
-Some printer manufacturers would warn that using compatible cartridges would lose your printer's warranty. However, your printer will only lose warranty if the manufacturers can prove that the printer's malfunction was caused by compatible ink cartridges. 
+Some printer manufacturers would warn that using compatible cartridges would lose your printer's warranty. However, your printer will only lose warranty if the manufacturers can prove that the printer's malfunction was caused by compatible ink cartridges.
 
 Years ago, when the compatible ink cartridge industry was just starting, there were compatible cartridges that were a poor fit with printers and would leak. But today, with modern manufacturing that doesn't infringe on the patents of OEM cartridge manufacturers, that is rarely the case.
 
 #### IV. "Can I Use Other Ink Cartridge Models for My Inkjet Printer?"
 
-Short answer: No. 
+Short answer: No.
 
-  
-If the product page doesn't list it as an ink cartridge for your printer then don't do it. It may have the same ink as the proper cartridges, but it wasn't designed in mind to fit in your printer. Trying to use ink cartridges that are not listed as compatible may result in ink spillage. 
 
-  
-Your printer may not also operate as it can detect an improper fit. 
+If the product page doesn't list it as an ink cartridge for your printer then don't do it. It may have the same ink as the proper cartridges, but it wasn't designed in mind to fit in your printer. Trying to use ink cartridges that are not listed as compatible may result in ink spillage.
+
+
+Your printer may not also operate as it can detect an improper fit.
 
 ### "My Printer Stops Printing Even Though The File Isn't Yet Finished."
 
@@ -149,33 +145,27 @@ To confirm, print another file. If it prints normally, the problem can lie on th
 
 #### IV. Print Spooler Difficulties
 
-The print spooler is where copies of the files are temporarily stored before it gets printed. 
+The print spooler is where copies of the files are temporarily stored before it gets printed.
 
 1. On your keyboard, press the Windows key and the R key at the same time.
 2. The Run window will pop up. Type services.msc then click OK
 
-![](https://lh5.googleusercontent.com/k-FxKwpoyiGN6aZBS-o46QlS0mcUOVNk7oGMPratNQjaacbgdt7Qmb48qdNGoLWaC4GA69LqcyjuNJvPu5PCVpH5zMimax2hReO7BYVV0-lxvVZSfBA1HvbN_mNLU6gK1gyvbESW)
+!
 
 1. Scroll down to Printer Spooler. Right-click Printer Spooler. Click Stop.
 
-[![](/blog/images/archive/2020/09/article-2B3-2Bpart-2B1-300x160.png)](/blog/images/archive/2020/09/article-2B3-2Bpart-2B1.png)
+[![Printer spooler windows panel](/blog/images/archive/2020/09/article-2B3-2Bpart-2B1.png)](/blog/images/archive/2020/09/article-2B3-2Bpart-2B1.png)
 
-1. In your computer's Start menu bar, click the **File Explorer** icon.
+1. In your computer's Start menu bar, click the **File Explorer** icon. In the address bar, type `C:WindowsSystem32SpoolPrinters` and hit **Enter**.
 
-![](https://lh6.googleusercontent.com/dIbCV7jrEnu5BCPlwIWKwrDOq3Gst_6cm-CxzJkJYyPrRP6gHJhbQ6W8Dzh-OHmCSMtSpuxhA7Uso-zqZDHulQr-cht7Wnrv6a8Oa5rYtB60u1ODCNWIlmg7Nrx_4uraa0UbCpco)
-
-1. In the address bar, type C:WindowsSystem32SpoolPrinters and hit **Enter**.
-
-![](https://lh3.googleusercontent.com/qw3iaybyXun1irinTDJMmh9sY8jT7S6KnMZnMemr0A4T5pJFG7m2lW_9W7xhttUbhJ8zBnDRe47_Rw9-cwiziSBnGANLC5gTlNkUSe9Kqiyq5Ur66HkDd5FCcvPd1f8A_7VHMoK1=w640-h360)
-
-1. Press down the **Shift** key and select all the files.
-2. Right-click the files and select **Delete**.
+2. Press down the **Shift** key and select all the files.
+3. Right-click the files and select **Delete**.
 
 #### V. For Mac Computers: Is Your GPU Overloaded?
 
 GPU or Graphics Processing Unit spools files for printers. When they get overloaded, printing can slow down or fail.
 
-Since GPU processes a lot of other software, close any GPU intensive apps such as web browsers or raw processors. 
+Since GPU processes a lot of other software, close any GPU intensive apps such as web browsers or raw processors.
 
 #### VI. How to Confirm If You're Having Connection Problems
 
@@ -189,7 +179,7 @@ If your printer is using a wireless connection, you can either relocate your pri
 
 If your printer is connected with a USB cable, check if it's plugged well. Unplug and plug both ends to restart connection. If that doesn't work, USB cable replacement may be needed.
 
-#### VIII. Are My Cartridges Stopping My Printer from Printing? 
+#### VIII. Are My Cartridges Stopping My Printer from Printing?
 
 If there's trouble with the cartridges, the printer software would often notify for low ink levels and other messages. If it only tells of a general error, check if the cartridges still have a protective tape sealing on their nozzles.
 
@@ -203,7 +193,7 @@ Inkjet Printers require a lot more maintenance than laser printers. However, tha
 
 #### Daily
 
-Always keep your inkjet printer plugged. The inkjet's printheads are semiconductive. Keeping the printer plugged allows the ink remnants on the printheads melted longer instead of solidified. 
+Always keep your inkjet printer plugged. The inkjet's printheads are semiconductive. Keeping the printer plugged allows the ink remnants on the printheads melted longer instead of solidified.
 
 #### Weekly
 
@@ -221,7 +211,7 @@ When the printing quality of your printer shows white lines or streaks, then it'
 3. Wait for 30-60 seconds for alcohol to dissolve the clogs.
 4. Initiate 3-5 times of cleaning cycles after.
 
-  
+
 * For Cartridge-Installed Printheads or Removable Printheads:
 1. Properly uninstall your ink cartridges.
 2. Soak the printheads in 91% denatured isopropyl alcohol overnight.
@@ -239,6 +229,6 @@ In general, the cause could be dirty cartridge chips during the manufacturing or
 4. Unplug your printer for 15-20 seconds. Plug it back again.
 5. Properly install the cartridge.
 
-If the cartridge isn't working, then it's time to get more specific by knowing how to how to make your printer accept your cartridge by your printer's brand. 
+If the cartridge isn't working, then it's time to get more specific by knowing how to how to make your printer accept your cartridge by your printer's brand.
 
 Get ready for "When Your Printer Won't Print (And Other Common Printer Problems of Epson and HP) Part 2" in our next publication.

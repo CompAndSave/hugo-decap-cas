@@ -14,7 +14,7 @@ For business or personal use, ink costs can add up quickly. Luckily, we have a f
 
 1\. Print in Black and White
 
-[![](/blog/images/6332078-orig.jpg)](/blog/images/6332078-orig.jpg)Remember the good ol' days where we would print off directions to a friend's house or a restaurant? Not only did we get the directions on paper, but they printed off in bright spunky colors. By simply updating your default settings to print only in black and white, also known as grayscale, you will aid in the conservation of the color ink cartridges for when you need it most.
+[![printer image](/blog/images/6332078-orig.jpg)](/blog/images/6332078-orig.jpg)Remember the good ol' days where we would print off directions to a friend's house or a restaurant? Not only did we get the directions on paper, but they printed off in bright spunky colors. By simply updating your default settings to print only in black and white, also known as grayscale, you will aid in the conservation of the color ink cartridges for when you need it most.
 
 2\. Change the Font
 

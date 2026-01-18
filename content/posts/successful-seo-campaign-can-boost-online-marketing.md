@@ -8,8 +8,6 @@ authors: Andrew Yeung
 tags: [business,online marketing,seo]
 ---
 
-[![](/blog/images/seo-hosting.jpg)](/blog/images/seo-hosting.jpg)
-
 People perform billions of searches on the internet via search engines every year. This certainly is a huge volume of traffic by any estimate. It is no wonder that the internet offers excellent online marketing prospects for entrepreneurs.
 
 Will a large quantum of searches guarantee that your prospective customer will find your website on the first two pages of big names like Google, Bing and YAHOO? This will not happen unless your website has a high ranking.
@@ -36,13 +34,13 @@ For successful online marketing, your ads must convert to mean more business for
 
 You can go places by setting up your profile on Facebook, Twitter or Digg. People in such sites can be very responsive to your business promotional campaigns.
 
-**Finally Test and Amend Your Campaign** 
+**Finally Test and Amend Your Campaign**
 
 Analyze your present performance and determine the shortcomings so that you can make effective strategies to move ahead. For example, if you find that visitors are not responding to a specific call-for-action, cancel it and modify.
 
 Success in online marketing will take time. You may not be able to jump straightway to the top rankings on Google and Yahoo but sooner or later you will reach there if you keep monitoring and maintaining your website.
 
-  
+
 **About the authors:** Andrew Yeung is president of [CompAndSave](https://www.compandsave.com/), a leading online provider of premium printer ink cartridges, including [remanufactured](https://www.compandsave.com/help) and [compatible printer ink cartridges](https://www.compandsave.com/help). With deals every month and a [1-year guarantee of quality](https://www.compandsave.com/help), CompandSave provides an easy way for people and businesses to purchase printer ink and accessories.
 
 Learn about CompandSave's deals and news from the world of printing by following us on [Facebook](https://www.facebook.com/compandsave.ink), [Twitter](https://twitter.com/compandsave), [LinkedIn](https://www.linkedin.com) !

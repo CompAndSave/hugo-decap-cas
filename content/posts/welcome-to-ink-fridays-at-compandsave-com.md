@@ -8,8 +8,6 @@ authors: Andrew Yeung
 tags: [CompAndSave.com,Ink &amp; Toner,Discount Offers,Ink Fridays™,Printer Cartridges]
 ---
 
-### 
-
 [![Ink Fridays CompAndSave.com](/blog/images/inkfridays.png)](https://www.compandsave.com/ink-fridays)
 
 ### What are Ink Fridays™?

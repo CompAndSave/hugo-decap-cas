@@ -204,4 +204,4 @@ While printing in black and white usually saves ink, some printers may still use
 
 [Common Printing Errors That Waste Ink](https://www.compandsave.com/blog/posts/top-10-tips-on-how-to-save-on-printer-ink.html)
 
-[How to Make Printer Ink Last Longer](https://www.compandsave.com/blog/posts/how-to-make-printer-ink-last-longer-5-easy-ways.html)[](https://www.compandsave.com/printhead-cleaning-guide)
+[How to Make Printer Ink Last Longer](https://www.compandsave.com/blog/posts/how-to-make-printer-ink-last-longer-5-easy-ways.html)

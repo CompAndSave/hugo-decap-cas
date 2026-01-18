@@ -8,11 +8,11 @@ authors: Denise Resendez
 tags: [Compatible HP Cartridges,Ink Fridays™,HP 951XL,HP 950XL]
 ---
 
-[![Bogo HP 950 / 951 Ink Cartridges ](/blog/images/bogo-hp-deal.png "BOGO Special: HP 950XL and HP 951XL (4 Pack) Pinter Cartridges - Ink Fridays™")](https://www.compandsave.com/ink-fridays)
+[![Bogo HP 950 / 951 Ink Cartridges](/blog/images/bogo-hp-deal.png "BOGO Special: HP 950XL and HP 951XL (4 Pack) Pinter Cartridges - Ink Fridays™")](https://www.compandsave.com/ink-fridays)
 
 We have a killer BOGO special this Ink Fridays™ on one of our best-selling products. Check out our deal: "[Buy 1 Set, Get 1 Set Free: HP 950XL & HP 951XL (Set of 4) High Yield Replacement Ink Cartridges](https://www.compandsave.com/ink-fridays)". This is a **total savings of $201.96** from our competitors average' retail price of $241.92 for two sets. As always, this offer has been exclusively created to be used on Friday, September 4th until midnight (PST). Just use this code **FR950X** at checkout!
 
-> BOGO DEAL: Buy 1 Set, Get 1 Set FREE on HP 950 / 951 (4 Pack) Ink Cartridges -Ink Fridays™  
+> BOGO DEAL: Buy 1 Set, Get 1 Set FREE on HP 950 / 951 (4 Pack) Ink Cartridges -Ink Fridays™
 > Posted by [CompAndSave.com](https://www.facebook.com/compandsave.ink) on [Friday, September 4, 2015](https://www.facebook.com/compandsave.ink)
 
 ### Is Your Printer Compatible with our HP 950XL & 951XL Replacement Inkjet Cartridges?

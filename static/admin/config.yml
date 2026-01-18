@@ -9,7 +9,7 @@ backend:
   repo: CompAndSave/hugo-decap-cas
   branch: master # Branch to update (optional; defaults to master)
   site_domain: www.compandsave.com
-  base_url: https://alpha.compandsave.com
+  base_url: https://alpha.compandsave.com # DON'T change this line. We are using alpha.compandsave.com to link to lambda for authentication
   auth_endpoint: lambda/sveltia-cms-auth/auth
 
 site_url: https://www.compandsave.com/blog/
@@ -49,7 +49,7 @@ collections:
       - { label: "Cover Image", name: "featured_image", widget: "image", required: false, choose_url: false }
       - { label: 'Description', name: 'description', widget: 'textWithCounter', charLimit: 160, rows: 4, cols: 5 }
       - { label: "Tags", name: "tags", widget: "list", collapsed: false, add_to_top: true, allow_add: true, required: false, field: { label: 'Tag', name: 'tag', widget: 'string' }}
-      - { label: 'Body', name: 'body', widget: 'markdown', buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list"], editor_components : ['imageWithLink', 'accordion', 'youtubeEmbed'] }
+      - { label: 'Body', name: 'body', widget: 'markdown', buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list"], editor_components : ['table', 'imageWithLink', 'imageWithPosition', 'accordion', 'youtubeEmbed'] }
   - name: 'drafts'
     label: 'Drafts'
     folder: 'content/posts'
@@ -76,7 +76,7 @@ collections:
       - { label: "Cover Image", name: "featured_image", widget: "image", required: false, choose_url: false }
       - { label: 'Description', name: 'description', widget: 'textWithCounter', charLimit: 160, rows: 4, cols: 5 }
       - { label: "Tags", name: "tags", widget: "list", collapsed: false, add_to_top: true, allow_add: true, required: false, field: { label: 'Tag', name: 'tag', widget: 'string' } }
-      - { label: 'Body', name: 'body', widget: 'markdown', buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list"], editor_components : ['imageWithLink', 'accordion', 'youtubeEmbed'] }
+      - { label: 'Body', name: 'body', widget: 'markdown', buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list"], editor_components : ['table', 'imageWithLink', 'imageWithPosition', 'accordion', 'youtubeEmbed'] }
   - name: 'authors_list'
     label: 'Authors List'
     editor:

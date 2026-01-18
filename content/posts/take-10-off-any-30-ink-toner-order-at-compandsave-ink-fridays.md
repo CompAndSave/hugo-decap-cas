@@ -8,7 +8,7 @@ authors: Denise Resendez
 tags: [compatible ink cartridges,compatible toner cartridges,discounts,Ink Fridays™,remanufactured printer cartridges]
 ---
 
-| [![printer cartridges on sale ](/blog/images/fb-banner.png "Save $10 Off Any $30 Ink or Toner Purchase ")](https://www.compandsave.com/ink-fridays) |
+| [![printer cartridges on sale](/blog/images/fb-banner.png "Save $10 Off Any $30 Ink or Toner Purchase ")](https://www.compandsave.com/ink-fridays) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Our offer: $10 Off Any $30+ Ink & Toner Order                                                                                                       |
 
@@ -16,7 +16,7 @@ We have a killer deal to kick off May this Ink Fridays™! The offer this week i
 
 As always, this [offer](https://www.compandsave.com/ink-fridays) has been exclusively made for Friday, May 1st and expires at midnight (PST). Use code **FR30X** to get this great deal!
 
-| [![CompAndSave Ink Fridays ](/blog/images/ink-friday-banner.jpg "Take $10 off any printer cartridge order over $30")](https://www.compandsave.com/ink-fridays) |
+| [![CompAndSave Ink Fridays](/blog/images/ink-friday-banner.jpg "Take $10 off any printer cartridge order over $30")](https://www.compandsave.com/ink-fridays) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Click Me For $10 Savings on Orders $30 Or More                                                                                                                 |
 

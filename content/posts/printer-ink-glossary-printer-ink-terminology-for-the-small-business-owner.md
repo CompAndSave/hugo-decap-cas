@@ -8,7 +8,7 @@ authors: Andrew Yeung
 tags: [printer glossary,printing glossary]
 ---
 
-[![](/blog/images/printer-ink-glossary.jpg)](/blog/images/printer-ink-glossary.jpg)  
+[![print button](/blog/images/printer-ink-glossary.jpg)](/blog/images/printer-ink-glossary.jpg)
 When it comes to printing, the terminology can be confusing. What exactly is the difference between toner and ink? Are they interchangeable? Is there a difference between laser and inkjet printers? Remanufactured-what!? Considering the cost of printing, your best strategy is understanding exactly what each term means and where you can save money without sacrifices quality. The following is a quick glossary to help you navigate your company's next printing purchase.
 
 **Toner:** A carbon-polymer powder mix used in laser printers and copy machines to form the text and images on a print out. A fuser melts the toner and binds it to the paper.
@@ -25,11 +25,11 @@ When it comes to printing, the terminology can be confusing. What exactly is the
 
 **Inkjet printer:** A computer printer that reproduces a digital image by propelling variably-sized droplets of liquid via heat (which makes the liquid bubble and splatter) onto a page.
 
-**Printhead:** Used to deliver the ink to the page that you are printing, the printhead is vitally important to your print quality (never touch a printhead!) and can wear out over time. 
+**Printhead:** Used to deliver the ink to the page that you are printing, the printhead is vitally important to your print quality (never touch a printhead!) and can wear out over time.
 
 **Nozzles:** Many nozzles or "jets" are located on the printhead. These nozzels heat and cool the ink inside the cartridge so that ink can be moved onto the paper.
 
-  
+
 **About the authors:** Andrew Yeung is president of [CompAndSave](https://www.compandsave.com/), a leading online provider of premium printer ink cartridges, including [remanufactured](https://www.compandsave.com/help) and [compatible printer ink cartridges](https://www.compandsave.com/help). With deals every month and a [1-year guarantee of quality](https://www.compandsave.com/help), CompandSave provides an easy way for people and businesses to purchase printer ink and accessories.
 
 Learn about CompandSave's deals and news from the world of printing by following us on [Facebook](https://www.facebook.com/compandsave.ink), [Twitter](https://twitter.com/compandsave), [LinkedIn](https://www.linkedin.com) !
