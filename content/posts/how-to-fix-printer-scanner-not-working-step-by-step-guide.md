@@ -2,6 +2,7 @@
 title: "How to Fix Printer Scanner Not Working: Step-by-Step Guide"
 date: 2026-01-15T01:56:00.000+08:00
 authors: Trisha Olivar
+featured_image: /blog/images/scanner-issue.png
 description: Having trouble with your printer scanner? Learn easy fixes to solve
   scanner issues fast and get back to scanning without stress.
 tags:
@@ -11,6 +12,8 @@ tags:
   - Printer Scanner Not Working
   - Printer Scanner
 ---
+{{< embedImage image="/blog/images/scanner-issue.png" alt="How to Fix Printer Scanner Not Working: Step-by-Step Guide" title="How to Fix Printer Scanner Not Working: Step-by-Step Guide" alignment="center" >}}
+
 If you use a printer scanner regularly, you know how convenient it is to quickly digitize documents for work, school, or personal projects. But when your printer scanner not working correctly, it can throw a wrench in your plans and leave you feeling stuck. Your scanner may not respond, produce blurry images, or display confusing error messages. Whatever the issue, it disrupts your workflow and can be surprisingly stressful.
 
 The good news is that many [common printer problems](https://www.compandsave.com/blog/posts/how-to-fix-common-printer-problems-tips-for-easy-troubleshooting.html) have straightforward fixes. In this guide, we’ll walk you through simple troubleshooting steps to get your scanner up and running quickly. By the end, you’ll feel confident tackling scanner issues and keeping your digital tasks moving smoothly.
