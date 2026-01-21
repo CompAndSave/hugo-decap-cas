@@ -189,7 +189,7 @@ The Polaroid Hi-Print is a pocket-sized dye-sublimation printer that delivers hi
 
 #### **Price:**
 
-The Polaroid Hi-Print is priced at $94.49 and available for purchase on [Amazon](https://www.amazon.com/dp/B08F25Y1C9).
+The Polaroid Hi-Print is priced at $94.49 and available for purchase on Amazon.
 
 | Pros | Cons |
 | --- | --- |

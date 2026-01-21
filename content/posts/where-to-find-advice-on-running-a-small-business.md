@@ -27,7 +27,7 @@ Your list of resources should be a mix of small business-themed sites, blogs and
 Some examples of small business resources include:
 
 * Inc.com
-* [Entrepreneur.com](https://www.entrepreneur.com/)
+* Entrepreneur.com
 * [Bloomberg Businessweek](https://www.bloomberg.com/tosv2.html?vid=&uuid=d35f4115-54ae-11ed-840f-546d5444464d&url=L2J1c2luZXNzd2Vlay8=)
 * [Fox Small Business Center](https://www.foxbusiness.com/category/small-business)
 * [The Wall Street Journal](https://www.wsj.com/)
@@ -42,13 +42,13 @@ Once you have a few resources that you want to visit again in the future, it's i
 If you're always on the move, a mobile-friendly tool like [43marks](https://43marks.com/) may be closer to what you're looking for.
 
 [Digg](https://digg.com/), along with [Delicious](https://delicious.com/), are excellent bookmarking tools that can help you find new websites. These are good if you're just starting to find small business websites, and need help finding more.\
-**Use a reading app to organize your favorite small business blogs**  
+**Use a reading app to organize your favorite small business blogs**
 
 [![books library organized alphabetized](/blog/images/bookswithbluepaperdividers2842723.jpeg "books library organized alphabetized")](/blog/images/bookswithbluepaperdividers2842723.jpeg)
 
 Create a Google Reader account (you need to have a [Google account](https://www.google.com/) in order to sign up) and assign the blogs you are interested in to the Reader. Every time a new entry of your favorite small business blog is published, it will show up in this feed.
 
-Google Reader is one of the best free tools for organizing blogs, but you can still download other tools like [Newzcrawler](https://www.newzcrawler.com/), [Omea Reader](https://www.jetbrains.com/omea/reader/), and [FeedDemon](https://www.feeddemon.com/) for a price. It all depends on how you would like to manage the blogs influencing your small business.\
+Google Reader is one of the best free tools for organizing blogs, but you can still download other tools like [Newzcrawler](https://www.newzcrawler.com/), and [Omea Reader](https://www.jetbrains.com/omea/reader/) for a price. It all depends on how you would like to manage the blogs influencing your small business.\
 **Subscribe to small business and industry-specific podcasts**
 
 [![woman gardening headphones listening](/blog/images/womanwithheadphonesanddoingyardwork2407092.jpeg "woman gardening headphones listening")](/blog/images/womanwithheadphonesanddoingyardwork2407092.jpeg)

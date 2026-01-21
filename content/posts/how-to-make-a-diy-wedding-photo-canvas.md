@@ -42,7 +42,7 @@ You will need:
 
 Print out your pictures on good quality photo paper using the best quality settings on your printer. Now smooth the surface of the canvas using some sandpaper to make the Mod Podge adhere well). Coat the surface of the canvas with Mod Podge and position the photo over it carefully – make sure it is properly aligned and not askew. Let dry and set. Trim the sides of any excess using a knife or scissors. Now coat the picture with a very thin layer of matte finish Mod Podge (it may look opaque at the moment but will dry out clear, never fear). While that layer is still wet, use a spare canvas and press that down over the photo and pull away to get that canvas texture. Now let this dry again. Paint the sides of the canvas with black acrylic paint to finish.
 
-Position your canvases on walls, doors, or other strategic locations such as the side of your staircase etc. Consider creating a collage of canvases on your wall. This can be a series that tells a story or a collection of pictures in a shape of your choice. For example, a large heart shape, one central photo with several smaller ones on the side and so on. Check out some fun, interesting ideas on Pinterest: [here](https://in.pinterest.com/explore/wedding-photo-collages/) and [here](https://www.pinterest.com/explore/canvas-wedding-pictures/).
+Position your canvases on walls, doors, or other strategic locations such as the side of your staircase etc. Consider creating a collage of canvases on your wall. This can be a series that tells a story or a collection of pictures in a shape of your choice. For example, a large heart shape, one central photo with several smaller ones on the side and so on.
 
 ### Tie the Knot with Our Affiliate Program
 

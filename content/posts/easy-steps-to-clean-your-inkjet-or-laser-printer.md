@@ -18,7 +18,7 @@ _A chill is in the air…_ Fall is here! It's time to start your fall cleaning. 
 
 Make sure your inkjet printer is unplugged before starting the first three steps.
 
-1\. Open the printer top and spray compressed air in and around the printer to eliminate dust and prevent dust collection. 
+1\. Open the printer top and spray compressed air in and around the printer to eliminate dust and prevent dust collection.
 
 2\. Put alcohol or Windex on a soft cloth to clean the interior screen. You do not want to pour liquid directly in the machine.
 
@@ -32,11 +32,11 @@ Make sure your inkjet printer is unplugged before starting the first three steps
 
 ### Cleaning a Laser Printer
 
-Turn off the laser printer and let it cool before starting the cleaning process. 
+Turn off the laser printer and let it cool before starting the cleaning process.
 
 1\. Remove the paper trays and [toner cartridges](https://www.compandsave.com) from the printer. Try laying the cartridge on cloth in case there are any leaks.
 
-2\. Remove the [drum unit](https://search.compandsave.com/search?keywords=drum) and place it away from light. Use isopropyl alcohol to wipe the exterior of the drum and the thin corona wires. This should remove any loose toner. 
+2\. Remove the [drum unit](https://www.compandsave.com/catalogsearch/result/?q=drum) and place it away from light. Use isopropyl alcohol to wipe the exterior of the drum and the thin corona wires. This should remove any loose toner.
 
 3\. Use a lint-free cloth to wipe the paper rollers except for the spongy transfer roller.
 
@@ -44,6 +44,6 @@ Turn off the laser printer and let it cool before starting the cleaning process.
 
 5\. Reassemble all of the components, turn on the printer, and print some test pages.
 
-For both laser and inkjet printers, you'll want to wipe down the exterior with a soft slightly damp cloth or even a dust wipe. 
+For both laser and inkjet printers, you'll want to wipe down the exterior with a soft slightly damp cloth or even a dust wipe.
 
 Now that you have these instructions, go get started on your fall cleaning! If you have more cleaning tips, let us know below or on Facebook and Twitter.

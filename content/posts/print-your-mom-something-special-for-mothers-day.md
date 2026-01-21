@@ -42,7 +42,7 @@ Mother's Day is right around the corner! It is important to let your mother or g
 | ---------------------------------------------------------- |
 | Image from: http://content.photojojo.com                   |
 
-* [Plastic Photo Jewelry-](https://content.photojojo.com/diy/shrink-plastic-photo-jewelry/)Practically every women loves jewelry. Instead of running to the store and buying your mom a factory-made necklace or one that pretty much every woman is wearing, make jewelry that is unique to her. This project allows you to print out a photo or a special image and then shrink it down in the oven! You can make necklaces, earrings, rings or bracelets! If you are feeling really ambitious you can eve make her a matching set.
+* Plastic Photo Jewelry - Practically every women loves jewelry. Instead of running to the store and buying your mom a factory-made necklace or one that pretty much every woman is wearing, make jewelry that is unique to her. This project allows you to print out a photo or a special image and then shrink it down in the oven! You can make necklaces, earrings, rings or bracelets! If you are feeling really ambitious you can eve make her a matching set.
 
 
 Making your own gifts may be time consuming but it adds a special personal touch. If you don't have time to do any of the projects above you can also use your printer to create greeting cards, gift tags or wrapping paper. Do not be afraid to add your own twist to any of the projects above. The beauty of using your own home printer is that you are in control of the outcome and can adjust the projects to fit your needs and the personality of the person you are making the gift for.

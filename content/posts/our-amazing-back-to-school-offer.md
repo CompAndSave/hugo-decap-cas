@@ -10,7 +10,7 @@ tags: [back to school,Sale,Students,Ink sale,discount,ink cartridges]
 
 | [![a group of students](/blog/images/Best-Printers-for-Students-1.jpg)](/blog/images/Best-Printers-for-Students-1.jpg)                         |
 | ---------------------------------------------------------------------------------------------------------------------- |
-| ****Photo from: [printers.iyogi.com](https://printers.iyogi.com/types/best-printers/best-printers-for-students.html)** |
+| Photo from: printers.iyogi.com |
 
 **It is back to school time and if you are a parent you are busy running around to stock up on all of the necessary school supplies for your child. But don't overlook one of the most needed supplies–printer ink cartridges. Your home printer needs to be well stocked because with in no time your child will need to print out assignments to turn in. Don' worry CompAndSave has you covered. We offer the best deal on ink & toner cartridges and other printing supplies. So why not take advantage of back to school sales offered by[ CompAndSave.com](https://www.compandsave.com/)?**
 

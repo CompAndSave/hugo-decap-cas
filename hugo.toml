@@ -4,7 +4,7 @@ theme = 'casBlog'
 publishDir = 'blog'
 uglyURLs = true
 summaryLength= 25
-paginate = 9
+pagination.pagerSize = 9
 disqusShortname = 'compandsave-blog'
 
 [params]

@@ -15,7 +15,7 @@ Three-dimensional printing is causing a huge buzz in the technology world, and w
 
 **How does 3D printing work?**
 
-Three-dimensional printing is based on the same basic concept as a 2D printer: ink is taken from a well in the printer and distributed onto the printed material. The printer in your home or office would stop here, but 3D printers take it to the next level — they [distribute the material inside](https://www.huffpost.com/entry/3d-printing-additive-manu_b_1951777) (usually [a powdered material or liquid metal](https://www.newscientist.com/article/dn10922-desktop-fabricator-may-kick-start-home-revolution/)) layer by layer, and fuse each layer together with a laser.
+Three-dimensional printing is based on the same basic concept as a 2D printer: ink is taken from a well in the printer and distributed onto the printed material. The printer in your home or office would stop here, but 3D printers take it to the next level — they distribute the material inside usually [a powdered material or liquid metal](https://www.newscientist.com/article/dn10922-desktop-fabricator-may-kick-start-home-revolution/)) layer by layer, and fuse each layer together with a laser.
 
 **What is 3D printing used for?**
 
@@ -29,7 +29,7 @@ Three-dimensional printing faces several distinct avenues for growth in the futu
 
 There are a few [open-source](https://www.newscientist.com/article/dn10922-desktop-fabricator-may-kick-start-home-revolution/) 3D printer designs available today. A casual user can use their open source 3D printer at home to create a range of necessities, ranging from [household cleaning chemicals](https://www.newscientist.com/article/dn21709-make-your-own-drugs-with-a-3d-printer/) to chocolate frosting.\
 Three dimensional printing is not without controversy; sticky intellectual property issues surround the remanufacturing of designs out of thin air, and hackers have uncovered [the potential for new varieties of crime](https://303magazine.com/2012/10/the-dark-side-of-3d-printing/). But many people (including the entire country of Great Britain!) have already embraced 3D printing as the way of the future. People love 3D printing, and it is definitely here to stay.\
-***What do you like or dislike about 3D printing? Do you want to try this technology yourself? Let us know in the comments!***  
+***What do you like or dislike about 3D printing? Do you want to try this technology yourself? Let us know in the comments!***
 
 **About the authors:** Andrew Yeung is president of [CompAndSave](https://www.compandsave.com/), a leading online provider of premium printer ink cartridges, including [remanufactured](https://www.compandsave.com/help) and [compatible printer ink cartridges](https://www.compandsave.com/help). With deals every month and a [1-year guarantee of quality](https://www.compandsave.com/help), CompandSave provides an easy way for people and businesses to purchase printer ink and accessories.
 

@@ -14,12 +14,12 @@ While there are great ways to celebrate Earth Day this Saturday, April 22, we sh
 
 ## Celebrate Earth Day Every Day
 
-  
+
 ### Transportation
 
-Cut your carbon footprint by biking or walking to work, or when you're doing errands in your neighborhood. Start out by doing it once a week on a nice, not-too-hot day. Then commit to two or three days a week. Or make a pact to bike during the best season where you live. If you're in a warm climate, it might be more enjoyable to bike during the fall or winter months. The reverse holds true for those living in cooler climates. 
+Cut your carbon footprint by biking or walking to work, or when you're doing errands in your neighborhood. Start out by doing it once a week on a nice, not-too-hot day. Then commit to two or three days a week. Or make a pact to bike during the best season where you live. If you're in a warm climate, it might be more enjoyable to bike during the fall or winter months. The reverse holds true for those living in cooler climates.
 
-  
+
 But not everyone can walk or bike to work. You might live too far away from the office or it just isn't safe enough, If that's the case, then look into public transportation or car pooling. You'll still reduce your carbon footprint.
 
 ### Recycle
@@ -43,7 +43,5 @@ Pay attention to your investments. Many related companies are typically bundled 
 ### Spend Sensibly
 
 Sticking with the money theme, you should also try buying wisely. Do you really need another pair of shoes or a new phone? In the United States, we tend to buy indiscriminately. If you want something but don't really need it, then don't buy it. And when you do buy products, do your research. How are those designer jeans made? Would it be better to shop for gently used clothing at vintage or thrift stores?
-
-If you want some other simple but powerful tips to honor Earth Day, check out [here](https://blog.compandsave.com/2013/02/work-at-home-go-green.html)and [here](https://www.earthday.org/take-action-now/).
 
 _Do you have any easy eco-friendly tips on leading a more environmentally friendly life? Share below or on Facebook and Twitter._

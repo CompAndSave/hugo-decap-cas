@@ -15,7 +15,7 @@ tags:
 ---
 {{< embedImage image="/blog/images/how-to-clear-printer-queue-on-windows-mac.png" alt="" title="" alignment="center" >}}
 
-You send a document to print, expecting it to take seconds. Instead, nothing comes out. The printer shows activity, the job sits there, and every new file you send just piles up behind it. At this point, printing feels harder than it should be. 
+You send a document to print, expecting it to take seconds. Instead, nothing comes out. The printer shows activity, the job sits there, and every new file you send just piles up behind it. At this point, printing feels harder than it should be.
 
 This is exactly when knowing “how do I cancel printer queue” saves you time, stress, and a lot of clicking around. Whether you are working from home, running a small office, or printing school documents, a stuck queue can stop everything.
 
@@ -188,13 +188,13 @@ By following these habits, you’ll spend less time fixing issues and more time 
 
 “How do I cancel printer queue easily?” Now you have the answer! A stuck printer queue can slow everything down, but it is rarely a serious problem once you know how to clear printer queue correctly. With the steps above, you can cancel frozen jobs, restore printing, and avoid repeating the same frustration later.
 
-And to keep your printer running smoothly and avoid future issues, use reliable ink and toner cartridges from [CompAndSave](<>). Quality supplies help keep your printing hassle-free. Happy printing!
+And to keep your printer running smoothly and avoid future issues, use reliable ink and toner cartridges from [CompAndSave](https://www.compandsave.com). Quality supplies help keep your printing hassle-free. Happy printing!
 
 ## **Frequently Asked Questions**
 
 ### **How do I clear a print queue when it won’t delete?**
 
-If you’ve tried canceling print jobs but they keep showing up, it usually means the [print spooler](<>) is stuck. To fix this, you’ll need to stop the spooler service, manually delete the queued files, then restart the spooler. This resets everything and clears your printer queue, so you can start fresh without restarting your computer.
+If you’ve tried canceling print jobs but they keep showing up, it usually means the print spooler is stuck. To fix this, you’ll need to stop the spooler service, manually delete the queued files, then restart the spooler. This resets everything and clears your printer queue, so you can start fresh without restarting your computer.
 
 ### **Why does my printer queue keep freezing, and how do I clear it?**
 
@@ -214,4 +214,4 @@ On your Mac, open System Settings, then Printers & Scanners, select your printer
 
 ## **Related Articles:**
 
-[Print Spooler Not Working? Fix Errors and Start Printing Again](<>)
+[Print Spooler Not Working? Fix Errors and Start Printing Again](/blog/print-spooler-not-working-fix-errors-and-start-printing-again.html)

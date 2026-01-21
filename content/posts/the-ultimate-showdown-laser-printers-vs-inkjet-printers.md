@@ -24,7 +24,7 @@ Cons: The cost of a laser printer can be much more than an inkjet printer (thoug
 
 | [![Cuban boxer in ring](/blog/images/Cuban-boxer-young-man.jpg "Cuban boxer in ring")](/blog/images/Cuban-boxer-young-man.jpg) |
 | ------------------------------------------------------------------------------------------------------------------------- |
-| (Image via [Artflakes](https://www.artflakes.com), courtesy of Lonely Planet Images)                                      |
+| (Image via Artflakes, courtesy of Lonely Planet Images)                                      |
 
 There are two different inkjet technologies: the first is [continuous inkjet printing](https://en.wikipedia.org/wiki/Inkjet%5Fprinter#Continuous%5Finkjet), which involves the printer using a high-pressure pump that continuously drives ink through a tiny nozzle. The other option is [drop-on-demand](https://en.wikipedia.org/wiki/Inkjet%5Fprinter#Drop-on-demand), where the printer sends electricity through an ink cartridge, heating up the ink and forming a bubble that is dabbed onto the paper.
 
@@ -40,7 +40,7 @@ Cons: Inkjet printers go through ink much faster than a laser printer, which lea
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | (Image via [PerthNow](https://www.perthnow.com.au/news/wa/get-in-the-ring-at-burswood-ng-8ec99160ba2492a10a7d07da21ce88d0))                 |
 
-Both! The printer you use depends on your own personal needs. If you need an inexpensive printer that will get any quick job done, an inkjet printer may be perfect for you. But if you need something more heavy-duty that can handle larger jobs, a laser printer will be a better bet. Guess that means this match is a draw!  
+Both! The printer you use depends on your own personal needs. If you need an inexpensive printer that will get any quick job done, an inkjet printer may be perfect for you. But if you need something more heavy-duty that can handle larger jobs, a laser printer will be a better bet. Guess that means this match is a draw!
 **_Do you have a favorite type of printer? What was the last kind you purchased? Tell us about it in the comments!_**
 
 **About the authors:** Andrew Yeung is president of [CompAndSave](https://www.compandsave.com/), a leading online provider of premium printer ink cartridges, including [remanufactured](https://www.compandsave.com/help) and [compatible printer ink cartridges](https://www.compandsave.com/help). With deals every month and a [1-year guarantee of quality](https://www.compandsave.com/help), CompandSave provides an easy way for people and businesses to purchase printer ink and accessories.

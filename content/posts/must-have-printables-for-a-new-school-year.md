@@ -48,11 +48,6 @@ These are as much for keeping younger kids entertained as they are for letting t
 * Printable Coloring Bookmarks
 * [10 Coloring Sheets - Jungle Animals](https://www.123homeschool4me.com/coloring-sheets-jungle-animals%5F12/)
 
-**Flashcards**\
-Toddlers and preschoolers are known to respond really well to flashcards; particularly when it comes to learning numbers and letters and short words. Customize these with picture or objects that kids relate to and print your own.
-
-* [Flashcard Printables](https://freeprettyprintables.com/flashcard-printables/)
-
 **Back to School Recipes**\
 Healthy eats for school are a good idea. Collecting and printing these out for ready reference ensures a varied and interesting array of meals for students.
 

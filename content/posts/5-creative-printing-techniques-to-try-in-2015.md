@@ -33,10 +33,6 @@ This is a method of printing where the paper is literally engraved; where a depr
 
 ### Embossing
 
-| [![emboss printing](/blog/images/1.jpg "Embossing Printing Technique ")](/blog/images/1.jpg) |
-| ---------------------------------------------------------------------------------------- |
-| Embossing Example (Image [Source](https://www.blog.blushpublishing.co.uk/tag/emboss/))   |
-
 Basically the reverse of engraving, embossing creates a raised, 3D printed effect on the paper. The printing could be of a thicker style, raised in way that can be felt and not just seen; or it could be the printing surface itself that is raised so that it appears to have been engraved from the reverse side of the paper. Dry embossing or heat embossing are different techniques used to create specific results.
 
 

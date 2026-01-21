@@ -24,9 +24,9 @@ A lot of people have worries about using remanufactured ink cartridges. Original
 
 The value in using remanufactured printer cartridges over OEM cartridges is enormous. On average, every printer ink cartridge that is thrown away instead of recycled is eventually turned into 3.5 pounds of solid waste. That would take between 400 and 1,000 years to decompose!
 
-Currently, only a small percentage of printer ink cartridges are ever recycled — only about [one in every 500](https://printerinkcartridges.printcountry.com/printcountry-articles/inkjet-recycling-and-buyback-recycled-empty-cartridges-related-articles/how-many-ink-cartridges-are-recycled-how-many-go-to-the-landfill)! This means that over 350 million cartridges are thrown away instead of recycled every year. We're doing our part to save some of the world's plastic (and save you money!) by giving you the best remanufactured printer ink cartridges on the market. But we should all do our part by recycling and purchasing products that promote recycling. The earth's depending on it!
+Currently, only a small percentage of printer ink cartridges are ever recycled — only about one in every 500! This means that over 350 million cartridges are thrown away instead of recycled every year. We're doing our part to save some of the world's plastic (and save you money!) by giving you the best remanufactured printer ink cartridges on the market. But we should all do our part by recycling and purchasing products that promote recycling. The earth's depending on it!
 
-  
+
 **About the authors:** Andrew Yeung is president of [CompAndSave](https://www.compandsave.com/), a leading online provider of premium printer ink cartridges, including [remanufactured](https://www.compandsave.com/help) and [compatible printer ink cartridges](https://www.compandsave.com/help). With deals every month and a [100% customer satisfaction](https://www.compandsave.com/help), CompandSave provides an easy way for people and businesses to purchase printer ink and accessories.
 
 Learn about CompandSave's deals and news from the world of printing by following us on [Facebook](https://www.facebook.com/compandsave.ink), [Twitter](https://twitter.com/compandsave), [LinkedIn](https://www.linkedin.com) !

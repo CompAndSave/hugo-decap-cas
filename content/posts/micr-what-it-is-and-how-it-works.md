@@ -51,7 +51,7 @@ The check number is a short code, usually three or four digits, that helps ident
 
 [![bank check](/blog/images/screenshot-2024-03-29-at-3.34.52 pm.png "special charcters on check")](/blog/images/screenshot-2024-03-29-at-3.34.52 pm.png)
 
-(Source: [BarcodeLive](https://barcodelive.org/micr-string))
+(Source: BarcodeLive)
 
 Additionally, four special symbols separate the banking, routing, and account numbers on checks. These symbols are called Transit, Amount, On-Us, and Dash. They help mark where the bank code, customer account number, transaction amount, and parts of the routing or account numbers begin and end.
 

@@ -122,4 +122,6 @@ Yes, you can look for certifications for eco-friendly printing practices. Notabl
 
 [What Is Eco-solvent Ink And Eco-solvent Printer?](https://www.compandsave.com/what-is-an-eco-solvent-printer-and-eco-solvent-ink)
 
-[What Are Remanufactured Ink Cartridges: Is It Worth Buying?](https://www.compandsave.com/what-are-remanufactured-ink-cartridges-guide)[](<Where Is The Best Place To Recycle Ink Cartridges?>)
+[What Are Remanufactured Ink Cartridges: Is It Worth Buying?](https://www.compandsave.com/what-are-remanufactured-ink-cartridges-guide)
+
+[Where Is The Best Place To Recycle Ink Cartridges?](https://www.compandsave.com/blog/posts/where-is-the-best-place-to-recycle-ink-cartridges.html)

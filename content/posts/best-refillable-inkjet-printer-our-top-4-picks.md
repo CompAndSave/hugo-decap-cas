@@ -35,7 +35,7 @@ Are you tired of constantly running out of printer ink? Well, you're not alone! 
 
 [![Refillable Printer](/blog/images/screenshot-2024-04-26-at-6.16.30 pm.png "Refillable Printer")](/blog/images/screenshot-2024-04-26-at-6.16.30 pm.png)
 
-(Source: [Consumer](https://www.consumer.org.nz/articles/ink-tank-vs-cartridge-printers-what-s-the-best-value-for-money))
+(Source: Consumer)
 
 Printers with refillable ink tanks are a bit different from regular printers. Rather than relying on replaceable ink cartridges, these printers feature large tanks that you can refill with ink when they run low. This design can save you more money on ink as refill bottles are usually cheaper than individual ink cartridges. If you print often and don't want to keep buying expensive cartridges or prefer not to [refill ink cartridges yourself](https://www.compandsave.com/how-to-refill-ink-cartridges-guide), refillable ink printers are a smart choice.
 

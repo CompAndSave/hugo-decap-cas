@@ -18,7 +18,7 @@ If you are troubleshooting your printer, check that the printer is plugged in, t
 Your printer is designed to print only when all ink cartridges have ink to prevent clogs in the printing mechanism and other print quality issues, a little ink must be available in all the cartridges to perform periodic servicing tasks.
 
 **Even if you tend to print in black and white, your color ink cartridges will gradually empty.**
-To decrease grain, some black areas might be printed with a mix of black and color inks. If you follow the steps later in this article to print with black ink only, you can ensure no color ink is used in your prints. However, a little ink from all the ink cartridges is used in periodic servicing tasks. This helps to prevent issues such as [print head clogs](http://localhost/blogger-to-wp/2012/12/03/why-inkjet-printers-clog-and-how-to-fix-them/) and poor print quality.
+To decrease grain, some black areas might be printed with a mix of black and color inks. If you follow the steps later in this article to print with black ink only, you can ensure no color ink is used in your prints. However, a little ink from all the ink cartridges is used in periodic servicing tasks. This helps to prevent issues such as [print head clogs](/blog/posts/why-inkjet-printers-clog-and-how-to-fix-them/) and poor print quality.
 
 **You may not see a message prompting you to use black or color ink only.**
 The printer must reserve enough ink for the servicing tasks that keep the print head functioning, as mentioned before. If there is enough ink for servicing and for printing with black ink only, or color ink only, then that message appears. If there is not enough ink for both printing and servicing, then the cartridge must be replaced to continue printing.

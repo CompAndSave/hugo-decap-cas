@@ -173,7 +173,7 @@ Once your test page prints, please review it carefully. This quick review helps 
 ### **3. Text**
 
 * The text should be clean, sharp, and easy to read.
-* If it [appears smudged](http://v), blurry, or uneven:
+* If it appears smudged, blurry, or uneven:
 
   \- Your printer may need alignment
 

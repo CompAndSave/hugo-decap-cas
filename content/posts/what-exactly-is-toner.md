@@ -16,7 +16,7 @@ Usually one cartridge of toner allows you to print thousands of pages before nee
 
 | [![Toner cartridges](/blog/images/Printer-Toner-Cartridge1.jpg)](/blog/images/Printer-Toner-Cartridge1.jpg) |
 | -------------------------------------------------------------------------------------- |
-| Image found at: www.charityanywhere.org                                                |
+| Image found at: charityanywhere.org                                                |
 
 Buying a laser printer is an investment. The price might catch consumers off guard at first but over time the printer pays for itself as the cartridges have a longer lifespan. If printing with a laser printer make sure you give your documents plenty of time to dry as they tend to be more prone to smudge.
 

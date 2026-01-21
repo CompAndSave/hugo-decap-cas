@@ -37,4 +37,4 @@ The number of projects by individuals and small companies on Kickstarter and Ind
 | ------------------------------------------------------------------------------- |
 | M3D's The Micro 3D Printer from 3DPrint.com                                     |
 
-So can you envision a futuristic everything-printer replacing your current 2 D printing device? Can you envision printing out your sausages for breakfast anytime soon? Do share your thoughts in our comments section. You could also connect to us via[ Facebook](https://www.facebook.com/compandsave.ink)or [Twitter](https://twitter/) and if you'd like to keep yourself informed about new advancements in the printing space, subscribe to our newsletter.
+So can you envision a futuristic everything-printer replacing your current 2 D printing device? Can you envision printing out your sausages for breakfast anytime soon? Do share your thoughts in our comments section. You could also connect to us via[ Facebook](https://www.facebook.com/compandsave.ink)or [Twitter](https://twitter.com/compandsave) and if you'd like to keep yourself informed about new advancements in the printing space, subscribe to our newsletter.

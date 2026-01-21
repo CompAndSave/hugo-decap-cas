@@ -82,9 +82,9 @@ Cooking time: about 1 1/2 hours
 
 Preheat the oven to 425 degrees F.
 
-Remove the chicken giblets. Rinse the chicken inside and out. Remove any excess fat and pat the outside dry. Liberally salt and pepper the inside of the chicken. Stuff the cavity with the bunch of thyme, both halves of lemon, and all the garlic. Brush the outside of the chicken with the butter and sprinkle again with salt and pepper. Tie the legs together with kitchen string and tuck the wing tips under the body of the chicken. 
+Remove the chicken giblets. Rinse the chicken inside and out. Remove any excess fat and pat the outside dry. Liberally salt and pepper the inside of the chicken. Stuff the cavity with the bunch of thyme, both halves of lemon, and all the garlic. Brush the outside of the chicken with the butter and sprinkle again with salt and pepper. Tie the legs together with kitchen string and tuck the wing tips under the body of the chicken.
 
-Bake chicken for 1/2 hour at 425. 
+Bake chicken for 1/2 hour at 425.
 
 Toss all the vegetables with salt, pepper, 20 sprigs of thyme, and olive oil. Remove the chicken from oven and place the vegetables below the chicken in the roasting pan. Optional: If you think chicken and vegetables are becoming dry, consider adding a small amount (about 1/2 cup) of chicken stock to pan.\
 Bake the chicken and vegetables for 1 hour at 425 or until the juices run clear when you cut between a leg and thigh. Transfer the food to a platter and cover with aluminum foil for about 20 minutes.
@@ -93,7 +93,7 @@ Copyright 1999, The Barefoot Contessa Cookbook, All Rights Reserved.
 
 ### "Shepherd's Pie with Potato Crust"
 
-This shepherd's pie requires [some prep time](https://www.myrecipes.com/recipe/shepherds-pie-potato-crust), but once you pop it in the oven, your work is done. And the result not only looks beautiful but, most importantly, tastes delicious. 
+This shepherd's pie requires some prep time, but once you pop it in the oven, your work is done. And the result not only looks beautiful but, most importantly, tastes delicious.
 
 #### Ingredients
 
@@ -169,7 +169,7 @@ Would you like to use up all that leftover turkey? Substitute turkey for the chi
 
 2 cups steamed white rice
 
-16 ounces prepared wild rice 
+16 ounces prepared wild rice
 
 1 teaspoon kosher salt
 
@@ -197,7 +197,7 @@ Preheat the oven to 350 degrees F.
 
 Heat olive oil in a medium Dutch oven or pot over medium heat. Sauté onion, celery, and carrots until softened, about 10 minutes. Stir in garlic and cook for 1 minute. Stir in chicken or turkey, both types of rice, salt, pepper, and garlic salt. Reduce heat to low.
 
-To prepare the cheese sauce, melt butter in a medium saucepan on medium-high heat. Whisk in flour, salt, and pepper and then slowly pour in chicken broth, whisking continuously. Whisk until thick and nearly boiling; then stir in cheese until melted. Pour cheese sauce on cooked rice mixture and transfer to a 9×13 inch baking dish. Top with additional cheddar cheese and bake for 25 to 30 minutes at 350 or until cheese is melted. 
+To prepare the cheese sauce, melt butter in a medium saucepan on medium-high heat. Whisk in flour, salt, and pepper and then slowly pour in chicken broth, whisking continuously. Whisk until thick and nearly boiling; then stir in cheese until melted. Pour cheese sauce on cooked rice mixture and transfer to a 9×13 inch baking dish. Top with additional cheddar cheese and bake for 25 to 30 minutes at 350 or until cheese is melted.
 
 ### "Spicy Sausage, Kale, and Whole Wheat Orecchiette Soup"
 
@@ -231,9 +231,9 @@ Who says meat dishes have to be unhealthy? This soup from Jessica Merchant [cont
 
 Heat a large pot over medium-low heat and add the olive oil. Stir in the onion with the salt, pepper, and red pepper flakes. Cook until onions soften, about 5 minutes, stirring occasionally. Add in the garlic and cook for 1 more minute; then add the chicken stock, increase the heat to medium-high, and bring the liquid to a boil.
 
-While the stock is heating up, heat a large non-stick skillet over medium-high heat. Remove the sausage from the casing (if it's in casing) and add it to the skillet with a pinch of salt and pepper. Cook until the sausage is browned, about 6 to 8 minutes. Turn off the heat. 
+While the stock is heating up, heat a large non-stick skillet over medium-high heat. Remove the sausage from the casing (if it's in casing) and add it to the skillet with a pinch of salt and pepper. Cook until the sausage is browned, about 6 to 8 minutes. Turn off the heat.
 
-Once the stock boils, add the pasta and cook for 8 to 10 minutes until it's al dente. Add the kale and stir well, cooking for 2 more minutes. Stir in the cheese and season with more salt and pepper if desired. Turn off heat. You can add all of the sausage into the soup or serve the soup into bowls and add the sausage on top per serving. Serve with extra cheese for grating. 
+Once the stock boils, add the pasta and cook for 8 to 10 minutes until it's al dente. Add the kale and stir well, cooking for 2 more minutes. Stir in the cheese and season with more salt and pepper if desired. Turn off heat. You can add all of the sausage into the soup or serve the soup into bowls and add the sausage on top per serving. Serve with extra cheese for grating.
 
 ***Some other meaty ideas:***
 

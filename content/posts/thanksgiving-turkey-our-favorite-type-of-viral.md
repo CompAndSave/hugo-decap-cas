@@ -10,4 +10,4 @@ tags: [Thanksgiving Statistics,Turkey Consumption,Thanksgiving History,Turkey St
 
 [![Thanksgiving Turkey Story](/blog/images/turkey-day-numbersleuth.jpg)](/blog/images/turkey-day-numbersleuth.jpg)
 
-Source: [Numbersleuth.org](https://www.numbersleuth.org/)
+Source: Numbersleuth.org

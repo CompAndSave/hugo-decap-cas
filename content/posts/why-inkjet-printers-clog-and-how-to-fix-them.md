@@ -26,7 +26,7 @@ Inside the printer, the **damper** has a filter to trap particles that can poten
 
 [![printer parts disassembled](/blog/images/broken-printer.jpeg "printer parts disassembled")](/blog/images/broken-printer.jpeg)Some printers have a built-in cleaning feature that can help fix clogs. After running it, you can print two or more test pages using black and other colors before running another cycle. If your printer ink cartridges haven't been idle for a long time, just printing the test pages can set the problem right.
 
-If your printer can't clean itself automatically, you can remove the printer ink cartridges and the print head from their frame and soak them in hot water. We recommend leaving them in water overnight so that all the impurities are [removed completely](https://www.techwalla.com/articles/how-to-clean-clogged-inkjet-print-heads) from the ink cartridges. They must be then dried thoroughly before installation. This process works successfully for many printers.
+If your printer can't clean itself automatically, you can remove the printer ink cartridges and the print head from their frame and soak them in hot water. We recommend leaving them in water overnight so that all the impurities are removed completely from the ink cartridges. They must be then dried thoroughly before installation. This process works successfully for many printers.
 
 No one likes having a clogged printer. But it helps to know exactly which parts to target when fixing a clog. There are definite ways to [prevent clogging](https://lifehacker.com/how-can-i-make-my-inkjet-printer-suck-less-and-print-be-5844144). Just like any other machine, a printer requires maintenance to function properly and to have longevity. Once you learn how to use them properly, your home and/or businesses will benefit greatly!
 
@@ -36,4 +36,3 @@ No one likes having a clogged printer. But it helps to know exactly which parts 
 
 Learn about CompandSave's deals and news from the world of printing by following us on [Facebook](https://www.facebook.com/compandsave.ink), [Twitter](https://twitter.com/compandsave), [LinkedIn](https://www.linkedin.com).
 
-  

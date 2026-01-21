@@ -23,7 +23,7 @@ It is also said to save to up to 80% in HP toner. According to our calculations 
 
 ## Calculating the Cost of Ownership
 
-A printer can be priced cheap but rack up expenses in its lifespan. 
+A printer can be priced cheap but rack up expenses in its lifespan.
 
 Similar to what we have used to comparing the most [Ink-Efficient Inkjet Printers](https://medium.com/compandsave/6-most-ink-efficient-inkjet-printers-for-home-office-this-2020-8c9398bbf337), we used this formula:
 
@@ -33,7 +33,7 @@ Cost per Page is Toner Price divided by Toner Page Yield.
 
 Yearly Printload is 8,400 pages for the average high printload is 700 pages per month.
 
-Years of Ownership is [5 years](https://yourbusiness.azcentral.com/life-span-laser-printer-11859.html) for that is the average lifespan of laser printers.
+Years of Ownership is 5 years for that is the average lifespan of laser printers.
 
 ## Calculating Duration of Inbox Yield of the Printer
 
