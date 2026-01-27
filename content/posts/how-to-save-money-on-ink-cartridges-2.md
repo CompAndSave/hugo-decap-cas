@@ -11,8 +11,6 @@ tags:
   - ink cartridges
 ---
 | [![save money on ink cartridges](/blog/images/inkcartridges2.jpg "How To Save Money on Ink Cartridges")](/blog/images/inkcartridges2.jpg) |
-| ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Photo credit                                                                                                                               |
 
  If you've been keeping track of our blog you probably know already that printer ink is among the most expensive fluids in the world. It's more expensive than fine French champagne and even perfume! So it follows that we all want to save on our toner and ink cartridge purchases. We look at how to save money on your purchases of printing consumables.
 
@@ -23,8 +21,6 @@ Now this has to be the most obvious way to save money on ink cartridges; that yo
 #### Smart printing
 
 | [![make ink cartridges last longer](/blog/images/timesnewroman.jpg "Tip: Print in Smaller Font to Save Ink")](/blog/images/timesnewroman.jpg) |
-| --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Photo credit                                                                                                                                  |
 
 Don't print unless you have to. Send an email, share documents on the Cloud or use any one of the many digital options available so you don't have to take a print out.
 

@@ -71,7 +71,7 @@ To effectively compare ET and Instant Ink, they'll need to be computed under the
 
 ### For Low Volume Users
 
-![](/blog/images/eco-tank-vs-instant-ink-low-volume-user.png "Points scored")
+![](/blog/images/eco-tank-vs-instant-ink-low-volume-user.png)
 
 #### The Calculations
 
@@ -89,7 +89,7 @@ A printer similar to Epson ET 2550 is HP DeskJet 3755 (almost same printer speed
 
 ### For Medium Volume Users
 
-![](/blog/images/eco-tank-vs-instant-ink-medium-volume.png "Points scored")
+![](/blog/images/eco-tank-vs-instant-ink-medium-volume.png)
 
 #### The Calculations
 
@@ -103,7 +103,7 @@ The average monthly print volume of [Epson ET 4750](https://epson.com/Clearance-
 
 ### For High Volume Users
 
-![](/blog/images/eco-tank-vs-instant-ink-high-volume-user.png "Points scored")
+![](/blog/images/eco-tank-vs-instant-ink-high-volume-user.png)
 
 #### The Calculations
 
@@ -128,11 +128,11 @@ For example, Compatible HP 65 ink have the same price as Compatible HP65XL. Whil
 
 ### Compatible Ink vs Epson ET and HP Instant Ink
 
-![](/blog/images/epson-vs-compatible-ink-cost.png "Points scored")
+![](/blog/images/epson-vs-compatible-ink-cost.png)
 
 Each bottle of Epson T522 Ink (65 ml) costs [$13.99](https://epson.com/For-Home/Ink/Epson-T522-Ink-Bottles/i/T522320-S). Each ET T522 compatible ink bottle (70 ml) costs [$6.99](https://www.compandsave.com/epson/522-ink-cartridges/t522320-magenta). The compatible ink bottle is 67% cheaper than the brand ink.
 
-![](/blog/images/hp-vs-compatible-ink.png "Points scored")
+![](/blog/images/hp-vs-compatible-ink.png)
 
 Let us say, that if you're not comfortable with Instant Ink's Terms of Services, you decided to buy HP ink instead. Which would be cheaper, HP Ink or Compatible HP Ink?5
 

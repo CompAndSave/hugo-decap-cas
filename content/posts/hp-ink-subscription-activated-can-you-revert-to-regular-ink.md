@@ -31,7 +31,7 @@ This guide explains what happens when you activate HP's ink services, the differ
 
 ## **What Is an HP Ink Subscription?**
 
-The HP ink subscription, also known as the **[HP Instant Ink](https://www.compandsave.com/blog/posts/what-is-hp-instant-ink-program-is-it-worth-it.html)** program, is a monthly service where HP sends you new ink before you run out. You pay based on the number of pages you print, not the amount of ink you use. HP checks your ink levels through your printer’s Wi-Fi connection. When your ink gets low, they automatically ship replacements to your home.
+The HP ink subscription, also known as the **[HP Instant Ink program](https://www.compandsave.com/blog/posts/what-is-hp-instant-ink-program-is-it-worth-it.html)**, is a monthly service where HP sends you new ink before you run out. You pay based on the number of pages you print, not the amount of ink you use. HP checks your ink levels through your printer’s Wi-Fi connection. When your ink gets low, they automatically ship replacements to your home.
 
 However, there’s a catch: the ink cartridges only work while your ink subscription is active. **If you cancel the plan, the cartridges are deactivated remotely, even if they’re still full.**
 

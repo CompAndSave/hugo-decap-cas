@@ -23,7 +23,7 @@ Before the Easter bunny delivers the Easter candy, have your kids join in the Ea
 
 [DLTK](https://www.dltk-holidays.com/easter/printables.html)has a bunch of different printables for you and your children to have fun for hours. Your kids can create bookmarks, cards, and t-shirt designs using our [transfer paper](https://www.compandsave.com/paper/transfer-paper/inkjet). Print [these pages](https://www.dltk-holidays.com/easter/measterposter.htm) in black and white and let your children color in the drawings of bunnies or flowers. With these printables, kids can draw faces on a hatched chick, bunnies, and lambs.
 
-Want more coloring options? Try one of the many Easter designs [here](https://www.coloring.ws/easter.htm) or here at First Palette.
+Want more coloring options? Try one of the many [Easter designs](https://www.coloring.ws/easter.htm) or here at First Palette.
 
 If you're throwing an Easter party or have to bring cupcakes into school, print out these [cupcake toppers](https://www.skiptomylou.org/free-printable-easter-cupcake-toppers/).
 

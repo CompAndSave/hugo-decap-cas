@@ -5,7 +5,7 @@ slug: raising-funds-for-our-heroes-this-memorial-day
 description: "Raising Funds for Our Heroes this Memorial Day"
 featured_image: /blog/images/archive/2014/05/ti-facebook-military.jpg
 authors: Andrew Yeung
-tags: [CompAndSave.com,Donating to Fisher House Foundation,Fisher House Foundation,Memorial Day]
+tags: [CompAndSave.com,Donating to Fisher House Foundation,Memorial Day]
 ---
 
 Memorial Day is just around the corner folks, and we will be honoring our men and women in uniform via our unique endeavor in support of the **[Fisher House Foundation](https://www.fisherhouse.org/)**. If you haven't already taken the pledge, do so now on our [Support Page](https://www.compandsave.com/expired-deals). You can help support our cause too – click on our [Order Page](https://www.compandsave.com/) to place an order and to contribute. Read on to know what we are doing this Memorial Day and how you can help:

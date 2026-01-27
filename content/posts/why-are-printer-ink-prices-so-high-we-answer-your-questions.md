@@ -29,11 +29,6 @@ A popular misconception is that off-brand printer cartridges may damage your pri
 
 Because contests are fun! And if you ever miss a contest on our [Facebook page](https://www.facebook.com/compandsave.ink), you can always check it out the next month.
 
-| [!](https://64.media.tumblr.com/tumblr%5Fm41jtzrAkp1rs1307o1%5F500.gif) |
-| ----------------------------------------------------------------------------------------------------------------------------------------- |
-| (Via[theunreadlibrarian](https://theunreadlibrarian.tumblr.com/), via Tumblr)                                                             |
-
-
 **_Do you have any more questions for the CompandSave crew? Do you think these are fair answers? Tell us in the comments!_**
 
 **About the authors:** Andrew Yeung is president of [CompAndSave](https://www.compandsave.com/), a leading online provider of premium printer ink cartridges, including [remanufactured](https://www.compandsave.com/help) and [compatible printer ink cartridges](https://www.compandsave.com/help). With deals every month and a [100% customer satisfaction](https://www.compandsave.com/help), CompandSave provides an easy way for people and businesses to purchase printer ink and accessories.

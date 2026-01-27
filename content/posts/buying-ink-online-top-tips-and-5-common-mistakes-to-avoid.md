@@ -187,7 +187,7 @@ While many believe that Original Equipment Manufacturer (OEM) cartridges are the
 
 [Printer Ink Scam](https://www.compandsave.com/printer-ink-scam-guide)
 
-[Cheap Printer Cartridges](https://www.compandsave.com/blog/posts/cheap-printer-cartridges-deciding-between-compatible-remanufactured-and-refillable-options.html)
+[Cheap Printer Cartridges: Compatible, Remanufactured and Refillable](https://www.compandsave.com/blog/posts/cheap-printer-cartridges-deciding-between-compatible-remanufactured-and-refillable-options.html)
 
 [Cheapest Place to Buy Printer Ink Online](https://www.compandsave.com/blog/posts/cheapest-place-to-buy-printer-ink-online-for-affordable-deals.html)
 

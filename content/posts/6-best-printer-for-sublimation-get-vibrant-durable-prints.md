@@ -85,7 +85,7 @@ A compact and efficient dye sublimation printer designed for high-quality fabric
 * **Dimensions**: 17.25"D x 15.75"W x 8.5"H
 * **Printer Price**: Approx. $619.99
 
-[![Sawgrass Virtuoso SG500](/blog/images/sawgrass-virtuoso-sg500-1.png "Sawgrass Virtuoso SG500")](/blog/images/sawgrass-virtuoso-sg500-1.png)
+[![Sawgrass Virtuoso SG500 Pros and Cons](/blog/images/sawgrass-virtuoso-sg500-1.png "Sawgrass Virtuoso SG500 Pros and Cons")](/blog/images/sawgrass-virtuoso-sg500-1.png)
 
 ### **3) Epson SureColor F570 Pro Dye-Sublimation Printer**
 

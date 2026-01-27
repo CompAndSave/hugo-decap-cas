@@ -140,7 +140,7 @@ If online recycling suits your preference, check out these platforms that not on
 
 
 * **[Planet Green Recycle](https://www.planetgreenrecycle.com/pages/free-ink-recycling)**: Any brand, condition, or model of ink cartridge—except toner—will be accepted on this platform. Only OEM ink cartridges that are in good enough condition to be remanufactured are eligible for compensation.
-* **[Ink Recycling](https://www.inkrecycling.org/faq/)**: Both OEM and remanufactured ink cartridges are accepted by Ink Recycling, which offers cash back on original cartridges. It's an easy way to help with recycling and get a little something in return.
+* **[Ink Recycling FAQ](https://www.inkrecycling.org/faq/)**: Both OEM and remanufactured ink cartridges are accepted by Ink Recycling, which offers cash back on original cartridges. It's an easy way to help with recycling and get a little something in return.
 * **[US Recycling](https://usrecycleink.com/)**: A large variety of OEM and remanufactured toner and ink cartridges are accepted by US Recycling. They offer a program tailored for businesses, schools, and nonprofits. To confirm your eligibility and take part in responsible recycling, check their guidelines.
 * **[Funding Factory](https://www.fundingfactory.com/faq.aspx)**: Funding Factory is a great option if you belong to a non-profit organization or institution. Toner and ink cartridges from their qualifying list are accepted, but make sure the products are not remanufactured and are in good condition. It's the ideal chance to support recycling initiatives while raising money, too.
 
@@ -180,7 +180,7 @@ Yes, recycling printer cartridges can occasionally result in incentives. When yo
 
 [Where to Recycle Ink Cartridges?](https://www.compandsave.com/where-to-recycle-ink-cartridges-guide)
 
-[Eco-Friendly Printing](https://www.compandsave.com/blog/posts/eco-friendly-printing-how-it-works-and-how-you-can-help.html)
+[Eco-Friendly Printing : How It Works](https://www.compandsave.com/blog/posts/eco-friendly-printing-how-it-works-and-how-you-can-help.html)
 
 [Eco-Friendly Ink Cartridges](https://www.compandsave.com/blog/posts/eco-friendly-ink-cartridges-print-with-a-purpose-2024.html)
 
