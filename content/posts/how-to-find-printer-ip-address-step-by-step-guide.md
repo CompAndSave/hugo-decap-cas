@@ -1,6 +1,6 @@
 ---
 title: "How to Find Printer IP Address: Step-by-Step Guide"
-date: 2026-01-29T01:50:00.000+08:00
+date: 2026-01-29T02:12:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/how-to-find-printer-ip-address.png
 description: Struggling to connect your printer? Learn how to find printer IP
