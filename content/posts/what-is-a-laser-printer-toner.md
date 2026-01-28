@@ -14,7 +14,7 @@ tags:
   - hp toner cartridges
   - toner cartridge
 ---
-{{< embedImage image="/blog/images/what-is-a-laser-printer-toner.png" alt="" title="" alignment="center" >}}
+{{< embedImage image="/blog/images/what-is-a-laser-printer-toner.png" alt="What Is a Laser Printer Toner?" title="What Is a Laser Printer Toner?" alignment="center" >}}
 
 If you use a laser printer, understanding laser printer toner can save you money, prevent printing problems, and help you choose the right supplies with confidence. Many people confuse printer toner with ink, leading to buying the wrong product, encountering cartridge errors, or paying more than necessary.
 
