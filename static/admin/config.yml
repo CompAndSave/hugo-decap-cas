@@ -25,7 +25,7 @@ collections:
     folder: 'content/posts'
     create: true
     slug: '{{slug}}'
-    preview_path: 'posts/{{slug}}'
+    preview_path: 'posts/{{slug}}.html'
     summary: "{{title}} - {{authors}}"
     editor:
       preview: true
@@ -55,7 +55,7 @@ collections:
     folder: 'content/posts'
     create: false
     slug: '{{slug}}'
-    preview_path: 'posts/{{slug}}'
+    preview_path: 'posts/{{slug}}.html'
     filter: {field: 'draft', value: true}
     summary: "{{title}} - {{authors}}"
     editor:
