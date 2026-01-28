@@ -182,7 +182,7 @@ No. You must use printer toner designed specifically for your printer model to e
 
 ### **Do Epson laser printers use toner cartridges?**
 
-Yes. Epson laser printers require toner cartridges designed specifically for Epson laser models. Using the correct Epson toner ensures your printer runs smoothly and produces high-quality prints without interruption.
+Yes. Epson laser printers require toner cartridges designed specifically for Epson laser models. Using the correct Epson toner ensures your printer runs smoothly and produces high-quality prints without interruption. 
 
 ## **Related Articles:**
 
