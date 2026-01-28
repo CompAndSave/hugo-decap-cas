@@ -2,6 +2,7 @@
 title: "Best Laser Printer with Duplex Scanning: Our Top 2026 Picks"
 date: 2026-01-27T09:44:00.000+08:00
 authors: Trisha Olivar
+slug: best-laser-printer-with-duplex-scanning-our-top-2026-picks
 featured_image: /blog/images/laser-printer-with-duplex-scanning.png
 description: Manual page flipping is a thing of the past! Find a laser printer
   with duplex scanning that offers automatic double-sided printing, scanning,
