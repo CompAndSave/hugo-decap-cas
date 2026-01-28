@@ -1,5 +1,5 @@
 ---
-title: What Is a Laser Printer Toner? | 2026
+title: What Is a Laser Printer Toner?
 date: 2026-01-29T12:58:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/what-is-a-laser-printer-toner.png
