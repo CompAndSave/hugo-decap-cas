@@ -1,7 +1,7 @@
 ---
 title: "&quot;Why Are Printer Ink Prices So High?&quot; We Answer Your Questions!"
 date: 2013-03-11T23:28:00.000Z
-slug: why-are-printer-ink-prices-so-high-we-answer-your-questions.html
+slug: why-are-printer-ink-prices-so-high-we-answer-your-questions
 description: "&quot;Why Are Printer Ink Prices So High?&quot; We Answer Your Questions!"
 featured_image: /blog/images/archive/2013/03/maninsuitwithmicrophone.preview_COLOURBOX1923557.jpeg
 authors: Andrew Yeung

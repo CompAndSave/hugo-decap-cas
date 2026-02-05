@@ -1,3 +1,5 @@
+uglyURLs = true
+
 [[menus.main]]
 name = 'Home'
 pageRef = '/'
