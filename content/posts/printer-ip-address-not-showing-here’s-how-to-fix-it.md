@@ -229,7 +229,7 @@ Here’s what you should do:
 
 Take a few minutes to set this up once, and you’ll avoid repeated troubleshooting later.
 
-# **Conclusion: Fix It Once and Stay Connected**
+## **Conclusion: Fix It Once and Stay Connected**
 
 When your printer suddenly stops working, it’s frustrating,  especially when you’re on a deadline. But in most cases, the issue isn’t hardware. It’s your printer IP address.
 
