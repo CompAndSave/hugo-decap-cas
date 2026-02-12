@@ -4,7 +4,6 @@ theme = 'casBlog'
 publishDir = 'blog'
 uglyURLs = true
 summaryLength= 25
-pagination.pagerSize = 9
 disqusShortname = 'compandsave-blog'
 
 [params]
@@ -17,12 +16,12 @@ disqusShortname = 'compandsave-blog'
 	tags = "tags"
 
 [outputs]
-    home = ["html", "rss"]
-    page = ["html"]
-    section = ["html"]
-    taxonomy = ["html"]
-    term = ["html"]
+    home = ["HTML", "RSS", "JSON"]
+    page = ["HTML"]
+    section = ["HTML"]
+    taxonomy = ["HTML"]
+    term = ["HTML"]
 
-[outputFormats]
-    [outputFormats.html]
-        ugly = true
+[pagination]
+    disableAliases = true
+    pagerSize = 9
