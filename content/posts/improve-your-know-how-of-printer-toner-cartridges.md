@@ -35,7 +35,7 @@ That's the simple version. Ready for the long one? The printer's laser beam boun
 
 ## Does It Make Sense for You to Buy Laser Cartridges?
 
-So if you're wondering, should I use an inkjet printer or laser printer, it really depends on your printing needs. If you run a business that prints a lot, then a laser printer would probably make more sense. Choose which printer is right for you [here](https://www.compandsave.com/blog/posts/laser-vs-inkjet-which-type-of-printer.html).
+So if you're wondering, should I use an inkjet printer or laser printer, it really depends on your printing needs. If you run a business that prints a lot, then a laser printer would probably make more sense. Choose which printer is right for you [here](https://www.compandsave.com/blog/posts/laser-vs-inkjet-which-type-of-printer-is-right-for-you.html).
 
 If you ever run into issues with your laser toner, consult our [toner troubleshooting guide](https://www.compandsave.com/troubleshooting-remanufactured-ink-toner#tonerCartridge).
 

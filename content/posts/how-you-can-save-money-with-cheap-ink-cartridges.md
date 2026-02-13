@@ -16,7 +16,7 @@ Despite what original equipment manufacturers (OEMs) tell you, discount printer 
 
 First, let's define what "OEM" means. An OEM is the company that made the initial product, which in this case is your printer. For example, if you bought an HP, Brother, or Lexmark printer, those companies would be considered OEM.
 
-You can continue to purchase ink made by OEMs, but the prices are often very expensive. Generally, their [business model](https://www.compandsave.com/blog/posts/the-truth-about-printers.html) is to sell printers cheaply while offering the replacement ink at high costs. Remanufactured and compatible printer cartridges on the other hand are sold for much less so you can save a bundle compared to OEM cartridges.
+You can continue to purchase ink made by OEMs, but the prices are often very expensive. Generally, their [business model](https://www.compandsave.com/blog/posts/the-truth-about-printers-what-you-arent-supposed-to-know.html) is to sell printers cheaply while offering the replacement ink at high costs. Remanufactured and compatible printer cartridges on the other hand are sold for much less so you can save a bundle compared to OEM cartridges.
 
 ## Remanufactured Cartridges
 

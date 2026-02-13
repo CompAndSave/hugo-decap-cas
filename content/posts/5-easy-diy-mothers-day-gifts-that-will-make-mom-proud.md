@@ -36,6 +36,6 @@ Gift your mom some flowers, just not the usual expensive bouquet of fresh flower
 
 Any mom who likes to cook will appreciate this next DIY idea. Type her favorite recipes and print on notecards or paper. Then, assemble in a booklet using staples or [thread](https://www.instructables.com/id/Format-Print-and-Assemble-a-hand-sewn-Booklet/). Your mother will love that all the best recipes are organized in one spot—no more misplacing a recipe and being frazzled when trying to cook dinner.
 
-Want more DIY Mother's Day projects? See [here](https://www.compandsave.com/blog/posts/print-your-mom-something-special-for.html)for other ideas.
+Want more DIY Mother's Day projects? See [here](https://www.compandsave.com/blog/posts/print-your-mom-something-special-for-mothers-day.html)for other ideas.
 
 _What are you doing for your mom on Mother's Day? Share your thoughts below or on Facebook and Twitter._

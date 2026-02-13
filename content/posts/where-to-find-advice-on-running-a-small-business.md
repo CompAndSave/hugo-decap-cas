@@ -41,7 +41,7 @@ Once you have a few resources that you want to visit again in the future, it's i
 
 If you're always on the move, a mobile-friendly tool like [43marks](https://43marks.com/) may be closer to what you're looking for.
 
-[Digg](https://digg.com/), along with [Delicious](https://delicious.com/), are excellent bookmarking tools that can help you find new websites. These are good if you're just starting to find small business websites, and need help finding more.\
+Digg, along with [Delicious](https://delicious.com/), are excellent bookmarking tools that can help you find new websites. These are good if you're just starting to find small business websites, and need help finding more.\
 **Use a reading app to organize your favorite small business blogs**
 
 [![books library organized alphabetized](/blog/images/bookswithbluepaperdividers2842723.jpeg "books library organized alphabetized")](/blog/images/bookswithbluepaperdividers2842723.jpeg)

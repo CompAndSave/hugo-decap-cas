@@ -25,6 +25,6 @@ Think of a remanufactured cartridge as a refurbished OEM cartridge. It begins as
 
 ### Benefits
 
-The process of overhauling the cartridge and using new ink yields just as [high-quality results](https://www.compandsave.com/blog/posts/remanufactured-cartridges-what-you-need.html) as an OEM cartridge. Remanufactured cartridges are also much more environmentally friendly since the old cartridges don't go to a landfill. A cartridge takes 450 to 1,000 years to decompose in a landfill. Not to mention that remanufactured cartridges tend to be quite a bit cheaper than OEM choices—often saving you 50 to 75% on ink costs.
+The process of overhauling the cartridge and using new ink yields just as [high-quality results](https://www.compandsave.com/blog/posts/remanufactured-cartridges-what-you-need-to-know.html) as an OEM cartridge. Remanufactured cartridges are also much more environmentally friendly since the old cartridges don't go to a landfill. A cartridge takes 450 to 1,000 years to decompose in a landfill. Not to mention that remanufactured cartridges tend to be quite a bit cheaper than OEM choices—often saving you 50 to 75% on ink costs.
 
 So will you give remanufactured printer cartridges a try now that you know a little bit more about them? Let us know below or on Facebook and Twitter.

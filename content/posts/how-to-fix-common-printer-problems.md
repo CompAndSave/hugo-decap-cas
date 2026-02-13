@@ -29,7 +29,7 @@ Note: When using this method, make sure the water is hot, but not boiling. Also,
 
 ### Low Ink Message Showing on Printer
 
-Another common issue when using [refilled cartridges](https://www.compandsave.com/about-us) is getting a "Low Ink" warning message upon installing your new product. The cartridge is fully filled with ink, but there is a chance that it was not fully reset during the [remanufacturing process](https://www.compandsave.com/blog/posts/7-steps-process-of-re-manufactured-ink.html). You can either ignore this message or disable the ink level system on your machine. The cartridges will print from start to finish.
+Another common issue when using [refilled cartridges](https://www.compandsave.com/about-us) is getting a "Low Ink" warning message upon installing your new product. The cartridge is fully filled with ink, but there is a chance that it was not fully reset during the [remanufacturing process](https://www.compandsave.com/blog/posts/7-steps-process-of-remanufactured-ink-and-toner-cartridges.html). You can either ignore this message or disable the ink level system on your machine. The cartridges will print from start to finish.
 
 Keep up with regular maintenance to ensure your print quality is up to par using these tips:
 

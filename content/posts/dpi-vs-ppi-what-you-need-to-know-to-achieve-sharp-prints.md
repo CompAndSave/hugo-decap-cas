@@ -31,7 +31,7 @@ To help you better understand them, this guide breaks down the difference betwee
 
 ## **What Is DPI (Dots Per Inch) in Printing?**
 
-{{< embedImage image="/blog/images/what-is-dpi.png" alt="What Is DPI" title="" alignment="center" >}}
+{{< embedImage image="/blog/images/what-is-dpi.png" alt="What Is DPI" alignment="center" >}}
 
 *Image Source: [Old Mate Media](https://oldmatemedia.com/guides/what-does-dpi-mean/)*
 
@@ -63,13 +63,12 @@ Although DPI and PPI are often used interchangeably, they have distinct meanings
 
 To better understand the difference between DPI and PPI, let’s break it down with a side-by-side comparison:
 
-|  | DPI (Dots Per Inch) | PPI (Pixels Per Inch) |
+| Category | DPI (Dots Per Inch) | PPI (Pixels Per Inch) |
 | --- | --- | --- |
 | What it is | Printer setting | Digital image setting |
 | Measures | Physical ink dots on paper | Pixels in your image file |
 | Controls | Print clarity and smoothness | Image detail and resolution |
 | Where it matters | Printer hardware/software | Image editing and file setup |
-
 
 Think of PPI as the quality of the original photo, and DPI as your printer's ability to reproduce that quality.
 

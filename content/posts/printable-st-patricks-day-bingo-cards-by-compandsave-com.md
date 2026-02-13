@@ -1,7 +1,7 @@
 ---
 title: "Printable St. Patrick's Day Bingo Cards by CompAndSave.com"
 date: 2014-03-11T04:00:00.000Z
-slug: printable-st-patricks-day-bingo-cards-by-compandsave-com
+slug: printable-st-patricks-day-bingo-cards
 description: "Printable St. Patrick's Day Bingo Cards by CompAndSave.com"
 featured_image: /blog/images/archive/2014/03/st-patrick-moc-up.jpg
 authors: Andrew Yeung
@@ -22,7 +22,7 @@ In the spirit of **St. Patrick's Day**, let's play a game of chance! Let's play 
 * Snacks and beverages (preferably Guinness if children are not involved)
 * Last but not least, a decent group of friends and family members who are ready to celebrate and have fun!
 
-For those of you who are not familiar with how to play Bingo, let's briefly go through the instructions.  
+For those of you who are not familiar with how to play Bingo, let's briefly go through the instructions.
 **Here's what to do and how to play:**
 
 1. Print out the different Bingo cards (which includes 2 cards per page) for each person plus the call sheet for the caller.
@@ -32,10 +32,10 @@ For those of you who are not familiar with how to play Bingo, let's briefly go t
 5. The children will then place pennies, rocks, fun foam pieces or something similar on the called number if it is on their card. (or they can use Bingo markers to mark the number)
 6. Once a predetermined pattern is made on a card, the person with that card calls out BINGO.
 
-Now you're ready to print out the Bingo cards and hopefully get lucky! Simply click on the download link to download the PDF file and print it out. Make sure to print one out for every guess or participate and have the bingo markers ready. Once everything is set properly, it's time to play, and if you are the lucky winner please don't forget to yell BINGO!  
-**Download Here:**  
-[Bingo Card 1](https://www.compandsave.com/v/mp/cas%5Fblog/st-patrick-tables-1.pdf)  
-[Bingo Card 2](https://www.compandsave.com/v/mp/cas%5Fblog/st-patrick-tables-2.pdf)  
+Now you're ready to print out the Bingo cards and hopefully get lucky! Simply click on the download link to download the PDF file and print it out. Make sure to print one out for every guess or participate and have the bingo markers ready. Once everything is set properly, it's time to play, and if you are the lucky winner please don't forget to yell BINGO!
+**Download Here:**
+[Bingo Card 1](https://www.compandsave.com/v/mp/cas%5Fblog/st-patrick-tables-1.pdf)
+[Bingo Card 2](https://www.compandsave.com/v/mp/cas%5Fblog/st-patrick-tables-2.pdf)
 [Label Sheet](https://www.compandsave.com/v/mp/cas%5Fblog/st-patrick-labels.pdf)
 
 For special discount offers on ink & toner, as well as fun activities to ring in any holiday, be sure to [join our mailing list](https://www.compandsave.com/welcome/subscribe/) and like us on [Facebook](https://www.facebook.com/compandsave.ink).

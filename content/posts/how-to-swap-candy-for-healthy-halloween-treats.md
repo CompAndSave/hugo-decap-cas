@@ -20,11 +20,9 @@ One of the easiest candy swaps you can make is chocolate-covered fruit (see next
 
 Sticking with chocolate, you've got to try this five-ingredient [chocolate bark](https://www.foodnetwork.com/healthyeats/2010/03/5-ingredients-dark-chocolate-bark-2-ways). It has no added sugar and is easy to whip up, provided you make it ahead of time (bark will need to set for about an hour). Along with serving at a Halloween party, you can even wrap up the bark with the ingredients listed and hand out to trick-or-treaters. You could also give homemade (and vegan) [Almond Joys](https://www.popsugar.com/fitness/Healthy-Almond-Joy-Recipe-38575918).
 
-Put a healthier spin on candy corn with these candy corn-inspired [fruit pops](https://thegirlinspired.com/candy-corn-popsicles/). Add chocolate [spider decorations](https://www.cookinglight.com/entertaining/holidays-occasions/wow-youve-got-to-try-this-spooky-spider-cupcake-toppers) to healthy muffins or cupcakes. Avoid the extra sugar from Reese's and make a [healthier version](https://www.popsugar.com/fitness/Vegan-Almond-Butter-Cups-30587037) with almond butter.
+Put a healthier spin on candy corn with these candy corn-inspired [fruit pops](https://thegirlinspired.com/candy-corn-popsicles/). Add chocolate spider decorations to healthy muffins or cupcakes. Avoid the extra sugar from Reese's and make a [healthier version](https://www.popsugar.com/fitness/Vegan-Almond-Butter-Cups-30587037) with almond butter.
 
 How easy is this for a kid-friendly Halloween party? Arrange a bunch of peeled clementine oranges on a festive plate. Then place small, cut celery sticks in the middle as the stems. Voilà—"pumpkins" for each kid.
-
-If you're looking to spice up your Halloween party with DIY decorations, look no further than our article on [Halloween printables](https://www.compandsave.com/blog/posts/free-halloween-items-using-printer.html). You'll find easy and affordable ways to create Halloween decorations and games.
 
 ## Healthier Store-Bought Halloween Candy
 

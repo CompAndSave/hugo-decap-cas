@@ -10,7 +10,7 @@ tags: [printer ink cartridges,printers,inkjet canvas]
 
 [![a man holding a microphone](/blog/images/man-in-suit-with-microphone.jpeg)](/blog/images/man-in-suit-with-microphone.jpeg)
 
-A lot of people have questions about printer ink cartridges. Some people think they're [too expensive](https://www.theguardian.com/money/2013/feb/23/printer-ink-cartridges-paying-more-getting-less), others don't know [how to care for the cartridges themselves](https://www.compandsave.com/blog/posts/holiday-printer-cartridges.html), or [how to prevent clogs](https://www.compandsave.com/blog/posts/why-inkjet-printers-clog-and-how-to-fix.html). It can be hard to find the answers, because there are so many different opinions out there.
+A lot of people have questions about printer ink cartridges. Some people think they're [too expensive](https://www.theguardian.com/money/2013/feb/23/printer-ink-cartridges-paying-more-getting-less), others don't know how to care for the cartridges themselves, or [how to prevent clogs](https://www.compandsave.com/blog/posts/why-inkjet-printers-clog-and-how-to-fix-them.html). It can be hard to find the answers, because there are so many different opinions out there.
 
 So where do you turn? To us, of course! We went out into the wide world of Facebook and Twitter asking what all YOU wanted to know about printer ink cartridges. We received a lot of questions from you, so without further ado...
 **Why are printer cartridges I see in the store so expensive?**

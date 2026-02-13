@@ -30,7 +30,7 @@ Seeing alerts like HP printer says cartridge incompatible or similar warnings us
 
 ### **1. HP cartridge not communicating with printer**
 
-This error appears when the printer fails to establish a proper connection with the ink cartridge. It’s one of the most common printer[ ](https://www.compandsave.com/blog/posts/common-printer-problems-and-solutions-compandsave-2024.html)problems faced by users.
+This error appears when the printer fails to establish a proper connection with the ink cartridge. It’s one of the most common printer[problems faced by users](https://www.compandsave.com/blog/posts/common-printer-problems-and-solutions-compandsave-2024.html).
 
 ### **2. HP printer cartridge not communicating**
 

@@ -13,7 +13,7 @@ tags:
 ---
 ![spring recipes](/blog/images/pastasalad.jpg "pasta salad")
 
-Spring is here! Days are longer and getting warmer (well in most parts of the country) so who wants to be [stuck inside preparing food](https://www.compandsave.com/blog/posts/comfort-food-for-mind-body-and-soul.html) when the spring air outside is calling. If you're constantly on the go working and shuttling kids to sports practices and other extracurricular activities, you need quick yet delicious meals that the whole family will love. Get some inspiration for meal planning and cooking with our top spring recipes that are light on calories and big on flavor.
+Spring is here! Days are longer and getting warmer (well in most parts of the country) so who wants to be [stuck inside preparing food](https://www.compandsave.com/blog/posts/comfort-food-for-the-mind-body-and-soul-part-i.html) when the spring air outside is calling. If you're constantly on the go working and shuttling kids to sports practices and other extracurricular activities, you need quick yet delicious meals that the whole family will love. Get some inspiration for meal planning and cooking with our top spring recipes that are light on calories and big on flavor.
 
 ## Light & Easy Spring Recipes
 

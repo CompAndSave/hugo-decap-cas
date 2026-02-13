@@ -1,7 +1,7 @@
 ---
 title: "Help CompAndSave Support Food for the Poor, Inc. by Donating Empty Printer Cartridges"
 date: 2015-05-12T02:55:00.000Z
-slug: help-compandsave-support-food-for-the-poor-inc-by-donating-empty-printer-cartridges
+slug: help-compandsave-support-food-for-the-poor
 description: "Help CompAndSave Support Food for the Poor, Inc. by Donating Empty Printer Cartridges"
 featured_image: /blog/images/archive/2015/05/fftp-pr-image.png
 authors: Denise Resendez

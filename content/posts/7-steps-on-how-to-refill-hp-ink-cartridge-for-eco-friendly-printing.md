@@ -165,7 +165,7 @@ If the print quality is poor, follow these steps:
 1. **Run a Cleaning Cycle:** Use your printer’s cleaning function to clear clogs.
 2. **Check for Air Bubbles:** Tap the cartridge gently to release trapped air.
 3. **Align the Print Head:** Use your printer’s settings to align the print head for better colour accuracy.
-4. **Use High-Quality Ink:** Ensure the ink is compatible and from a trusted[ ](https://www.compandsave.com/ink-refill-bulk-ink)Universal Refill Kit.
+4. **Use High-Quality Ink:** Ensure the ink is compatible and from a trusted[Universal Refill Kit](https://www.compandsave.com/ink-refill-bulk-ink).
 
 
 

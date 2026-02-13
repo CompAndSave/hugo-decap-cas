@@ -30,4 +30,4 @@ You could also printout your own desk calendars for the office – use photos of
 
 You can schedule these DIY printing projects for a time when you have fewer routine print jobs. Remember you should keep using your printer so that your ink cartridge doesn't dry out and so that you get the best out of your cartridge as well as your printer.
 
-If you have any DIY print projects that you would like to tell us about, feel free to share in the comments section below. If you liked this post or want to know about great deals on ink and toner cartridges, subscribe to our newsletter, ‘Like' us on [Facebook](https://www.facebook.com/compandsave.ink) or follow us on [Twitter](https://twitter.com/#!/compandsave).
+If you have any DIY print projects that you would like to tell us about, feel free to share in the comments section below. If you liked this post or want to know about great deals on ink and toner cartridges, subscribe to our newsletter, ‘Like' us on [Facebook](https://www.facebook.com/compandsave.ink) or follow us on [Twitter](https://x.com/compandsave).

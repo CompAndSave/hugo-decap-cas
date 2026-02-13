@@ -48,4 +48,4 @@ Polyes Q1 is a 3D pen that also uses cool-to-the-touch technology. One new featu
 
 So,how soon will you have a 3D pen in your hands? Do you think this is going to become a common object around homes and offices?
 
-We certainly think so, given the huge amounts of interest and funding these projects attract. Stay tuned via our newsletter, our [Facebook](https://www.facebook.com/compandsave.ink) or [Twitter](https://twitter.com/#!/compandsave) pages to know more about printing innovations and to find the best deals for printing on your current printers.
+We certainly think so, given the huge amounts of interest and funding these projects attract. Stay tuned via our newsletter, our [Facebook](https://www.facebook.com/compandsave.ink) or [Twitter](https://x.com/compandsave) pages to know more about printing innovations and to find the best deals for printing on your current printers.

@@ -10,7 +10,7 @@ tags: [green,remanufactured printer cartridges,recycling,ink cartridges]
 
 [![lightbulb green plant recycling](/blog/images/plant-lightbulb-separate.jpg "lightbulb green plant recycling")](/blog/images/plant-lightbulb-separate.jpg)
 
-Recycling has been a part of the printer ink cartridge industry for a long time, by way of remanufactured cartridges. Third party manufacturers restore cartridges from the usual wear and tear and reassemble them as brand-new printer ink cartridges. You can make your office a little more green by using remanufactured cartridges instead of [OEM (original equipment manufacturer) cartridges](https://www.compandsave.com/blog/posts/best-online-availability-and-prices-on.html).
+Recycling has been a part of the printer ink cartridge industry for a long time, by way of remanufactured cartridges. Third party manufacturers restore cartridges from the usual wear and tear and reassemble them as brand-new printer ink cartridges. You can make your office a little more green by using remanufactured cartridges instead of [OEM (original equipment manufacturer) cartridges](https://www.compandsave.com/blog/posts/the-best-online-availability-and-prices-on-all-your-oem-printer-cartridge-needs.html).
 With remanufactured cartridges, you can conserve plastic and give printer ink cartridges a new life!
 
 **How are remanufactured cartridges green?**

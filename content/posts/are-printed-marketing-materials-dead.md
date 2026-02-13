@@ -10,7 +10,7 @@ tags: [marketing material,Printed Material,social media,web marketing,Mailings,P
 
 | [![image of various marketing materials](/blog/images/marketing-materials-flexible.jpg)](/blog/images/marketing-materials-flexible.jpg) |
 | ---------------------------------------------------------------------------------------------- |
-| Image Found At: www.bourncreative.com                        |
+| Image Found At: bourncreative                      |
 
 
 Thanks to the internet and our ability to be constantly connected to it, the possibilities for marketing have gone through the roof. However unlike video killing the radio star, the internet has not squashed the need for printed marketing materials. That is right, printed materials are still a huge part of marketing. However, they are only relevant if they are revamped to adapt to the internet age.

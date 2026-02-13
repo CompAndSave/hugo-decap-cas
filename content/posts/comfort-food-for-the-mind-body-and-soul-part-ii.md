@@ -12,7 +12,7 @@ tags:
 ---
 ![Comfort food](/blog/images/butternut-squash.jpg "Winter squash")
 
-In Part II of our comfort food [series](https://www.compandsave.com/blog/posts/comfort-food-for-mind-body-and-soul.html), vegetables take center stage. Just because we're focusing on vegetables this week doesn't mean these meals are boring. With the right seasonings and cooking techniques, vegetables can be just as flavorful—sometimes more so—than meat. Get ready to cook some comfort food for the mind, body, and soul!
+In Part II of our comfort food [series](https://www.compandsave.com/blog/posts/comfort-food-for-the-mind-body-and-soul-part-i.html), vegetables take center stage. Just because we're focusing on vegetables this week doesn't mean these meals are boring. With the right seasonings and cooking techniques, vegetables can be just as flavorful—sometimes more so—than meat. Get ready to cook some comfort food for the mind, body, and soul!
 
 ## Vegetable-Based Dishes
 
@@ -210,4 +210,4 @@ In a saucepan over medium heat, add 3/4 cup of very hot water and cook rice, sti
 
 Do you prefer vegetable-based recipes or meat-based recipes? Let us know below or share on Facebook, Twitter, or Pinterest.
 
-Don't forget to check out [Part I](https://www.compandsave.com/blog/posts/comfort-food-for-mind-body-and-soul.html)!
+Don't forget to check out [Part I](https://www.compandsave.com/blog/posts/comfort-food-for-the-mind-body-and-soul-part-i.html)!

@@ -8,7 +8,7 @@ authors: Andrew Yeung
 tags: [American Heart Association,CompAndSave.com donates to the American Heart Association,Heart Health,Support the Fight Against Heart Disease]
 ---
 
-Regular customers know this about us –we take our customers seriously and we take our corporate social responsibility just as serious. If you've made an ink purchase this month, you probably know about our commitment to [raise money for the American Heart Association](https://www.compandsave.com/blog/posts/compandsavecom-joins-battle-against.html) – **we are donating $ 1 from each order placed this February to the cause.**
+Regular customers know this about us –we take our customers seriously and we take our corporate social responsibility just as serious. If you've made an ink purchase this month, you probably know about our commitment to [raise money for the American Heart Association](https://www.compandsave.com/blog/posts/compandsave-com-joins-the-battle-against-heart-disease.html) – **we are donating $ 1 from each order placed this February to the cause.**
 
 [![Heart Health](/blog/images/aha394x150.jpg)](https://www.compandsave.com)
 

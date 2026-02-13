@@ -1,7 +1,7 @@
 ---
 title: "BUY 1, GET 2 FREE: Replacement for Dell (Series 22) T091N Black & T092N Color 2-Pack High Yield Ink Cartridges - Ink Fridays™"
 date: 2015-01-23T02:44:00.000Z
-slug: buy-1-get-2-free-replacement-for-dell-series-22-t091n-black-t092n-color-2-pack-high-yield-ink-cartridges-ink-fridays
+slug: buy-1-get-2-free-dell-t091n-black-t092n
 description: "BUY 1, GET 2 FREE: Replacement for Dell (Series 22) T091N Black & T092N Color 2-Pack High Yield Ink Cartridges - Ink Fridays™"
 featured_image: /blog/images/archive/2015/01/1-1.png
 authors: Denise Resendez

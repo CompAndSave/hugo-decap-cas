@@ -155,10 +155,10 @@ Hard to sell downloadable or digital products such as printables.
 
 ## MarketPlace Website vs Webstore Site
 
-| Pros                | Cons                                                                                                                                                                |                                                                                                                                                                                                          |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| MarketPlace Website | Large number of visitors                                                                                                                                            | Visitors are undefined and are not likely looking for your branding. Difficulty in making your own brand. You do not control your own platform and your account can be terminated upon their discretion. |
-| WebStore Site       | Will have visitors who are looking for your brand and are most likely to buy. Ability to create your own brand. Ability to build a loyal and growing customer base. | Will need a killer marketing strategy to create traffic.                                                                                                                                                 |
+| Type | Pros | Cons |
+| ----- | ----- | ------ |
+| MarketPlace Website | Large number of visitors | Visitors are undefined and are not likely looking for your branding. Difficulty in making your own brand. You do not control your own platform and your account can be terminated upon their discretion. |
+| WebStore Site | Will have visitors who are looking for your brand and are most likely to buy. Ability to create your own brand. Ability to build a loyal and growing customer base. | Will need a killer marketing strategy to create traffic. |
 
 MarketPlace websites have a lot of traffic, however, that traffic is undefined. It means they're not looking for your brand.
 

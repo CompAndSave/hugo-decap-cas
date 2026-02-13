@@ -12,6 +12,7 @@ tags:
   - handheld printer
   - handheld inkjet printer
 ---
+
 ![Handheld Inkjet Printer](/blog/images/handheld-inkjet-printers.png "Handheld Inkjet Printers: What Users Need To Know About Them")
 
 **Print Anytime, Anywhere — No Cords, No Limits.**
@@ -102,7 +103,7 @@ Home users and creatives love the handheld ink printer for its portability:
 
 ## **Features to Consider Before Buying a Handheld Printer**
 
-Choosing the right printer isn’t just about price. With many options[ ](https://www.compandsave.com/blog/posts/pocket-size-printers-reality-or-a-figment-of-the-imagination.html)available, it’s crucial to know how inkjet printers work, what materials they print on, and how user-friendly they are. If you're wondering [how to choose a printer](https://www.compandsave.com/blog/posts/how-to-choose-a-printer-tips-on-selecting-the-best-one-for-you.html), here are the key features to consider.
+Choosing the right printer isn’t just about price. With many options available, it’s crucial to know how inkjet printers work, what materials they print on, and how user-friendly they are. If you're wondering [how to choose a printer](https://www.compandsave.com/blog/posts/how-to-choose-a-printer-tips-on-selecting-the-best-one-for-you.html), here are the key features to consider.
 
 ### **Print Resolution, Ink Compatibility, and Supported Surfaces**
 

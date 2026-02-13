@@ -1,7 +1,7 @@
 ---
 title: "Best Inkjet Printers for Your Home – What's Recommended and Why"
 date: 2013-12-04T04:24:00.000Z
-slug: best-inkjet-printers-for-your-home-whats-recommended-and-why
+slug: best-inkjet-printers-for-your-home
 description: "Best Inkjet Printers for Your Home – What's Recommended and Why"
 featured_image: /blog/images/archive/2013/12/Home_office_3cas.jpg
 authors: Andrew Yeung
@@ -12,7 +12,7 @@ For most home requirements an inkjet printer works well; but with a plethora of 
 
 [![Best Inkjet Printer for Home](/blog/images/Home-office-3-cas.jpg)](/blog/images/Home-office-3-cas.jpg)
 
-[www.hp.com](https://www.hp.com/us-en/home.html) 
+[www.hp.com](https://www.hp.com/us-en/home.html)
 
 * What do you need a printer for? Is it for printing letters, bills, receipts and so on? Do you also want to be able to [print photographs](https://www.compandsave.com/paper), greeting cards and help create children's projects?
 * So will you need a color printer or will a black and white printer suffice?
@@ -26,13 +26,13 @@ For most home requirements an inkjet printer works well; but with a plethora of 
 
 Once you have narrowed down your choice by looking at all of these factors, consider the following printers recommended by experts:
 
-[**Canon Pixma MX922**](https://www.compandsave.com/canon/pixma/mx922-ink-cartridges) **Wireless Office All-In-One Printer** – This is an economically priced all-in-one printer that copies, faxes, pints, scans and even prints on discs. It has an auto document and is Wi-Fi enabled. However, this is not a very fast printer so it may not be suitable for high volume printing. 
+[**Canon Pixma MX922**](https://www.compandsave.com/canon/pixma/mx922-ink-cartridges) **Wireless Office All-In-One Printer** – This is an economically priced all-in-one printer that copies, faxes, pints, scans and even prints on discs. It has an auto document and is Wi-Fi enabled. However, this is not a very fast printer so it may not be suitable for high volume printing.
 
-[**Epson WorkForce WF-3520**](https://www.compandsave.com/epson/workforce/wf-3520-ink-cartridges)– This is another reasonably priced all in one printer that also does duplex (double sided) printing. It can also print via cloud. However, if you need the output quality to be very high this may not be the best choice. 
+[**Epson WorkForce WF-3520**](https://www.compandsave.com/epson/workforce/wf-3520-ink-cartridges)– This is another reasonably priced all in one printer that also does duplex (double sided) printing. It can also print via cloud. However, if you need the output quality to be very high this may not be the best choice.
 
-[**Brother Printer Work Smart MFCJ870DW**](https://www.compandsave.com/brother/mfc/mfc-j870dw-ink-cartridges) **Wireless Color Inkjet** – This again is an all-in-one printer with scanner, copier and fax and has low operating costs. 
+[**Brother Printer Work Smart MFCJ870DW**](https://www.compandsave.com/brother/mfc/mfc-j870dw-ink-cartridges) **Wireless Color Inkjet** – This again is an all-in-one printer with scanner, copier and fax and has low operating costs.
 
-**Epson Expression Home XP-410** – This is a compact small all-in-one wireless inkjet printer that has affordable replacement cartridges (lets you replace the color you need instead of having to replace all the colors). This versatile printer is a bestselling Epson product. 
+**Epson Expression Home XP-410** – This is a compact small all-in-one wireless inkjet printer that has affordable replacement cartridges (lets you replace the color you need instead of having to replace all the colors). This versatile printer is a bestselling Epson product.
 
 [**HP Deskjet 1000**](https://www.compandsave.com/hp/deskjet/1000-ink-cartridges) **Printer** – If your budget is tight, this basic, no frills color printer from HP may do you quite well.
 

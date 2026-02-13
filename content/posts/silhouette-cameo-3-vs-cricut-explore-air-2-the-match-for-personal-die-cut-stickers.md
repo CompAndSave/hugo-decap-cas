@@ -259,7 +259,7 @@ Silhouette Studio Designer is easier to use by crafters with more experience on 
 
 ## What's the Perfect "Cut" for You?
 
-| **Silhouette Cameo 3**                                                                                           | **Cricut Explore Air 2**                                                            |                                              |
+| **Silhouette Cameo 3** | **Cricut Explore Air 2** | Note |
 | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------- |
 | **PROS**                                                                                                         | Can cut designs longer than cutting mat size continuously                           | Faster cutting                               |
 | Software gives more creative freedom to users                                                                    | More precise for cutting detailed designs                                           |                                              |

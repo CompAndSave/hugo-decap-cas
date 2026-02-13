@@ -13,7 +13,7 @@ tags:
   - troubleshooting printer
   - How to Clear Printer Queue
 ---
-{{< embedImage image="/blog/images/how-to-clear-printer-queue-on-windows-mac.png" alt="" title="" alignment="center" >}}
+{{< embedImage image="/blog/images/how-to-clear-printer-queue-on-windows-mac.png" alt="Banner image"  alignment="center" >}}
 
 You send a document to print, expecting it to take seconds. Instead, nothing comes out. The printer shows activity, the job sits there, and every new file you send just piles up behind it. At this point, printing feels harder than it should be.
 

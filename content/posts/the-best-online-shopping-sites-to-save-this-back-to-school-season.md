@@ -12,9 +12,9 @@ tags: []
 
 ### Pointers for Back to School Shopping
 
-If you're kid is anything like most, they usually aren't excited about August rolling around. Parents usually have to [motivate their kids](https://www.compandsave.com/blog/posts/how-to-motivate-your-kids-to-go-back-to.html) to get into the back to school frame of mind. One idea you could try out is to involve kids in the shopping which could spark some enthusiasm.
+If you're kid is anything like most, they usually aren't excited about August rolling around. Parents usually have to [motivate their kids](https://www.compandsave.com/blog/posts/how-to-motivate-your-kids-to-go-back-to-school-after-a-long-summer-vacation.html) to get into the back to school frame of mind. One idea you could try out is to involve kids in the shopping which could spark some enthusiasm.
 
-For[ school supplies, online shopping](https://www.compandsave.com/blog/posts/back-to-school-shopping-tips-to-save.html) may be the best bet. Not only do you get better deals, you don't have to battle the hordes at the stores! Also, you don't have to carry around heavy books, stationery, and clothing home because everything is conveniently delivered for you.
+For[ school supplies, online shopping](https://www.compandsave.com/blog/posts/back-to-school-shopping-tips-to-save-you-money.html) may be the best bet. Not only do you get better deals, you don't have to battle the hordes at the stores! Also, you don't have to carry around heavy books, stationery, and clothing home because everything is conveniently delivered for you.
 
 #### Tips for Back To School Shopping
 
