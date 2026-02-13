@@ -145,7 +145,7 @@ If your Brother printer cannot detect a cartridge, it is often due to incorrect 
 * Avoid touching the nozzles or metal contacts.
 * Do not force the cartridge into the slot.
 * Always use genuine or Brother LC401 compatible ink cartridges to prevent recognition errors.
-* Refer to this video for visual guidance: [CMYi LC401 Installation](https://youtu.be/YI_O29yOX60?si=G0trThpumqsil1zP)[](https://youtu.be/YI_O29yOX60?si=G0trThpumqsil1zP)
+* Refer to this video for visual guidance: [CMYi LC401 Installation](https://youtu.be/YI_O29yOX60?si=G0trThpumqsil1zP)
 
 ## **OEM Brother LC401 vs Compatible CMYi Brother Ink LC401 Cartridges**
 

@@ -79,7 +79,7 @@ Sudden power outages during firmware updates can cause failures. Ensure your pri
 
 ### **5. Third-Party Cartridge Awareness**
 
-Some updates may block non-HP cartridges, causing the HP cartridge problem. Knowing how to update HP printer firmware lets you manage updates safely. 
+Some updates may block non-HP cartridges, causing the HP cartridge problem. Knowing how to update HP printer firmware lets you manage updates safely.
 
 ## **How to Update HP Printer Firmware Using the HP Smart App (Most Common Method)**
 
@@ -163,7 +163,7 @@ A smooth HP printer firmware update prevents errors like the HP cartridge proble
 * **Ensure Stable Power & Internet Connection:** Always connect the printer to a stable power source and reliable Wi-Fi or Ethernet. Power interruptions or network drops can cause the update to fail or corrupt the firmware.
 * **Avoid USB-Only Printers for Network Updates:** Firmware updates require a network connection. Printers connected only via USB may fail to complete a firmware update on the HP printer.
 * **Use OEM Cartridges Temporarily:** Third-party cartridges may trigger the HP cartridge problem during updates. Temporarily use genuine HP cartridges to complete the firmware update safely.
-* **Restart and Retry if Update Fails:** If the update fails or the printer gets stuck, restart it and retry using another method such as the HP Smart app, control panel, or HP website. 
+* **Restart and Retry if Update Fails:** If the update fails or the printer gets stuck, restart it and retry using another method such as the HP Smart app, control panel, or HP website.
 
 ## **Conclusion**
 
@@ -195,4 +195,4 @@ Skipping updates can cause connectivity issues, performance problems, and securi
 
 [How to Disable HP Printer Firmware Update](https://www.compandsave.com/blog/posts/how-to-disable-hp-printer-firmware-update-compandsave.html)
 
-[HP Printer Firmware Downgrade Guide](https://www.compandsave.com/hp-printer-firmware-downgrade)[](https://www.compandsave.com/hp-printer-firmware-downgrade)
+[HP Printer Firmware Downgrade Guide](https://www.compandsave.com/hp-printer-firmware-downgrade)

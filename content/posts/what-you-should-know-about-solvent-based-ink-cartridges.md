@@ -187,7 +187,7 @@ Choosing the right solvent ink printing system depends on factors like ink type,
 * **Material Compatibility:** Ensure the ink suits materials like vinyl, canvas, or PVC.
 * **Budget & Maintenance:** Account for initial costs and ongoing maintenance, including printhead cleaning.
 * **Printing Process:** Select the ink based on the printing method and substrates.
-* **Environmental Considerations:** Opt for low-VOC or eco-friendly inks for sustainability and regulatory compliance.[](https://www.compandsave.com/where-to-recycle-ink-cartridges-guide)
+* **Environmental Considerations:** Opt for low-VOC or eco-friendly inks for sustainability and regulatory compliance.
 
 ## **Conclusion**
 
@@ -232,5 +232,3 @@ Traditional solvent inks emit higher levels of VOCs, which can harm the environm
 
 [What are Remanufactured Ink Cartridges?](https://www.compandsave.com/what-are-remanufactured-ink-cartridges-guide)
 
-
-[](https://www.compandsave.com/what-are-remanufactured-ink-cartridges-guide)

@@ -19,7 +19,7 @@ Every day, countless printer cartridges end up in landfills, slowly leaking harm
 
 By choosing to [recycle empty printer cartridges](https://www.compandsave.com/blog/posts/empty-printer-cartridge-recycling-all-you-need-to-know.html) and opting for eco-friendly alternatives, we can help reduce this waste and protect our planet for future generations.
 
-Remember, small changes can make a big difference, and they start with us. 
+Remember, small changes can make a big difference, and they start with us.
 
 **In this article, we’ll discuss:**
 
@@ -72,7 +72,7 @@ When looking for where to recycle ink cartridges near me, many office supply sto
 
 * **Staples:** Staples is a popular choice for cartridge recycling. They offer $2 in rewards for every cartridge you recycle, provided you make a $50 ink or toner purchase in the same month. This reward can be an excellent incentive for those who recycle and save on future purchases.
 * **Office Depot/OfficeMax:** These stores provide a similar program where you can earn 200 reward points for each cartridge recycled. To qualify for these rewards, you must make a $10 qualifying purchase in the same month. This setup not only promotes empty printer cartridge recycling but also helps customers save on office supplies.
-* **Best Buy:** Known for recycling electronics, Best Buy also accepts used printer cartridges. While they don’t offer financial rewards, their commitment to [eco-friendly printing](https://www.compandsave.com/blog/posts/eco-friendly-printing-how-it-works-and-how-you-can-help.html) is evident in their extensive recycling program.
+* **Best Buy:** Known for recycling electronics, Best Buy also accepts used printer cartridges. While they don’t offer financial rewards, their [commitment to eco-friendly printing](https://www.compandsave.com/blog/posts/eco-friendly-printing-how-it-works-and-how-you-can-help.html) is evident in their extensive recycling program.
 
 ### 2. Retail Stores with Drop-Off Locations
 
@@ -84,7 +84,7 @@ If you’re asking where to recycle printer cartridges near me beyond office sup
 
 ### 3. Manufacturer Recycling Programs
 
-Regarding cartridge recycling, one of the most reliable and environmentally responsible options is utilizing manufacturer take-back programs. These programs ensure that cartridges are recycled properly, keeping harmful materials out of landfills. 
+Regarding cartridge recycling, one of the most reliable and environmentally responsible options is utilizing manufacturer take-back programs. These programs ensure that cartridges are recycled properly, keeping harmful materials out of landfills.
 
 * **HP:** HP’s Planet Partners program allows users to recycle empty HP ink and toner cartridges through a convenient mail-in process. You can obtain prepaid shipping labels online or find participating locations to drop off your used cartridges. This program is available globally and ensures the materials are responsibly processed and reused.
 * **Canon:** Canon offers a free recycling program for ink and toner cartridges. Participants can drop off cartridges at select FedEx locations or mail them using prepaid labels from Canon’s website. This program underscores Canon’s commitment to sustainable printing by reducing waste and conserving resources.
@@ -114,7 +114,7 @@ Several online platforms specialize in recycle ink and toner cartridges, offerin
 
 ## It's Your Turn To Promote Eco-Friendly Printing
 
-Adopting [eco-friendly printing](https://www.compandsave.com/blog/posts/eco-friendly-printing-how-it-works-and-how-you-can-help.html) practices is more crucial than ever. Here are key ways you can contribute:
+Adopting [eco-friendly printing practices](https://www.compandsave.com/blog/posts/eco-friendly-printing-how-it-works-and-how-you-can-help.html) is more crucial than ever. Here are key ways you can contribute:
 
 * **Minimize Printing Waste:** Opt for digital documents when possible, and print double-sided to conserve paper.
 * **Use Recycled Paper:** Select paper products made from recycled materials to reduce the demand for new resources.

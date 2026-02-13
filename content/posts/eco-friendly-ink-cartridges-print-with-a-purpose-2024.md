@@ -87,13 +87,13 @@ Remanufactured cartridges are made from durable, original materials that can be 
 
 ## Sustainable Printer Ink: Where to Buy?
 
-For eco-friendly printer ink, choose [CompAndSave](https://www.compandsave.com/). Our [remanufactured cartridges](https://www.compandsave.com/what-are-remanufactured-ink-cartridges-guide) support green practices and save you up to 80%. By picking these cartridges, you help reduce waste, save resources, and manage costs. 
+For eco-friendly printer ink, choose [CompAndSave](https://www.compandsave.com/). Our [remanufactured cartridges](https://www.compandsave.com/what-are-remanufactured-ink-cartridges-guide) support green practices and save you up to 80%. By picking these cartridges, you help reduce waste, save resources, and manage costs.
 
 Compatible with popular brands like [HP](https://www.compandsave.com/hp), [Epson](https://www.compandsave.com/epson), [Canon](https://www.compandsave.com/canon), and [Brother](https://www.compandsave.com/brother), CompAndSave's eco-friendly cartridges give quality prints and help reduce plastic waste. Plus, we offer [discounts](https://www.compandsave.com/coupon) when you order in bulk. When thinking about your next cartridge, consider this eco-friendly option for effective printing and a sustainable choice!
 
 ## Parting Words
 
-Now, we know how to print with a purpose! Although this might seem small, choosing eco-friendly ink cartridges, such as remanufactured ones, can make a big difference for us and our environment in the long run. Remember that choosing sustainable ink cartridges not only helps the planet but also your wallet! 
+Now, we know how to print with a purpose! Although this might seem small, choosing eco-friendly ink cartridges, such as remanufactured ones, can make a big difference for us and our environment in the long run. Remember that choosing sustainable ink cartridges not only helps the planet but also your wallet!
 
 **Key takeaways:**
 
@@ -111,9 +111,9 @@ Eco-friendly ink cartridges care about the Earth. They use materials that can br
 
 ### 2. Are eco-friendly ink cartridges compatible with all printers?
 
-Yes, eco-friendly ink cartridges usually work with many printers, but checking if they're correct for your specific printer is essential. CompAndSave offers remanufactured ink cartridges for Canon, Brother, Epson, and HP printers. 
+Yes, eco-friendly ink cartridges usually work with many printers, but checking if they're correct for your specific printer is essential. CompAndSave offers remanufactured ink cartridges for Canon, Brother, Epson, and HP printers.
 
-They're made to work well and also help you save money on ink. 
+They're made to work well and also help you save money on ink.
 
 ### 3. Can I refill my ink cartridges to make them more sustainable?
 
@@ -135,6 +135,6 @@ To dispose of eco-friendly ink cartridges responsibly, check the packaging or lo
 
 [What is an Eco-solvent Printer and Eco-solvent Ink?](https://www.compandsave.com/what-is-an-eco-solvent-printer-and-eco-solvent-ink)
 
-[How to Refill Ink Cartridge?](https://www.compandsave.com/how-to-refill-ink-cartridges-guide) 
+[How to Refill Ink Cartridge?](https://www.compandsave.com/how-to-refill-ink-cartridges-guide)
 
 [Eco-Friendly Printing Tips](https://www.compandsave.com/blog/posts/eco-friendly-printing-how-it-works-and-how-you-can-help.html)

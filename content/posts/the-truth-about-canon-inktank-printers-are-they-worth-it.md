@@ -73,7 +73,7 @@ Looking for a reliable and cost-effective printing solution? The top Canon inkta
 * Budget-conscious families
 * Light to medium office printing
 
-**Price:** [**USD 149.00** (as listed on Amazon)](https://www.amazon.com/Canon-PIXMA-G3270-All-One/dp/B0BSMSYM9N/ref=sr_1_1?adgrpid=155055485479&dib=eyJ2IjoiMSJ9.m71RIgcLTQeSfUr2hVJ1TLkADAG6BLxr9p1UWafKsaGzyxWPdiY0wAg2cEPFfW1659dQoAeDGL762WsU-2H82ELg2pSP-SkwnaciERoxYlBHyBKOiuLnjHl7SYTyBpnuJZeD0OevfgRGV11En0d-54uMBOB6cixDsLmF_fni6vaM5w7-pgF8ZHleJjvNt0nqyZF1Z8WXpRLB09GHiysQe8lpDvIISDQyeua9TjIPw7g.-8dBdHJeDUCRuzbyo7FDCNZpLouTPQ4G8MKm7i117kA&dib_tag=se&hvadid=681364357419&hvdev=c&hvlocphy=9060967&hvnetw=g&hvqmt=e&hvrand=8436629562372628615&hvtargid=kwd-1966865462323&hydadcr=16546_13603420&keywords=canon%2Bpixma%2Bg3270&mcid=10b72f507b3e3d458f879479a2)[](https://www.amazon.com/Canon-PIXMA-G3270-All-One/dp/B0BSMSYM9N/ref=sr_1_1?adgrpid=155055485479&dib=eyJ2IjoiMSJ9.m71RIgcLTQeSfUr2hVJ1TLkADAG6BLxr9p1UWafKsaGzyxWPdiY0wAg2cEPFfW1659dQoAeDGL762WsU-2H82ELg2pSP-SkwnaciERoxYlBHyBKOiuLnjHl7SYTyBpnuJZeD0OevfgRGV11En0d-54uMBOB6cixDsLmF_fni6vaM5w7-pgF8ZHleJjvNt0nqyZF1Z8WXpRLB09GHiysQe8lpDvIISDQyeua9TjIPw7g.-8dBdHJeDUCRuzbyo7FDCNZpLouTPQ4G8MKm7i117kA&dib_tag=se&hvadid=681364357419&hvdev=c&hvlocphy=9060967&hvnetw=g&hvqmt=e&hvrand=8436629562372628615&hvtargid=kwd-1966865462323&hydadcr=16546_13603420&keywords=canon%2Bpixma%2Bg3270&mcid=10b72f507b3e3d458f879479a2)
+**Price:** [**USD 149.00** (as listed on Amazon)](https://www.amazon.com/Canon-PIXMA-G3270-All-One/dp/B0BSMSYM9N/ref=sr_1_1?adgrpid=155055485479&dib=eyJ2IjoiMSJ9.m71RIgcLTQeSfUr2hVJ1TLkADAG6BLxr9p1UWafKsaGzyxWPdiY0wAg2cEPFfW1659dQoAeDGL762WsU-2H82ELg2pSP-SkwnaciERoxYlBHyBKOiuLnjHl7SYTyBpnuJZeD0OevfgRGV11En0d-54uMBOB6cixDsLmF_fni6vaM5w7-pgF8ZHleJjvNt0nqyZF1Z8WXpRLB09GHiysQe8lpDvIISDQyeua9TjIPw7g.-8dBdHJeDUCRuzbyo7FDCNZpLouTPQ4G8MKm7i117kA&dib_tag=se&hvadid=681364357419&hvdev=c&hvlocphy=9060967&hvnetw=g&hvqmt=e&hvrand=8436629562372628615&hvtargid=kwd-1966865462323&hydadcr=16546_13603420&keywords=canon%2Bpixma%2Bg3270&mcid=10b72f507b3e3d458f879479a2)
 
 | Pros | Cons |
 | --- | --- |
@@ -84,7 +84,7 @@ Looking for a reliable and cost-effective printing solution? The top Canon inkta
 
 
 
-### [](https://www.amazon.com/Canon-PIXMA-G3270-All-One/dp/B0BSMSYM9N/ref=sr_1_1?adgrpid=155055485479&dib=eyJ2IjoiMSJ9.m71RIgcLTQeSfUr2hVJ1TLkADAG6BLxr9p1UWafKsaGzyxWPdiY0wAg2cEPFfW1659dQoAeDGL762WsU-2H82ELg2pSP-SkwnaciERoxYlBHyBKOiuLnjHl7SYTyBpnuJZeD0OevfgRGV11En0d-54uMBOB6cixDsLmF_fni6vaM5w7-pgF8ZHleJjvNt0nqyZF1Z8WXpRLB09GHiysQe8lpDvIISDQyeua9TjIPw7g.-8dBdHJeDUCRuzbyo7FDCNZpLouTPQ4G8MKm7i117kA&dib_tag=se&hvadid=681364357419&hvdev=c&hvlocphy=9060967&hvnetw=g&hvqmt=e&hvrand=8436629562372628615&hvtargid=kwd-1966865462323&hydadcr=16546_13603420&keywords=canon%2Bpixma%2Bg3270&mcid=10b72f507b3e3d458f879479a2)**2. [Canon MAXIFY GX4020](https://www.compandsave.com/canon/maxify/gx4020-ink-bottles)**
+### **2. [Canon MAXIFY GX4020](https://www.compandsave.com/canon/maxify/gx4020-ink-bottles)**
 
 * Uses Canon’s MegaTank system with refillable ink tanks
 * All-in-one: print, scan, copy, and fax
@@ -132,7 +132,7 @@ Looking for a reliable and cost-effective printing solution? The top Canon inkta
 | Convenient wireless and mobile printing options | Limited to a 2-line LCD, lacking a touchscreen interface |
 
 
-## **[](https://www.compandsave.com/canon/maxify/gx4020-ink-bottles)Key Advantages of Canon inkTank Printers**
+## **Key Advantages of Canon inkTank Printers**
 
 If you print often and are tired of replacing cheap Canon ink cartridges, a Canon ink tank printer is smarter. A Canon tank printer is ideal for homes, schools, and small offices. Here are some key benefits:
 

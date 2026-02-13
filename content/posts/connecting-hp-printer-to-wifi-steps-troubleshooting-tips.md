@@ -159,4 +159,4 @@ Yes, you can connect multiple devices to your HP wireless printer as long as all
 
 [Why Is My HP Printer Offline](https://www.compandsave.com/blog/posts/how-to-fix-hp-printer-offline-on-windows-and-mac.html)
 
-[How To Connect Printer To WiFi: Wireless Printing Guide](https://www.compandsave.com/blog/posts/how-to-connect-printer-to-wi-fi-wireless-printing-guide.html)[](https://www.compandsave.com/blog/posts/how-to-connect-printer-to-wi-fi-wireless-printing-guide.html)
+[How To Connect Printer To WiFi: Wireless Printing Guide](https://www.compandsave.com/blog/posts/how-to-connect-printer-to-wi-fi-wireless-printing-guide.html)

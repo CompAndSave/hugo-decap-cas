@@ -186,4 +186,4 @@ Yes, you can print wirelessly from smartphones, tablets, and other devices using
 
 [Ultimate Guide to Cloud Printing](https://www.compandsave.com/blog/posts/ultimate-guide-to-cloud-printing-cloud-ready-printers-2024.html)
 
-[](https://www.compandsave.com/blog/posts/ultimate-guide-to-cloud-printing-cloud-ready-printers-2024.html)[How Do Inkjet Printers Work?](https://www.compandsave.com/blog/posts/how-do-ink-jet-printers-work.html)
+[How Do Inkjet Printers Work?](https://www.compandsave.com/blog/posts/how-do-ink-jet-printers-work.html)

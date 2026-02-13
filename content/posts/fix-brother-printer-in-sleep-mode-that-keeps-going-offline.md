@@ -140,7 +140,7 @@ Old or corrupt drivers can prevent your Brother printer in sleep mode from wakin
 ### **6. Use Windows Troubleshooter**
 
 1. Go to Settings > Update & Security > Troubleshoot > Printer
-2. Run the tool to detect and fix issues[](https://www.compandsave.com/blog/posts/how-to-fix-printer-offline-problem-guide-2024-compandsave.html)
+2. Run the tool to detect and fix issues
 
 ## **Fix Brother Printer Not Waking Up on Mac (macOS)**
 

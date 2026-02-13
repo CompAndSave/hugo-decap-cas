@@ -8,10 +8,6 @@ authors: Andrew Yeung
 tags: [print head clogging,printer troubleshooting,equipment care]
 ---
 
-[](/blog/images/fix%5Fyour%5Fown%5Fprinter%5Fgraphic%5Flarge.jpg)
-
-[](/blog/images/fix%5Fyour%5Fown%5Fprinter%5Fgraphic%5Flarge.jpg)
-
 If your printer is more than two years old, you may be experiencing clogs. We don't mean paper jams — we're talking clogs in the nozzle dropouts within the printer itself. This is a common problem with inkjet printers, because printheads often aren't cleaned on a regular basis.
 
 [![frustrated woman businesswoman printer](/blog/images/frustrated-with-printer.jpeg "frustrated woman businesswoman printer")](/blog/images/frustrated-with-printer.jpeg)

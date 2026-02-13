@@ -51,7 +51,7 @@ Using photo paper makes your prints look really professional and polished. The p
 
 But the tricky part is there are different kinds of photo paper. So, how can we pick what's best for your needs? Let's figure it out!
 
-## Best Photo Paper for Inkjet Printer: Exploring Different Types You Can Use {#photo_paper}
+## Best Photo Paper for Inkjet Printer: Exploring Different Types You Can Use
 
 When it comes to [printing your favorite photos](https://www.compandsave.com/how-to-print-high-quality-photos-at-home), picking the best photo paper for inkjet printer can make a big difference. [Various types of photo paper](https://youtu.be/MxrrAky_j7M) are designed to work with inkjet printers, each offering unique qualities to enhance your prints. So, let's tackle each of them, helping you find the perfect match for your printing needs.
 
@@ -231,7 +231,7 @@ Haven't picked the right paper for your photos yet? No worries! Check out these 
 
 {{< youtubeLazyload id="FdesIY3f-1E" title="How to Choose the Best Inkjet Sticker Paper, Transferable Paper, Magnet Sheets and Printable Fabric" >}}
 
-### 1. Sticker Paper {#sticker_paper}
+### 1. Sticker Paper
 
 Sticker photo paper is like regular photo paper but has glue on the back. Unlike other sticker papers with set shapes, our paper lets you make any sticker you want! You can design without limits. We have two types: glossy for bright and eye-catching stickers and matte for a more subtle look. Check the description for glossy and matte photo paper above for more details.
 
@@ -258,7 +258,7 @@ Sticker photo paper is like regular photo paper but has glue on the back. Unlike
 
 [SHOP STICKER PAPER HERE!](https://www.compandsave.com/paper/sticker-paper)
 
-### 2. Transferable Paper {#transfer_paper}
+### 2. Transferable Paper
 
 Iron-on transferable paper transfers texts, images, etc., to cotton fabrics through a heat press or home iron. There are two types of iron-on transfer paper for Inkjet printers - light and dark transfer paper.
 
@@ -303,7 +303,7 @@ Dark transferable paper is great for black or colored fabrics, even white. But i
 
 [SHOP TRANSFER PAPER HERE!](https://www.compandsave.com/paper/transfer-paper)
 
-### 3. Magnet Sheets {#magnet_sheets}
+### 3. Magnet Sheets
 
 You can [create your own fridge magnets at home using your printer](https://www.compandsave.com/what-is-the-best-printer-for-magnetic-sheets-guide), our printable magnet sheets, and some creativity! The whole sheet is magnetic, allowing you to make various designs. Unlike photo sticker papers, you can easily remove and change the printable magnet sheets. We offer two types: glossy for a shiny finish and matte for a more subtle look. Check the detailed description above to understand the difference between the two.
 
@@ -328,7 +328,7 @@ You can [create your own fridge magnets at home using your printer](https://www.
 
 [SHOP MAGNET SHEETS HERE!](https://www.compandsave.com/paper/magnet-sheets)
 
-### 4. Printable Fabric {#printable_fabrics}
+### 4. Printable Fabric
 
 Printable fabric sheets are super easy to use! You can print directly on them, just like regular photo paper. They're lightweight, so you can roll them up, fold them, store them, or ship them with no problem. We have three types of printable fabric for you to pick from. Let's quickly review them to help you choose the perfect one for your project.
 

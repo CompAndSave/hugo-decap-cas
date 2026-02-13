@@ -226,7 +226,7 @@ Absolutely. Many manufacturers offer recycling programs, allowing you to dispose
 
 ## Related Articles
 
-[](https://www.compandsave.com/blog/posts/inkjet-vs-laser-printer.html)[Inkjet vs. Laser Printer](https://www.compandsave.com/blog/posts/inkjet-vs-laser-printer.html)
+[Inkjet vs. Laser Printer](https://www.compandsave.com/blog/posts/inkjet-vs-laser-printer.html)
 
 [How to Store Printer Ink Cartridges](https://www.compandsave.com/how-to-store-printer-ink-cartridges)
 

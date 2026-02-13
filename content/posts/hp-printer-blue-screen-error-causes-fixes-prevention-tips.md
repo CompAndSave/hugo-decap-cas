@@ -18,7 +18,7 @@ Nothing halts productivity faster than switching on your HP printer and seeing a
 
 This problem isn’t limited to one model: it affects HP Envy, OfficeJet, and LaserJet printers alike. For some users, the HP printers flashing blue screen repeatedly after a restart, while others report an HP printer blue screen with power button that stays on but does nothing. Both conditions point to possible firmware corruption or electrical faults.
 
-Many reports on the HP Community confirm that power surges, firmware errors, or cartridge issues can trigger the HP printer has blue screen problem. It’s one of the most [common printer problems](https://www.compandsave.com/blog/posts/common-printer-problems-and-solutions-compandsave-2024.html)[](https://www.compandsave.com/blog/posts/common-printer-problems-and-solutions-compandsave-2024.html) faced by HP users today.
+Many reports on the HP Community confirm that power surges, firmware errors, or cartridge issues can trigger the HP printer has blue screen problem. It’s one of the most [common printer problems](https://www.compandsave.com/blog/posts/common-printer-problems-and-solutions-compandsave-2024.html) faced by HP users today.
 
 **In this article, you’ll learn:**
 

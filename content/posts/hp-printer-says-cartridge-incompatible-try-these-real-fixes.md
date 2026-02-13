@@ -175,7 +175,7 @@ Seeing ink cartridges not recognize errors every time you install a new cartridg
 
 **1. Is my HP printer broken if it says “cartridge incompatible”?**
 
-No. This is one of the most common printer problems[](https://www.compandsave.com/blog/posts/how-to-fix-common-printer-problems-tips-for-easy-troubleshooting.html) and doesn’t mean your printer is damaged. It usually means the cartridge isn’t being detected properly. Try the step-by-step guide before assuming the worst.
+No. This is one of the most common printer problems and doesn’t mean your printer is damaged. It usually means the cartridge isn’t being detected properly. Try the step-by-step guide before assuming the worst.
 
 **2. Do I have to buy new cartridges to fix this issue?**
 

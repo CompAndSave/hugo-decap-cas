@@ -10,7 +10,7 @@ tags: [Customized Cards,Valentine's Day Card,Printable Valentine's Day Card,Prin
 
 Every year, in the month of February, there's a particular day that is designated to love and romance. On this day, millions of people around the world express their love for each other by presenting items of sentiment, like a card, accompanied with romantic gestures. This Valentine's Day, [CompAndSave.com](https://www.compandsave.com/), your favorite [ink & toner](https://www.compandsave.com/) provider, would like to help you make February 14th, 2014 even more special with these printable, customizable Valentine's Day cards.
 
-![](/blog/images/archive/2014/02/valentine-s-day-card.png)
+![Valentine's day Poster](/blog/images/archive/2014/02/valentine-s-day-card.png)
 
 **Here's what you need for this special occasion:**
 

@@ -180,7 +180,7 @@ Many users ask what a printhead is and why it clogs so easily. A printhead is a 
 
 An Epson EcoTank clogged nozzle is a common problem, but one you can fix without stress. Knowing what a printhead is and how it works helps you understand why dried ink causes blockages. Signs like streaks, faded colors, or missing lines show when the Epson EcoTank printer ink clogged.
 
-You can solve this by running a nozzle check, performing head cleaning, or using a printhead cleaning kit. DIY methods are often enough to clean printer heads[](https://www.compandsave.com/blog/posts/what-is-a-printer-toner-cartridge-all-that-you-need-to-know.html) and restore print quality. Simple habits, like printing a test page weekly and keeping your printer in the right environment, help prevent Epson EcoTank blocked nozzles.
+You can solve this by running a nozzle check, performing head cleaning, or using a printhead cleaning kit. DIY methods are often enough to clean printer heads and restore print quality. Simple habits, like printing a test page weekly and keeping your printer in the right environment, help prevent Epson EcoTank blocked nozzles.
 
 Avoid excessive cleaning cycles that waste ink. Prevention is easier, cheaper, and keeps your printer lasting longer.
 

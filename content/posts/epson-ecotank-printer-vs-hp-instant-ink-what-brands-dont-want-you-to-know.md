@@ -45,9 +45,9 @@ HP encourages people to buy their ink through monthly subscription. Only specifi
 
 Your printer is connected to your Wi-Fi and HP monitors its ink levels. Once its ink levels are low, they would deliver ink cartridges for you to replace with. Delivery can take up to 10 days.
 
-![](/blog/images/printing-plan-table.png)
+![HP Instant Ink Printing Free, Occasional, and Moderate Plan Pricing Table](/blog/images/printing-plan-table.png)
 
-![](/blog/images/business-printing-plan.png)
+![HP Instant Ink Printing Frequent and Business Plan Pricing Table](/blog/images/business-printing-plan.png)
 
 This HP Ink Program charges by how much pages are printed. This means that a colored printed page would cost the same as a black-and-white printed page.
 
@@ -71,7 +71,7 @@ To effectively compare ET and Instant Ink, they'll need to be computed under the
 
 ### For Low Volume Users
 
-![](/blog/images/eco-tank-vs-instant-ink-low-volume-user.png)
+![Eco Tank vs Instant Low Volume Users Ink Chart](/blog/images/eco-tank-vs-instant-ink-low-volume-user.png)
 
 #### The Calculations
 
@@ -89,7 +89,7 @@ A printer similar to Epson ET 2550 is HP DeskJet 3755 (almost same printer speed
 
 ### For Medium Volume Users
 
-![](/blog/images/eco-tank-vs-instant-ink-medium-volume.png)
+![Eco Tank vs Instant Medium Volume Users Ink Chart](/blog/images/eco-tank-vs-instant-ink-medium-volume.png)
 
 #### The Calculations
 
@@ -103,7 +103,7 @@ The average monthly print volume of [Epson ET 4750](https://epson.com/Clearance-
 
 ### For High Volume Users
 
-![](/blog/images/eco-tank-vs-instant-ink-high-volume-user.png)
+![Eco Tank vs Instant High Volume Users Ink Chart](/blog/images/eco-tank-vs-instant-ink-high-volume-user.png)
 
 #### The Calculations
 
@@ -128,11 +128,11 @@ For example, Compatible HP 65 ink have the same price as Compatible HP65XL. Whil
 
 ### Compatible Ink vs Epson ET and HP Instant Ink
 
-![](/blog/images/epson-vs-compatible-ink-cost.png)
+![Epson vs Compatible Ink Chart](/blog/images/epson-vs-compatible-ink-cost.png)
 
 Each bottle of Epson T522 Ink (65 ml) costs [$13.99](https://epson.com/For-Home/Ink/Epson-T522-Ink-Bottles/i/T522320-S). Each ET T522 compatible ink bottle (70 ml) costs [$6.99](https://www.compandsave.com/epson/522-ink-cartridges/t522320-magenta). The compatible ink bottle is 67% cheaper than the brand ink.
 
-![](/blog/images/hp-vs-compatible-ink.png)
+![HP vs Compatible Ink Chart](/blog/images/hp-vs-compatible-ink.png)
 
 Let us say, that if you're not comfortable with Instant Ink's Terms of Services, you decided to buy HP ink instead. Which would be cheaper, HP Ink or Compatible HP Ink?5
 
@@ -148,5 +148,4 @@ But if you really want to save money through compatible ink cartridges, we would
 
 Their [LC3035BK ink](https://www.brother-usa.com/products/lc3035bk) (for their [MFC-J805DW INKvestment Tank](https://www.brother-usa.com/products/mfcj805dw#accessories)) is $55.99.A compatible [Brother LC3035 Black ink](https://www.compandsave.com/brother/lc3035-ink-cartridges/lc3035bk-black) with the same page yield is only $24.95. By buying a Brother Printer, you'll be saving **76.7%** in ink by buying compatible ink cartridges.
 
-![](/blog/images/lc3035-bk-xxl.png)
-
+![Brother LC3035 BK XXL ink cartridge](/blog/images/lc3035-bk-xxl.png)

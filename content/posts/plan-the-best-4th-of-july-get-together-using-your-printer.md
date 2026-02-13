@@ -30,7 +30,7 @@ Then where are a whole lot of other printable ideas to get into the whole spirit
 * Drinks décor to go on to straws and for cocktails
 * A stars and stripes paper chain for the buffet table or to use as streamers
 
-There are some more printables and ideas for you to check out on Pinterest, [here](https://in.pinterest.com/katibug/memorial-day-fourth-of-july/) and [here](https://www.pinterest.com/ThePartyTeacher/free-printables-4th-of-july/).
+There are some more printables and ideas for you to check out on Pinterest, [memorial day board](https://in.pinterest.com/katibug/memorial-day-fourth-of-july/) and [free printables board](https://www.pinterest.com/ThePartyTeacher/free-printables-4th-of-july/).
 
 
 ### Free Printables for Kids and the Young at Heart

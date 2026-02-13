@@ -30,11 +30,11 @@ Ready to bring your creative designs to life with the perfect transfer paper pri
 6. Where Can I Use Heat Transfer: Creative Applications
 7. Heat Transfer Using Inkjet Printer: Materials to Use
 8. How to Use Inkjet Printers for Heat Transfers: Step-by-Step Guide
-9. Heat Transfer Using Wrong Printer: Potential Problems 
+9. Heat Transfer Using Wrong Printer: Potential Problems
 
 ## What is Heat Transfer?
 
-Have you ever dreamed of rocking your unique design on your favorite T-shirts? Well, guess what? You can make it happen with the incredible power of heat transfers! 
+Have you ever dreamed of rocking your unique design on your favorite T-shirts? Well, guess what? You can make it happen with the incredible power of heat transfers!
 
 ### So, what is heat transfer?
 
@@ -44,7 +44,7 @@ The result? You get super cool and colorful designs on your stuff, all without t
 
 ## Transfer Paper Printer: Factors to Consider When Choosing
 
-So, now that you've got the power to print your designs, here's the big question: can any inkjet printer work for heat transfers? **Not exactly.** The success of your heat transfer project depends on choosing the right printer. 
+So, now that you've got the power to print your designs, here's the big question: can any inkjet printer work for heat transfers? **Not exactly.** The success of your heat transfer project depends on choosing the right printer.
 
 That said, what things should you keep in mind? Let's explore the key factors that decide if your inkjet printer is up for the job:
 
@@ -66,7 +66,7 @@ These printers use inks with tiny solid pigment particles. They can't use regula
 
 * #### **Sublimation Inkjet Printers**
 
-Sublimation printers use unique inks that transform into a gas when heated. Regular ink won't work; you must use special sublimation inks. They are also perfect for printing clothes, mugs, and specialty items. 
+Sublimation printers use unique inks that transform into a gas when heated. Regular ink won't work; you must use special sublimation inks. They are also perfect for printing clothes, mugs, and specialty items.
 
 * #### **Eco-Solvent and Solvent-Based Inkjet Printers**
 
@@ -74,7 +74,7 @@ These printers use eco-solvent or solvent-based inks designed for durability. Th
 
 * #### **UV-Curable Inkjet Printers**
 
-UV-curable printers use inks that quickly dry and harden with UV light. Regular ink is incompatible; you must use UV-curable inks for this type of printer. These printers are handy for printing on solid stuff like glass and metal, commonly used for signs and packaging. 
+UV-curable printers use inks that quickly dry and harden with UV light. Regular ink is incompatible; you must use UV-curable inks for this type of printer. These printers are handy for printing on solid stuff like glass and metal, commonly used for signs and packaging.
 
 ### 3. Size and Format
 
@@ -145,7 +145,7 @@ To find out more about these specific models, click these related articles: [17 
 
 ### Laser Printer for Heat Transfers
 
-Laser printers can also work for heat transfers, but there are some things to consider. **Laser printers use toner**, like a dry powder, instead of liquid ink. While laser printers can make very clear and detailed prints, not all heat transfer papers go well with them. If you use a laser printer, get heat transfer paper made especially for laser printing. Here are some laser printer models that can handle heat transfers. 
+Laser printers can also work for heat transfers, but there are some things to consider. **Laser printers use toner**, like a dry powder, instead of liquid ink. While laser printers can make very clear and detailed prints, not all heat transfer papers go well with them. If you use a laser printer, get heat transfer paper made especially for laser printing. Here are some laser printer models that can handle heat transfers.
 
 #### **Printer Brand**
 

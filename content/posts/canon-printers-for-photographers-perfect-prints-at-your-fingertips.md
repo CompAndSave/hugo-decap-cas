@@ -88,7 +88,7 @@ Ideal for photographers and artists who demand professional-quality prints with 
 * **Connectivity** – Wi-Fi + wired options.
 * **Compact & Lightweight** – Ideal for home/studio use.
 * **Ink Cartridges** – [Canon CLI-65 Ink Cartridges](https://www.compandsave.com/canon/pixma/pro-200-g-22256/cli-65-ink-cartridges-s-22246/cli-65-8-combo-p-22255)
-* [](https://www.compandsave.com/canon/pixma/pro-200-g-22256/cli-65-ink-cartridges-s-22246/cli-65-8-combo-p-22255)**Price:** Approximately $850.00
+* **Price:** Approximately $850.00
 
 | Pros | Cons |
 | --- | --- |
@@ -111,7 +111,7 @@ A versatile Canon photo printer designed for stunning color and black & white pr
 * **Borderless Printing** – Creates seamless, high-quality photos.
 * **Smart Features** – Alexa compatibility, Auto Power On/Off.
 * **Ink Cartridges** - [Canon 250XL and 251XL Ink Cartridges](https://www.compandsave.com/canon/pixma/ip8720-g-6177/250-251-xl-ink-cartridges-s-7360/pgi-250xl-cli-251xl-6-combo-p-10062)
-* [](https://www.compandsave.com/canon/pixma/ip8720-g-6177/250-251-xl-ink-cartridges-s-7360/pgi-250xl-cli-251xl-6-combo-p-10062)**Price** - Approximately $250.00
+* **Price** - Approximately $250.00
 
 | Pros | Cons |
 | --- | --- |
@@ -135,7 +135,7 @@ A high-performance Canon printer for photographers, ideal for fine art and profe
 * **Wireless & USB Connectivity** – Supports mobile and desktop printing.
 * **Compact Design** – Professional printing with a smaller footprint.
 * **Ink Cartridges** - [Canon PFI-300 Ink Cartridges](https://www.compandsave.com/canon/imageprograf/pro-300-ink-cartridge)
-* [](https://www.compandsave.com/canon/imageprograf/pro-300-ink-cartridge)**Price:** Approximately $850.00
+* **Price:** Approximately $850.00
 
 | Pros | Cons |
 | --- | --- |
@@ -161,7 +161,7 @@ A versatile Canon photo printer designed for professional-quality prints with 8-
 * **Borderless Printing** – Ideal for professional-quality photos.
 * **Wireless & USB Connectivity** – Print from mobile and desktop devices.
 * **Ink Cartridges** - [Canon CLI-42 8-Pack Ink Cartridges](https://www.compandsave.com/canon/pixma/pro-100-g-6385/42-ink-cartridges-s-7367/cli-42-8-combo-p-10084)
-* [](https://www.compandsave.com/canon/pixma/pro-100-g-6385/42-ink-cartridges-s-7367/cli-42-8-combo-p-10084)**Price:** Approximately $850.00
+* **Price:** Approximately $850.00
 
 | Pros | Cons |
 | --- | --- |
@@ -184,7 +184,7 @@ A MegaTank all-in-one printer designed for high-volume photo printing with low r
 * **Compact Design** – Space-saving for home or office use.
 * **Wireless & USB Connectivity** – Works with Alexa for smart reorders.
 * **Ink Bottles** - [Canon GI-23 Ink Refill Bottles 6-Pack](https://www.compandsave.com/canon/gi-23-ink-bottles/gi-23-6-combo)
-* [](https://www.compandsave.com/canon/gi-23-ink-bottles/gi-23-6-combo)**Price:** Approximately $249.00
+* **Price:** Approximately $249.00
 
 | Pros | Cons |
 | --- | --- |
@@ -209,7 +209,7 @@ A professional photographic inkjet printer built for high-end photo and fine art
 * **Fast Print Speed** – 5 ppm (color), 20 ppm (mono).
 * **USB Connectivity** – Reliable wired connection.
 * **Ink Cartridges** - [Canon PFI-1000 Ink Cartridges 12-Pack](https://www.compandsave.com/canon/imageprograf/pro-1000-g-24173/pfi-1000-ink-cartridges-s-24143/pfi-1000-12-combo-p-24166)
-* [](https://www.compandsave.com/canon/imageprograf/pro-1000-g-24173/pfi-1000-ink-cartridges-s-24143/pfi-1000-12-combo-p-24166)**Price:** Approximately $1,700.00
+* **Price:** Approximately $1,700.00
 
 | Pros | Cons |
 | --- | --- |

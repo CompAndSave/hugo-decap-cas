@@ -94,7 +94,7 @@ To make things easier, we listed down our top picks of the best printer for stic
 
   * CompAndSave Ink Price: [$22.95](https://www.compandsave.com/canon/280-281-xxl-ink-cartridges/pgi-280xxl-cli-281xxl-5-combo)
   * OEM Ink Price: $71.99
-* [Product Information](https://www.usa.canon.com/support/p/pixma-ts6320)
+* [Canon PIXMA TS6320 Product Information](https://www.usa.canon.com/support/p/pixma-ts6320)
 
 [![canon-pixma-ts6320](/blog/images/screenshot-2024-08-04-at-10.09.38 am.png "Canon PIXMA TS6320")](/blog/images/screenshot-2024-08-04-at-10.09.38 am.png)
 
@@ -117,7 +117,7 @@ With a maximum print quality of 4800 x 1200 dpi, the PIXMA TS6320 guarantees you
 
   * CompAndSave Ink Price: [$25.96](https://www.compandsave.com/epson/ecotank/et-3850-wireless-color-all-in-one-g-11627/502-ink-cartridges-s-7415/t502-4-combo-p-10148)
   * OEM Ink Price: $58.95
-* [Product Information](https://epson.com/For-Work/Printers/Inkjet/EcoTank-ET-3850-Wireless-Color-All-in-One-Cartridge-Free-Supertank-Printer-with-Scanner%2C-Copier%2C-ADF-and-Ethernet/p/C11CJ61201)
+* [Epson EcoTank ET-3850 Product Information](https://epson.com/For-Work/Printers/Inkjet/EcoTank-ET-3850-Wireless-Color-All-in-One-Cartridge-Free-Supertank-Printer-with-Scanner%2C-Copier%2C-ADF-and-Ethernet/p/C11CJ61201)
 
 [![epson-ecotank-et-3850](/blog/images/screenshot-2024-08-04-at-10.13.17 am.png "Epson EcoTank ET-3850")](/blog/images/screenshot-2024-08-04-at-10.13.17 am.png)
 
@@ -140,7 +140,7 @@ The cost per print is substantially reduced by the refillable ink tanks in compa
 
   * CompAndSave Ink Price: [$49.56](https://www.compandsave.com/hp/officejet/hp-officejet-pro-8034e-g-22465/910xl-ink-cartridges-s-11386/910xl-4-combo-p-11397) (4-Pack XL)
   * OEM Ink Price: $46.99 (Black XL) / $25.99 (CMY XL)
-* [Product Information](https://www.hp.com/us-en/shop/pdp/hp-officejet-pro-8034e-all-in-one-printer)
+* [HP OfficeJet Pro 8034e Product Information](https://www.hp.com/us-en/shop/pdp/hp-officejet-pro-8034e-all-in-one-printer)
 
 [![hp-officejet-pro-8034e](/blog/images/screenshot-2024-08-04-at-10.16.11 am.png "HP OfficeJet Pro 8034e")](/blog/images/screenshot-2024-08-04-at-10.16.11 am.png)
 
@@ -161,7 +161,7 @@ This printer can expedite your printing process even further with features like 
 
   * CompAndSave Ink Price: [$87.96](https://www.compandsave.com/brother/lc406xl-ink-cartridges/lc406xl-4-combo) (4-Pack)
   * OEM Ink Price: $61.99 (Black XL) / $68.99 (CMY XL)
-* [Product Information](https://www.brother-usa.com/products/mfcj6955dw)
+* [Brother MFC-J6955DW Product Information](https://www.brother-usa.com/products/mfcj6955dw)
 
 [![brother-mfc-j6955dw](/blog/images/screenshot-2024-08-04-at-10.19.30 am.png "Brother MFC-J6955DW")](/blog/images/screenshot-2024-08-04-at-10.19.30 am.png)
 
@@ -184,7 +184,7 @@ To sum it up, the Brother MFC-J6955DW is a great option for anyone who needs to 
 
   * CompAndSave Ink Price: [$47.92](https://www.compandsave.com/canon/pixma/pro-100-g-6385/42-ink-cartridges-s-7367/cli-42-8-combo-p-10084) (8-Pack)
   * OEM Ink Price: $124.99 (8-Pack)
-* [Product Information](https://www.canon.ca/en/product?name=PIXMA_PRO-100&category=/en/products/Printers/Desktop)
+* [Canon Pixma PRO-100 Product Information](https://www.canon.ca/en/product?name=PIXMA_PRO-100&category=/en/products/Printers/Desktop)
 
 [![canon-pixma-pro-100](/blog/images/screenshot-2024-08-04-at-10.22.32 am.png "Canon Pixma PRO-100")](/blog/images/screenshot-2024-08-04-at-10.22.32 am.png)
 

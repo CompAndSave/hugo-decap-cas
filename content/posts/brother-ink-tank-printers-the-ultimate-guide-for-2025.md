@@ -108,9 +108,9 @@ Brother’s INKvestment Tank printers in 2025 provide efficient, high-volume pri
 * **Multi-Function Features** – Includes auto-duplex, ADF, touch screen, colour printing, and compatibility with Alexa for voice commands.
 * **Price:** Approx. $798.00 
 * **Ink Cartridges:** [Brother LC3033 Ink Cartridge 4-Pack](https://www.compandsave.com/brother/mfc/mfc-j995dw-g-7157/lc3033-ink-cartridges-s-7342/lc3033-4-combo-p-11027)
-* [](https://www.compandsave.com/brother/mfc/mfc-j995dw-g-7157/lc3033-ink-cartridges-s-7342/lc3033-4-combo-p-11027)**Best for** home offices needing high-volume, low-maintenance colour printing with smart monitoring features.
+* **Best for** home offices needing high-volume, low-maintenance colour printing with smart monitoring features.
 
-### 2. **[Brother MFC-J1205W](https://www.compandsave.com/brother/mfc/mfc-j1205w-ink-cartridges) INKvestment Tank[](https://www.compandsave.com/brother/mfc/mfc-j1205w-ink-cartridges)**
+### 2. **[Brother MFC-J1205W](https://www.compandsave.com/brother/mfc/mfc-j1205w-ink-cartridges) INKvestment Tank**
 
 {{< embedImage image="/blog/images/brother-mfc-j1205w.jpeg" alt="Brother MFC-J1205W" title="Brother MFC-J1205W" alignment="center" >}}
 
@@ -136,7 +136,7 @@ Brother’s INKvestment Tank printers in 2025 provide efficient, high-volume pri
 * **Auto-Duplex + Voice Control** – Supports double-sided printing and Alexa voice commands for hands-free operation.
 * **Price:** Approximately $179.99
 * **Ink Cartridges:** [Brother LC406XL Ink Cartridges 4-Pack](https://www.compandsave.com/brother/lc406xl-ink-cartridges/lc406xl-4-combo)
-* [](https://www.compandsave.com/brother/lc406xl-ink-cartridges/lc406xl-4-combo)**Best for** home offices or small businesses needing fast, efficient, and low-maintenance colour printing with mobile and voice control.
+* **Best for** home offices or small businesses needing fast, efficient, and low-maintenance colour printing with mobile and voice control.
 
 ### 4. **[Brother MFC-J5855DW](https://www.compandsave.com/brother/mfc/mfc-j5855dw-ink-cartridges)**
 
@@ -149,7 +149,7 @@ Brother’s INKvestment Tank printers in 2025 provide efficient, high-volume pri
 * **Flexible Connectivity** – Offers Wi-Fi (2.4GHz/5GHz), Wi-Fi Direct, Ethernet, USB, and mobile app support.
 * **Price:** Approximately $300.00
 * **Ink Cartridges:** [Brother LC406XL Ink Cartridges 4-Pack](https://www.compandsave.com/brother/lc406xl-ink-cartridges/lc406xl-4-combo)
-* [](https://www.compandsave.com/brother/lc406xl-ink-cartridges/lc406xl-4-combo)**Ideal for** offices or professionals needing high-volume, wide-format printing with advanced security and versatile connectivity options.
+* **Ideal for** offices or professionals needing high-volume, wide-format printing with advanced security and versatile connectivity options.
 
 ## **How to Refill a Brother Tank Printer?**
 
@@ -170,7 +170,7 @@ A Brother ink tank printer offers a cost-efficient solution for those looking to
 
 **Ready to make the switch to a smarter, more efficient printer? Discover the benefits today!**
 
-## **[](https://www.compandsave.com/brother/mfc/mfc-j5855dw-ink-cartridges)Frequently Asked Questions**
+## **Frequently Asked Questions**
 
 **1. Are INKvestment Tank Printers Expensive?**
 

@@ -122,7 +122,7 @@ Evaluate these [factors to consider when buying ink](https://www.compandsave.com
 * **Print Quality:** Choose inks based on the print quality you need. Dye inks are great for photos, while pigment inks are best for documents.
 * **Cost Efficiency:** Pigment inks may be pricier but last longer, while dye inks are cheaper upfront but need more frequent replacement.
 * **Printer Compatibility:** Ensure the ink is compatible with your printer model.
-* **Environmental Impact:** Look for eco-friendly options like recycled cartridges or [eco-solvent ink](https://www.compandsave.com/what-is-an-eco-solvent-printer-and-eco-solvent-ink).[](https://www.compandsave.com/what-is-an-eco-solvent-printer-and-eco-solvent-ink)
+* **Environmental Impact:** Look for eco-friendly options like recycled cartridges or [eco-solvent ink](https://www.compandsave.com/what-is-an-eco-solvent-printer-and-eco-solvent-ink).
 
 ## Reliable Sources for Purchasing Different Types of Ink for Printers
 

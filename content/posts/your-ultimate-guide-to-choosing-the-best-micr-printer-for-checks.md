@@ -260,5 +260,3 @@ No, [MICR toner](https://www.compandsave.com/blog/posts/micr-toner-know-how-it-d
 [MICR: What It Is And How It Works?](https://www.compandsave.com/blog/posts/micr-what-it-is-and-how-it-works.html)
 
 [MICR Readers: How It Reads Magnetic Ink Characters?](https://www.compandsave.com/blog/posts/micr-readers-understanding-how-it-reads-magnetic-ink-characters.html)
-
-##

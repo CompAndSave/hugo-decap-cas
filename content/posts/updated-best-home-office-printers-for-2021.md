@@ -28,7 +28,7 @@ In choosing our recommended home office printers for 2021, we only included thos
 
 **Connection**. For convenience, a home printer must be able to print through **wireless** and **USB** connection. Connections through USB and **Ethernet** create faster printing. While wireless connection creates the convenience of **mobile printing**.
 
-**Low Cost Consideration**. Lastly, a home office printer's expense in its lifespan must be considered. A printer can be cheap but its ink expenses could hurt your wallet in the long run. Click [here](https://docs.google.com/document/d/1xIvj92CMVnK4zLQLcJuKGDyicF3oNybjnQFQbnIevN4/edit?usp=sharing) to know how we considered the lifespan expense or Cost Consideration of each printer.
+**Low Cost Consideration**. Lastly, a home office printer's expense in its lifespan must be considered. A printer can be cheap but its ink expenses could hurt your wallet in the long run. Click here to know [how we considered the lifespan expense or Cost Consideration of each printer](https://docs.google.com/document/d/1xIvj92CMVnK4zLQLcJuKGDyicF3oNybjnQFQbnIevN4/edit?usp=sharing).
 
 Below are multi-function inkjet and laser printers that we have deemed the best this 2021\.
 
@@ -41,7 +41,7 @@ Brother MFCJ5945DW saves you money the most in the long run.
 * **Low Cost per Page**. This printer's cartridges have the lowest cost per page with $0.0093 for black ink and $0.012 for each color ink -cyan, magenta and yellow (cmy).
 * **Fastest Print Speed**. It has a fast maximum print speed of 22 ppm for black ink and 20 ppm for colored ink.
 
-Learn more of how we compared it with other printers [here](https://docs.google.com/document/d/1xIvj92CMVnK4zLQLcJuKGDyicF3oNybjnQFQbnIevN4/edit?usp=sharing).
+Learn more of [how we compared it with other printers](https://docs.google.com/document/d/1xIvj92CMVnK4zLQLcJuKGDyicF3oNybjnQFQbnIevN4/edit?usp=sharing).
 
 Best Laser Home Office Printer (Monochrome)
 
@@ -50,7 +50,7 @@ Best Laser Home Office Printer (Monochrome)
 * **Fast Print Speed**. This printer matches the demand of medium loads with its print speed of 32 ppm.
 * **Crisp Text and Images**. Monochrome laser printers can print documents blurry images. This gives less quality when photocopied. Prevent it from happening with this printer's print resolution of 2400 x 600 dpi.
 * **50-Page Automatic Document Feeder Capacity**. This feature allows you to scan or photocopy up to 50-pages of documents unattended.
-* **High Page Yield Cartridges**. Due to its cartridge's high yield of 3,000 pages, it has one of the lowest Cost per Page ($0.036) and Cost Consideration ($693.19). See more [here](https://docs.google.com/document/d/1xIvj92CMVnK4zLQLcJuKGDyicF3oNybjnQFQbnIevN4/edit?usp=sharing).
+* **High Page Yield Cartridges**. Due to its cartridge's high yield of 3,000 pages, it has one of the lowest Cost per Page ($0.036) and Cost Consideration ($693.19). [See more here](https://docs.google.com/document/d/1xIvj92CMVnK4zLQLcJuKGDyicF3oNybjnQFQbnIevN4/edit?usp=sharing).
 
 Best Laser Home Office Printer (Color)
 
@@ -61,7 +61,7 @@ For people who want crisp and colored documents without the maintenance needed f
 * **Great Print Speed**. Print both colored and monochrome documents by 24 ppm.
 * **Professional Prints**. Present professional files with great resolution of 2400x600 dpi.
 
-Unfortunately, this model is not for people who will need to fax documents. This is also not for users who prefers a USB connection with their printer. Click [here](https://docs.google.com/document/d/1xIvj92CMVnK4zLQLcJuKGDyicF3oNybjnQFQbnIevN4/edit?usp=sharing)to learn more on how it has the lowest Cost Consideration ($2,643.95) from other color laser printers.
+Unfortunately, this model is not for people who will need to fax documents. This is also not for users who prefers a USB connection with their printer. Click here to learn more on [how it has the lowest Cost Consideration](https://docs.google.com/document/d/1xIvj92CMVnK4zLQLcJuKGDyicF3oNybjnQFQbnIevN4/edit?usp=sharing) ($2,643.95) from other color laser printers.
 
 ## Bonus Recommendations
 

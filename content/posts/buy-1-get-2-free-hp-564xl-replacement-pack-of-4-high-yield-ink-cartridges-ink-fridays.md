@@ -12,7 +12,7 @@ tags: []
 
 There's nothing scary about this Ink Fridays™ deal for Friday the 13th! Our special offer of the week is better than BOGO: Buy 1, Get 2 FREE HP 564XL Replacement (Pack of 4) High Yield Ink Cartridges. At a price of $21.80 for 12 HP 564XL replacement ink cartridges , this means you are buying each for only $1.82!
 
-That's quite a steal with 86% in savings, especially considering retail value is $161.94\. As always, we enjoy sharing exclusive deals with our amazing readers, this offer runs only on this Freaky Friday of March 13th, 2015 until midnight (PST). Fight off the 13th with this lucky deal [here](https://www.compandsave.com/ink-fridays).
+That's quite a steal with 86% in savings, especially considering retail value is $161.94\. As always, we enjoy sharing exclusive deals with our amazing readers, this offer runs only on this Freaky Friday of March 13th, 2015 until midnight (PST). Fight off the 13th with this [lucky deal](https://www.compandsave.com/ink-fridays).
 
 [![compandsave ink fridays](/blog/images/Order-Now.png "Shop Now")](https://www.compandsave.com/ink-fridays)
 

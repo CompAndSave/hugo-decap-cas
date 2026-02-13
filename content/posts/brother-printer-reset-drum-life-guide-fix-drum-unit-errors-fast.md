@@ -201,4 +201,4 @@ A new drum alone will not remove the error because the printer relies on the dru
 
 [Resetting Toner on Brother Printer: The Fast Fix That Works](https://www.compandsave.com/blog/posts/resetting-toner-on-brother-printer-the-fast-fix-that-works.html)
 
-[How to Replace Toner on Brother Printer?](https://www.compandsave.com/blog/posts/how-to-replace-toner-on-brother-printer.html)[](https://www.compandsave.com/blog/posts/how-to-replace-toner-on-brother-printer.html)
+[How to Replace Toner on Brother Printer?](https://www.compandsave.com/blog/posts/how-to-replace-toner-on-brother-printer.html)

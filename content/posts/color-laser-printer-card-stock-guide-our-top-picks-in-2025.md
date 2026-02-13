@@ -136,7 +136,7 @@ Here are the top color laser printer cardstock options for every budget. Ideal f
 * **Auto Duplex & ADF:** Automatic two-sided printing and document feeder save time and paper.
 * **Toner Cartridge**: [HP 218A Toner Cartridges Combo Pack of 4: 1 Black, 1 Cyan, 1 Magenta, 1 Yellow](https://www.compandsave.com/hp/218a-toner-cartridges/w2180a-w2181a-w2182a-w2183a-4-combo)
 
-[](https://www.compandsave.com/hp/218a-toner-cartridges/w2180a-w2181a-w2182a-w2183a-4-combo)**Best For:** Small teams and offices needing professional-quality color printing, scanning, and copying.
+**Best For:** Small teams and offices needing professional-quality color printing, scanning, and copying.
 
 ## **How to Successfully Print on Color Laser Printer Card Stock**
 

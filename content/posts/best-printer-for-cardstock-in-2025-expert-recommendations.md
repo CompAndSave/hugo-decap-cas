@@ -93,10 +93,9 @@ The Epson P700 is a premium inkjet printer designed for professional photographe
 
 **Price:** The Epson P700 is priced at $829, a higher investment but perfect for those requiring professional-grade prints.
 
-[![](/blog/images/screenshot-2024-12-16-at-9.06.24 am.png)](/blog/images/screenshot-2024-12-16-at-9.06.24 am.png)
-
-### 
-
+| Pros | Cons |
+|------|------|
+| <ul><li>Outstanding color accuracy with UltraChrome PRO10 ink</li><li>Dedicated nozzles for blank ink types</li></ul>| <ul><li>High upfront cost</li><li>Slow print speed at 1ppm</li><li>Larger footprint may not fit in compact spaces</li></ul> |
 
 ### Laser Printers for Cardstock
 
@@ -112,10 +111,9 @@ The Xerox Phaser 4500 4500DT is a reliable monochrome laser printer, perfect for
 
 **Price:** Priced at $329, this Xerox Phaser 4500 4500DT offers great value for those needing a reliable and good printer for cardstock at an affordable price.
 
-[![](/blog/images/screenshot-2024-12-16-at-9.08.22 am.png)](/blog/images/screenshot-2024-12-16-at-9.08.22 am.png)
-
-### 
-
+| Pros | Cons |
+|------|------|
+| <ul><li>Excellent print quality with up to 1200 x 1200 dpi resolution</li><li>Minimal usage with only 6,792 pages printed</li></ul>| <ul><li>Monochrome</li><li>Used unit, though professionally serviced</li></ul> |
 
 ### Wide-Format Printers for Creative Projects
 
@@ -131,9 +129,9 @@ The Canon IMAGEPROGRAF PRO-300 is the best printer for printing on cardstock, fe
 
 **Price:** The Canon IMAGEPROGRAF PRO-300 is priced at $699.00, a 22% discount off its original list price of $899.99.
 
-[![](/blog/images/screenshot-2024-12-16-at-9.12.49 am.png)](/blog/images/screenshot-2024-12-16-at-9.12.49 am.png)
-
-
+| Pros | Cons |
+|------|------|
+| <ul><li>Compact design suitable for limited workspace</li><li>Wi-Fi and USB connectivity for versatile printing options</li></ul>| <ul><li>Premium price compared to consumer-grade printers</li><li>Only suitable for photo and fine art printing</li></ul> |
 
 ## What Makes the Best Printer for Cardstock?
 
@@ -209,5 +207,3 @@ For vibrant, smudge-free prints, use pigment-based inks or compatible toner desi
 [How to Choose a Printer: Your Guide in Finding The Right One](https://www.compandsave.com/blog/posts/how-to-choose-a-printer-tips-on-selecting-the-best-one-for-you.html)
 
 [How to Choose the Best Photo Paper](https://www.compandsave.com/blog/posts/how-to-choose-the-best-photo-printing-paper-top-picks-for-2024.html)
-
-[](https://www.compandsave.com/blog/posts/how-to-choose-the-best-photo-printing-paper-top-picks-for-2024.html)

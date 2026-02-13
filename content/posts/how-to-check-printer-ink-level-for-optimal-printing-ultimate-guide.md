@@ -18,7 +18,7 @@ tags:
 ---
 [![How To Check Printer Ink Levels](/blog/images/how-to-check-printer-ink-levels.png "How To Check Printer Ink Levels: Never Run Out Mid-Print Again")](/blog/images/how-to-check-printer-ink-levels.png)
 
-[](https://www.compandsave.com/what-ink-does-my-printer-use)If you're dealing with [printer printing blank pages](https://www.compandsave.com/why-is-my-printer-printing-blank-pages-guide) or faded prints, it could be due to low ink levels. Taking the time to learn how to check your printer’s ink levels can prevent these frustrating issues. 
+If you're dealing with [printer printing blank pages](https://www.compandsave.com/why-is-my-printer-printing-blank-pages-guide) or faded prints, it could be due to low ink levels. Taking the time to learn how to check your printer’s ink levels can prevent these frustrating issues. 
 
 In today’s digital world, we rely on printers for everything from important documents to cherished photos. However, when ink levels are low, your printer may start producing incomplete prints or even stop working. Whether you’re asking, "How do I check printer ink levels?" or wondering if it's time to replace your ink cartridges, the process is simpler than you might think.
 

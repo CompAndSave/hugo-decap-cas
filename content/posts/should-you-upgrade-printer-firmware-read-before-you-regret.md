@@ -27,7 +27,7 @@ Updated your printer and now your ink won’t work? A printer firmware update ca
 
 ## **Understanding Printer Firmware & Manufacturer Policies**
 
-A printer firmware update fixes bugs and improves security but often blocks third-party ink. Many users try the [](https://www.compandsave.com/hp-printer-firmware-downgrade)HP printer firmware downgrade guide or old Epson firmware download to bypass restrictions. Cases like HP blocking 3rd party cartridges shows why knowing how to disable HP firmware updates is essential.
+A printer firmware update fixes bugs and improves security but often blocks third-party ink. Many users try the HP printer firmware downgrade guide or old Epson firmware download to bypass restrictions. Cases like HP blocking 3rd party cartridges shows why knowing how to disable HP firmware updates is essential.
 
 ### **How Manufacturers Control Ink Usage**
 
@@ -45,7 +45,7 @@ These updates can disable aftermarket ink cartridges, forcing users to buy expen
 
 ### **How Firmware Updates Lock Out Non-OEM Cartridges**
 
-Manufacturers embed security checks in firmware update files to detect third-party cartridges. This leads to error messages and ink rejection, pushing users to seek HP or [](https://www.compandsave.com/epson-printer-firmware-reset-downgrade)old Epson firmware download solutions. Here are some issues faced by customers:
+Manufacturers embed security checks in firmware update files to detect third-party cartridges. This leads to error messages and ink rejection, pushing users to seek HP or [old Epson firmware download solutions](https://www.compandsave.com/epson-printer-firmware-reset-downgrade). Here are some issues faced by customers:
 
 * **Ink Cartridge Not Recognized:** The printer may display an error message stating the aftermarket ink cartridge is incompatible or cannot be used. This often happens due to firmware updates designed to block third-party ink cartridges.
 * **Reduced Print Quality:** Even if the printer detects the cartridge, print quality may suffer. Issues like faded prints, smudges, or inconsistent ink flow can result from low-quality ink, improper installation, or an expired ink cartridge lifespan.

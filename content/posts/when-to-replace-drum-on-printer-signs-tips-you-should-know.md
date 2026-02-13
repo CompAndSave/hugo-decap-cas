@@ -97,7 +97,7 @@ A leaking toner cartridge isn't the only cause of poor print quality. Many users
 * **Avoid Touching the Drum Surface:** Fingerprints or scratches on the drum cause print marks. Always handle by the edges.
 * **Don’t Expose the Drum to Light:** The drum is photosensitive. Keep it away from direct sunlight or room lights for too long.
 * **Use Genuine or High Quality Replacement Toner and Drum Units:** Cheap, low-grade toner often causes early wear or even damage. For best results, use genuine or high-quality toner cartridges.
-* **Regular Printer Cleaning:** Dust or toner buildup affects quality and speeds up wear. Wipe the inside using a lint-free cloth. Add this to your printer maintenance tips[](https://www.compandsave.com/blog/posts/printer-maintenance-tips-to-extend-lifespan-guide-2025.html) routine.
+* **Regular Printer Cleaning:** Dust or toner buildup affects quality and speeds up wear. Wipe the inside using a lint-free cloth. Add this to your printer maintenance tips routine.
 * **Only Print What’s Needed:** The less you print, the less wear. Use print preview. Cancel unnecessary jobs quickly. This boosts drum lifespan.
 
 ## **Conclusion**
@@ -132,6 +132,6 @@ Replace the imaging drum if prints look faded, streaky, or your printer shows a 
 
 [How to Fix Leaking Toner Cartridge For Mess-Free Printing](https://www.compandsave.com/blog/posts/toner-leaks-how-to-handle-a-leaking-toner-cartridge.html)
 
-[Printer Printing Lines: Your Ultimate Troubleshooting Guide](https://www.compandsave.com/blog/posts/printer-printing-lines-your-ultimate-troubleshooting-guide.html)[](https://www.compandsave.com/blog/posts/how-to-replace-drum-on-brother-printer-a-step-by-step-guide.html)[](https://www.compandsave.com/blog/posts/how-to-replace-toner-on-brother-printer.html)
+[Printer Printing Lines: Your Ultimate Troubleshooting Guide](https://www.compandsave.com/blog/posts/printer-printing-lines-your-ultimate-troubleshooting-guide.html)
 
 [Printer Maintenance Tips to Extend Lifespan](https://www.compandsave.com/blog/posts/printer-maintenance-tips-to-extend-lifespan-guide-2025.html)

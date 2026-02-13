@@ -8,7 +8,7 @@ authors: Andrew Yeung
 tags: [HP Photosmart 5510,ink]
 ---
 
-![](/blog/images/archive/2018/07/0-300x225.jpg)
+![HP Photosmart 5510 ink installation](/blog/images/archive/2018/07/0-300x225.jpg)
 
 The [HP Photosmart 5510](https://www.compandsave.com/hp/photosmart/5510-b111a-ink-cartridges?utm%5Fmedium=social&utm%5Fsource=blog) is a multi-function ink jet printer. It can be used to print, scan, and copy documents with its four separate ink cartridges, processing information quickly and efficiently to avoid being held up by any data jams. Here are some of the other great functions of this printer:
 
@@ -19,9 +19,9 @@ The [HP Photosmart 5510](https://www.compandsave.com/hp/photosmart/5510-b111a-in
 * compact (occupies a minimum amount of space on your desk)
 * intuitive touch screen with virtual buttons that are illuminated
 
-Up next are some instructions for changing the ink cartridges for your Photosmart 5510\. 
+Up next are some instructions for changing the ink cartridges for your Photosmart 5510\.
 
-  
+
 **Installing/Replacing Ink Cartridges**
 
 1. If the product is off, press the Power button to turn on the printer and wait until the product is idle and silent before continuing.
@@ -33,12 +33,12 @@ Up next are some instructions for changing the ink cartridges for your Photosmar
 7. Press down on the cartridge until it is firmly set. Make sure the color icon on the cartridge label matches the color icon on the slot.
 8. Close the cartridge access door to complete the process.
 
-If you need install other cartridges, all you need to do is repeat these steps. 
+If you need install other cartridges, all you need to do is repeat these steps.
 
-  
+
 **Alignment Phase**
 
-  
+
 After you have loaded your new cartridge(s) and closed the access door, the HP printer will automatically send you to the **alignment phase** to align the new cartridges. Follow the below instructions to align them:
 
 1. On the product control panel, press OK. The product will print an alignment page.

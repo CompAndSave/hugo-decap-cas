@@ -122,7 +122,7 @@ When looking for a universal printer ink refill kit, several reliable online sto
 
 **A. Online Retail Stores**
 
-1. [CompAndSave](https://www.compandsave.com/): Known for affordable and [high-quality universal inkjet refill kits](https://www.compandsave.com/ink-refill-bulk-ink), CompAndSave offers a wide selection of universal cartridge refill kits. They provide detailed compatibility charts to help you find the right kit for your printer.[](https://www.compandsave.com/)
+1. [CompAndSave](https://www.compandsave.com/): Known for affordable and [high-quality universal inkjet refill kits](https://www.compandsave.com/ink-refill-bulk-ink), CompAndSave offers a wide selection of universal cartridge refill kits. They provide detailed compatibility charts to help you find the right kit for your printer.
 
 [![universal ink refill kit specifications](/blog/images/refill-kit-1.png "Universsal Ink Refill Kit Specifications")](/blog/images/refill-kit-1.png)
 
@@ -187,4 +187,4 @@ Refilling your cartridges with an ink refill kit is a quick process. You can eas
 
 [Eco-Friendly Printing](https://www.compandsave.com/blog/posts/eco-friendly-printing-how-it-works-and-how-you-can-help.html)
 
-[Save on Ink Cartridges with CompAndSave](https://www.compandsave.com/blog/posts/how-to-save-on-printer-ink-save-more-with-compandsave.html)[](https://www.compandsave.com/blog/posts/how-to-save-on-printer-ink-save-more-with-compandsave.html)
+[Save on Ink Cartridges with CompAndSave](https://www.compandsave.com/blog/posts/how-to-save-on-printer-ink-save-more-with-compandsave.html)

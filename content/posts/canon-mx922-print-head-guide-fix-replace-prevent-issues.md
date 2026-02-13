@@ -41,7 +41,7 @@ A healthy Canon printhead applies cyan, magenta, yellow, and black in fine layer
 
 ### **Why a Faulty Print Head Causes Streaks or Missing Colors**
 
-When the Canon PIXMA MX922 print head clogs or fails, you’ll see streaks, faded prints, or entire colors missing. These [common printer problems](https://www.compandsave.com/blog/posts/how-to-fix-common-printer-problems-tips-for-easy-troubleshooting.html) may require you to learn how to remove Canon MX922 print head and perform a full printhead replacement. 
+When the Canon PIXMA MX922 print head clogs or fails, you’ll see streaks, faded prints, or entire colors missing. These [common printer problems](https://www.compandsave.com/blog/posts/how-to-fix-common-printer-problems-tips-for-easy-troubleshooting.html) may require you to learn how to remove Canon MX922 print head and perform a full printhead replacement.
 
 ## **Common Signs of a Damaged or Failing Canon PIXMA MX922 Print Head**
 
@@ -94,7 +94,7 @@ Cleaning and reseating can’t fix:
 
 * Colors missing.
 * The printer is printing lines or producing blurry output.
-* Repeated [common printer problems](https://www.compandsave.com/blog/posts/how-to-fix-common-printer-problems-tips-for-easy-troubleshooting.html)[](https://www.compandsave.com/blog/posts/how-to-fix-common-printer-problems-tips-for-easy-troubleshooting.html) even after resets.
+* Repeated [common printer problems](https://www.compandsave.com/blog/posts/how-to-fix-common-printer-problems-tips-for-easy-troubleshooting.html) even after resets.
 
 **Cost check:** A Canon PIXMA print head costs less than a new printer. If the printer is old or has multiple failures, upgrading may be smarter.
 

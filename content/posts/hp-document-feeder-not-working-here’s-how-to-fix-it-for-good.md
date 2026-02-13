@@ -151,4 +151,4 @@ Only in rare cases. Most HP document feeder not working errors can be solved thr
 
 [Printer Wrinkling Paper: Top Causes, Fixes, and Prevention Tips](https://www.compandsave.com/blog/posts/printer-wrinkling-paper-top-causes-fixes-and-prevention-tips.html)
 
-[](https://www.compandsave.com/blog/posts/printer-maintenance-tips-to-extend-lifespan-guide-2025.html)[Printer Maintenance Tips to Extend Lifespan | Guide 2025](https://www.compandsave.com/blog/posts/printer-maintenance-tips-to-extend-lifespan-guide-2025.html)
+[Printer Maintenance Tips to Extend Lifespan | Guide 2025](https://www.compandsave.com/blog/posts/printer-maintenance-tips-to-extend-lifespan-guide-2025.html)

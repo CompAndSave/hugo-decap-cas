@@ -33,7 +33,7 @@ In this guide, we will show you the steps to disable auto HP firmware update for
 
 ## HP Firmware Update: Which Printers Are Affected?
 
-HP firmware is the software built into HP printers to help control how they work and perform their tasks. Firmware updates are released to fix problems, improve performance, or add new features. But sometimes, these updates can cause your printer not to recognize cheaper third-party toner cartridges. That’s why some users choose to disable automatic firmware updates to keep their devices running smoothly with the cartridges they prefer. 
+HP firmware is the software built into HP printers to help control how they work and perform their tasks. Firmware updates are released to fix problems, improve performance, or add new features. But sometimes, these updates can cause your printer not to recognize cheaper third-party toner cartridges. That’s why some users choose to disable automatic firmware updates to keep their devices running smoothly with the cartridges they prefer.
 
 This new HP LaserJet firmware update applies to the printers and toner cartridges listed below:
 
@@ -50,9 +50,9 @@ This new HP LaserJet firmware update applies to the printers and toner cartridge
 
 ### So, how would I know if my printer has been updated?
 
-Well, if you have recently seen a message on your printer saying that the firmware has been updated, then it’s an indication that it was done automatically, especially if it's connected to WiFi. 
+Well, if you have recently seen a message on your printer saying that the firmware has been updated, then it’s an indication that it was done automatically, especially if it's connected to WiFi.
 
-Also, we suggest checking your printer's firmware version by printing a **Printer Status Report** like the photo below to know if your HP LaserJet printer has been updated. 
+Also, we suggest checking your printer's firmware version by printing a **Printer Status Report** like the photo below to know if your HP LaserJet printer has been updated.
 
 [![Printer Status Report](/blog/images/screenshot-2024-09-13-at-5.36.56 pm.png "Printer Status Report")](/blog/images/screenshot-2024-09-13-at-5.36.56 pm.png)
 
@@ -88,7 +88,7 @@ HP has added an OEM Cartridge Policy feature that may prevent compatible cartrid
 
 ### How To Disable Automatic “Printer Update”
 
-The second way to stop auto HP firmware download is by turning off the "Printer Update" feature. If your printer hasn't been updated to the latest version, this tip will help you keep using third-party HP LaserJet toner cartridges. 
+The second way to stop auto HP firmware download is by turning off the "Printer Update" feature. If your printer hasn't been updated to the latest version, this tip will help you keep using third-party HP LaserJet toner cartridges.
 
 To prevent future automatic HP printer firmware update, follow the steps provided below, or you can also watch this video:
 
@@ -146,7 +146,7 @@ Yes, you can revert to an older version of HP firmware if needed. This might be 
 
 ### 2. After downgrading, can I still download the latest version of my printer firmware?
 
-Yes, you can usually upgrade your printer firmware back to the latest version if needed, as long as the firmware file is available for download. Just remember that once you do this, there is a possibility that your third-party toner cartridges might not work anymore. So, it's essential to consider this possibility if you rely on those cartridges for your printing needs. 
+Yes, you can usually upgrade your printer firmware back to the latest version if needed, as long as the firmware file is available for download. Just remember that once you do this, there is a possibility that your third-party toner cartridges might not work anymore. So, it's essential to consider this possibility if you rely on those cartridges for your printing needs.
 
 ### 3. How do I know if my printer's firmware has been updated?
 

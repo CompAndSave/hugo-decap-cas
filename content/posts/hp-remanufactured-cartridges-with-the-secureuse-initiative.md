@@ -108,7 +108,7 @@ HP’s cloud-based chip resetting process ensures that remanufactured cartridges
 
 ### 3. Is This Program Eco-Friendly?
 
-Yes, the HP SecuReuse program promotes sustainability by recycling and remanufacturing cartridges, reducing plastic waste and supporting [eco-friendly printing](https://www.compandsave.com/blog/posts/eco-friendly-printing-how-it-works-and-how-you-can-help.html) practices.
+Yes, the HP SecuReuse program promotes sustainability by recycling and remanufacturing cartridges, reducing plastic waste and [supporting eco-friendly printing](https://www.compandsave.com/blog/posts/eco-friendly-printing-how-it-works-and-how-you-can-help.html) practices.
 
 ### 4. How Can I Participate in the Refurbished HP Printer cartridges Program?
 

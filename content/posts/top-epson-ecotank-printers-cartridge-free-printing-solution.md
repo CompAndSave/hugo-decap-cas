@@ -137,7 +137,7 @@ The Epson EcoTank ET-4850 is a wireless all-in-one printer designed for efficien
 | Includes fax functionality with a 2.4" touchscreen for easy operation | Slightly bulkier design compared to compact home models |
 
 
-### **[](https://www.compandsave.com/epson/ecotank/photo-et-8500-all-in-one-ink-bottles)4. [Epson EcoTank Photo ET-8500](https://www.compandsave.com/epson/ecotank/photo-et-8500-all-in-one-ink-bottles)**
+### **4. [Epson EcoTank Photo ET-8500](https://www.compandsave.com/epson/ecotank/photo-et-8500-all-in-one-ink-bottles)**
 
 {{< embedImage image="/blog/images/epson-ecotank-photo-et-8500.jpeg" alt="Epson EcoTank Photo ET-8500" title="Epson EcoTank Photo ET-8500" alignment="center" >}}
 
@@ -231,7 +231,7 @@ Not necessarily. Many Epson EcoTank models provide competitive print speeds suit
 
 Epson EcoTanks come with features like an easy-to-use printhead cleaning kit, which helps keep the printer in good working condition with minimal effort. Routine maintenance is simple and doesn’t require frequent professional servicing.
 
-## **[](https://www.compandsave.com/epson/ecotank/photo-et-8500-all-in-one-ink-bottles)Related Articles**
+## **Related Articles**
 
 [Ink Tank vs Cartridge Printers: Which One Saves You More?](https://www.compandsave.com/blog/posts/ink-tank-vs-cartridge-printers-which-one-saves-you-more.html)
 
