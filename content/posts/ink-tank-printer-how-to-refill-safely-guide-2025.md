@@ -116,8 +116,6 @@ Take out the ink bottle, close the tank cap tightly, and lower the cover or scan
 
 ### **3. Steps to Refill HP Smart Tank Plus Printers**
 
-{{< embedImage image="/blog/images/steps-to-refill-hp-smart-tank-plus-printers.png" alt="Steps to Refill HP Smart Tank Plus Printers" title="Steps to Refill HP Smart Tank Plus Printers" alignment="center" >}}
-
 HP Smart Tank Plus models—like the Smart Tank Plus 551, 555, 570, and 651—are built with convenient refillable ink systems designed for high-volume, low-cost printing. These printers use spill-free, color-coded ink bottles that make refilling quick and mess-free. If you're running low on ink, just follow these five simple steps to refill your HP Smart Tank Plus at home safely.
 
 **Step 1: Power On and Open the Ink Tank Area**

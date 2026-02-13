@@ -95,6 +95,9 @@ a {
     &:hover {
         border-bottom-color: colors.get-color('cyan');
     }
+    &:focus, &:focus-visible {
+        outline: 2px solid colors.get-color('cyan');
+    }
     &.button {
         border: 0;
     }

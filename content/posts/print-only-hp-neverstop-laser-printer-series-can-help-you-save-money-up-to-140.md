@@ -15,7 +15,7 @@ tags:
 ---
 | ![HP Neverstop being filled with HP Toner reload kit](/blog/images/archive/2020/04/796338-300x200.jpg)                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Image from [Global Newswire](https://www.globenewswire.com/news-release/2019/05/30/1856845/0/en/HP-Debuts-World-s-First-Toner-Tank.html) |
+| Image from Global Newswire |
 
 The HP Neverstop Laser Printer allows for fast reload of toner and heavy print loads. It's perfect for users who have to print more than 500 pages a month.
 

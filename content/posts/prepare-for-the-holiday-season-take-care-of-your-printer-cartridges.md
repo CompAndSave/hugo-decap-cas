@@ -26,7 +26,7 @@ To stop your printer ink cartridges from becoming dry, use your printer at least
 
 **3\. Work to prevent printer cartridge clogs.**
 
-A common mishap with printers is [clogged printer ink cartridge heads](https://blog.compandsave.com/2012/12/why-inkjet-printers-clog-and-how-to-fix.html). To prevent this, wipe the print heads of your cartridges (after removing them from the printer, of course!) with a damp linen cloth. This method should be completed every month, because it will help your printer and cartridges produce more quality prints for a longer period of time.
+A common mishap with printers is [clogged printer ink cartridge heads](https://www.compandsave.com/blog/posts/why-inkjet-printers-clog-and-how-to-fix.html). To prevent this, wipe the print heads of your cartridges (after removing them from the printer, of course!) with a damp linen cloth. This method should be completed every month, because it will help your printer and cartridges produce more quality prints for a longer period of time.
 
 [![printer ink cartridges](/blog/images/stacks-of-colored-printer-cartridges.jpeg "printer ink cartridges")](/blog/images/stacks-of-colored-printer-cartridges.jpeg)
 

@@ -8,11 +8,11 @@ authors: Andrew Yeung
 tags: [American Heart Association,CompAndSave.com donates to the American Heart Association,Heart Health,Support the Fight Against Heart Disease]
 ---
 
-Regular customers know this about us –we take our customers seriously and we take our corporate social responsibility just as serious. If you've made an ink purchase this month, you probably know about our commitment to [raise money for the American Heart Association](https://blog.compandsave.com/2014/02/compandsavecom-joins-battle-against.html) – **we are donating $ 1 from each order placed this February to the cause.** 
+Regular customers know this about us –we take our customers seriously and we take our corporate social responsibility just as serious. If you've made an ink purchase this month, you probably know about our commitment to [raise money for the American Heart Association](https://www.compandsave.com/blog/posts/compandsavecom-joins-battle-against.html) – **we are donating $ 1 from each order placed this February to the cause.**
 
 [![Heart Health](/blog/images/aha394x150.jpg)](https://www.compandsave.com)
 
-## Every Ink you purchase will heal Heart Diseases Nationwide 
+## Every Ink you purchase will heal Heart Diseases Nationwide
 
 So for every ink purchase at [CompAndSave.com](https://www.compandsave.com/) this month, you have the satisfaction of knowing that you're helping to make a big difference in your own small way.
 
@@ -22,7 +22,7 @@ We've set the target of raising at least $10,000 by the end of February, so we c
 
 ## Check live donation-meter
 
-We are delighted at the amount we have raised so far from your purchases as well as donations made via social media. You can check out our [Support Page for the Donation Meter](https://www.compandsave.com) to see, in real time, how much we've risen so far. We have to thank all of our customers for this, from the bottom of our hearts! 
+We are delighted at the amount we have raised so far from your purchases as well as donations made via social media. You can check out our [Support Page for the Donation Meter](https://www.compandsave.com) to see, in real time, how much we've risen so far. We have to thank all of our customers for this, from the bottom of our hearts!
 
 ## Show your support before February Ends!
 

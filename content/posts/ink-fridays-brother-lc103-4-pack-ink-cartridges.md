@@ -11,7 +11,7 @@ tags: [CompAndSave.com,Discount Offers,Ink Fridays™,Save on Ink &amp; Toner]
 
 It's Friday, you know what that means at CompAndSave.com? Ink Fridays™. Our special deal today, January 16th, is a combo-pack of **Brother LC103 (4-pack) Compatible High Yield Ink Cartridges.** For today only, you can get this bundle for **$7.99 instead of $63.68** \- that's over 86% in savings!
 
-| [![http://www.compandsave.com/Ink-Fridays_a/293.htm](/blog/images/ink-friday-banner.jpg "Brother LC103 (4-Pack) Ink Cartridges")](/blog/images/ink-friday-banner.jpg) |
+| [![Ink Friday Banner](/blog/images/ink-friday-banner.jpg)](/blog/images/ink-friday-banner.jpg) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Brother LC103 (4-Pack) Ink Cartridges](https://www.compandsave.com/ink-fridays) for $7.99                                                          |
 

@@ -102,7 +102,7 @@ Here are the top color laser printer cardstock options for every budget. Ideal f
 
 ### **2. Canon Color imageCLASS MF753Cdw II - Wireless Duplex Laser Printer**
 
-{{< embedImage image="/blog/images/mf753cdw.jpeg" alt="MF753Cdw" title="Canon Color imageCLASS MF753Cdw II" alignment="center" >}}
+{{< embedImage image="/blog/images/mf753cdw.jpeg" alt="Canon Color imageCLASS MF753Cdw II" alignment="center" >}}
 
 * **All-in-One 4-in-1:** Print, scan, copy, fax with duplex.
 * **Fast Print Speeds:** Up to 35 ppm in color and monochrome; first print ~7 sec.

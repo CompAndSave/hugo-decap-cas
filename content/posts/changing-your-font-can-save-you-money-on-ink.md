@@ -10,7 +10,7 @@ tags: [Century Gothic,ink cartridges,save money,saving on office supplies,small 
 
 | [![I love Century Gothic pin](/blog/images/CenturyGothicButton.jpg)](/blog/images/CenturyGothicButton.jpg)                                         |
 | -------------------------------------------------------------------------------------------------------------------- |
-| Image Found At: [www.moneysmartfamily.com](https://moneysmartfamily.com/money-saving-tips/computer-printer-savings/) |
+| Image Found At: www.moneysmartfamily.com |
 
 Does your printer go through ink rapidly? Before taking it out on the machine or the ink cartridges, ask yourself what fonts you are using.
 

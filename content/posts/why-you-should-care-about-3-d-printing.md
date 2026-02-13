@@ -40,7 +40,7 @@ These marvelous printers can ‘print' biological tissue. Already a Sand Diego s
 
 | [![food 3D printer](/blog/images/1.jpg "3D Printer Printing a Pizza")](/blog/images/1.jpg) |
 | ------------------------------------------------------------------------------------- |
-| Via I[nside3D](https://www.inside3dp.com/wp-content/uploads/2014/03/pizza.jpg)        |
+| Via 3D Insider     |
 
  3D printing has obvious applications for the car and auto sector. 3 d printing could not only create prototypes and models but actual auto parts as well. Home ware products, defense applications and weaponry, wearable tech, clothes and more can come out of these printers in future.
 

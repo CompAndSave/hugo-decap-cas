@@ -18,7 +18,7 @@ A July 2016 report from CONTEXT, an IT market research company, forecasts the gl
 
 ### 3D Personal Printing Is No Gimmick
 
-While you may think [3D personal printing is a fad](https://blog.compandsave.com/2015/03/will-3d-printing-pen-become-household.html) now, there are already useful applications of 3D, such as exoskeleton hands for greater accessibility. And with 3D printers gradually making the production of items even more convenient and personalized, you would be unwise to underestimate the use of 3D printers in the future.
+While you may think [3D personal printing is a fad](https://www.compandsave.com/blog/posts/will-3d-printing-pen-become-household.html) now, there are already useful applications of 3D, such as exoskeleton hands for greater accessibility. And with 3D printers gradually making the production of items even more convenient and personalized, you would be unwise to underestimate the use of 3D printers in the future.
 
 You can find a variety of 3D designs at [MakerBot's Thingiverse.com](https://www.thingiverse.com/), the world's largest open source 3D printing design community. Ross Maddox at LayerTrove also pulled together some great designs. Even if you don't have technical expertise or previous experience with 3D printers, you can still create household objects, accessibility items, and much more.
 

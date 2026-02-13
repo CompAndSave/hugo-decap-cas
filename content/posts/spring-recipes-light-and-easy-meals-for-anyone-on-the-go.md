@@ -13,13 +13,13 @@ tags:
 ---
 ![spring recipes](/blog/images/pastasalad.jpg "pasta salad")
 
-Spring is here! Days are longer and getting warmer (well in most parts of the country) so who wants to be [stuck inside preparing food](https://blog.compandsave.com/2016/12/comfort-food-for-mind-body-and-soul.html) when the spring air outside is calling. If you're constantly on the go working and shuttling kids to sports practices and other extracurricular activities, you need quick yet delicious meals that the whole family will love. Get some inspiration for meal planning and cooking with our top spring recipes that are light on calories and big on flavor.  
+Spring is here! Days are longer and getting warmer (well in most parts of the country) so who wants to be [stuck inside preparing food](https://www.compandsave.com/blog/posts/comfort-food-for-mind-body-and-soul.html) when the spring air outside is calling. If you're constantly on the go working and shuttling kids to sports practices and other extracurricular activities, you need quick yet delicious meals that the whole family will love. Get some inspiration for meal planning and cooking with our top spring recipes that are light on calories and big on flavor.
 
 ## Light & Easy Spring Recipes
 
 ### Smoothies
 
-Smoothies are one of the simplest, most versatile breakfasts. You can mix and match vegetables and fruit in a variety of ways. Do your kids turn up their noses at spinach normally? No problem. Smoothies are a great way to add veggies to your children's diet without them suspecting. Ripe bananas tend to work the best at naturally sweetening the smoothie and masking the vegetable flavor. 
+Smoothies are one of the simplest, most versatile breakfasts. You can mix and match vegetables and fruit in a variety of ways. Do your kids turn up their noses at spinach normally? No problem. Smoothies are a great way to add veggies to your children's diet without them suspecting. Ripe bananas tend to work the best at naturally sweetening the smoothie and masking the vegetable flavor.
 
 For a basic strawberry-banana smoothie, grab a handful of spinach or kale, one banana, five large strawberries, one to two tablespoons of yogurt (plain Greek yogurt works great), and a cup of water or milk. Blend on high for about 30 seconds. The consistency will depend on how much liquid you add so if you want a thinner smoothie, just add more water. If you want to make a batch of smoothies for the whole family, go ahead and load up more ingredients. Need it a little sweeter? Try adding honey, agave, or maple syrup, or use sweetened yogurt instead of plain. But honestly once you and your kids start reducing the amount of added sugar (i.e., not from fruit) in your diet, you'll be surprised at how little you miss it.
 

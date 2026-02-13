@@ -10,7 +10,7 @@ tags: [food,recipes,Summer,Fourth of July,home decor,Independence Day]
 
 ![Independence Day party](/blog/images/sparklers.jpg "sparklers")
 
-Fourth of July is all about gathering with family and friends and maybe catching a sparkling firework show or (safely) shooting off fireworks yourself. If you need some last-minute ideas for planning your Independence Day party, we've got you covered. You could stick with the more traditional route of a barbecue. Or set your party apart and try a theme. Either way, we have several suggestions to make your Independence Day party a blast.  
+Fourth of July is all about gathering with family and friends and maybe catching a sparkling firework show or (safely) shooting off fireworks yourself. If you need some last-minute ideas for planning your Independence Day party, we've got you covered. You could stick with the more traditional route of a barbecue. Or set your party apart and try a theme. Either way, we have several suggestions to make your Independence Day party a blast.
 
 ## Ideas for Hosting an Independence Day Party
 
@@ -26,7 +26,7 @@ If you don't want to go with a historical theme, ask your guests to dress in red
 
 What would Independence Day be without sparklers? If you can't find them at a local store, order [online](https://www.wholesalesparklers.com)soon.
 
-You can usually find red, white, or blue paper plates, cutlery, cups, streamers, and napkins at your supermarket or the local party supply store. This red, white, and blue [ring toss](https://www.hgtv.com/design/make-and-celebrate/handmade/how-to-make-a-ring-toss-game) game will both add décor and liven up the party. If you would like your very own Liberty Bell at the party, buy brown paper [bells](https://www.partycheap.com/Kraft-Paper-Bells-5-inches-p/59877.htm?gclid=CN3837b-4NQCFYSDaQodAaMHnQ&click=447237)or [create your own](https://www.youtube.com/watch?v=jAlMnr94Toc). Looking to save a little money on decorations? Instead of buying decorations, print out flags, banners, and [other printables](https://blog.compandsave.com/2015/06/plan-best-4th-of-july-get-together.html) yourself in red, white, and blue.
+You can usually find red, white, or blue paper plates, cutlery, cups, streamers, and napkins at your supermarket or the local party supply store. This red, white, and blue [ring toss](https://www.hgtv.com/design/make-and-celebrate/handmade/how-to-make-a-ring-toss-game) game will both add décor and liven up the party. If you would like your very own Liberty Bell at the party, buy brown paper [bells](https://www.partycheap.com/Kraft-Paper-Bells-5-inches-p/59877.htm?gclid=CN3837b-4NQCFYSDaQodAaMHnQ&click=447237)or [create your own](https://www.youtube.com/watch?v=jAlMnr94Toc). Looking to save a little money on decorations? Instead of buying decorations, print out flags, banners, and [other printables](https://www.compandsave.com/blog/posts/plan-best-4th-of-july-get-together.html) yourself in red, white, and blue.
 
 ### Food and Drink
 

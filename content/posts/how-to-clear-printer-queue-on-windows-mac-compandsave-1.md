@@ -214,4 +214,4 @@ On your Mac, open System Settings, then Printers & Scanners, select your printer
 
 ## **Related Articles:**
 
-[Print Spooler Not Working? Fix Errors and Start Printing Again](/blog/print-spooler-not-working-fix-errors-and-start-printing-again.html)
+[Print Spooler Not Working? Fix Errors and Start Printing Again](https://www.compandsave.com/blog/posts/print-spooler-not-working-fix-errors-and-start-printing-again.html)

@@ -36,7 +36,7 @@ Mother's Day is right around the corner! It is important to let your mother or g
 | ------------------------------------------------------------ |
 | Image from: http://leelala.net                               |
 
-* [Photo Coasters](https://leelala.net/404.html)\- Personalize ordinary household items such as coasters. It is easy just print your photos out on tissue paper and follow the steps listed on this site. The shape of the coasters is perfect for wrapping as well! Not only is this gift useful, it will also fill your mother with feelings of nostalgia.
+* Photo Coasters - Personalize ordinary household items such as coasters. It is easy just print your photos out on tissue paper and follow the steps listed on this site. The shape of the coasters is perfect for wrapping as well! Not only is this gift useful, it will also fill your mother with feelings of nostalgia.
 
 | [![plastic earring with printed tree on it](/blog/images/earring-sm.jpg)](/blog/images/earring-sm.jpg) |
 | ---------------------------------------------------------- |

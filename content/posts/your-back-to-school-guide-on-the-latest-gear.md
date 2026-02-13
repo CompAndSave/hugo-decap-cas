@@ -33,7 +33,7 @@ Worry about the essentials next: paper, notebooks, folders, pens, pencils, and, 
 
 Buying the right essentials depends on what age your kid is. For example, you could probably skip the glue and tape if you have a teenager or college student. Amazon has a great supplies guide for [each grade group](https://www.amazon.com/b/ref=s9%5Facss%5Fot%5Fcg%5Fsl17par%5Fmd1%5Fw?node=1065840&pf%5Frd%5Fm=ATVPDKIKX0DER&pf%5Frd%5Fs=bottom-2&pf%5Frd%5Fr=KXWT6TH4W55KMSR0DEZF&pf%5Frd%5Ft=31201&pf%5Frd%5Fp=0efbab19-cc7e-4c92-b324-92d09fcaa65c&pf%5Frd%5Fi=31201). But before ordering, do a quick inventory to see if you already have some of these items at home. No sense in wasting money on products you already own!
 
-For a comprehensive list of back-to-school items that your child will need, check out our [rundown](https://blog.compandsave.com/2016/08/what-your-kids-need-for-back-to-school.html)from last year.
+For a comprehensive list of back-to-school items that your child will need, check out our [rundown](https://www.compandsave.com/blog/posts/what-your-kids-need-for-back-to-school.html)from last year.
 
 *If you'd like to get a jump start on buying printer ink for school, you can use promo code **WATERMELON10** right now through the end of July to save 10% on all ink cartridges. In August, use code **PENCIL12** at checkout to save 12% on any combo pack at [CompAndSave.com](https://www.compandsave.com).*
 

@@ -124,8 +124,6 @@ The Brother print app works with Color Laser, Mono Laser, Inkjet, and FAX/MFC mo
 
 ### **4. HP Smart App**
 
-{{< embedImage image="/blog/images/hp-smart-app.png" alt="HP Smart App" title="HP Smart App" alignment="center" >}}
-
 The HP Smart App transforms your phone into a complete printer control hub. Print, scan, and manage jobs with ease, whether at home, in the office, or remotely.
 
 **Why You’ll Love It:**

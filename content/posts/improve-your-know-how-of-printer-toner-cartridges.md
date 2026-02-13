@@ -12,10 +12,10 @@ Ever wondered what's inside of your printer toner cartridge? How does the toner 
 
 [![Printer toner cartridges](/blog/images/TONER-Brother-TN450-Combo4.jpg "Brother laser toner")](/blog/images/TONER-Brother-TN450-Combo4.jpg)
 
-  
+
 While most people tend to understand how ink cartridges work, you might find toner cartridges confusing. We'll explain the nuts-and-bolts of laser toner cartridges so that you understand how these [printing supplies](https://www.compandsave.com) work.
 
-## The Essentials of Printer Toner Cartridges 
+## The Essentials of Printer Toner Cartridges
 
 ## What Are the Differences between an Ink Cartridge and a Toner Cartridge?
 
@@ -27,7 +27,7 @@ While most people tend to understand how ink cartridges work, you might find ton
 
 ## What Is a Printer Toner Cartridge?
 
-Now let's [define](https://blog.compandsave.com/2013/08/what-exactly-is-toner.html)a printer toner cartridge. Break open a toner cartridge and you'll find it a bit different than a cartridge with ink. The toner cartridge is filled with carbon, plastics, and coloring particles. Unlike an ink cartridge, these substances in a laser cartridge are dry and powdery. The printer's electrical charge melts the powder into ink. Then, the ink adheres to the paper surface.
+Now let's [define a printer toner cartridge](https://www.compandsave.com/blog/posts/what-exactly-is-toner.html). Break open a toner cartridge and you'll find it a bit different than a cartridge with ink. The toner cartridge is filled with carbon, plastics, and coloring particles. Unlike an ink cartridge, these substances in a laser cartridge are dry and powdery. The printer's electrical charge melts the powder into ink. Then, the ink adheres to the paper surface.
 
 ## How Does a Laser Toner Cartridge Work?
 
@@ -35,8 +35,8 @@ That's the simple version. Ready for the long one? The printer's laser beam boun
 
 ## Does It Make Sense for You to Buy Laser Cartridges?
 
-So if you're wondering, should I use an inkjet printer or laser printer, it really depends on your printing needs. If you run a business that prints a lot, then a laser printer would probably make more sense. Choose which printer is right for you [here](https://blog.compandsave.com/2016/03/laser-vs-inkjet-which-type-of-printer.html).
+So if you're wondering, should I use an inkjet printer or laser printer, it really depends on your printing needs. If you run a business that prints a lot, then a laser printer would probably make more sense. Choose which printer is right for you [here](https://www.compandsave.com/blog/posts/laser-vs-inkjet-which-type-of-printer.html).
 
 If you ever run into issues with your laser toner, consult our [toner troubleshooting guide](https://www.compandsave.com/troubleshooting-remanufactured-ink-toner#tonerCartridge).
 
-_Do you prefer toner cartridges or ink cartridges, and why? Let us know below or on Facebook and Twitter._ 
+_Do you prefer toner cartridges or ink cartridges, and why? Let us know below or on Facebook and Twitter._

@@ -27,7 +27,7 @@ Mobile pay has made shopping a little more convenient for consumers all over. Ho
 
 ### Widespread 3D Printing
 
-[3D printing technology](https://blog.compandsave.com/2015/01/why-you-should-care-about-3-d-printing.html) has been around for quite some time, but due to the high cost of owning a printer, it hasn't yet exploded in the consumer market. However, that is set to change in 2016\. With the price of owning your own printer becoming more and more affordable, this may be the year for widespread adoption of 3D printing across business owners as well as consumers.
+[3D printing technology](https://www.compandsave.com/blog/posts/why-you-should-care-about-3-d-printing.html) has been around for quite some time, but due to the high cost of owning a printer, it hasn't yet exploded in the consumer market. However, that is set to change in 2016\. With the price of owning your own printer becoming more and more affordable, this may be the year for widespread adoption of 3D printing across business owners as well as consumers.
 
 
 ### Smart Houses

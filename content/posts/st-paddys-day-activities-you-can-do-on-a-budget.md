@@ -54,7 +54,7 @@ Think peppermint is just for the holidays? Peppermint hot cocoa is perfect for w
 
 ### Crafts You Can Do with Your Kids
 
-Want to get your kids involved in the festivities? Try our [free printable St. Patrick's Day bingo cards](https://blog.compandsave.com/2014/03/printable-st-patricks-day-bingo-cards.html). They're free and easy to print as long as you have [quality ink or toner](https://www.compandsave.com/)and paper.
+Want to get your kids involved in the festivities? Try our [free printable St. Patrick's Day bingo cards](https://www.compandsave.com/blog/posts/printable-st-patricks-day-bingo-cards.html). They're free and easy to print as long as you have [quality ink or toner](https://www.compandsave.com/)and paper.
 
 Play-Doh is another fun way to play with your children on St. Patrick's Day. Use black Play-Doh to make a pot; it will probably more resemble a bowl. Then, take yellow Play-Doh and create "coins" to place inside the bowl. You can also use a paper cup as the mold for the pot.
 

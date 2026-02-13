@@ -71,6 +71,6 @@ You can also craft a cotton bunny and many more charming designs at First Palett
 
 ### Games
 
-Why not check out some of the Easter games we've featured [before](https://blog.compandsave.com/2015/04/easy-steps-to-plan-easter-games-for-kids.html)? Besides the usual Easter egg hunt, swap the donkey for a rabbit in "pin the nose on the bunny." Another fun, simple option is the "jellybean toss" in which kids toss as many jellybeans in a cup within a set time period. Take the fun outside and host an "egg on a spoon race." Kids race to the finish line while balancing an egg on a spoon. Dropped eggs = disqualification. First one to cross the line with the egg intact on the spoon wins!
+Why not check out some of the Easter games we've featured [before](https://www.compandsave.com/blog/posts/easy-steps-to-plan-easter-games-for-kids.html)? Besides the usual Easter egg hunt, swap the donkey for a rabbit in "pin the nose on the bunny." Another fun, simple option is the "jellybean toss" in which kids toss as many jellybeans in a cup within a set time period. Take the fun outside and host an "egg on a spoon race." Kids race to the finish line while balancing an egg on a spoon. Dropped eggs = disqualification. First one to cross the line with the egg intact on the spoon wins!
 
 *What fun family activities are you planning to do this Easter? Share below or on our social media.*

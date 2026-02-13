@@ -48,6 +48,9 @@
                     color: settings.$white;
                     border-radius: settings.$global-radius;
                 }
+                &:focus, &:focus-visible {
+                    border-radius: settings.$global-radius;
+                }
             }
         }
     }

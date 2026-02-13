@@ -16,7 +16,7 @@ To keep your printers performing at the highest quality, it is important to keep
 
 ### Clogs in the Printhead
 
-Most commonly seen in [inkjet printers](https://blog.compandsave.com/2013/12/best-inkjet-printers-for-your-home.html), there can sometimes be clogs in the nozzle dropouts within the printer itself. If you do not run your printer regularly, you may run the risk of your printer drying out. To clear these clogs, you can take three different approaches:
+Most commonly seen in [inkjet printers](https://www.compandsave.com/blog/posts/best-inkjet-printers-for-your-home.html), there can sometimes be clogs in the nozzle dropouts within the printer itself. If you do not run your printer regularly, you may run the risk of your printer drying out. To clear these clogs, you can take three different approaches:
 
 1. First, you may want to try running the self-cleaning utility for your printer. Specific directions may vary from printer to printer, but in general, this fix should be as easy as opening your printer control panel, selecting the printer you want to clean and selecting "Properties". Then, locate the maintenance section and select which cleaning utility you would like to run.
 *For further detailed instructions specific to your printer model, please refer to your manual. Don't have one handy? No worries! Find an online manual here: <https://archive.org/details/printer-manuals>.*
@@ -29,7 +29,7 @@ Note: When using this method, make sure the water is hot, but not boiling. Also,
 
 ### Low Ink Message Showing on Printer
 
-Another common issue when using [refilled cartridges](https://www.compandsave.com/about-us) is getting a "Low Ink" warning message upon installing your new product. The cartridge is fully filled with ink, but there is a chance that it was not fully reset during the [remanufacturing process](https://blog.compandsave.com/2014/06/7-steps-process-of-re-manufactured-ink.html). You can either ignore this message or disable the ink level system on your machine. The cartridges will print from start to finish.
+Another common issue when using [refilled cartridges](https://www.compandsave.com/about-us) is getting a "Low Ink" warning message upon installing your new product. The cartridge is fully filled with ink, but there is a chance that it was not fully reset during the [remanufacturing process](https://www.compandsave.com/blog/posts/7-steps-process-of-re-manufactured-ink.html). You can either ignore this message or disable the ink level system on your machine. The cartridges will print from start to finish.
 
 Keep up with regular maintenance to ensure your print quality is up to par using these tips:
 

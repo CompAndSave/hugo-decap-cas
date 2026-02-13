@@ -24,15 +24,15 @@ Put a healthier spin on candy corn with these candy corn-inspired [fruit pops](h
 
 How easy is this for a kid-friendly Halloween party? Arrange a bunch of peeled clementine oranges on a festive plate. Then place small, cut celery sticks in the middle as the stems. Voilà—"pumpkins" for each kid.
 
-If you're looking to spice up your Halloween party with DIY decorations, look no further than our article on [Halloween printables](https://blog.compandsave.com/2016/10/free-halloween-items-using-printer.html). You'll find easy and affordable ways to create Halloween decorations and games.
+If you're looking to spice up your Halloween party with DIY decorations, look no further than our article on [Halloween printables](https://www.compandsave.com/blog/posts/free-halloween-items-using-printer.html). You'll find easy and affordable ways to create Halloween decorations and games.
 
-## Healthier Store-Bought Halloween Candy 
+## Healthier Store-Bought Halloween Candy
 
 Even if you don't have time to make your own healthy Halloween treats, you can still find some decent options at the supermarket.
 
 Lose the sugar while loading up your shopping cart with dark chocolate. The darker the chocolate is the more antioxidants it has, with less sugar than milk chocolate. Several manufacturers make bite-size dark chocolates, perfect for giving out at Halloween.
 
-Another good chocolate choice is store-bought chocolate-covered fruit. Raisinets® used to be the only mainstream option for choco-covered fruit; now there are other varieties, including chocolate-covered blueberries, apricots, and more. Kids may turn up their noses at plain raisins, but they'll eat them when the raisins are covered in chocolate. Just make sure you check the nutrition labels—some kinds are loaded with sugar thanks to corn syrup. 
+Another good chocolate choice is store-bought chocolate-covered fruit. Raisinets® used to be the only mainstream option for choco-covered fruit; now there are other varieties, including chocolate-covered blueberries, apricots, and more. Kids may turn up their noses at plain raisins, but they'll eat them when the raisins are covered in chocolate. Just make sure you check the nutrition labels—some kinds are loaded with sugar thanks to corn syrup.
 
 Hard candies, such as lollipops and Jolly Ranchers, are pure sugar. However, they have little to no fat and are a lot lower in calories than other types of candy. As long as you limit your child to one lollipop or a few Jolly Ranchers, then your little ghost shouldn't turn into a little ghoul from too much sugar.
 

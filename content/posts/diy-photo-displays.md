@@ -8,7 +8,7 @@ authors: Andrew Yeung
 tags: [Photo display,print your own photos,photo paper,photography,Photo frames]
 ---
 
-Of course we are huge advocates for [printing out your own photos](https://blog.compandsave.com/2013/02/best-photo-printer-paper.html). But don't just print out photos and shove them away in drawers or albums. Instead place them around your home for everyone to enjoy. Displaying photos is a great way to keep memories alive and a great way to bring creativity and life into any space. We have searched all over the web and found some amazing photo displays that are easy to pull off.
+Of course we are huge advocates for [printing out your own photos](https://www.compandsave.com/blog/posts/best-photo-printer-paper.html). But don't just print out photos and shove them away in drawers or albums. Instead place them around your home for everyone to enjoy. Displaying photos is a great way to keep memories alive and a great way to bring creativity and life into any space. We have searched all over the web and found some amazing photo displays that are easy to pull off.
 
 | [![printout photos on wall](/blog/images/6a00d8358081ff69e2019aff6ea017970b-800wi-1.jpg)](/blog/images/6a00d8358081ff69e2019aff6ea017970b-800wi-1.jpg)                                                                                                                     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
