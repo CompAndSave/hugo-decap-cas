@@ -185,6 +185,6 @@ Refilling your cartridges with an ink refill kit is a quick process. You can eas
 
 [How to Refill Ink Cartridge](https://www.compandsave.com/how-to-refill-ink-cartridges-guide)
 
-[Eco-Friendly Printing](https://www.compandsave.com/blog/posts/eco-friendly-printing-how-it-works-and-how-you-can-help.html)
+[Eco-Friendly Printing: How it Works](https://www.compandsave.com/blog/posts/eco-friendly-printing-how-it-works-and-how-you-can-help.html)
 
 [Save on Ink Cartridges with CompAndSave](https://www.compandsave.com/blog/posts/how-to-save-on-printer-ink-save-more-with-compandsave.html)

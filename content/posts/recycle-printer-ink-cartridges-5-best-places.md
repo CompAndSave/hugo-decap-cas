@@ -151,4 +151,4 @@ Yes, many programs offer rewards or incentives for recycling cartridges. For exa
 
 [Empty Printer Cartridge Recycling](https://www.compandsave.com/blog/posts/empty-printer-cartridge-recycling-all-you-need-to-know.html)
 
-[Eco-Friendly Printing](https://www.compandsave.com/blog/posts/eco-friendly-printing-how-it-works-and-how-you-can-help.html)
+[Eco-Friendly Printing: How it Works](https://www.compandsave.com/blog/posts/eco-friendly-printing-how-it-works-and-how-you-can-help.html)

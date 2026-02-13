@@ -27,7 +27,7 @@ Printers are a great holiday gift for anyone
 
 [![black and red wrapped holiday presents](/blog/images/red-christmas-presents-2643352.jpeg "black and red wrapped holiday presents")](/blog/images/red-christmas-presents-2643352.jpeg)
 
- Market forecasters have predicted that 2012 will be the year of giving and receiving [practical gifts](https://www.marketwire.com/press-release/this-christmas-gift-shoppers-will-take-a-practical-turn-1669285.htm), as opposed to extravagant luxury gifts. And what could be more practical than a printer that you can use over and over for years?
+ Market forecasters have predicted that 2012 will be the year of giving and receiving practical Gifts, as opposed to extravagant luxury gifts. And what could be more practical than a printer that you can use over and over for years?
 
 
 It's also not just small business owners looking for printers this holiday season — college students are also beginning to realize the value of an in-dorm printer. And buying the proper model will guarantee that this will be one Christmas gift that will last far beyond graduation.

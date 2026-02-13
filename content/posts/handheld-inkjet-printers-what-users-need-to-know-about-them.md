@@ -146,7 +146,7 @@ These printers offer a compact, portable solution for printing text, barcodes, Q
 * **Portable Design:** Compact size (2.04" x 1.69" x 3.74"), lightweight, and uses inkjet printer technology.
 * **Price:** $179.99+Shipping Charges
 
-**Best For:** DIY printing on t-shirts, cartons, wood grain, and custom branding projects. Buy now on [Amazon](https://www.amazon.com/EVEBOT-PrintPods-Handheld-T-shirts-Portable/dp/B0CT3B655Z?th=1) to start printing custom designs on fabric, wood, cartons, and more with ease.
+**Best For:** DIY printing on t-shirts, cartons, wood grain, and custom branding projects.
 
 ### **2. BENTSAI B10 Mini Handheld Inkjet Printer – Black**
 
