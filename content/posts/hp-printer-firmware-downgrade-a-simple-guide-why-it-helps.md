@@ -1,6 +1,6 @@
 ---
 title: "HP Printer Firmware Downgrade: A Simple Guide & Why It Helps"
-date: 2026-05-07T09:14:00.000+08:00
+date: 2026-05-08T09:00:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/hp-printer-firmware-downgrade.png
 description: Need HP printer firmware downgrade? Safely roll back your printer
