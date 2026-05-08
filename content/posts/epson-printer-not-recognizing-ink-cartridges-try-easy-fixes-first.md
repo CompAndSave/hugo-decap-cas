@@ -1,6 +1,6 @@
 ---
 title: Epson Printer Not Recognizing Ink Cartridges? Try Easy Fixes First
-date: 2026-05-08T10:00:00.000+08:00
+date: 2026-05-09T06:29:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/epson-printer-not-recognizing-ink-cartridges.png
 description: Is your Epson printer not recognizing ink cartridges? Try easy
