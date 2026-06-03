@@ -1,6 +1,6 @@
 ---
 title: What is Double Sided Printing? Complete Guide
-date: 2026-06-04T12:38:00.000+08:00
+date: 2026-06-04T01:05:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/what-is-double-sided-printing.png
 description: Learn what is double sided printing, how to print double sided, and
