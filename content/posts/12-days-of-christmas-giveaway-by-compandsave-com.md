@@ -22,12 +22,12 @@ In the spirit of giving, [CompAndSave.com](https://www.compandsave.com/) will us
 
 "We want everyone to have the opportunity to get a free gift," said the spokesperson. "Whether you're a returning customer or a new customer, you will have the opportunity to enter the giveaway and win a prize for that specific day."
 
-CompAndSave.com will randomly choose a winner from a list of customers who entered to win a gift during that day, whether you make a purchase or not. 
+CompAndSave.com will randomly choose a winner from a list of customers who entered to win a gift during that day, whether you make a purchase or not.
 
 With the slogan "MY TRUE LOVE SENT TO ME," CompAndSave.com will underline how much they love their customers, for the entire month of December, and deem itself the corporate equivalent of Kris Kringle, by delivering gifts to customers all over North America.
 
-CompAndSave.com sells compatible and re-manufactured [ink & toner cartridges](https://www.compandsave.com/) costing up to 80% less than the genuine brand. The cost of buying an inexpensive ink or toner cartridge in order to enter your name into the raffle pot is nominal and is nowhere near the value of the gifts. 
+CompAndSave.com sells compatible and re-manufactured [ink & toner cartridges](https://www.compandsave.com/) costing up to 80% less than the genuine brand. The cost of buying an inexpensive ink or toner cartridge in order to enter your name into the raffle pot is nominal and is nowhere near the value of the gifts.
 
 "We want our customers to know how much we appreciate their support," said Andrew Yeung, President of CompAndSave.com. "Without them we wouldn't have grown so much in recent years. This is our way of saying thank you."
 
-For more information about CompAndSave.com and how to enter the Twelve Days of Christmas Giveaway, visit thewebsite at [www.CompAndSave.com/Christmas](https://www.compandsave.com) and subscribe to the mailing list, [www.CompAndSave.com/MailingList\_subscribe.asp](https://www.compandsave.com/welcome/subscribe/), for a chance to win amazing gifts and receive discount offers.
+For more information about CompAndSave.com and how to enter the Twelve Days of Christmas Giveaway, visit thewebsite at [www.CompAndSave.com/Christmas](https://www.compandsave.com) and subscribe to the mailing list, [https://www.compandsave.com/welcome/subscribe](https://www.compandsave.com/welcome/subscribe/), for a chance to win amazing gifts and receive discount offers.
