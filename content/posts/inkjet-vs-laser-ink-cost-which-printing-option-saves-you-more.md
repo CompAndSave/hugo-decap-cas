@@ -1,5 +1,5 @@
 ---
-title: "Inkjet vs Laser Ink Cost: Which Printing Option Saves You More"
+title: "Inkjet vs Laser Ink Cost: Which Printing Option Saves You More?"
 date: 2026-06-26T11:39:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/inkjet-vs-laser-ink-cost.png
