@@ -7,6 +7,7 @@ description: Wondering if a compatible ink cartridge is safe for your printer?
   Learn how compatible cartridges work, their benefits, and how to choose
   reliable options.
 tags:
+  - printer ink
   - affordable printer ink
   - printer ink cartridges
   - compatible toner cartridge
