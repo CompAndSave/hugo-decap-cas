@@ -1,6 +1,6 @@
 ---
-title: What Is Pigment Ink? Benefits, Uses, and How It Works
-date: 2026-08-25T02:16:00.000+08:00
+title: "What Is Pigment Ink? Benefits, Uses, and How It Works "
+date: 2026-08-24T02:16:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/what-is-pigment-ink.png
 description: What is pigment ink? Learn how pigment ink works, its benefits,
