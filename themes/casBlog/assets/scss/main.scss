@@ -148,8 +148,8 @@ details {
             right: 1rem;
             top: 50%;
         }
-        &:focus-visible {
-            outline: 1px solid colors.get-color('blue');
+        &:focus, &:focus-visible {
+            outline: 2px dotted colors.get-color('blue');
         }
     }
     &[open] {
