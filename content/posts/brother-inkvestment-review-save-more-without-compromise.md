@@ -148,7 +148,7 @@ Brother INKvestment tank printers may have a higher upfront cost than basic inkj
 
 ### **2. Is Refilling Brother INKvestment Difficult?**
 
-Refilling Brother printer INKvestment systems is simple and clean. Cartridges automatically refill the internal tank, providing hassle-free printing compared to older Brother[ ](https://www.compandsave.com/blog/posts/ink-tank-printer-how-to-refill-safely-guide-2025.html)ink tank printers[.](https://www.compandsave.com/blog/posts/ink-tank-printer-how-to-refill-safely-guide-2025.html)
+Refilling Brother printer INKvestment systems is simple and clean. Cartridges automatically refill the internal tank, providing hassle-free printing compared to older Brother [ink tank printers](https://www.compandsave.com/blog/posts/ink-tank-printer-how-to-refill-safely-guide-2025.html).
 
 ### **3. Are Brother INKvestment Printers Slow?**
 
