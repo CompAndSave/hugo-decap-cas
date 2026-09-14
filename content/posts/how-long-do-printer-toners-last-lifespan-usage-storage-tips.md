@@ -187,7 +187,7 @@ Whether you're printing a few documents at home or handling a high volume of bus
 
 ## **Frequently Asked Questions**
 
-## **1. How long do toner cartridges last if I don't print often?**
+### **1. How long do toner cartridges last if I don't print often?**
 
 A toner cartridge can remain usable for a long time when stored properly, especially if it is unopened. If you're an occasional printer, your cartridge may last many months or longer based on your actual page usage.
 
