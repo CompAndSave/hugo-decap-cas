@@ -3,8 +3,9 @@ title: How to Do a Printer Nozzle Check? | CompAndSave Guide
 date: 2026-10-06T12:25:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/how-to-do-a-printer-nozzle-check.png
-description: Learn how to do a printer nozzle check, read the results, fix
+description: "Learn how to do a printer nozzle check, read the results, fix
   clogged nozzles, and improve print quality with simple troubleshooting steps.
+  "
 tags:
   - printing tips
   - inkjet printers
