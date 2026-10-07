@@ -3,8 +3,8 @@ title: "Duplex Printing: How Can You Cut Paper Costs in Half?"
 date: 2026-10-06T12:21:00.000+08:00
 authors: Trisha Olivar
 featured_image: /blog/images/duplex-printing-how-can-you-cut-paper-costs-in-half.png
-description: Learn how duplex printing works, how it saves paper and money, and
-  how to use it for more efficient everyday printing.
+description: "Learn how duplex printing works, how it saves paper and money, and
+  how to use it for more efficient everyday printing. "
 tags:
   - printing tips
   - print on two sides
