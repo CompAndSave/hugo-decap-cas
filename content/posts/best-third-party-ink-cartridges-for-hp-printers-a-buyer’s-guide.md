@@ -13,8 +13,6 @@ tags:
   - third party ink cartridges
   - best third party ink cartridges for HP
 ---
-
-
 ![Third Party Ink Cartridges for HP](/blog/images/best-third-party-ink-cartridges-for-hp.png "Best Third Party Ink Cartridges for HP Printers: A Buyer’s Guide")
 
 Original HP ink is expensive, and a full set of replacements can feel like a second printer purchase. If you’re searching for the best third party ink cartridges for HP printers, you’re in the right place. Pairing smart buying with a few habits that [lower ink consumption](https://www.compandsave.com/blog/posts/hp-printer-uses-too-much-ink-ways-to-lower-ink-consumption.html) can cut your printing costs dramatically without hurting your prints. This guide explains the best third party ink for HP printers, what types are available, and how to pick one with confidence.
@@ -61,11 +59,38 @@ Follow these five simple steps to buy the right cartridge the first time:
 4. **Compare cost per page.** High-yield cartridges often cost less per page than standard sizes.
 5. **Confirm the guarantee and return policy** before you buy.
 
+### **Popular HP Cartridge Numbers and What They Fit**
+
+Not sure which number to look for? These four are among the most common HP cartridges, and each comes in a high-yield “XL” size that prints more pages per cartridge.
+
+Be cautious of unusually cheap, no-name cartridges. Low-grade ink is where most of the horror stories come from.
+
+| Cartridge | Colors | Typically Used In | Approx. Page Yield** | Single Cartridge From* |
+| --- | --- | --- | --- | --- |
+| HP 63XL | Black, tri-color | Entry-level DeskJet, ENVY, and OfficeJet printers | Black: 480 / Color: 330 | $16.95 |
+| HP 67XL | Black, tri-color | Newer DeskJet and ENVY printers, many ending in “e” | Black: 240 / Color: 200 | $18.95 |
+| HP 952XL | Black, cyan, magenta, yellow | OfficeJet and OfficeJet Pro printers | Black: 2,000 / Each color: 1,450 | $11.95 |
+| HP 564XL | Black, photo black, cyan, magenta, yellow | Older PhotoSmart, DeskJet 3520, and OfficeJet 4610 printers | Black: 550 / Each color: 750 / Photo black: 290 | $5.99 |
+
+
+**\***Prices from CompAndSave as of November 2026. They change often, so check the current price before you buy.
+ **\*\***Estimated pages at 5% page coverage, which means a typical text document. Your actual results will vary with what you print.
+
+**Quick notes on each:**
+
+* **HP 63XL:** Combo packs lower the cost per cartridge.
+* **HP 67XL:** Check for HP+ first, since many printers that use this cartridge end in “e.”
+* **HP 952XL:** Sold as singles, a 4-pack with all four colors, or a 10-pack, which suits busy home offices.
+* **HP 564XL:** The cheapest per cartridge of the four.
+
+**Quick tip:** An XL cartridge and its standard version fit the same printers. The XL simply holds more ink. Never mix numbers, since an HP 65 won’t work in a printer that uses the HP 67.
+
+
 ## **HP Aftermarket Ink and HP+ Printers: What to Check**
 
 This is the one area where HP owners need to be careful. Some newer HP printers, especially models ending in “e,” can be set up with HP+ or with an HP ink subscription. These programs may restrict the printer to original HP cartridges, which means HP aftermarket ink may not work.
 
-For example, CompAndSave notes that its remanufactured HP 923 and 923e cartridges aren’t compatible with “e” printers that have HP+ activated. Before you buy, check whether HP+ or a subscription plan is turned on for your printer. Policies and firmware can change, so always read the seller’s compatibility note and ask if you’re unsure.
+For example, CompAndSave notes that its remanufactured HP 923 and 923e cartridges aren’t compatible with “e” printers that have HP+ activated. Before you buy the best third party ink for HP printers, check whether HP+ or a subscription plan is turned on for your printer. Policies and firmware can change, so always read the seller’s compatibility note and ask if you’re unsure.
 
 ## **Is HP 3rd Party Ink Safe for Your Printer?**
 
