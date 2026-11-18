@@ -14,7 +14,7 @@ tags:
 ---
 ![Printable Christmas Cards](/blog/images/printable-christmas-cards.png "Printable Christmas Cards? How to Print Your Own at Home")
 
-Few things say “happy holidays” like a card with your own photo or message. The good news is that printable Christmas cards make it easy to send something personal without paying for pricey custom orders. With the right paper, a few smart settings, and a little high quality image printing know-how, you can print your own Christmas cards at home and have them ready to mail in an afternoon. Here’s how to get sharp, colorful results without the stress.
+Few things say “happy holidays” like a card with your own photo or message. The good news is that printable Christmas cards make it easy to send something personal without paying for pricey custom orders. With the right paper, a few smart settings, and a little [high quality image printing](https://www.compandsave.com/blog/posts/high-quality-image-printing-9-tips-for-sharper-more-vibrant-prints.html) know-how, you can print your own Christmas cards at home and have them ready to mail in an afternoon. Here’s how to get sharp, colorful results without the stress.
 
 ## **Printable Christmas Cards: Where to Find Designs**
 
@@ -61,7 +61,7 @@ Before you click Print:
 
 * **Set the paper type** to “Photo Paper” or “Cardstock/Heavy Paper,” depending on what you loaded.
 * **Choose “High” or “Best” quality,** not “Draft.”
-* **Turn on borderless printing** if your design runs to the edge. Here’s how to print borderless.
+* **Turn on borderless printing** if your design runs to the edge. Here’s how to [print borderless](https://www.compandsave.com/blog/posts/how-to-print-borderless-a-guide-to-edge-to-edge-printing.html).
 
 ### **Step 5: Print a Test Card**
 
@@ -87,14 +87,13 @@ For family photos, glossy paper gives vivid color, while matte paper looks soft 
 
 Plain copy paper is too thin for cards, and it can make colors look dull. Here’s a quick guide:
 
-| Card Type | Paper to Use | Why |
-| --- | --- | --- |
-| Flat photo cards | Glossy or lustre photo paper | Rich color and sharp detail |
-| Folded greeting cards | Cardstock | Sturdy, folds cleanly |
-| Simple text cards | Matte cardstock | Smooth, easy to write on |
+| Card Type             | Paper to Use                 | Why                         |
+| --------------------- | ---------------------------- | --------------------------- |
+| Flat photo cards      | Glossy or lustre photo paper | Rich color and sharp detail |
+| Folded greeting cards | Cardstock                    | Sturdy, folds cleanly       |
+| Simple text cards     | Matte cardstock              | Smooth, easy to write on    |
 
-
-For photo cards, the best photo paper depends on your printer type, since inkjet and laser papers aren’t interchangeable. Also check your printer’s manual for the heaviest paper it can handle, because very thick cardstock can jam some models.
+For photo cards, the [best photo paper](https://www.compandsave.com/blog/posts/how-to-choose-the-best-photo-printing-paper-top-picks-for-2024.html) depends on your printer type, since inkjet and laser papers aren’t interchangeable. Also check your printer’s manual for the heaviest paper it can handle, because very thick cardstock can jam some models.
 
 ## **Common Problems and Easy Fixes**
 
@@ -110,7 +109,7 @@ For photo cards, the best photo paper depends on your printer type, since inkjet
 
 ## **Don’t Forget the Envelopes**
 
-When youprint your own Christmas cards, a great one deserves a neat envelope. If you’d like matching addresses, learn how to print an envelope so your return and recipient addresses line up on the first try. Many people print their addresses from a list, which saves hours of handwriting for a large card list.
+When youprint your own Christmas cards, a great one deserves a neat envelope. If you’d like matching addresses, learn [how to print an envelope](https://www.compandsave.com/blog/posts/how-to-print-an-envelope-a-step-by-step-guide-for-perfect-results.html) so your return and recipient addresses line up on the first try. Many people print their addresses from a list, which saves hours of handwriting for a large card list.
 
 ## **When to Choose Custom Christmas Card Printing**
 
